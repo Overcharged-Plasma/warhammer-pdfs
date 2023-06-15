@@ -1,0 +1,2566 @@
+ADEPTUS CUSTODES – SHIELD HOST
+ARMY RULE
+
+Created deep in the Emperor’s Palace using esoteric gene-
+alchemies and other, even more mysterious processes, 
+the warriors of the Adeptus Custodes are the Emperor’s 
+personal bodyguards. Known as the Ten Thousand, they 
+are the most elite warriors in the entire Imperium, and 
+are armed and armoured to match. In battle, they deploy 
+highly flexible fighting forces, from peerless infantry and 
+lightning-fast jetbikes to indomitable combat walkers and 
+line-shattering battle tanks. It is in melee combat that they 
+truly excel, however, each warrior having mastered the 
+nuanced and subtle fighting stances designed to dominate 
+the Custodians’ many enemies.
+
+MARTIAL KA’TAH
+At the start of the Fight phase, select one Ka’tah Stance 
+from the list below to be active for your army until the 
+end of the phase. While a Ka’tah Stance is active for your 
+army, each unit from your army with this ability gains the 
+relevant ability.
+
+KAPTARIS STANCE
+Kaptaris is optimised to trap enemy units in close 
+combat with the Custodes, where the elite warriors can 
+eliminate them.
+
+Each time a melee attack targets this unit, subtract 1 from 
+the Hit roll.
+
+DACATARAI STANCE
+This aggressive fighting style has been adapted for 
+the Custodes to deal with hordes of foes who vastly 
+outnumber them. 
+
+Melee weapons equipped by models in this unit have the 
+[SUSTAINED HITS 1] ability.
+
+RENDAX STANCE
+Masters of Rendax are superlative monster and war-
+machine hunters. 
+
+Melee weapons equipped by models in this unit have the 
+[LETHAL HITS] ability.
+
+ADEPTUS CUSTODES – SHIELD HOST
+DETACHMENT RULE
+
+If your Army Faction is Adeptus Custodes, you can 
+use this Shield Host Detachment rule.
+
+AEGIS OF THE EMPEROR
+The cellular alchemy that creates the warriors of the 
+Adeptus Custodes leaves them forever touched by a 
+spark of the Emperor’s own greatness. Beyond their 
+martial might and incorruptible nobility, this energy 
+manifests itself as an almost supernatural warding, 
+as though the Custodians were protected by the hand 
+of the Emperor.
+
+Adeptus Custodes models from your army have the 
+Feel No Pain 4+ ability against mortal wounds.
+
+ADEPTUS CUSTODES – SHIELD HOST
+STRATAGEMS
+
+If you are using the Shield Host Detachment rule, you can use these Shield Host Stratagems.
+
+1CP
+
+1CP
+
+SLAYERS OF NIGHTMARES
+SHIELD HOST – BATTLE TACTIC STRATAGEM
+
+In an age plagued by monstrous foes, 
+when primordial horrors from the darkest 
+void circle Humanity’s dying light, still the 
+Adeptus Custodes stand strong.
+
+WHEN: Fight phase.
+TARGET: One Adeptus Custodes unit from 
+your army that has not been selected to 
+fight this phase.
+EFFECT: Until the end of the phase, each 
+time a model in your unit makes an attack 
+that targets a Monster or Vehicle unit, 
+add 1 to the Wound roll.
+
+AVENGE THE FALLEN
+SHIELD HOST – BATTLE TACTIC STRATAGEM
+
+The loss of a single Talon of the Emperor 
+is commemorated by the tolling of 
+the Bell of Lost Souls on Terra, and by 
+their comrades’ bloody vengeance on 
+the battlefield.
+
+WHEN: Start of the Fight phase.
+TARGET: One Adeptus Custodes unit 
+from your army that is below its Starting 
+Strength and has not been selected to 
+fight this phase.
+EFFECT: Until the end of the phase, add 
+1 to the Attacks characteristic of melee 
+weapons equipped by models in that 
+unit. If that unit is Below Half-strength, 
+until the end of the phase, add 2 to the 
+Attacks characteristic of those melee 
+weapons instead.
+
+2CP
+
+2CP
+
+UNWAVERING SENTINELS
+SHIELD HOST – BATTLE TACTIC STRATAGEM
+
+Custodians will not be moved from 
+their objective.
+
+WHEN: Start of the Fight phase.
+TARGET: One Adeptus Custodes unit 
+from your army (excluding Anathema 
+Psykana units) that is within range of an 
+objective marker.
+EFFECT: Until the end of the phase, your 
+unit has the Fights First ability.
+
+ARCANE GENETIC ALCHEMY
+SHIELD HOST – BATTLE TACTIC STRATAGEM
+
+The Adeptus Custodes are individually 
+engineered on a molecular level using 
+secrets of genetic alchemy that render 
+them virtual demigods in battle.
+
+WHEN: Your opponent’s Shooting phase or 
+the Fight phase, just after an enemy unit 
+has selected its targets.
+TARGET: One Adeptus Custodes Infantry 
+unit from your army (excluding Anathema 
+Psykana units) that was selected as 
+the target of one or more of that enemy 
+unit’s attacks.
+EFFECT: Until the end of the phase, each 
+time an attack is allocated to a model in 
+your unit, subtract 1 from the Damage 
+characteristic of that attack.
+
+ADEPTUS CUSTODES – SHIELD HOST
+STRATAGEMS
+
+If you are using the Shield Host Detachment rule, you can use these Shield Host Stratagems.
+
+1CP
+
+VIGIL UNENDING
+SHIELD HOST – EPIC DEED STRATAGEM
+
+The Custodes are determined that 
+every second of their lives will be spent 
+committed to the Emperor, and they 
+do not yield while their duty remains 
+unfilfilled, rising from the blood and ashes 
+to continue their vigil.
+
+WHEN: Your Command phase.
+TARGET: One Adeptus Custodes Infantry 
+unit from your army (excluding Anathema 
+Psykana units).
+EFFECT: One destroyed model (excluding 
+Character models) is returned to your 
+unit with its full wounds remaining.
+RESTRICTIONS: You cannot target the 
+same unit with this Stratagem more than 
+once per battle.
+
+1CP
+
+SWORN GUARDIANS
+SHIELD HOST – STRATEGIC PLOY STRATAGEM
+
+The Adeptus Custodes smash apart 
+their foes without slowing, securing the 
+Emperor’s realm with bloody efficiency 
+and then advancing to new positions.
+
+WHEN: Your Movement phase.
+TARGET: One Adeptus Custodes unit from 
+your army (excluding Anathema Psykana 
+units) within range of an objective marker 
+you control.
+EFFECT: That objective marker remains 
+under your control even if you have 
+no models within range of it, until your 
+opponent controls it at the start or end of 
+any turn.
+
+ADEPTUS CUSTODES – SHIELD HOST
+ENHANCEMENTS
+
+If you are using the Shield Host Detachment rule, you can use these Shield Host Enhancements.
+UNSTOPPABLE DESTROYER
+This warrior is implacable on the field, the Emperor’s 
+will made manifest. No foe can hope to stop him 
+achieving his goals, and those who stand before his 
+battle fury see their death swiftly approaching.
+
+VEILED BLADE
+An ancient weapon that burns with a bitterly cold 
+and dark energy, the Veiled Blade is bestowed upon 
+a Custodian who has vowed to recover that which 
+should remain hidden from Humanity, and return it to 
+the Dark Cells.
+
+ ■  Adeptus Custodes model only (excluding 
+
+Anathema Psykana models). Each time the bearer 
+ends a Charge move, select one enemy unit within 
+Engagement Range of the bearer and roll one D6: on 
+a 2-5, that enemy unit suffers D3 mortal wounds; on 
+a 6, that enemy unit suffers 3 mortal wounds.
+
+ ■  Once per battle, after the bearer’s unit ends a Charge 
+
+move, all enemy units within 6" of the bearer must 
+take a Battle-shock test.
+INSPIRATIONAL EXEMPLAR
+This warrior epitomises the martial genius of the 
+Adeptus Custodes. His judgement is sound, his 
+tactical acumen impeccable.
+
+ ■  Adeptus Custodes model only (excluding 
+
+Anathema Psykana models). The bearer has a 
+Leadership characteristic of 5+.
+
+ ■  Once per battle, at the start of any phase, you can 
+select one friendly Adeptus Custodes unit that is 
+Battle-shocked and within 12" of the bearer; that 
+unit is no longer Battle-shocked. 
+
+ ■  Adeptus Custodes model only (excluding 
+
+Anathema Psykana models). Add 2 to the Attacks 
+characteristic of the bearer’s melee weapons.
+
+ ■  Once per battle, at the start of any Command phase, 
+
+triple the bearer’s Objective Control characteristic 
+until the end of the turn.
+CEASELESS HUNTER
+This warrior never relents in the pursuit of his quarry 
+– any apparent withdrawal he makes merely brings 
+death to his foe sooner.
+
+ ■  Adeptus Custodes model only (excluding 
+
+Anathema Psykana models). The bearer’s unit is 
+eligible to shoot and declare a charge in a turn in 
+which it Fell Back.
+
+ ■  Once per battle, when an enemy unit ends a Normal, 
+
+Advance or Fall Back move within 9" of the bearer, 
+if the bearer’s unit is not within Engagement Range 
+of one or more enemy units, it can make a Normal 
+move of up to 6".
+
+CUSTODIAN GUARD
+
+M
+
+6"
+
+T
+
+6
+
+SV
+
+2+
+
+W
+
+3
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Guardian spear [ASSAULT]
+Sentinel blade [ASSAULT, PISTOL]
+
+MELEE WEAPONS
+Guardian spear 
+Misericordia
+Sentinel blade 
+
+RANGE
+
+24"
+12"
+
+RANGE
+Melee
+Melee
+Melee
+
+A
+2
+2
+
+A
+5
+5
+5
+
+BS
+2+
+2+
+
+WS
+2+
+2+
+2+
+
+S
+4
+4
+
+S
+7
+5
+6
+
+AP
+-1
+-1
+
+AP
+-2
+-2
+-2
+
+D
+2
+2
+
+D
+2
+1
+1
+
+ABILITIES
+
+CORE: Deep Strike
+
+FACTION: Martial Ka’tah
+
+Stand Vigil: Each time a model in this unit makes an attack, 
+re-roll a Wound roll of 1. While this unit is within range of 
+an objective marker you control, you can re-roll the Wound 
+roll instead.
+Sentinel Storm: Once per battle, in your Shooting phase, after 
+this unit has shot, it can shoot again.
+
+WARGEAR ABILITIES
+
+Praesidium Shield: Add 1 to the bearer’s 
+Wounds characteristic.
+
+Vexilla: Add 1 to the Objective Control characteristic of models 
+in the bearer’s unit.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS: Infantry, Battleline, Imperium, Custodian Guard
+
+FACTION KEYWORDS:  
+Adeptus Custodes
+
+CUSTODIAN GUARD
+These warriors form the backbone of the shield companies, and every 
+one is a terrifying force of destruction equal to the strongest of the 
+foe. Whether armed with guardian spear or sentinel blade, their shots 
+are perfectly placed, and every cut, thrust and parry is a masterclass 
+in bladesmanship.
+
+WARGEAR OPTIONS
+
+ ■   Any number of models can each have their guardian spear replaced with 1 sentinel blade and 1 
+
+praesidium shield.
+
+ ■ 1 model’s guardian spear can be replaced with one of the following:
+
+ ◦ 1 vexilla and 1 misericordia
+ ◦ 1 vexilla, 1 misericordia and 1 praesidium shield
+
+UNIT COMPOSITION
+
+ ■ 4-10 Custodian Guard
+Every model is equipped with: guardian spear.
+
+KEYWORDS: Infantry, Battleline, Imperium, Custodian Guard
+
+FACTION KEYWORDS:  
+Adeptus Custodes
+
+CUSTODIAN WARDENS
+
+M
+
+6"
+
+T
+
+6
+
+SV
+
+2+
+
+W
+
+3
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Castellan axe [ASSAULT]
+Guardian spear [ASSAULT]
+
+MELEE WEAPONS
+Castellan axe 
+Guardian spear 
+
+RANGE
+
+24"
+24"
+
+RANGE
+Melee
+Melee
+
+A
+2
+2
+
+A
+4
+5
+
+BS
+2+
+2+
+
+WS
+3+
+2+
+
+S
+4
+4
+
+S
+9
+7
+
+AP
+-1
+-1
+
+AP
+-1
+-2
+
+D
+2
+2
+
+D
+3
+2
+
+ABILITIES
+
+CORE: Deep Strike
+
+FACTION: Martial Ka’tah
+
+Resolute Will: While a Character is leading this unit, each 
+time an attack targets this unit, if the Strength characteristic 
+of that attack is greater than the Toughness characteristic of 
+this unit, subtract 1 from the Wound roll.
+Living Fortress: Once per battle, at the start of any phase, this 
+unit can use this ability. If it does, until the end of the phase, 
+models in this unit have the Feel No Pain 4+ ability.
+
+WARGEAR ABILITIES
+
+Vexilla: Add 1 to the Objective Control characteristic of models 
+in the bearer’s unit.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS: Infantry, Imperium, Custodian Wardens
+
+FACTION KEYWORDS:  
+Adeptus Custodes
+
+CUSTODIAN WARDENS
+Veterans with centuries of service, Custodian Wardens are 
+level-headed warriors who have sworn to fight as living fortresses 
+no foe shall breach. With frightening intensity and wills of iron, these 
+warriors cleave their foes in two with immense sweeps that are driven 
+by their prodigious physical strength.
+
+WARGEAR OPTIONS
+
+ ■     Any number of models can each have their guardian spear replaced with 1 castellan axe.
+ ■ 1 model can be equipped with 1 vexilla.
+
+UNIT COMPOSITION
+
+ ■ 3-6 Custodian Wardens
+Every model is equipped with: guardian spear.
+
+KEYWORDS: Infantry, Imperium, Custodian Wardens
+
+FACTION KEYWORDS:  
+Adeptus Custodes
+
+ALLARUS CUSTODIANS
+
+M
+
+5"
+
+T
+
+7
+
+SV
+
+2+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Balistus grenade launcher [BLAST]
+Castellan axe [ASSAULT]
+Guardian spear [ASSAULT]
+
+MELEE WEAPONS
+Castellan axe 
+Guardian spear 
+Misericordia
+
+RANGE
+
+18"
+24"
+24"
+
+RANGE
+Melee
+Melee
+Melee
+
+A
+D6
+2
+2
+
+A
+4
+5
+5
+
+BS
+2+
+2+
+2+
+
+WS
+3+
+2+
+2+
+
+S
+4
+4
+4
+
+S
+9
+7
+5
+
+AP
+-1
+-1
+-1
+
+AP
+-1
+-2
+-2
+
+D
+1
+2
+2
+
+D
+3
+2
+1
+
+ABILITIES
+
+CORE: Deep Strike
+
+FACTION: Martial Ka’tah
+
+Slayers of Tyrants: Each time a model in this unit makes an 
+attack that targets a Character, Monster or Vehicle unit, 
+you can re-roll the Wound roll.
+From Golden Light: Once per battle, at the end of your  
+opponenet’s turn, if this unit is not within Engagement Range 
+of one or more enemy units, you can remove it from the 
+battlefield. In the Reinforcements step of your next Movement 
+phase, set it up anywhere on the battlefield that is more than 
+9" horizontally away from all enemy models.
+
+WARGEAR ABILITIES
+
+Vexilla: Add 1 to the Objective Control characteristic of models 
+in the bearer’s unit.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS: Infantry, Terminator, Imperium, Allarus Custodians
+
+FACTION KEYWORDS:  
+Adeptus Custodes
+
+ALLARUS CUSTODIANS
+Even amongst the Adeptus Custodes, Allarus Custodians are renowned for 
+their deeds. Teleporting into the most dangerous enemy strongholds, they 
+rely upon the indomitable resilience of their Terminator plate to protect 
+them as they hunt down demagogues and generals. Fighting as individual 
+heroes, they swiftly tear the heart from their foe’s defence.
+
+WARGEAR OPTIONS
+
+ ■   Any number of models can each have their guardian spear replaced with 1 castellan axe.
+ ■ 1 model’s guardian spear can be replaced with 1 vexilla and 1 misericordia.
+
+UNIT COMPOSITION
+
+ ■ 2-6 Allarus Custodians
+Every model is equipped with: balistus grenade launcher; 
+guardian spear.
+
+KEYWORDS: Infantry, Terminator, Imperium, Allarus Custodians
+
+FACTION KEYWORDS:  
+Adeptus Custodes
+
+VERTUS PRAETORS
+
+M
+
+12"
+
+T
+
+6
+
+SV
+
+2+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Salvo launcher 
+Vertus hurricane bolter [RAPID FIRE 3, TWIN-LINKED]
+
+MELEE WEAPONS
+Interceptor lance [LANCE]
+
+RANGE
+
+24"
+18"
+
+RANGE
+Melee
+
+A
+1
+3
+
+A
+5
+
+BS
+2+
+2+
+
+WS
+2+
+
+S
+9
+4
+
+S
+7
+
+AP
+-2
+0
+
+AP
+-2
+
+D
+3
+1
+
+D
+2
+
+ABILITIES
+
+FACTION: Martial Ka’tah
+
+Turbo-boost: Each time this unit Advances, do not make an 
+Advance roll. Instead, until the end of the phase, add 6" to the 
+Move characteristic of models in this unit.
+Quicksilver Execution: Once per battle, after this unit ends 
+an Advance move, you can select one enemy unit (excluding 
+Monster and Vehicle units) that it moved over during that 
+move, then roll one D6 for each model in this unit: for each 2+, 
+that enemy unit suffers 2 mortal wounds.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS: Mounted, Fly, Imperium, Vertus Praetors
+
+FACTION KEYWORDS:  
+Adeptus Custodes
+
+VERTUS PRAETORS
+Veteran warriors who have seen battle on a hundred worlds, these 
+Custodians know that the value of speed is in directing their might 
+precisely where and when it is needed most. Master combatants and 
+marksmen both, they can place piercing strikes and deadly salvoes 
+with precision even when travelling at immense speeds.
+
+WARGEAR OPTIONS
+
+ ■   Any number of models can each have their salvo launcher replaced with 1 Vertus hurricane bolter.
+
+UNIT COMPOSITION
+
+ ■ 2-6 Vertus Praetors
+Every model is equipped with: salvo launcher; 
+interceptor lance.
+
+KEYWORDS: Mounted, Fly, Imperium, Vertus Praetors
+
+FACTION KEYWORDS:  
+Adeptus Custodes
+
+PROSECUTORS
+
+M
+
+6"
+
+T
+
+3
+
+SV
+
+3+
+
+W
+
+1
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Boltgun [RAPID FIRE 1]
+
+MELEE WEAPONS
+Close combat weapon 
+
+RANGE
+
+24"
+
+RANGE
+Melee
+
+A
+1
+
+A
+2
+
+BS
+3+
+
+WS
+3+
+
+S
+4
+
+S
+3
+
+AP
+0
+
+AP
+0
+
+D
+1
+
+D
+1
+
+ABILITIES
+
+Daughters of the Abyss: Models in this unit have the 
+Feel No Pain 3+ ability against Psychic Attacks.
+Purity of Execution: Each time a model in this unit makes a 
+ranged attack that targets a Psyker unit, that attack has the 
+[PRECISION] and [DEVASTATING WOUNDS] abilities.
+
+KEYWORDS: Infantry, Battleline, Imperium, Anathema Psykana, Prosecutors
+
+FACTION KEYWORDS:  
+Adeptus Custodes
+
+PROSECUTORS
+Protected from the malevolence of witches by their rare anti-psychic 
+mutation, and shielded from the bullets and blades of the foe by their 
+finely crafted power armour, Prosecutors advance unflinching into the 
+heart of battle. Their bolters thunder ceaselessly, each explosive shell 
+ending another heretic life. 
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Prosecutor Sister Superior
+ ■ 3-9 Prosecutors
+Every model is equipped with: boltgun; close combat weapon.
+
+KEYWORDS: Infantry, Battleline, Imperium, Anathema Psykana, Prosecutors
+
+FACTION KEYWORDS:  
+Adeptus Custodes
+
+VIGILATORS
+
+M
+
+6"
+
+T
+
+3
+
+SV
+
+3+
+
+W
+
+1
+
+LD
+
+6+
+
+OC
+
+1
+
+MELEE WEAPONS
+Executioner greatblade 
+[ANTI-PSYKER 4+, DEVASTATING WOUNDS]
+
+RANGE
+
+Melee
+
+A
+
+2
+
+WS
+
+3+
+
+S
+
+5
+
+AP
+
+-2
+
+D
+
+2
+
+ABILITIES
+
+Daughters of the Abyss: Models in this unit have the 
+Feel No Pain 3+ ability against Psychic Attacks.
+Deft Parry: Each time a melee attack targets this unit, 
+subtract 1 from the Hit roll.
+
+KEYWORDS: Infantry, Imperium, Anathema Psykana, Vigilators
+
+FACTION KEYWORDS:  
+Adeptus Custodes
+
+VIGILATORS
+The surest way to bring an end to a witch’s malefic rampage is to 
+strike their head from their body. Such is the doctrine of the Vigilators, 
+who ghost across the battlefield before charging headlong into battle, 
+their double-handed power blades singing a keening song of death. 
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Vigilator Sister Superior
+ ■ 3-9 Vigilators
+Every model is equipped with: executioner greatblade.
+
+KEYWORDS: Infantry, Imperium, Anathema Psykana, Vigilators
+
+FACTION KEYWORDS:  
+Adeptus Custodes
+
+WITCHSEEKERS
+
+M
+
+6"
+
+T
+
+3
+
+SV
+
+3+
+
+W
+
+1
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Witchseeker flamer [IGNORES COVER, TORRENT]
+
+MELEE WEAPONS
+Close combat weapon 
+
+RANGE
+
+12"
+
+RANGE
+Melee
+
+A
+D6
+
+A
+2
+
+BS
+N/A
+
+WS
+3+
+
+S
+4
+
+S
+3
+
+AP
+0
+
+AP
+0
+
+D
+1
+
+D
+1
+
+ABILITIES
+
+CORE: Scouts 6"
+
+Daughters of the Abyss: Models in this unit have the 
+Feel No Pain 3+ ability against Psychic Attacks.
+Sanctified Flames: Each time this unit shoots, after it has 
+shot, select one enemy unit that was hit by one or more of 
+those attacks. That unit must take a Battle-shock test.
+
+KEYWORDS: Infantry, Imperium, Anathema Psykana, Witchseekers
+
+FACTION KEYWORDS:  
+Adeptus Custodes
+
+WITCHSEEKERS
+Witchseekers wield sanctified flamers as they hunt witches through 
+tangled corridors and muddy trenchworks alike. Closing with their 
+heretical quarry, they unleash a roaring conflagration to immolate the 
+foe, as well as any pyre.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Witchseeker Sister Superior
+ ■ 3-9 Witchseekers
+Every model is equipped with: Witchseeker flamer; close 
+combat weapon.
+
+KEYWORDS: Infantry, Imperium, Anathema Psykana, Witchseekers
+
+FACTION KEYWORDS:  
+Adeptus Custodes
+
+SHIELD-CAPTAIN
+
+M
+
+6"
+
+T
+
+6
+
+SV
+
+2+
+
+W
+
+6
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Castellan axe [ASSAULT]
+Guardian spear [ASSAULT]
+Sentinel blade [ASSAULT, PISTOL]
+
+MELEE WEAPONS
+Castellan axe 
+Guardian spear 
+Sentinel blade 
+
+RANGE
+
+24"
+24"
+12"
+
+RANGE
+Melee
+Melee
+Melee
+
+A
+2
+2
+2
+
+A
+6
+7
+7
+
+BS
+2+
+2+
+2+
+
+WS
+3+
+2+
+2+
+
+S
+4
+4
+4
+
+S
+9
+7
+6
+
+AP
+-1
+-1
+-1
+
+AP
+-1
+-2
+-2
+
+D
+2
+2
+2
+
+D
+3
+2
+1
+
+ABILITIES
+
+CORE: Deep Strike, Leader
+
+FACTION: Martial Ka’tah
+
+Master of the Stances: At the start of the Fight phase, select 
+one Ka’tah Stance. Until the end of the phase, that stance is 
+active for this model’s unit in addition to the one that is active. 
+Once per battle, at the start of the Fight phase, all stances are 
+active for this model’s unit until the end of the phase.
+Strategic Mastery: Once per battle round, you can select one 
+model from your army with this ability. That model’s unit can 
+be targeted with a Stratagem for 0CP, even if that Stratagem 
+has already targeted another unit from your army this phase.
+
+WARGEAR ABILITIES
+Praesidium shield: Add 1 to the bearer’s 
+Wounds characteristic.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS: Infantry, Character, Imperium, Shield-Captain
+
+FACTION KEYWORDS:  
+Adeptus Custodes
+
+SHIELD-CAPTAIN
+Shield-Captains are among the greatest warriors in the Imperium. 
+No matter which weapons they wield, they display absolute mastery 
+of them. Their tactical and strategic abilities know few peers, and 
+they read the ebb and flow of a war at a glance before directing their 
+forces accordingly.
+
+WARGEAR OPTIONS
+
+ ■   This model’s guardian spear can be replaced with one of the following: 
+
+ ◦ 1 castellan axe
+ ◦ 1 sentinel blade
+ ◦ 1 sentinel blade and 1 praesidium shield
+
+UNIT COMPOSITION
+
+ ■ 1 Shield-Captain
+This model is equipped with: guardian spear.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Custodian Guard
+ ■ Custodian Wardens
+
+KEYWORDS: Infantry, Character, Imperium, Shield-Captain
+
+FACTION KEYWORDS:  
+Adeptus Custodes
+
+BLADE CHAMPION
+
+M
+
+6"
+
+T
+
+6
+
+SV
+
+2+
+
+W
+
+6
+
+LD
+
+6+
+
+OC
+
+2
+
+MELEE WEAPONS
+Vaultswords – Behemor [PRECISION]
+Vaultswords – Hurricanus [SUSTAINED HITS 1]
+Vaultswords – Victus [DEVASTATING WOUNDS]
+
+RANGE
+Melee
+Melee
+Melee
+
+A
+6
+9
+5
+
+WS
+2+
+2+
+2+
+
+S
+7
+5
+6
+
+AP
+-2
+-1
+-3
+
+D
+2
+1
+3
+
+ABILITIES
+
+CORE: Deep Strike, Leader
+
+FACTION: Martial Ka’tah
+
+Martial Inspiration: While this model is leading a unit, you can 
+re-roll Advance and Charge rolls made for that unit. In addition, 
+once per battle, this model’s unit is eligible to declare a charge 
+in a turn in which it Advanced.
+Legacy of Combat: You can target this model’s unit with the 
+Heroic Intervention Stratagem for 0CP, and can do so even if 
+you have already targeted a different unit with that Stratagem 
+this phase. 
+
+INVULNERABLE SAVE
+
+4+
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Infantry, Character, Imperium, Blade Champion
+
+FACTION KEYWORDS:  
+Adeptus Custodes
+
+BLADE CHAMPION
+A Blade Champion is a living weapon in the Emperor’s hand. His role is 
+to identify the greatest battlefield threat – be that a mighty leader, a 
+host of killers or a deadly war engine – then to employ his archeotech 
+blades and specialised fighting styles to ensure their swift and 
+absolute destruction.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Blade Champion
+This model is equipped with: vaultswords.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Custodian Guard
+ ■ Custodian Wardens
+
+KEYWORDS: Infantry, Character, Imperium, Blade Champion
+
+FACTION KEYWORDS:  
+Adeptus Custodes
+
+ALEYA
+
+M
+
+6"
+
+T
+
+3
+
+SV
+
+3+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+1
+
+MELEE WEAPONS
+Somnus (ANTI-PSYKER 4+, DEVASTATING WOUNDS]
+
+RANGE
+Melee
+
+A
+4
+
+WS
+2+
+
+S
+6
+
+AP
+-3
+
+D
+3
+
+ABILITIES
+
+CORE: Feel No Pain 5+, Leader, Scouts 6"
+
+Tactical Perception: While this model is leading a unit, models 
+in that unit have the Fights First ability.
+Tenacious Spirit: While this model is leading a unit, each 
+time a model in that unit makes an attack, add 1 to the Hit 
+roll if that unit is below its Starting Strength, and add 1 to the 
+Wound roll as well if that unit is Below Half-strength.
+Daughter of the Abyss: This model has the Feel No Pain 3+ 
+ability against Psychic Attacks.
+
+INVULNERABLE SAVE
+
+5+
+
+KEYWORDS: Infantry, Character, Epic Hero, Imperium, Aleya
+
+FACTION KEYWORDS:  
+Adeptus Custodes
+
+ALEYA
+Aleya is a veteran of her order and is a ferocious and dedicated 
+hunter of witches and sorcerers. Over many years she has developed 
+incredible tactical perception, as well as a deep knowledge of her 
+quarry. She employs these skills to seek out rogue psykers, cutting 
+them down with sweeps of her blade, Somnus.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Aleya – Epic Hero
+This model is equipped with: Somnus.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Prosecutors
+ ■ Vigilators
+ ■ Witchseekers
+
+KEYWORDS: Infantry, Character, Epic Hero, Imperium, Aleya
+
+FACTION KEYWORDS:  
+Adeptus Custodes
+
+ANATHEMA PSYKANA RHINO
+
+M
+
+12"
+
+T
+
+9
+
+SV
+
+3+
+
+W
+
+10
+
+LD
+
+6+
+
+OC
+
+2
+
+A
+RANGED WEAPONS
+Hunter-killer missile [ONE SHOT]
+1
+One Shot: The bearer can only shoot with this weapon once per battle.
+2
+Storm bolter [RAPID FIRE 2]
+
+RANGE
+
+48"
+
+24"
+
+MELEE WEAPONS
+Armoured tracks  
+
+RANGE
+Melee
+
+A
+3
+
+BS
+2+
+
+3+
+
+WS
+4+
+
+S
+14
+
+4
+
+S
+6
+
+AP
+-3
+
+0
+
+AP
+0
+
+D
+D6
+
+1
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+Daughters of the Abyss: This model has the Feel No Pain 3+ 
+ability against Psychic Attacks.
+Self Repair: At the start of your Command phase, this model 
+regains 1 lost wound.
+
+KEYWORDS:  Vehicle, Transport, Dedicated Transport, Smoke, Imperium, 
+
+Anathema Psykana, Rhino
+
+FACTION KEYWORDS:  
+Adeptus Custodes
+
+ANATHEMA PSYKANA RHINO
+The Rhinos of the Silent Sisterhood are more than just armoured 
+personnel carriers. Many have served the Imperium for hundreds, 
+if not thousands of years. Highly rugged vehicles, their spacious 
+capacity and powerful engines help them to safely carry their deadly 
+cargo of Sisters into the fiercest of battles.
+
+WARGEAR OPTIONS
+
+ ■   This model can be equipped with 1 hunter-killer missile.
+
+UNIT COMPOSITION
+
+ ■ 1 Anathema Psykana Rhino
+This model is equipped with: storm bolter; armoured tracks.
+
+TRANSPORT
+
+This model has a transport capacity of 12 Anathema Psykana 
+Infantry models.
+
+KEYWORDS:  Vehicle, Transport, Dedicated Transport, Smoke, Imperium, 
+
+Anathema Psykana, Rhino
+
+FACTION KEYWORDS:  
+Adeptus Custodes
+
+KNIGHT-CENTURA
+
+M
+
+6"
+
+T
+
+3
+
+SV
+
+3+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Master-crafted boltgun [RAPID FIRE 1]
+Witchseeker flamer [IGNORES COVER, TORRENT]
+
+MELEE WEAPONS
+Executioner greatblade 
+[ANTI-PSYKER 4+, DEVASTATING WOUNDS]
+
+RANGE
+
+24"
+12"
+
+RANGE
+
+Melee
+
+A
+1
+D6
+
+A
+
+3
+
+BS
+2+
+N/A
+
+WS
+
+2+
+
+S
+4
+4
+
+S
+
+5
+
+AP
+0
+0
+
+AP
+
+-2
+
+D
+2
+1
+
+D
+
+2
+
+ABILITIES
+
+CORE: Leader, Scouts 6"
+
+Seeker’s Instincts: While this model is leading a unit, add 2" 
+to the Move characteristic of models in that unit and add 2 to 
+Advance and Charge rolls made for that unit.
+Daughter of the Abyss: This model has the Feel No Pain 3+ 
+ability against Psychic Attacks.
+Corner the Quarry: Each time an enemy unit (excluding 
+Monsters and Vehicles) that is within Engagement Range 
+of this model’s unit Falls Back, all models in that enemy 
+unit must take a Desperate Escape test. When doing so, if 
+that enemy unit is Battle-shocked, subtract 1 from each of 
+those tests.
+
+INVULNERABLE SAVE
+
+5+
+
+KEYWORDS:  Infantry, Character, Imperium, Anathema Psykana, 
+
+Knight-Centura
+
+FACTION KEYWORDS:  
+Adeptus Custodes
+
+KNIGHT-CENTURA
+Knight-Centuras are the leaders of Sisters of Silence cadres and the 
+guardians of their traditions. They have earned the respect of their 
+Sisters through years of service, impeccable fighting skills, immense 
+power as Nulls and encyclopaedic knowledge of the witch and 
+the sorcerer.
+
+WARGEAR OPTIONS
+
+ ■   This model’s executioner greatblade can be replaced with one of the following: 
+
+ ◦ 1 master-crafted boltgun
+ ◦ 1 Witchseeker flamer
+
+UNIT COMPOSITION
+
+ ■ 1 Knight-Centura
+This model is equipped with: executioner greatblade.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Prosecutors
+ ■ Vigilators
+ ■ Witchseekers
+
+KEYWORDS:  Infantry, Character, Imperium, Anathema Psykana, 
+
+Knight-Centura
+
+FACTION KEYWORDS:  
+Adeptus Custodes
+
+SHIELD-CAPTAIN IN ALLARUS TERMINATOR ARMOUR
+
+M
+
+5"
+
+T
+
+7
+
+SV
+
+2+
+
+W
+
+7
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Balistus grenade launcher [BLAST]
+Castellan axe [ASSAULT]
+Guardian spear [ASSAULT]
+
+MELEE WEAPONS
+Castellan axe 
+Guardian spear 
+
+RANGE
+
+18"
+24"
+24"
+
+RANGE
+Melee
+Melee
+
+A
+D6
+2
+2
+
+A
+6
+7
+
+BS
+2+
+2+
+2+
+
+WS
+3+
+2+
+
+S
+4
+4
+4
+
+S
+9
+7
+
+AP
+-1
+-1
+-1
+
+AP
+-1
+-2
+
+D
+1
+2
+2
+
+D
+3
+2
+
+ABILITIES
+
+CORE: Deep Strike, Leader
+
+FACTION: Martial Ka’tah
+
+Defiant to the Last: If this model is destroyed by a melee 
+attack, if it has not fought this phase, roll one D6: on a 2+, do 
+not remove it from play. The destroyed model can fight after 
+the attacking model’s unit has finished making its attacks, 
+and is then removed from play.
+Strategic Mastery: Once per battle round, you can select one 
+model from your army with this ability and target that model’s 
+unit with a Stratagem for 0CP, even if that Stratagem has 
+already been used on another unit from your army this phase.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Infantry, Character, Imperium, Terminator, Shield-Captain
+
+FACTION KEYWORDS:  
+Adeptus Custodes
+
+SHIELD-CAPTAIN IN ALLARUS TERMINATOR ARMOUR
+A Shield-Captain is already one of the most formidable combatants 
+and superlative strategists in the Imperium. When clad in a nigh-on 
+impenetrable suit of auramite Terminator armour, they become more 
+powerful still – a walking fortress of Imperial might able to teleport 
+directly into battle in a blaze of golden light.
+
+WARGEAR OPTIONS
+
+ ■   This model’s guardian spear can be replaced with 1 castellan axe.
+
+UNIT COMPOSITION
+
+ ■ 1 Shield-Captain in Allarus Terminator Armour
+This model is equipped with: balistus grenade launcher; 
+guardian spear.
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Allarus Custodians
+
+KEYWORDS:  Infantry, Character, Imperium, Terminator, Shield-Captain
+
+FACTION KEYWORDS:  
+Adeptus Custodes
+
+SHIELD-CAPTAIN ON DAWNEAGLE JETBIKE
+
+M
+
+12"
+
+T
+
+6
+
+SV
+
+2+
+
+W
+
+7
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Vertus hurricane bolter [RAPID FIRE 3, TWIN-LINKED]
+Salvo launcher 
+
+MELEE WEAPONS
+Interceptor lance [LANCE]
+
+RANGE
+
+18"
+24"
+
+RANGE
+Melee
+
+A
+3
+1
+
+A
+6
+
+BS
+2+
+2+
+
+WS
+2+
+
+S
+4
+9
+
+S
+7
+
+AP
+0
+-2
+
+AP
+-2
+
+D
+1
+3
+
+D
+2
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Martial Ka’tah
+
+Sweeping Advance: While this model is leading a unit, each 
+time that unit Consolidates, each model in that unit can 
+move up to 6" instead of up to 3". In addition, once per battle, 
+at the end of the Fight phase, if this model’s unit is within 
+Engagement Range of one or more enemy units, it can Fall 
+Back as if it were your Movement phase or, if it is not within 
+Engagement Range of one or more enemy units, it can make a 
+Normal move as if it were your Movement phase.
+Strategic Mastery: Once per battle round, you can select one 
+model from your army with this ability and target that model’s 
+unit with a Stratagem for 0CP, even if that Stratagem has 
+already been used on another unit from your army this phase.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Mounted, Character, Fly, Imperium, Dawneagle Jetbike, 
+
+Shield-Captain
+
+FACTION KEYWORDS:  
+Adeptus Custodes
+
+SHIELD-CAPTAIN ON DAWNEAGLE JETBIKE
+All Shield-Captains are decisive warriors who suffer no impediment to 
+their mission. Those Shield-Captains swiftest in thought and action 
+soar into battle on Dawneagle jetbikes, plunging into the heart of the 
+foe. Though these warriors appear arrogant, this is far from true – their 
+self-assuredness is matched entirely by their skill.
+
+WARGEAR OPTIONS
+
+ ■   This model’s salvo launcher can be replaced with 1 Vertus hurricane bolter.
+
+UNIT COMPOSITION
+
+ ■ 1 Shield-Captain on Dawneagle Jetbike
+This model is equipped with: salvo launcher; 
+interceptor lance.
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Vertus Praetors
+
+KEYWORDS:  Mounted, Character, Fly, Imperium, Dawneagle Jetbike, 
+
+Shield-Captain
+
+FACTION KEYWORDS:  
+Adeptus Custodes
+
+TRAJANN VALORIS
+
+M
+
+6"
+
+T
+
+6
+
+SV
+
+2+
+
+W
+
+7
+
+LD
+
+5+
+
+OC
+
+2
+
+RANGED WEAPONS
+Watcher’s Axe [ASSAULT]
+
+MELEE WEAPONS
+Watcher’s Axe 
+
+RANGE
+
+24"
+
+RANGE
+Melee
+
+A
+2
+
+A
+6
+
+BS
+2+
+
+WS
+2+
+
+S
+5
+
+S
+10
+
+AP
+-2
+
+AP
+-2
+
+D
+3
+
+D
+3
+
+ABILITIES
+
+CORE: Deep Strike, Feel No Pain 5+, Leader 
+
+FACTION: Martial Ka’tah
+
+Captain-General: While this model is leading a unit, you can 
+ignore any or all modifiers to the characteristics of models in 
+that unit and/or to any roll or test made for models in that unit 
+(excluding modifiers to saving throws).
+Moment Shackle: Once per battle, at the start of the Fight 
+phase, you can select one of the following to take effect until 
+the end of the phase:
+ ■  This model’s Watcher’s Axe melee weapon has an Attacks 
+
+characteristic of 12.
+
+ ■  This model has a 2+ invulnerable save.
+ ■ Models in this model’s unit have the Fights First ability.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Infantry, Character, Epic Hero, Imperium, Trajann Valoris
+
+FACTION KEYWORDS:  
+Adeptus Custodes
+
+TRAJANN VALORIS
+Trajann Valoris’ warrior prowess approaches that of the Primarchs of 
+old. With the Watcher’s Axe he can bisect the sarcophagus of a Chaos 
+Helbrute in a single swing, or use its built-in bolt weapon – known 
+as Eagle’s Scream – to cut down enemy infantry with salvoes of 
+adamantine-tipped penetrator bolts.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Trajann Valoris – Epic Hero
+This model is equipped with: Watcher’s Axe.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Custodian Guard
+ ■ Custodian Wardens
+
+SUPREME COMMANDER
+
+If this model is in your army, it must be your Warlord.
+
+KEYWORDS:  Infantry, Character, Epic Hero, Imperium, Trajann Valoris
+
+FACTION KEYWORDS:  
+Adeptus Custodes
+
+VALERIAN
+
+M
+
+6"
+
+T
+
+6
+
+SV
+
+2+
+
+W
+
+6
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Gnosis [ASSAULT]
+
+MELEE WEAPONS
+Gnosis 
+
+RANGE
+
+24"
+
+RANGE
+Melee
+
+A
+3
+
+A
+7
+
+BS
+2+
+
+WS
+2+
+
+S
+4
+
+S
+8
+
+AP
+-1
+
+AP
+-3
+
+D
+2
+
+D
+2
+
+ABILITIES
+
+CORE: Feel No Pain 6+, Leader
+
+FACTION: Martial Ka’tah
+
+Golden Laurels: While this model is leading a unit, each time a 
+melee attack targets that unit, worsen the Armour Penetration 
+characteristic of that attack by 1.
+Hero of Lion’s Gate: Once per battle round, you can re-roll 
+one Hit roll, one Wound roll or one saving throw made for this 
+model. In addition, once per battle, after making a Hit roll, 
+Wound roll or saving throw for this model, you can change the 
+result of that roll to an unmodified 6.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Infantry, Character, Epic Hero, Imperium, Shield-Captain, 
+
+Valerian
+
+FACTION KEYWORDS:  
+Adeptus Custodes
+
+VALERIAN
+A headstrong warrior, Valerian is relatively new to the Custodes, but 
+is already marked for greatness. His urge to bring death to the foes 
+of the Emperor beyond Terra is much valued in these dark times, and 
+countless enemies have fallen to his guardian spear, Gnosis. 
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Valerian – Epic Hero
+This model is equipped with: Gnosis.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Custodian Guard
+ ■ Custodian Wardens
+
+KEYWORDS:  Infantry, Character, Epic Hero, Imperium, Shield-Captain, 
+
+Valerian
+
+FACTION KEYWORDS:  
+Adeptus Custodes
+
+VENERABLE CONTEMPTOR DREADNOUGHT
+
+M
+
+6"
+
+T
+
+9
+
+SV
+
+2+
+
+W
+
+10
+
+LD
+
+6+
+
+OC
+
+3
+
+RANGED WEAPONS
+Combi-bolter [RAPID FIRE 2]
+Kheres-pattern assault cannon 
+[DEVASTATING WOUNDS]
+Multi-melta [MELTA 2]
+
+MELEE WEAPONS
+Contemptor combat weapon 
+
+RANGE
+
+24"
+
+24"
+
+18"
+
+RANGE
+Melee
+
+A
+2
+
+6
+
+2
+
+A
+5
+
+BS
+2+
+
+2+
+
+2+
+
+WS
+2+
+
+S
+4
+
+7
+
+9
+
+S
+12
+
+AP
+0
+
+-1
+
+-4
+
+AP
+-2
+
+D
+1
+
+1
+
+D6
+
+D
+3
+
+ABILITIES
+
+CORE: Deadly Demise 1
+
+FACTION: Martial Ka’tah
+
+Unyielding Ancient: The first time this model is destroyed, 
+remove it from play without resolving its Deadly Demise 
+ability. Then, at the end of the phase, roll one D6: on a 2+, set 
+this model back up on the battlefield as close as possible to 
+where it was destroyed and not within Engagement Range of 
+any enemy units, with D6 wounds remaining.
+
+INVULNERABLE SAVE
+
+5+
+
+KEYWORDS: Vehicle, Walker, Imperium, Venerable Contemptor Dreadnought
+
+FACTION KEYWORDS:  
+Adeptus Custodes
+
+VENERABLE CONTEMPTOR DREADNOUGHT
+These towering combat walkers are piloted by centuries-old fallen 
+heroes kept alive by irreplaceable technologies. Equipped with 
+weapons that can melt armour and tear apart infantry, Venerable 
+Contemptor Dreadnoughts inflict terrible damage, all while protected 
+by atomantic shields and auto-repair protocols.
+
+WARGEAR OPTIONS
+
+ ■   This model’s multi-melta can be replaced with 1 Kheres-pattern assault cannon.
+
+UNIT COMPOSITION
+
+ ■ 1 Venerable Contemptor Dreadnought
+This model is equipped with: combi-bolter; multi-melta; 
+Contemptor combat weapon.
+
+KEYWORDS: Vehicle, Walker, Imperium, Venerable Contemptor Dreadnought
+
+FACTION KEYWORDS:  
+Adeptus Custodes
+
+VENERABLE LAND RAIDER
+
+M
+
+T
+
+10" 12
+
+SV
+
+2+
+
+W
+
+16
+
+LD
+
+6+
+
+OC
+
+5
+
+RANGE
+
+A
+RANGED WEAPONS
+2
+Godhammer lascannon 
+1
+Hunter-killer missile [ONE SHOT]
+One Shot: The bearer can only shoot with this weapon once per battle.
+2
+Storm bolter [RAPID FIRE 2]
+3
+Twin heavy bolter [SUSTAINED HITS 1, TWIN-LINKED]
+
+48"
+48"
+
+24"
+36"
+
+MELEE WEAPONS
+Armoured tracks
+
+RANGE
+Melee
+
+A
+6
+
+BS
+2+
+2+
+
+2+
+2+
+
+WS
+4+
+
+S
+12
+14
+
+4
+5
+
+S
+8
+
+AP
+-3
+-3
+
+0
+-1
+
+AP
+0
+
+D
+D6+1
+D6
+
+1
+2
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D6
+
+FACTION: Martial Ka’tah
+
+Assault Ramp: Each time a unit disembarks from this model 
+after it has made a Normal move, that unit is still eligible to 
+declare a charge this turn.
+
+DAMAGED: 1-5 WOUNDS REMAINING
+
+While this model has 1-5 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+KEYWORDS:  Vehicle, Imperium, Transport, Smoke, Venerable Land Raider
+
+FACTION KEYWORDS:  
+Adeptus Custodes
+
+VENERABLE LAND RAIDER
+Land Raiders are heavily armed, mobile fortresses. Possessed of 
+hyper-durable adamantine armour and a fearsome array of weapons, 
+they and their cargo of Custodian warriors can turn the tide of war in a 
+single salvo, and their machine spirits are so potent they can fight on 
+even if the crew are slain.
+
+WARGEAR OPTIONS
+
+ ■   This model can be equipped with 1 hunter-killer missile. 
+ ■  This model can be equipped with 1 storm bolter.
+
+UNIT COMPOSITION
+
+ ■ 1 Venerable Land Raider
+This model is equipped with: 2 godhammer lascannons; twin 
+heavy bolter; armoured tracks.
+
+TRANSPORT
+
+This model has a transport capacity of 6 Adeptus Custodes 
+Infantry models. 
+
+KEYWORDS:  Vehicle, Imperium, Transport, Smoke, Venerable Land Raider
+
+FACTION KEYWORDS:  
+Adeptus Custodes
+
+

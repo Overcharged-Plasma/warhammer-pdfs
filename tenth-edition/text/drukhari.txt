@@ -1,0 +1,3686 @@
+DRUKHARI
+ARMY RULE
+
+The Drukhari are experts in precise torture, sharp blades, cruel poisons and eldritch abominations. Using the 
+labyrinthine network of webway spars, they strike almost anywhere. Realspace raiding parties prey upon worlds 
+across the galaxy, surging from hidden portals unknown to those they see merely as cattle or playthings. As the 
+Drukhari feed on the souls of the slain, they become imbued with supernatural might, eventually turning into 
+killing machines.
+
+POWER FROM PAIN
+If your Army Faction is Drukhari, units from your army with this ability can become Empowered Through Pain. 
+This is done using Pain tokens.
+
+GAINING PAIN TOKENS
+ If your Army Faction is Drukhari, you gain Pain 
+tokens as follows:
+
+ ■   At the start of the battle, depending on the 
+
+battle size:  
+
+COMBAT PATROL
+
+INCURSION
+
+STRIKE FORCE
+
+ONSLAUGHT
+
+1 PAIN TOKEN
+
+2 PAIN TOKENS
+
+3 PAIN TOKENS
+
+4 PAIN TOKENS
+
+ ■  Each time an enemy unit is destroyed, you gain 1 
+
+Pain token.
+
+ ■  Each time an enemy unit fails a Battle-shock test, 
+
+you gain 1 Pain token.
+
+Each time you gain a Pain token, keep it to one side – 
+this is your Pain token pool.
+
+EMPOWERED THROUGH PAIN
+At the start of any phase, you can expend one or more 
+Pain tokens from your Pain token pool. Each time you 
+do, select one unit from your army with the Power 
+from Pain ability. Until the end of the phase, that unit 
+is Empowered, and gains the abilities listed below, 
+depending on the phase.
+
+ OR 
+
+ ■  Empowered in the Movement or Charge phase:
+
+ ◦  You can re-roll Advance or Charge rolls made for 
+
+that unit.
+
+ OR 
+
+ ■ Empowered in the Shooting or Fight phase:
+
+ ◦  Each time a model in that unit makes an attack, 
+
+you can re-roll the Hit roll.
+
+DRUKHARI – REALSPACE RAIDERS
+DETACHMENT RULE
+
+If your Army Faction is Drukhari, you can use this 
+Realspace Raiders Detachment rule.
+
+REALSPACE RAIDERS
+The three factions of the Drukhari are constantly 
+vying for supremacy, each convinced beyond 
+doubt of their own innate superiority. This struggle 
+manifests during their realspace raids as a frenzy of 
+murderously sadistic competition.
+
+At the start of the battle, you gain an additional 1 Pain 
+token for each of the following your army contains:
+
+ ■ One or more Archon models
+ ■ One or more Succubus models
+ ■ One or more Haemonculus models
+
+Designer’s Note: These are all cumulative, so if 
+your army contains at least one Archon, at least 
+one Succubus and at least one Haemonculus, 
+you would start the battle with an additional 3 
+Pain tokens.
+
+DRUKHARI – REALSPACE RAIDERS
+STRATAGEMS
+
+If you are using the Realspace Raiders Detachment rule, you can use these Realspace Raiders Stratagems. 
+
+ACROBATIC DISPLAY
+REALSPACE RAIDERS – EPIC DEED STRATAGEM
+
+Many Wych Cults favour spectacular 
+gymnastic displays. Their fighters are 
+never still, springing from one foot to the 
+other at blinding speed.
+
+WHEN: Your Charge phase.
+TARGET: One Wych Cult unit from 
+your army.
+EFFECT: Until the end of the phase, your 
+unit is eligible to declare a charge even if it 
+Fell Back or Advanced this turn. 
+
+PREY ON THE WEAK
+ REALSPACE RAIDERS – BATTLE TACTIC STRATAGEM
+
+1CP
+
+The scent of a foe in pain draws Drukhari 
+to it like hungry predators to an injured 
+beast, their senses sharpening at its tang.
+
+1CP
+
+WHEN: Your Shooting phase.
+TARGET: One Kabal unit from your 
+army and one enemy unit that is 
+Below Half-strength.
+EFFECT: Until the end of the phase, each 
+time a model in your unit makes an attack 
+that targets that enemy unit, you can 
+re-roll the Wound roll. 
+
+STRIKE AND FADE
+REALSPACE RAIDERS – EPIC DEED STRATAGEM
+
+The Drukhari are masters at using 
+hit-and-run tactics, engaging a target 
+with a flurry of shots before quickly 
+manoeuvring into cover or out of sight.
+
+WHEN: End of your Shooting phase.
+TARGET: One Drukhari unit from your 
+army (excluding Aircraft).
+EFFECT: Your unit can immediately make a 
+Normal move. 
+RESTRICTIONS: Until the end of the turn, 
+your unit is not eligible to declare a charge 
+and that unit cannot embark within a 
+Transport at the end of this move.
+
+2CP
+
+DRUKHARI – REALSPACE RAIDERS
+STRATAGEMS
+
+If you are using the Realspace Raiders Detachment rule, you can use these Realspace Raiders Stratagems. 
+
+1CP
+
+INSENSIBLE TO PAIN
+REALSPACE RAIDERS – BATTLE TACTIC STRATAGEM
+
+The twisted creations of the Haemonculus 
+Covens are insensible to all but the most 
+mortal injuries.
+
+WHEN: Your opponent’s Shooting phase or 
+the Fight phase, just after an enemy unit 
+has selected its targets.
+TARGET: One Haemonculus Covens unit 
+from your army that was selected as the 
+target of one or more of the attacking 
+unit’s attacks.
+EFFECT: Until the end of the phase, each 
+time an attack targets your unit, subtract 
+1 from the Wound roll.
+
+1CP1CP
+
+1CP
+
+ALLIANCE OF AGONY
+REALSPACE RAIDERS – BATTLE TACTIC STRATAGEM
+
+Even the most bloodthirsty Drukhari 
+will veil their enmity to work together 
+against a shared enemy for the same 
+gruesome purpose.
+
+WHEN: Start of any phase. 
+TARGET: One Archon, one Succubus and 
+one Haemonculus from your army.
+EFFECT: Discard one Pain token from 
+your Pain token pool. Until the end of the 
+phase, all three of those models’ units 
+are Empowered. 
+RESTRICTIONS: You can only use this 
+Stratagem if you are able to select all 
+three of the target models stated above. 
+
+QUICKSILVER REACTIONS
+
+REALSPACE RAIDERS – BATTLE TACTIC STRATAGEM
+
+The hyper-fast reflexes of the Drukhari 
+allow them to duck and weave to avoid all 
+but the swiftest enemy strikes.
+
+WHEN: Your opponent’s Shooting phase or 
+the Fight phase, just after an enemy unit 
+has selected its targets.
+TARGET: One Drukhari unit from your 
+army that was selected as the target of 
+one or more of the attacking unit’s attacks.
+EFFECT: Until the end of the phase, each 
+time an attack that targets your unit, 
+subtract 1 from the Hit roll.
+RESTRICTIONS: You cannot target a 
+Haemonculus Covens unit from your 
+army for this Stratagem. 
+
+DRUKHARI – REALSPACE RAIDERS
+ENHANCEMENTS
+
+If you are using the Realspace Raiders Detachment rule, you can use these Realspace Raiders Enhancements. 
+CRUCIBLE OF MALEDICTION
+When opened, the souls of tortured psykers spew 
+outward, driving any nearby warp-wielders insane.
+
+BLOOD DANCER
+This Succubus is renowned for their expertise 
+at close-quarters combat within the arenas of 
+Commorragh. The skills they display before the 
+baying crowds on the blood-soaked sands are 
+equally deadly on the battlefield.
+
+Haemonculus model only. Once per battle, at the 
+start of any Shooting phase, the bearer can use this 
+Enhancement. When it does, every enemy unit within 
+12" must take a Battle-shock test, subtracting 1 from 
+that test if the bearer’s unit is currently Empowered. 
+Each time a Psyker unit fails this test, it suffers D3 
+mortal wounds. 
+LABYRINTHINE CUNNING
+This Archon has a mind like steel traps, assimilating 
+every detail of a situation.
+
+Archon model only. Each time you select the bearer’s 
+unit as the target of a Stratagem, roll one D6, adding 3 
+to the result if the Stratagem being used is Alliance of 
+Agony: on a 4+, you gain 1CP. 
+
+Succubus model only. Improve the Attacks and 
+Armour Penetration characteristics of the bearer’s 
+melee weapons by 1. While the bearer is Empowered, 
+Improve the Attacks and Armour Penetration 
+characteristics of the bearer’s melee weapons by 
+2 instead.
+THE ART OF PAIN
+Some Drukhari elevate their battle plans to another 
+level by creating a spectacle of torment that maims 
+and cripples every foe in order to draw out the 
+moment of the kill, heightening the pleasure they 
+derive before the fatal blow falls.
+
+Drukhari model only. In your Command phase, if the 
+bearer is on the battlefield, you gain 1 Pain token.
+
+ARCHON
+
+M
+
+8"
+
+T
+
+3
+
+SV
+
+4+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Blast pistol [PISTOL]
+Splinter pistol [ANTI-INFANTRY 3+, ASSAULT, PISTOL]
+
+MELEE WEAPONS
+Huskblade [ANTI-INFANTRY 3+]
+
+RANGE
+
+6"
+12"
+
+RANGE
+Melee
+
+A
+1
+1
+
+A
+5
+
+BS
+2+
+2+
+
+WS
+2+
+
+S
+8
+2
+
+S
+3
+
+AP
+-3
+0
+
+AP
+-2
+
+D
+D3
+1
+
+D
+2
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Power from Pain
+
+Overlord: While this model is leading a unit, each time a model 
+in that unit makes an attack, re-roll a Wound roll of 1. While 
+that unit is Empowered, each time a model in that unit makes 
+an attack, you can re-roll the Wound roll instead.
+Devious Mastermind: Once per battle, after your opponent 
+uses a Stratagem, if this model is your Warlord and is on the 
+battlefield, it can use this ability. If it does, until the end of the 
+battle, increase the cost of that Stratagem to your opponent 
+by 1CP.
+
+INVULNERABLE SAVE
+
+2+
+
+You cannot re-roll invulnerable saving throws made for 
+this model. The first time an invulnerable saving throw 
+made for this model is failed, until the end of the battle, 
+this model has no invulnerable saving throw.
+
+KEYWORDS: Infantry, Kabal, Character, Aeldari, Archon
+
+FACTION KEYWORDS:  
+Drukhari
+
+ARCHON
+Archons apply the same inventive malice with which they rule the 
+fractured Kabals to their enemies on the battlefield. Leading many 
+realspace raids, Archons arrogantly dare their enemies to face 
+their martial expertise, their arsenal of eldritch weapons and the 
+labyrinthine cunning that has enabled their rise to power.
+
+WARGEAR OPTIONS
+ ■  This model’s splinter pistol can be replaced with 1 blast pistol.
+
+UNIT COMPOSITION
+ ■ 1 Archon
+This model is equipped with: splinter pistol; huskblade.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Court of the Archon
+ ■ Kabalite Warriors
+
+KEYWORDS: Infantry, Kabal, Character, Aeldari, Archon
+
+FACTION KEYWORDS:  
+Drukhari
+
+BEASTMASTER
+
+M
+
+12"
+
+12"
+
+T
+
+4
+
+4
+
+SV
+
+6+
+
+6+
+
+W
+
+3
+
+5
+
+LD
+
+6+
+
+8+
+
+OC
+
+1
+
+1
+
+BEASTMASTER
+
+CLAWED FIEND
+
+M
+
+12"
+
+12"
+
+RANGED WEAPONS
+Splinter pods [ANTI-INFANTRY 3+, ASSAULT]
+
+MELEE WEAPONS
+Agoniser [ANTI-INFANTRY 3+]
+Clawed Fiend fists [DEVASTATING WOUNDS]
+Khymerae talons [LETHAL HITS]
+Razorwing feathers [SUSTAINED HITS 1]
+
+RANGE
+
+18"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+
+A
+2
+
+A
+3
+5
+4
+6
+
+BS
+3+
+
+WS
+3+
+4+
+4+
+4+
+
+S
+2
+
+S
+3
+5
+5
+3
+
+AP
+0
+
+AP
+-1
+-1
+0
+0
+
+T
+
+4
+
+4
+
+D
+1
+
+D
+1
+2
+1
+1
+
+SV
+
+6+
+
+6+
+
+W
+
+2
+
+3
+
+LD
+
+8+
+
+8+
+
+OC
+
+1
+
+1
+
+KHYMERAE
+
+RAZORWING FLOCK
+
+ABILITIES
+
+CORE: Scouts 9"
+
+FACTION: Power from Pain
+
+Beastmaster: While this unit contains a Beastmaster model, 
+you can re-roll Charge rolls made for this unit, and each time a 
+Beast model in this unit makes an attack, re-roll a Hit roll of 1.
+
+INVULNERABLE SAVE
+
+6+
+
+KEYWORDS – ALL MODELS: Beasts, Aeldari | RAZORWING FLOCKS: Fly | 
+BEASTMASTER: Mounted, Character, Fly, Beastmaster
+
+FACTION KEYWORDS:  
+Drukhari
+
+BEASTMASTER
+On thrumming skyboards that spit venom-laced shards, Beastmasters 
+hover above the frenzied bloodletting of their thrall-creatures, 
+goading them on with the cruel lashes of a nerve-inflaming agoniser. 
+Many wear shamanistic masks that augment the wearer’s natural 
+dominance with sub-vocal emissions and subjugating pheromones.
+
+WARGEAR OPTIONS
+ ■   None
+
+UNIT COMPOSITION
+ ■ 1 Beastmaster
+ ■ 1 Clawed Fiends
+ ■ 2 Khymerae
+ ■ 3 Razorwing Flocks
+The Beastmaster is equipped with: splinter pods; agoniser.
+Every Clawed Fiend is equipped with: Clawed Fiend fists.
+Every Khymerae is equipped with: Khymerae talons.
+Every Razorwing Flock is equipped with: Razorwing feathers.
+
+KEYWORDS – ALL MODELS: Beasts, Aeldari | RAZORWING FLOCKS: Fly | 
+BEASTMASTER: Mounted, Character, Fly, Beastmaster
+
+FACTION KEYWORDS:  
+Drukhari
+
+COURT OF THE ARCHON
+
+ M
+
+8"
+
+T
+
+3
+
+SV
+
+5+
+
+W
+
+2
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Eyeburst [PISTOL, TORRENT]
+Shardcarbine [ANTI-INFANTRY 3+, ASSAULT]
+Splinter pistol [ANTI-INFANTRY 3+, ASSAULT, PISTOL]
+
+MELEE WEAPONS
+Close combat weapon 
+Shaimeshi blade [ANTI-INFANTRY 2+]
+Sslyth battle-blade 
+Ur-ghul talons [SUSTAINED HITS 1] 
+
+RANGE
+
+12"
+18"
+12"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+
+A
+D6
+3
+1
+
+A
+2
+4
+3
+6
+
+BS
+N/A
+3+
+3+
+
+WS
+3+
+3+
+3+
+3+
+
+S
+6
+2
+2
+
+S
+3
+4
+5
+4
+
+AP
+-2
+0
+0
+
+AP
+0
+-2
+-2
+0
+
+D
+1
+1
+1
+
+D
+1
+1
+2
+1
+
+ABILITIES
+
+FACTION: Power from Pain
+
+Lhamaean: While this unit contains one or more Lhamaean 
+models, weapons equipped by models in this unit have the 
+[LETHAL HITS] ability. 
+Medusae: In your Shooting phase, after this unit has shot, 
+if any of those attacks made with its eyeburst scored a hit 
+against an enemy Infantry unit, that Infantry unit must take 
+a Battle-shock test.
+Sslyth: While this unit contains one or more Sslyth models, 
+each time an attack targets this unit, subtract 1 from the 
+Wound roll.
+Ur-ghul: While this unit contains one or more Ur-ghul models, 
+this unit has the Fights First ability.
+
+INVULNERABLE SAVE
+
+5+
+
+KEYWORDS: Infantry, Kabal, Aeldari, Court of the Archon
+
+FACTION KEYWORDS:  
+Drukhari
+
+COURT OF THE ARCHON
+Nothing but the manipulative cunning of an Archon could demand the 
+loyalty of their varied Courts. Drawn from diverse mercenary factions 
+that inhabit Commorragh, Drukhari, aliens and other horrors protect 
+their liege with all manner of twisted weapons, flesh-eating venoms, 
+needle-like fangs and empathic leaching.
+
+WARGEAR OPTIONS
+ ■   None
+
+ 
+
+UNIT COMPOSITION
+ ■ 1 Lhamaean
+ ■ 1 Medusae
+
+ ■ 1 Sslyth
+ ■ 1 Ur-ghul
+
+A Lhamaean is equipped with: shaimeshi blade.
+A Medusae is equipped with: eyeburst; close combat weapon.
+A Sslyth is equipped with: shardcarbine; splinter pistol; 
+Sslyth battle-blade.
+An Ur-ghul is equipped with: Ur-ghul talons.
+
+COURT OF THE ARCHON
+In the Declare Battle Formations step, this unit can join one 
+Kabalite Warriors unit from your army that is being led by 
+an Archon (a Kabalite Warriors unit cannot have more 
+than one Court of the Archon unit joined to it). If it does, 
+until the end of the battle, every model in this unit counts as 
+part of that Kabalite Warriors unit, and its Starting Strength 
+is increased accordingly.
+
+KEYWORDS: Infantry, Kabal, Aeldari, Court of the Archon
+
+FACTION KEYWORDS:  
+Drukhari
+
+CRONOS
+
+M
+
+7"
+
+T
+
+7
+
+SV
+
+3+
+
+W
+
+7
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Spirit syphon [IGNORES COVER, TORRENT]
+Spirit vortex [BLAST, IGNORES COVER]
+
+MELEE WEAPONS
+Spirit-leech tentacles 
+
+RANGE
+
+12"
+18"
+
+RANGE
+Melee
+
+A
+D6
+D6
+
+A
+4
+
+BS
+N/A
+3+
+
+WS
+4+
+
+S
+5
+5
+
+S
+5
+
+AP
+-1
+-1
+
+AP
+0
+
+D
+1
+1
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise 1, Feel No Pain 5+
+
+FACTION: Power from Pain
+
+Pain Parasite (Aura): Each time a Pain token is removed from 
+your Pain token pool to Empower a unit, if that Empowered 
+unit is within 9" of this unit, roll one D6: on a 4+, you gain 
+1 Pain token.
+
+INVULNERABLE SAVE
+
+6+
+
+KEYWORDS: Monster, Haemonculus Covens, Fly, Aeldari, Cronos
+
+FACTION KEYWORDS:  
+Drukhari
+
+CRONOS
+Like other Engines of Pain, the Cronos is a grisly amalgam of 
+stimm-fed flesh and biomechanical implements shielded by a 
+burnished carapace. Haemonculi create the Cronos to act as a 
+parasite. Its esoteric syphons leech its victim’s life essence, leaving 
+them as husks before projecting the stolen vitality to other Drukhari.
+
+WARGEAR OPTIONS
+ ■  Any number of models can each be equipped with 1 spirit vortex.
+
+UNIT COMPOSITION
+ ■ 1-2 Cronos
+Every Cronos is equipped with: spirit syphon; 
+spirit-leech tentacles.
+
+KEYWORDS: Monster, Haemonculus Covens, Fly, Aeldari, Cronos
+
+FACTION KEYWORDS:  
+Drukhari
+
+DRAZHAR
+
+M
+
+7"
+
+T
+
+3
+
+SV
+
+2+
+
+W
+
+5
+
+LD
+
+6+
+
+OC
+
+1
+
+MELEE WEAPONS
+The Executioner’s demiklaives – single blade 
+[DEVASTATING WOUNDS] 
+The Executioner’s demiklaives – dual blades 
+[TWIN-LINKED] 
+
+RANGE
+
+Melee
+
+Melee
+
+A
+
+5
+
+7
+
+WS
+
+2+
+
+2+
+
+S
+
+6
+
+5
+
+AP
+
+-2
+
+-2
+
+D
+
+3
+
+2
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Power from Pain
+
+Master of Blades: While this model is leading a unit, each 
+time a model in that unit makes a melee attack, add 1 to the 
+Wound roll. 
+Vicious Execution: Once per battle, when this model’s unit is 
+selected to fight, it can use this ability. If it does, until the end 
+of the phase, melee weapons equipped by this model have 
+the [PRECISION] ability, and each time an enemy Character 
+model is destroyed by this model, you gain D3 Pain tokens. If 
+that destroyed Character model was the enemy Warlord, 
+you gain 3 Pain tokens instead.
+
+INVULNERABLE SAVE
+
+4+
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Infantry, Character, Epic Hero, Aeldari, Drazhar
+
+FACTION KEYWORDS:  
+Drukhari
+
+DRAZHAR
+Drazhar is the sinister and silent Executioner of the Incubi. A merciless 
+blademaster, his lightning-fast assaults chew through masses of 
+lesser warriors. Those chosen as Drazhar’s prey have only seconds 
+to live.
+
+WARGEAR OPTIONS
+ ■   None
+
+UNIT COMPOSITION
+ ■ 1 Drazhar – Epic Hero
+This model is equipped with: the Executioner’s demiklaives.
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Incubi
+
+KEYWORDS: Infantry, Character, Epic Hero, Aeldari, Drazhar
+
+FACTION KEYWORDS:  
+Drukhari
+
+GROTESQUES
+
+M
+
+7"
+
+T
+
+5
+
+SV
+
+6+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Liquifier gun [TORRENT]
+
+MELEE WEAPONS
+Monstrous weapons
+
+RANGE
+
+12"
+
+RANGE
+Melee
+
+A
+D6
+
+A
+4
+
+BS
+N/A
+
+WS
+3+
+
+S
+4
+
+S
+5
+
+AP
+-1
+
+AP
+-1
+
+D
+1
+
+D
+2
+
+ABILITIES
+
+CORE: Feel No Pain 5+
+
+FACTION: Power from Pain
+
+Mindless Killing Machines: Each time a model in this unit is 
+destroyed by a melee attack, if that model has not fought this 
+phase, roll one D6. On a 4+, do not remove it from play; that 
+destroyed model can fight after the attacking model’s unit has 
+finished making its attacks, and it is then removed from play.
+
+INVULNERABLE SAVE
+
+6+
+
+KEYWORDS: Infantry, Haemonculus Covens, Aeldari, Grotesques
+
+FACTION KEYWORDS:  
+Drukhari
+
+GROTESQUES
+These modified meat-hulks are pumped full of painful chemicals, 
+growth elixirs and macro-steroids. With swollen muscles they hack 
+their master’s foes apart, their brutal cleavers and grafted claws 
+dripping with toxins. They are mindlessly obedient and insensible to 
+any hurt, chasing down fleeing prey at the behest of their creator.
+
+WARGEAR OPTIONS
+ ■   Any number of models can each be equipped with 1 liquifier gun.
+
+UNIT COMPOSITION
+ ■ 3-6 Grotesques
+Every model is equipped with: monstrous weapons.
+
+KEYWORDS: Infantry, Haemonculus Covens, Aeldari, Grotesques
+
+FACTION KEYWORDS:  
+Drukhari
+
+HAEMONCULUS
+
+M
+
+7"
+
+T
+
+4
+
+SV
+
+6+
+
+W
+
+5
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Stinger pistol [ANTI-INFANTRY 2+, PISTOL, PRECISION]
+
+MELEE WEAPONS
+Haemonculus tools and scissorhands  
+[ANTI-INFANTRY 2+, PRECISION]
+
+RANGE
+
+12"
+
+RANGE
+
+Melee
+
+A
+1
+
+A
+
+5
+
+BS
+2+
+
+WS
+
+2+
+
+S
+2
+
+S
+
+3
+
+AP
+-1
+
+AP
+
+-1
+
+D
+D3
+
+D
+
+D3
+
+ABILITIES
+
+CORE: Feel No Pain 5+, Leader
+
+FACTION: Power from Pain
+
+Master of Pain: While this model is leading a unit, models in 
+that unit have the Feel No Pain 4+ ability.
+Fear Incarnate (Aura): While an enemy unit is within 6" of this 
+model, each time a Battle-shock or Leadership test is taken 
+for that enemy unit, subtract 1 from that test. 
+
+INVULNERABLE SAVE
+
+6+
+
+KEYWORDS:  Infantry, Haemonculus Covens, Character, Aeldari, 
+
+Haemonculus 
+
+FACTION KEYWORDS:  
+Drukhari
+
+HAEMONCULUS
+Wielding arrays of horrific implements from their personal 
+oubliettes and laboratories, Haemonculi drift like sinister predators 
+in battle. They direct their Covens of twisted monstrosities and 
+pain-adepts while hungrily seeking out fresh subjects for their 
+hideous fleshcrafting.
+
+WARGEAR OPTIONS
+ ■   None
+
+UNIT COMPOSITION
+ ■ 1 Haemonculus
+This model is equipped with: stinger pistol; Haemonculus 
+tools and scissorhands.
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Wracks
+
+KEYWORDS:  Infantry, Haemonculus Covens, Character, Aeldari, 
+
+Haemonculus 
+
+FACTION KEYWORDS:  
+Drukhari
+
+HELLIONS
+
+M
+
+14"
+
+T
+
+4
+
+SV
+
+5+
+
+W
+
+2
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Splinter pistol [ANTI-INFANTRY 3+, ASSAULT, PISTOL]
+Splinter pods [ANTI-INFANTRY 3+, ASSAULT, TWIN-LINKED]
+
+MELEE WEAPONS
+Helliarch weapon [ANTI-INFANTRY 3+, SUSTAINED HITS 1]
+Hellglaive [SUSTAINED HITS 1]
+
+RANGE
+
+12"
+18"
+
+RANGE
+Melee
+Melee
+
+A
+1
+2
+
+A
+5
+3
+
+BS
+3+
+3+
+
+WS
+3+
+3+
+
+S
+2
+2
+
+S
+3
+4
+
+AP
+0
+0
+
+AP
+-1
+-1
+
+D
+1
+1
+
+D
+1
+2
+
+ABILITIES
+
+FACTION: Power from Pain
+
+Hit and Run: This unit is eligible to shoot and declare a charge 
+in a turn in which it Fell Back.
+
+WARGEAR ABILITIES
+
+Phantasm Grenade Launcher: The bearer’s unit has the 
+Grenades keyword.
+
+INVULNERABLE SAVE
+
+6+
+
+KEYWORDS: Mounted, Fly, Aeldari, Wych Cult, Hellions
+
+FACTION KEYWORDS:  
+Drukhari
+
+HELLIONS
+When the Hellion gangs ride their bladed skyboards alongside 
+Drukhari raiding parties, they bring terror to the battlefields of 
+realspace. Arrogant and agile, Hellions wield their hellglaives with such 
+skill that battle becomes a contest as to who can perform the most 
+ostentatious acts of battlefield butchery.
+
+WARGEAR OPTIONS
+ ■     The Helliarch can be equipped with 1 phantasm grenade launcher.
+ ■  The Helliarch’s hellglaive can be replaced with 1 splinter pistol and 1 Helliarch weapon.
+
+UNIT COMPOSITION
+ ■ 1 Helliarch
+ ■ 4-9 Hellions
+Every model is equipped with: splinter pods; hellglaive.
+
+KEYWORDS: Mounted, Fly, Aeldari, Wych Cult, Hellions
+
+FACTION KEYWORDS:  
+Drukhari
+
+INCUBI
+
+M
+
+7"
+7"
+
+7"
+
+T
+
+4
+3
+
+3
+
+SV
+
+3+
+3+
+
+3+
+
+W
+
+1
+1
+
+2
+
+LD
+
+6+
+6+
+
+6+
+
+OC
+
+1
+1
+
+INCUBI
+
+1 KLAIVEX
+
+MELEE WEAPONS
+Demiklaives – single blade
+Demiklaives – dual blades [TWIN-LINKED] 
+Klaive
+
+RANGE
+Melee
+Melee
+Melee
+
+A
+3
+6
+3
+
+WS
+3+
+3+
+3+
+
+S
+4
+4
+4
+
+AP
+-2
+-1
+-2
+
+D
+2
+1
+2
+
+ABILITIES
+
+FACTION: Power from Pain
+
+Tormentors: At the start of the Fight phase, each enemy unit 
+within Engagement Range of one or more units with this 
+ability must take a Battle-shock test. 
+
+INVULNERABLE SAVE
+
+5+
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Infantry, Aeldari, Incubi
+
+FACTION KEYWORDS:  
+Drukhari
+
+INCUBI
+The Incubi are warrior-perfectionists of the highest order. Protected by 
+the ornate plates of their ancient warsuits, they move swiftly in for 
+the kill, sweeping giant klaives in practised, decapitating strikes. They 
+carve straight through the enemy’s elite, crushing their spirit with 
+psychic torture devices known as tormentors.
+
+WARGEAR OPTIONS
+ ■       The Klaivex’s klaive can be replaced with 1 demilklaives.
+
+UNIT COMPOSITION
+ ■ 1 Klaivex
+ ■ 4-9 Incubi
+Every model is equipped with: klaive.
+
+KEYWORDS: Infantry, Aeldari, Incubi
+
+FACTION KEYWORDS:  
+Drukhari
+
+KABALITE WARRIORS
+
+M
+
+8"
+
+T
+
+3
+
+SV
+
+4+
+
+W
+
+1
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Blast pistol [PISTOL]
+Blaster [ASSAULT]
+Dark lance [HEAVY]
+Shredder [ASSAULT, TORRENT]
+Splinter cannon 
+[ANTI-INFANTRY 3+, HEAVY, SUSTAINED HITS 1]
+Splinter pistol [ANTI-INFANTRY 3+, ASSAULT, PISTOL]
+Splinter rifle [ANTI-INFANTRY 3+, ASSAULT]
+
+MELEE WEAPONS
+Sybarite weapon [ANTI-INFANTRY 3+]
+Close combat weapon 
+
+RANGE
+
+6"
+18"
+36"
+18"
+
+36"
+
+12"
+24"
+
+RANGE
+Melee
+Melee
+
+A
+1
+1
+1
+D6
+
+3
+
+1
+2
+
+A
+3
+2
+
+BS
+3+
+3+
+4+
+N/A
+
+4+
+
+3+
+3+
+
+WS
+3+
+3+
+
+S
+8
+8
+12
+6
+
+3
+
+2
+2
+
+S
+3
+3
+
+AP
+-3
+-4
+-3
+0
+
+-1
+
+0
+0
+
+AP
+-1
+0
+
+D
+D3
+D6+1
+D6+2
+
+1
+
+2
+
+1
+1
+
+D
+1
+1
+
+ABILITIES
+
+FACTION: Power from Pain
+
+Sadistic Raiders: If you control an objective marker at the end 
+of your Command phase, and this unit (or any Transport it is 
+embarked within) is within range of that objective marker, that 
+objective marker remains under you control, even if you have 
+no models within range of it, until your opponent controls it at 
+the start or end of any turn.
+
+WARGEAR ABILITIES
+
+Phantasm Grenade Launcher: The bearer’s unit has the 
+Grenades keyword.
+
+INVULNERABLE SAVE
+
+6+
+
+KEYWORDS:  Infantry, Kabal, Battleline, Aeldari, Kabalite Warriors
+
+FACTION KEYWORDS:  
+Drukhari
+
+KABALITE WARRIORS
+Clad from head to foot in blade-edged, segmented armour, Kabalite 
+Warriors are an intimidating, arachnoid presence. They are highly 
+skilled, cruel enforcers who unleash hails of toxin-coated shards 
+during swift and agile advances, driving terrified prey before them at 
+their master’s whim.
+
+WARGEAR OPTIONS
+ ■   The Sybarite’s close combat weapon can be replaced with 1 Sybarite weapon.
+ ■  The Sybarite can be equipped with 1 phantasm grenade launcher.
+ ■  The Sybarite’s splinter rifle can be replaced with one of the following:
+
+ ◦ 1 blast pistol
+ ◦ 1 splinter pistol
+
+ ■ 1 Kabalite Warrior’s splinter rifle can be replaced with 1 blaster.
+ ■ 1 Kabalite Warrior’s splinter rifle can be replaced with 1 dark lance.
+ ■ 1 Kabalite Warrior’s splinter rifle can be replaced with 1 shredder.
+ ■ 1 Kabalite Warrior’s splinter rifle can be replaced with 1 splinter cannon.
+
+UNIT COMPOSITION
+ ■ 1 Sybarite
+ ■ 9 Kabalite Warriors
+Every model is equipped with: splinter rifle; close 
+combat weapon.
+
+KEYWORDS:  Infantry, Kabal, Battleline, Aeldari, Kabalite Warriors
+
+FACTION KEYWORDS:  
+Drukhari
+
+LELITH HESPERAX
+
+M
+
+8"
+
+T
+
+3
+
+SV
+
+6+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+1
+
+MELEE WEAPONS
+Lelith’s blades 
+[ANTI-INFANTRY 2+, SUSTAINED HITS 2]
+
+RANGE
+
+Melee
+
+A
+
+8
+
+WS
+
+2+
+
+S
+
+3
+
+AP
+
+-2
+
+D
+
+1
+
+ABILITIES
+
+CORE: Fights First, Leader
+
+FACTION: Power from Pain
+
+Brides of Death: While this model is leading a unit, models 
+in that unit have the Fights First ability, and each time 
+a model in that unit makes a melee attack, add 1 to the 
+Strength characteristic of that attack and improve the Armour 
+Penetration characteristic of that attack by 1.
+Thrilling Spectacle: Once per battle, at the start of the Fight 
+phase, this model can use this ability. When it does, until 
+the end of the phase, the Attacks characteristic of Lelith’s 
+blades is increased to 12 and this model’s invulnerable save 
+is increased to 3+. 
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Infantry, Wych Cult, Character, Epic Hero, Aeldari, Succubus, 
+
+Lelith Hesperax
+
+FACTION KEYWORDS:  
+Drukhari
+
+LELITH HESPERAX
+Lelith Hesperax’s lithe athleticism is far beyond that of other Wyches. 
+She has raised death to a high art, wielding nothing more than simple 
+knives. Gifting her victims with precision wounds in an exotic blur of 
+blades and flesh, she finishes in a bloody finale with a gory flourish.
+
+WARGEAR OPTIONS
+ ■   None
+
+UNIT COMPOSITION
+ ■ 1 Lelith Hesperax – Epic Hero
+This model is equipped with: Lelith’s blades.
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Wyches
+
+KEYWORDS:  Infantry, Wych Cult, Character, Epic Hero, Aeldari, Succubus, 
+
+Lelith Hesperax
+
+FACTION KEYWORDS:  
+Drukhari
+
+MANDRAKES
+
+M
+
+8"
+
+T
+
+3
+
+SV
+
+7+
+
+W
+
+1
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Baleblast [ASSAULT, DEVASTATING WOUNDS]
+
+MELEE WEAPONS
+Glimmersteel blade 
+
+RANGE
+
+18"
+
+RANGE
+Melee
+
+A
+2
+
+A
+3
+
+BS
+3+
+
+WS
+3+
+
+S
+5
+
+S
+5
+
+AP
+0
+
+AP
+0
+
+D
+1
+
+D
+1
+
+ABILITIES
+
+CORE: Infiltrators, Stealth
+
+FACTION: Power from Pain
+
+Fade Away: At the end of your opponent’s turn, if this unit 
+is not within Engagement Range of one or more enemy 
+units, you can remove this unit from the battlefield. In the 
+Reinforcements step of your next Movement phase, set it up 
+anywhere on the battlefield that is more than 9" horizontally 
+away from all enemy models. If the battle ends and this unit is 
+not on the battlefield, it is destroyed.
+
+INVULNERABLE SAVE
+
+5+
+
+KEYWORDS: Infantry, Aeldari, Mandrakes
+
+FACTION KEYWORDS:  
+Drukhari
+
+MANDRAKES
+Creatures of midnight horror, crawling from their shadow realm into the 
+most secure locations, Mandrakes radiate an aura of frigid evil. Baleful 
+runes carved into their shadowy flesh blaze with power, chilling their 
+enemies’ souls before these faceless reapers’ icy blades and claws 
+flense the skin from their victims.
+
+WARGEAR OPTIONS
+ ■   None
+
+UNIT COMPOSITION
+ ■ 1 Nightfiend
+ ■ 4-9 Mandrakes
+Every model is equipped with: baleblast; glimmersteel blade.
+
+KEYWORDS: Infantry, Aeldari, Mandrakes
+
+FACTION KEYWORDS:  
+Drukhari
+
+RAIDER
+
+M
+
+14"
+
+T
+
+8
+
+SV
+
+4+
+
+W
+
+10
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Dark lance 
+Disintegrator cannon 
+
+MELEE WEAPONS
+Bladevanes 
+
+RANGE
+
+36"
+36"
+
+RANGE
+Melee
+
+A
+1
+3
+
+A
+3
+
+BS
+3+
+3+
+
+WS
+4+
+
+S
+12
+5
+
+S
+6
+
+AP
+-3
+-2
+
+AP
+0
+
+D
+D6+2
+
+2
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3, Deep Strike, Firing Deck 11
+
+FACTION: Power from Pain
+
+Aethersails: Each time this model Advances, do not make an 
+Advance roll for it. Instead, until the end of the phase, add 6" 
+to the Move characteristic of this model.
+
+INVULNERABLE SAVE
+
+6+
+
+KEYWORDS: Vehicle, Transport, Dedicated Transport, Fly, Aeldari, Raider
+
+FACTION KEYWORDS:  
+Drukhari
+
+RAIDER
+The Raider is a favoured transport cutter amongst the Drukhari. Its 
+passengers loose shots from the trophy-hung decking as it speeds 
+upon anti-grav turbines into the fighting. While its cargo of warriors 
+leap into the fray, the Raider unleashes its heavy weaponry and flays 
+enemies below with chain-snares and bladevanes.
+
+WARGEAR OPTIONS
+ ■   This model’s dark lance can be replaced with 1 disintegrator cannon.
+
+UNIT COMPOSITION
+ ■  1 Raider
+This model is equipped with: dark lance; bladevanes.
+
+TRANSPORT
+
+This model has a transport capacity of 11 Drukhari Infantry 
+models. Each Grotesque model takes up the space of 3 
+models. This model cannot transport models that can Fly.
+
+KEYWORDS: Vehicle, Transport, Dedicated Transport, Fly, Aeldari, Raider
+
+FACTION KEYWORDS:  
+Drukhari
+
+RAVAGER
+
+M
+
+14"
+
+T
+
+9
+
+SV
+
+4+
+
+W
+
+11
+
+LD
+
+6+
+
+OC
+
+3
+
+RANGED WEAPONS
+Dark lance 
+Disintegrator cannon 
+
+MELEE WEAPONS
+Bladevanes 
+
+RANGE
+
+36"
+36"
+
+RANGE
+Melee
+
+A
+1
+3
+
+A
+3
+
+BS
+3+
+3+
+
+WS
+4+
+
+S
+12
+5
+
+S
+6
+
+AP
+-3
+-2
+
+AP
+0
+
+D
+D6+2
+
+2
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3, Deep Strike
+
+FACTION: Power from Pain
+
+Eradicate the Foe: Each time this model makes an attack that 
+targets an enemy unit that is at its Starting Strength, re-roll 
+a Hit roll of 1. If a unit has a Starting Strength of 1, this ability 
+only applies if the target has its starting number of wounds.
+
+DAMAGED: 1-4 WOUNDS REMAINING
+
+While this model has 1-4 wounds remaining, each time it 
+makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE
+
+6+
+
+KEYWORDS: Vehicle, Kabal, Fly, Aeldari, Ravager
+
+FACTION KEYWORDS:  
+Drukhari
+
+RAVAGER
+Ravager gunships fulfil the role of armoured support during Drukhari 
+raids, yet these grav-skiffs also possess the speed and agility to 
+outmanoeuvre the enemy’s lumbering equivalents. They are mobile 
+assassins, mounting enough firepower to gut enemy tanks and 
+eradicate the foe’s elite, before swiftly moving to new hunting grounds.
+
+WARGEAR OPTIONS
+ ■  Any number of this model’s dark lances can each be replaced with 1 disintegrator cannon.
+
+UNIT COMPOSITION
+ ■ 1 Ravager
+This model is equipped with: 3 dark lances; bladevanes.
+
+KEYWORDS: Vehicle, Kabal, Fly, Aeldari, Ravager
+
+FACTION KEYWORDS:  
+Drukhari
+
+RAZORWING JETFIGHTER
+
+M
+
+20+"
+
+T
+
+8
+
+SV
+
+4+
+
+W
+
+10
+
+LD
+
+6+
+
+OC
+
+0
+
+RANGED WEAPONS
+Dark Lance
+Disintegrator
+Razorwing missiles – monoscythe missiles 
+[BLAST]
+Razorwing missiles – nuerotoxin missiles 
+[ANTI-INFANTRY 2+, BLAST]
+Razorwing missiles – shatterfield missiles 
+[BLAST]
+Twin splinter rifle  
+[ANTI-INFANTRY 3+, ASSAULT, RAPID FIRE 1, TWIN-LINKED]
+Splinter cannon [ANTI-INFANTRY 3+, SUSTAINED HITS 1]
+
+MELEE WEAPONS
+Bladed wings 
+
+RANGE
+
+36"
+36"
+
+48"
+
+48"
+
+48"
+
+24"
+
+36"
+
+RANGE
+Melee
+
+A
+1
+3
+
+D6
+
+D6+3
+
+D6
+
+1
+
+3
+
+A
+3
+
+BS
+3+
+3+
+
+3+
+
+3+
+
+3+
+
+3+
+
+3+
+
+WS
+4+
+
+S
+12
+5
+
+6
+
+2
+
+7
+
+2
+
+3
+
+S
+6
+
+AP
+-3
+-2
+
+-1
+
+0
+
+-1
+
+0
+
+-1
+
+AP
+0
+
+D
+D6+2
+
+2
+
+2
+
+1
+
+1
+
+1
+
+2
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3, Stealth
+
+FACTION: Power from Pain
+
+Ground Attack Craft: Each time this model makes a ranged 
+attack that targets an enemy unit (excluding units that can 
+Fly), add 1 to the Hit roll.
+
+INVULNERABLE SAVE
+
+6+
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Vehicle, Fly, Aircraft, Aeldari, Razorwing Jetfighter
+
+FACTION KEYWORDS:  
+Drukhari
+
+RAZORWING JETFIGHTER
+These lightning-fast ground attack craft unleash widespread slaughter 
+and disruption with flurries of diverse missiles. Archons call in their 
+strikes to fracture the lesser races’ attempts at organised resistance, 
+and their speed-addicted pilots also indulge in hunting down 
+lumbering tanks and monstrosities with multiple heavy cannons.
+
+WARGEAR OPTIONS
+ ■   This model’s 2 dark lances can be replaced with 2 disintegrator cannons.
+ ■  This model’s twin splinter rifle can be replaced with 1 splinter cannon.
+
+UNIT COMPOSITION
+ ■ 1 Razorwing Jetfighter
+This model is equipped with: 2 dark lances; Razorwing 
+missiles; twin splinter rifle; bladed wings.
+
+KEYWORDS: Vehicle, Fly, Aircraft, Aeldari, Razorwing Jetfighter
+
+FACTION KEYWORDS:  
+Drukhari
+
+REAVERS
+
+M
+
+16"
+
+T
+
+4
+
+SV
+
+4+
+
+W
+
+2
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Blaster [ASSAULT]
+Heat lance [ASSAULT, MELTA 3]
+Splinter pistol [ANTI-INFANTRY 3+, ASSAULT, PISTOL]
+Splinter rifle [ANTI-INFANTRY 3+, ASSAULT]
+
+MELEE WEAPONS
+Agoniser [ANTI-INFANTRY 3+]
+Bladevanes 
+
+RANGE
+
+18"
+18"
+12"
+24"
+
+RANGE
+Melee
+Melee
+
+A
+1
+1
+1
+2
+
+A
+4
+3
+
+BS
+3+
+3+
+3+
+3+
+
+WS
+3+
+3+
+
+S
+8
+14
+2
+2
+
+S
+3
+4
+
+AP
+-4
+-4
+0
+0
+
+AP
+-1
+0
+
+D
+D6+1
+D6
+1
+1
+
+D
+1
+1
+
+ABILITIES
+
+FACTION: Power from Pain
+
+Eviscerating Fly-by: Each time this unit ends a Normal move, 
+you can select one enemy unit (excluding Monster and 
+Vehicle units) that it moved over during that move. If you 
+do, roll one D6 for each model in this unit: for each 4+, that 
+enemy unit suffers 1 mortal wound.
+
+WARGEAR ABILITIES
+
+Cluster Caltrops: Each time you roll to inflict wounds using 
+this unit’s Eviscerating Fly-by ability, you can re-roll one D6 
+for each model in this unit equipped with cluster caltrops.
+
+Grav-talon: The bearer’s melee weapons have the 
+[LANCE] ability.
+
+INVULNERABLE SAVE
+
+6+
+
+KEYWORDS: Mounted, Wych Cult, Fly, Aeldari, Reavers
+
+FACTION KEYWORDS:  
+Drukhari
+
+REAVERS
+Reaver jetbikes streak across the battlefield with the same speed and 
+agility they display during their lethal races around the Commorrite 
+arenas. Whether jinking around incoming enemy fire, decapitating 
+foes with vicious bladevanes or culling their victims with ferocious 
+firepower, these high-speed killers are lethal in the extreme.
+
+WARGEAR OPTIONS
+ ■   The Arena Champion can be equipped with 1 agoniser.
+ ■  For every 3 models in this unit, 1 model’s splinter rifle can be replaced with one of the following: 
+
+ ◦ 1 blaster
+ ◦ 1 heat lance
+
+ ■  For every 3 models in this unit, 1 model can be equipped with one of the following: 
+
+ ◦ 1 grav-talon
+ ◦ 1 cluster caltrops
+
+UNIT COMPOSITION
+ ■ 1 Arena Champion
+ ■ 2-5 Reavers
+Every model is equipped with: splinter pistol; splinter 
+rifle; bladevanes.
+
+KEYWORDS: Mounted, Wych Cult, Fly, Aeldari, Reavers
+
+FACTION KEYWORDS:  
+Drukhari
+
+SCOURGES
+
+M
+
+14"
+
+T
+
+3
+
+SV
+
+4+
+
+W
+
+1
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Blast pistol [PISTOL]
+Blaster [ASSAULT]
+Dark lance [HEAVY]
+Drukhari haywire blaster 
+[ANTI-VEHICLE 4+, DEVASTATING WOUNDS, HEAVY]
+Heat lance [ASSAULT, HEAVY, MELTA 3]
+Shardcarbine [ANTI-INFANTRY 3+, ASSAULT]
+Shredder [ASSAULT, TORRENT]
+Splinter cannon 
+[ANTI-INFANTRY 3+, HEAVY, SUSTAINED HITS 1]
+Splinter pistol [ANTI-INFANTRY 3+, ASSAULT, PISTOL]
+
+MELEE WEAPONS
+Solarite weapon [ANTI-INFANTRY 3+]
+Close combat weapon
+
+RANGE
+
+6"
+18"
+36"
+
+24"
+
+18"
+18"
+18"
+
+36"
+
+12"
+
+RANGE
+Melee
+Melee
+
+A
+1
+1
+1
+
+2
+
+1
+3
+D6
+
+3
+
+1
+
+A
+3
+2
+
+BS
+3+
+3+
+4+
+
+4+
+
+4+
+3+
+N/A
+
+4+
+
+3+
+
+WS
+3+
+3+
+
+S
+8
+8
+12
+
+3
+
+14
+2
+6
+
+3
+
+2
+
+S
+3
+3
+
+AP
+-3
+-4
+-3
+
+-1
+
+-4
+0
+0
+
+-1
+
+0
+
+AP
+-1
+0
+
+D
+D3
+D6+1
+D6+2
+
+3
+
+D6
+1
+1
+
+2
+
+1
+
+D
+1
+1
+
+ABILITIES
+
+CORE: Deep Strike
+
+FACTION: Power from Pain
+
+Winged Strike: In your Shooting phase, after this unit has 
+shot, if it is not within Engagement Range of any enemy units, 
+it can make a Normal move of up to 6". If it does, until the end 
+of the turn, this unit is not eligible to declare a charge.
+
+INVULNERABLE SAVE
+
+5+
+
+KEYWORDS: Infantry, Fly, Grenades, Jump Pack, Aeldari, Scourges 
+
+FACTION KEYWORDS:  
+Drukhari
+
+SCOURGES
+Airborne messengers and mercenaries who ride the thermals between 
+Commorragh’s highest spires, Scourges have been bodily modified 
+for winged flight. They wear their grotesque new forms with the same 
+pride that they wield their massive dark lances and splinter cannons, 
+for their combination of speed and firepower renders them invaluable.
+
+WARGEAR OPTIONS
+ ■   The Solarite can be equipped with 1 Solarite weapon.
+ ■ The Solarite can replace its shardcarbine with one of the following:
+
+ ◦ 1 blast pistol
+ ◦ 1 splinter pistol  
+
+ ■  Up to 4 Scourges can each replace their shardcarbine with one of the following: 
+
+ ◦ 1 blaster
+ ◦ 1 dark lance
+ ◦ 1 Drukhari haywire blaster
+ ◦ 1 heat lance
+ ◦ 1 shredder
+ ◦ 1 splinter cannon
+
+UNIT COMPOSITION
+ ■ 1 Solarite
+ ■ 4-9 Scourges
+Every model is equipped with: shardcarbine; close 
+combat weapon.
+
+KEYWORDS: Infantry, Fly, Grenades, Jump Pack, Aeldari, Scourges 
+
+FACTION KEYWORDS:  
+Drukhari
+
+SUCCUBUS
+
+M
+
+8"
+
+T
+
+3
+
+SV
+
+6+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Blast pistol [PISTOL]
+Splinter pistol [ANTI-INFANTRY 3+, ASSAULT, PISTOL]
+
+MELEE WEAPONS
+Succubus weapons [ANTI-INFANTRY 3+]
+
+RANGE
+
+6"
+12"
+
+RANGE
+Melee
+
+A
+1
+1
+
+A
+6
+
+BS
+2+
+2+
+
+WS
+2+
+
+S
+8
+2
+
+S
+3
+
+AP
+-3
+0
+
+AP
+-2
+
+D
+D3
+1
+
+D
+1
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Power from Pain
+
+Storm of Blades: While this model is leading a unit, 
+melee weapons equipped by models in that unit have the 
+[SUSTAINED HITS 1] ability.
+Combat Drugs: If this model is Empowered in the Fight phase, 
+then until the end of the phase, models in this model’s unit, 
+have the Fights First ability. 
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS: Infantry, Wych Cult, Character, Aeldari, Succubus
+
+FACTION KEYWORDS:  
+Drukhari
+
+SUCCUBUS
+Succubi are the leaders of the Wych Cults and master combatants 
+of the arena, possessing both sublime and bloody artistry. They 
+are versed in countless forms of death and give visceral displays 
+of acrobatic lethality. With lightning-fast reactions and a variety of 
+outlandish weapons, they revel in their own superiority.
+
+WARGEAR OPTIONS
+ ■  This model can be equipped with one of the following: 
+
+ ◦ 1 blast pistol
+ ◦ 1 splinter pistol
+
+UNIT COMPOSITION
+ ■  1 Succubus
+This model is equipped with: Succubus weapons.
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Wyches
+
+KEYWORDS: Infantry, Wych Cult, Character, Aeldari, Succubus
+
+FACTION KEYWORDS:  
+Drukhari
+
+TALOS
+
+M
+
+7"
+
+T
+
+7
+
+SV
+
+3+
+
+W
+
+7
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Twin Drukhari haywire blaster 
+[ANTI-VEHICLE 4+, DEVASTATING WOUNDS, TWIN-LINKED]
+Twin heat lance [ASSAULT, MELTA 3, TWIN-LINKED]
+Twin splinter cannon 
+[ANTI-INFANTRY 3+, SUSTAINED HITS 1, TWIN-LINKED]
+Stinger pod 
+Twin liquifier gun [TORRENT, TWIN-LINKED]
+
+MELEE WEAPONS
+Chain-flails 
+Macro-scalpel 
+Talos gauntlet 
+Talos ichor injector [EXTRA ATTACKS]
+
+RANGE
+
+24"
+
+18"
+
+36"
+
+24"
+12"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+
+A
+
+2
+
+1
+
+3
+
+2D6
+D6
+
+A
+8
+5
+5
+1
+
+BS
+
+4+
+
+4+
+
+4+
+
+4+
+N/A
+
+WS
+3+
+3+
+4+
+3+
+
+S
+
+3
+
+14
+
+3
+
+5
+4
+
+S
+6
+7
+8
+7
+
+AP
+
+-1
+
+-4
+
+-1
+
+0
+-1
+
+AP
+0
+-1
+-2
+-1
+
+D
+
+3
+
+D6
+
+2
+
+1
+1
+
+D
+1
+2
+3
+2
+
+ABILITIES
+
+CORE: Deadly Demise 1, Feel No Pain 5+
+
+FACTION: Power from Pain
+
+Pain Engine: If this unit destroys an enemy unit, until the end 
+of the battle, it is Empowered. 
+
+INVULNERABLE SAVE
+
+6+
+
+KEYWORDS: Monster, Haemonculus Covens, Fly, Aeldari, Talos
+
+FACTION KEYWORDS:  
+Drukhari
+
+TALOS
+The Talos Pain Engine is a ghoulish melding of stitch-puckered 
+flesh and armoured artifice, boasting tremendous resilience and a 
+nightmarish array of weaponry. Each is the proud creation of the 
+Drukhari Haemonculi, who employ their Talos as torture devices, 
+surgical assistants and armoured murder machines.
+
+WARGEAR OPTIONS
+ ■  Any number of models can each replace their twin splinter cannon with one of the following:
+
+ ◦ 1 twin Drukhari haywire blasters
+ ◦ 1 twin heat lance
+ ◦ 1 stinger pod
+
+ ■  Any number of models can each replace one of their macro-scalpels with one of the following:
+
+ ◦ 1 Talos ichor injector
+ ◦ 1 twin liquifier gun
+
+ ■  Any number of models can each replace one of their macro-scalpels with one of the following:
+
+ ◦ 1 chain-flails
+ ◦ 1 Talos gauntlet
+
+UNIT COMPOSITION
+ ■ 1-2 Talos
+Every model is equipped with: twin splinter cannon; 
+2 macro-scalpels.
+
+KEYWORDS: Monster, Haemonculus Covens, Fly, Aeldari, Talos
+
+FACTION KEYWORDS:  
+Drukhari
+
+URIEN RAKARTH
+
+M
+
+7"
+
+T
+
+4
+
+SV
+
+6+
+
+W
+
+5
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Casket of Flensing 
+[DEVASTATING WOUNDS, ONE SHOT, TORRENT]
+One Shot: The bearer can only shoot with this weapon once per battle.
+
+RANGE
+
+12"
+
+A
+
+3D6
+
+MELEE WEAPONS
+Haemonculus tools and scissorhands 
+[ANTI-INFANTRY 2+, PRECISION]
+
+RANGE
+
+Melee
+
+A
+
+5
+
+BS
+
+N/A
+
+WS
+
+2+
+
+S
+
+3
+
+S
+
+3
+
+AP
+
+-1
+
+AP
+
+-1
+
+D
+
+1
+
+D
+
+D3
+
+ABILITIES
+
+CORE: Feel No Pain 4+, Leader
+
+FACTION: Power from Pain
+
+Fleshcraft: At the end of your Movement phase, this model 
+can heal one friendly Cronos, Talos, Grotesques or Wracks 
+unit within 6". If it does, one model in that unit regains up to 3 
+lost wounds (if you selected a Wracks unit, up to 3 destroyed 
+models are returned to that unit instead). 
+Horrific Regeneration: The first time this model is destroyed, 
+roll one D6 at the end of the phase. On a 2+, set this model 
+back up on the battlefield, as close as possible to where it was 
+destroyed and not within Engagement Range of any enemy 
+units, with its full wounds remaining.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Infantry, Haemonculus Covens, Character, Epic Hero, Aeldari, 
+
+Haemonculus, Urien Rakarth
+
+FACTION KEYWORDS:  
+Drukhari
+
+URIEN RAKARTH
+Urien Rakarth is the most ingenious of the many Haemonculi masters. 
+He is the Sculptor of Torments, whose repugnant creations strain his 
+enemies’ sanity. Once his casket of fanged spirits and his toxin-laced 
+blades are finished, a coiling nest of Haemovores feast upon whatever 
+is left of Rakarth’s foes.
+
+WARGEAR OPTIONS
+ ■   None
+
+UNIT COMPOSITION
+ ■ 1 Urien Rakarth – Epic Hero
+This model is equipped with: Casket of Flensing; 
+Haemonculus tools and scissorhands.
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Wracks
+
+KEYWORDS:  Infantry, Haemonculus Covens, Character, Epic Hero, Aeldari, 
+
+Haemonculus, Urien Rakarth
+
+FACTION KEYWORDS:  
+Drukhari
+
+VENOM
+
+M
+
+14"
+
+T
+
+6
+
+SV
+
+4+
+
+W
+
+6
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Splinter cannon [ANTI-INFANTRY 3+, SUSTAINED HITS 1]
+Twin splinter rifle 
+[ANTI-INFANTRY 3+, ASSAULT, RAPID FIRE 1, TWIN-LINKED]
+
+MELEE WEAPONS
+Bladevanes 
+
+RANGE
+
+36"
+
+24"
+
+RANGE
+Melee
+
+A
+3
+
+2
+
+A
+3
+
+BS
+3+
+
+3+
+
+WS
+4+
+
+S
+3
+
+2
+
+S
+5
+
+AP
+-1
+
+0
+
+AP
+0
+
+D
+2
+
+1
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise 1, Deep Strike, Firing Deck 6, Stealth
+
+FACTION: Power from Pain
+
+Athletic Aerialists: At the end of the Fight phase, if there are 
+no models currently embarked within this Transport, you 
+can select one friendly Drukhari Infantry unit that has 6 
+or fewer models that is wholly within 6" of this Transport 
+(you cannot select a Grotesques unit or a unit that can Fly). 
+Unless that unit is within Engagement Range of one or more 
+enemy units, it can embark within this Transport.
+
+INVULNERABLE SAVE
+
+6+
+
+KEYWORDS:  Vehicle, Transport, Dedicated transport, Fly, Aeldari, Venom
+
+FACTION KEYWORDS:  
+Drukhari
+
+VENOM
+Raw speed delivers countless light Venom transports to the heart 
+of the enemy’s defence, and sees them chase down stragglers and 
+encircle the foe’s outriders. For the clique of warriors on board, Venoms 
+are mobile firebases and gore-splashed chariots in one, with flickering 
+shields that confound attempts to bring them down.
+
+WARGEAR OPTIONS
+ ■   This model’s twin splinter rifle can be replaced with 1 splinter cannon.
+
+UNIT COMPOSITION
+ ■ 1 Venom
+This model is equipped with: splinter cannon; twin splinter 
+rifle; bladevanes.
+
+TRANSPORT
+
+This model has a transport capacity of 6 Drukhari Infantry 
+models. This model cannot transport Grotesque models or 
+models that can Fly. 
+Before the battle, at the start of the Declare Battle Formations 
+step, you can select one Kabalite Warriors or Wyches unit 
+from your army. If you do, that unit is split into two units, each 
+containing as equal a number of models as possible (when 
+splitting a unit in this way, make a note of which models form 
+each of the two new units). One of these units must start the 
+battle embarked within this Transport; the other can start 
+the battle embarked within another Transport, or it can be 
+deployed as a separate unit.
+
+KEYWORDS:  Vehicle, Transport, Dedicated transport, Fly, Aeldari, Venom
+
+FACTION KEYWORDS:  
+Drukhari
+
+VOIDRAVEN BOMBER
+
+M
+
+20+"
+
+T
+
+9
+
+SV
+
+4+
+
+W
+
+12
+
+LD
+
+6+
+
+OC
+
+0
+
+RANGED WEAPONS
+Dark scythe 
+Void lance 
+Voidraven missiles – implosion missiles [BLAST]
+Voidraven missiles – shatterfield missiles [BLAST]
+
+MELEE WEAPONS
+Bladed wings 
+
+RANGE
+
+24"
+36"
+48"
+48"
+
+RANGE
+Melee
+
+A
+6
+2
+D3
+D6
+
+A
+3
+
+BS
+3+
+3+
+3+
+3+
+
+WS
+4+
+
+S
+8
+14
+9
+7
+
+S
+6
+
+AP
+-4
+-4
+-2
+-1
+
+AP
+0
+
+D
+2
+
+D6+2
+
+3
+1
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3, Stealth
+
+FACTION: Power from Pain
+
+Void Mine: Once per battle, after this unit ends a Normal 
+move, you can select one enemy model it moved over during 
+that move and roll one D6 for each enemy unit within D6" 
+of that enemy model: on a 4+, that enemy unit suffers D6 
+mortal wounds.
+
+DAMAGED: 1-4 WOUNDS REMAINING
+
+While this model has 1-4 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE
+
+6+
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Vehicle, Aircraft, Aeldari, Voidraven Bomber
+
+FACTION KEYWORDS:  
+Drukhari
+
+VOIDRAVEN BOMBER
+Mounting some of the most powerful guns in the Drukhari arsenal, the 
+Voidraven Bomber’s dark scythes and void lances can crack heavily 
+armoured targets. Yet they pale against the silent aircraft’s primary 
+weapon – the void mine. Once this arcane payload is deployed, the 
+resulting darklight implosion erases all caught within its blast.
+
+WARGEAR OPTIONS
+ ■   This model can be equipped with 1 Voidraven missiles. 
+ ■ The model’s 2 void lances can be replaced with 2 dark scythes.
+
+UNIT COMPOSITION
+ ■ 1 Voidraven Bomber
+This model is equipped with: 2 void lances; bladed wings.
+
+KEYWORDS: Vehicle, Aircraft, Aeldari, Voidraven Bomber
+
+FACTION KEYWORDS:  
+Drukhari
+
+WRACKS
+
+M
+
+7"
+
+T
+
+4
+
+SV
+
+6+
+
+W
+
+1
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Hexrifle [HEAVY, PRECISION]
+Liquifier gun [TORRENT]
+Ossefactor [ANTI-INFANTRY 4+, DEVASTATING WOUNDS]
+Stinger pistol [ANTI-INFANTRY 2+, PISTOL]
+
+MELEE WEAPONS
+Wrack blades [ANTI-INFANTRY 4+]
+
+RANGE
+
+36"
+12"
+24"
+12"
+
+RANGE
+Melee
+
+A
+1
+D6
+1
+1
+
+A
+2
+
+BS
+3+
+N/A
+3+
+3+
+
+WS
+3+
+
+S
+6
+4
+2
+2
+
+S
+3
+
+AP
+-2
+-1
+-2
+0
+
+AP
+0
+
+D
+3
+1
+2
+1
+
+D
+1
+
+ABILITIES
+
+CORE: Feel No Pain 5+
+
+FACTION: Power from Pain
+
+The Torturer’s Craft: Each time this unit destroys an enemy 
+unit, you gain 1 Pain token. When this unit is destroyed, you 
+gain 1 Pain token.
+
+INVULNERABLE SAVE
+
+6+
+
+KEYWORDS: Infantry, Battleline, Haemonculus Covens, Aeldari, Wracks
+
+FACTION KEYWORDS:  
+Drukhari
+
+WRACKS
+The gnarled hide of the Wracks is a leathery mass of old scars, inured 
+to pain. These adepts of fleshcrafting serve wizened masters of the 
+Covens, and are as much experiments as they are apprentices. They 
+are granted a host of gruesome tools, butchering blades and arcane 
+bio-weapons with which they inflict maximum agony.
+
+WARGEAR OPTIONS
+ ■    For every 5 models in the unit:
+
+ ◦ 1 model can be equipped with 1 hexrifle*
+ ◦ 1 model can be equipped with 1 liquifier gun*
+ ◦ 1 model can be equipped with 1 ossefactor*
+ ◦ 1 model can be equipped with 1 stinger pistol*
+
+* Each model cannot be equipped with more than 1 ranged weapon.
+
+UNIT COMPOSITION
+ ■ 1 Acothyst
+ ■ 4-9 Wracks
+Every model is equipped with: Wrack blades.
+
+KEYWORDS: Infantry, Battleline, Haemonculus Covens, Aeldari, Wracks
+
+FACTION KEYWORDS:  
+Drukhari
+
+WYCHES
+
+M
+
+8"
+
+T
+
+3
+
+SV
+
+6+
+
+W
+
+1
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Blast pistol [PISTOL]
+Splinter pistol [ANTI-INFANTRY 4+, ASSAULT, PISTOL]
+
+MELEE WEAPONS
+Hekatarii blade 
+
+RANGE
+
+6"
+12"
+
+RANGE
+Melee
+
+A
+1
+1
+
+A
+3
+
+BS
+3+
+3+
+
+WS
+3+
+
+S
+8
+2
+
+S
+3
+
+AP
+-4
+0
+
+AP
+-1
+
+D
+D3
+1
+
+D
+1
+
+ABILITIES
+
+FACTION: Power from Pain
+
+No Escape: Each time an enemy unit (excluding Monsters 
+and Vehicles) within Engagement Range of one or more 
+units from your army with this ability is selected to Fall Back, 
+models in that enemy unit must take Desperate Escape tests 
+as if their unit was Battle-shocked. When doing so, if that 
+enemy unit is also Battle-shocked by other means, subtract 1 
+from each of those Desperate Escape tests.
+
+WARGEAR ABILITIES
+
+Phantasm Grenade Launcher: The bearer’s unit has the 
+Grenades keyword.
+
+INVULNERABLE SAVE*
+*  The invulnerable save that models in this unit have is  
+improved to a 4+ against melee attacks. 
+
+6+
+
+KEYWORDS: Infantry, Battleline, Wych Cult, Aeldari, Wyches
+
+FACTION KEYWORDS:  
+Drukhari
+
+WYCHES
+The dancers of death, Wyches are acrobatic murder-artists, exhibiting 
+their incredible arena skills to slay with precision and élan. They wield 
+exotic weapons – hooks, barbed chains or flensing blades – that 
+require superior ability. These are deadly in Wyches’ hands as they 
+dart, twist and blur around their foes’ clumsy attacks.
+
+WARGEAR OPTIONS
+ ■     The Hekatrix can be equipped with 1 phantasm grenade launcher.
+ ■  The Hekatrix’s splinter pistol can be replaced with 1 blast pistol.
+
+UNIT COMPOSITION
+ ■ 1 Hekatrix
+ ■ 9 Wyches
+Every model is equipped with: splinter pistol; Hekatarii blade.
+
+KEYWORDS: Infantry, Battleline, Wych Cult, Aeldari, Wyches
+
+FACTION KEYWORDS:  
+Drukhari
+
+

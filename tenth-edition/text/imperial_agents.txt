@@ -1,0 +1,2707 @@
+AGENTS OF THE IMPERIUM
+ARMY RULE
+
+Throughout the Imperium there exist numerous martial 
+organisations and shadowy institutions. Bodies of armed 
+warriors or solitary agents from these groups possess 
+specialist skills, unusual equipment and vested interests 
+that lead them to be attached to larger Imperial armies. 
+Some are requisitioned by the army’s commander for their 
+particular abilities, others are assigned by their hidden 
+masters to achieve singular agendas. The most powerful 
+have the authority and reputation to enforce their presence 
+on the field of battle.
+
+ASSIGNED AGENTS
+If every model in your army has the Imperium keyword, 
+you can include Agents of the Imperium units in your 
+army even if they do not have the Faction keyword you 
+selected in the Select Army Faction step. The maximum 
+number of Agents of the Imperium units you can include 
+in your army depends on the battle size, as shown below.
+
+Maximum number of  
+
+Agents of the Imperium units
+
+Retinue units
+
+Character units
+
+1
+2
+3
+
+1
+2
+3
+
+BATTLE SIZE
+
+INCURSION
+
+STRIKE FORCE
+
+ONSLAUGHT
+
+In addition, you cannot select a Vindicare Assassin, 
+Culexus Assassin, Eversor Assassin or Callidus 
+Assassin to be your Warlord.
+
+VINDICARE ASSASSIN
+
+M
+
+7"
+
+T
+
+4
+
+SV
+
+6+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Exitus pistol 
+[DEVASTATING WOUNDS, IGNORES COVER, PISTOL, PRECISION]
+Exitus rifle 
+[DEVASTATING WOUNDS, IGNORES COVER, HEAVY, PRECISION]
+
+MELEE WEAPONS
+Vindicare combat knife
+
+RANGE
+
+12"
+
+48"
+
+RANGE
+Melee
+
+A
+
+3
+
+1
+
+A
+4
+
+BS
+
+2+
+
+2+
+
+WS
+2+
+
+S
+
+5
+
+7
+
+S
+4
+
+AP
+
+-2
+
+-3
+
+AP
+-1
+
+D
+
+3
+
+D3+3
+
+D
+1
+
+ABILITIES
+
+CORE: Infiltrators, Lone Operative, Stealth
+
+FACTION: Assigned Agents
+
+Deadshot: Each time this model makes a ranged attack, if a 
+Critical Hit is scored, add 3 to the Damage characteristic of 
+that attack. After this model has resolved its ranged attacks, 
+select one enemy unit that was hit by one or more of those 
+attacks. That unit must take a Battle-shock test.
+Shieldbreaker: Once per battle, when selecting targets for this 
+model’s exitus rifle, it can fire a shieldbreaker round. If it does, 
+until the end of the phase, each time this model makes an 
+attack with that weapon, no saving throws of any kind can be 
+made against that attack.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Infantry, Character, Epic Hero, Smoke, Imperium, 
+
+Vindicare Assassin
+
+FACTION KEYWORDS:  
+Agents of the Imperium
+
+VINDICARE ASSASSIN
+The muffled crack of a Vindicare Assassin’s exitus rifle is all that most 
+ever detect of its presence – that, and the spray of their victim’s brain 
+matter. They are lethal marksmen who find the perfect firing position 
+from which to pinpoint their quarry, while against more numerous foes 
+they swiftly rack up high body counts with shot after expert shot.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Vindicare Assassin – Epic Hero
+This model is equipped with: exitus pistol; exitus rifle; 
+Vindicare combat knife.
+
+KEYWORDS:  Infantry, Character, Epic Hero, Smoke, Imperium, 
+
+Vindicare Assassin
+
+FACTION KEYWORDS:  
+Agents of the Imperium
+
+CULEXUS ASSASSIN
+
+M
+
+7"
+
+T
+
+4
+
+SV
+
+6+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Animus speculum 
+[ANTI-PSYKER 2+, ASSAULT, PRECISION, PSYCHIC ASSASSIN]
+Psychic Assassin: Each time you select a Psyker unit as the target for this weapon, until those attacks 
+are resolved, change the Attacks characteristic of this weapon to 6.
+
+RANGE
+
+BS
+
+AP
+
+24"
+
+D3
+
+2+
+
+D
+
+-2
+
+S
+
+A
+
+3
+
+5
+
+MELEE WEAPONS
+Life-draining touch 
+[ANTI-PSYKER 2+, DEVASTATING WOUNDS, PRECISION]
+
+RANGE
+
+Melee
+
+A
+
+4
+
+WS
+
+2+
+
+S
+
+4
+
+AP
+
+-2
+
+D
+
+2
+
+ABILITIES
+
+CORE: Deep Strike, Lone Operative, Stealth
+
+FACTION: Assigned Agents
+
+Abomination: This model has the Feel No Pain 2+ ability 
+against Psychic Attacks.
+Soulless Horror (Aura): While an enemy unit is within 6" of 
+this model, worsen that unit’s Leadership characteristic by 1, 
+or by 2 instead if that unit is a Psyker. In addition, once per 
+battle, at the start of any Command phase, this model can use 
+this ability. If it does, each enemy unit within 6" of this model 
+must take a Battle-shock test.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Infantry, Character, Epic Hero, Grenades, Imperium, 
+
+Culexus Assassin
+
+FACTION KEYWORDS:  
+Agents of the Imperium
+
+CULEXUS ASSASSIN
+A Culexus Assassin projects an aura of unsettling fear all around them. 
+Their primary targets are psykers, who are wracked with agony from 
+these soulless assassins’ mere presence, and against the arcane 
+blasts of a Culexus’ animus speculum, no witch long survives.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Culexus Assassin – Epic Hero
+This model is equipped with: animus speculum; 
+life-draining touch.
+
+KEYWORDS:  Infantry, Character, Epic Hero, Grenades, Imperium, 
+
+Culexus Assassin
+
+FACTION KEYWORDS:  
+Agents of the Imperium
+
+EVERSOR ASSASSIN
+
+M
+
+9"
+
+T
+
+4
+
+SV
+
+6+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Executioner pistol [ANTI-INFANTRY 3+, PISTOL]
+
+MELEE WEAPONS
+Power sword and neuro gauntlet [ANTI-INFANTRY 3+]
+
+RANGE
+
+12"
+
+RANGE
+Melee
+
+A
+4
+
+A
+6
+
+BS
+2+
+
+WS
+2+
+
+S
+4
+
+S
+5
+
+AP
+0
+
+AP
+-2
+
+D
+1
+
+D
+2
+
+ABILITIES
+
+CORE: Deadly Demise D3, Lone Operative, Scouts 9"
+
+FACTION: Assigned Agents
+
+Frenzon: In your Command phase, select one of the effects 
+below to apply until the start of your next Command phase:
+ ■  Adrenal Surge: This model is eligible to shoot and declare a 
+
+charge in a turn in which it Advanced.
+
+ ■  Predatory Focus: This model’s weapons have the 
+
+[PRECISION] ability.
+
+ ■  Killing Rampage: This model’s weapons have the 
+
+[SUSTAINED HITS 3] ability.
+
+Sentinel Array: Once per battle round, you can target 
+this model with the Fire Overwatch or Heroic Intervention 
+Stratagem for 0CP, and can do so even if you have already 
+used that Stratagem on a different unit this phase.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Infantry, Character, Epic Hero, Grenades, Imperium, 
+
+Eversor Assassin
+
+FACTION KEYWORDS:  
+Agents of the Imperium
+
+EVERSOR ASSASSIN
+Berserk killers fuelled by unstable chemical stimms, Eversor 
+Assassins are hurricanes of bladed and clawed destruction. They are 
+unleashed as weapons of terror and annihilation, set loose to murder 
+not only their intended target but anyone around them as well.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Eversor Assassin – Epic Hero
+This model is equipped with: executioner pistol; power sword 
+and neuro gauntlet.
+
+KEYWORDS:  Infantry, Character, Epic Hero, Grenades, Imperium, 
+
+Eversor Assassin
+
+FACTION KEYWORDS:  
+Agents of the Imperium
+
+CALLIDUS ASSASSIN
+
+M
+
+7"
+
+T
+
+4
+
+SV
+
+6+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Neural shredder [ANTI-INFANTRY 2+, PRECISION, TORRENT]
+
+MELEE WEAPONS
+Phase sword and poison blades 
+[LETHAL HITS, PRECISION]
+
+RANGE
+
+12"
+
+RANGE
+
+Melee
+
+A
+D6
+
+A
+
+5
+
+BS
+N/A
+
+WS
+
+2+
+
+S
+5
+
+S
+
+5
+
+AP
+-2
+
+AP
+
+-4
+
+D
+1
+
+D
+
+2
+
+ABILITIES
+
+CORE: Deep Strike, Fights First, Infiltrators, Lone Operative
+
+FACTION: Assigned Agents
+
+Reign of Confusion: Once per battle, after your opponent uses 
+a Stratagem, this model can use this ability. If it does, until the 
+end of the battle, the CP cost your opponent must pay to use 
+that Stratagem again is increased by 1CP.
+Polymorphine: At the end of your opponent’s turn, if this 
+model is not within Engagement Range of any enemy units, 
+you can remove it from the battlefield and then, in the 
+Reinforcements step of your next Movement phase, set it up 
+anywhere on the battlefield that is more than 9" horizontally 
+away from all enemy models. If the battle ends and this 
+model is not on the battlefield, it is destroyed.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS: Infantry, Character, Epic Hero, Imperium, Callidus Assassin
+
+FACTION KEYWORDS:  
+Agents of the Imperium
+
+CALLIDUS ASSASSIN
+Anarchy flourishes in the wake of a Callidus Assassin’s deployment. 
+They use the shape-shifting drug polymorphine to insinuate 
+themselves close to their target, sabotaging systems and seeding 
+misinformation before closing on their victim with blasts of their 
+mind-destroying sidearm and flicks of their mysterious blade.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Callidus Assassin – Epic Hero
+This model is equipped with: neural shredder; phase sword 
+and poison blades.
+
+KEYWORDS: Infantry, Character, Epic Hero, Imperium, Callidus Assassin
+
+FACTION KEYWORDS:  
+Agents of the Imperium
+
+ROGUE TRADER ENTOURAGE
+
+M
+
+6"
+
+6"
+
+T
+
+3
+
+3
+
+SV
+
+4+
+
+4+
+
+W
+
+4
+
+2
+
+LD
+
+6+
+
+7+
+
+OC
+
+ROGUE TRADER
+
+1
+1 ROGUE TRADER 
+
+SPECIALIST
+
+RANGED WEAPONS
+Dartmask [ANTI-INFANTRY 2+, PISTOL, PRECISION]
+Household pistol [PISTOL, DEVASTATING WOUNDS]
+Laspistol [PISTOL]
+Voltaic pistol [PISTOL, SUSTAINED HITS 2]
+
+MELEE WEAPONS
+Close combat weapon 
+Death Cult power blade [PRECISION]
+Monomolecular cane-rapier 
+
+RANGE
+
+12"
+12"
+12"
+12"
+
+RANGE
+Melee
+Melee
+Melee
+
+A
+1
+2
+1
+3
+
+A
+1
+5
+4
+
+BS
+4+
+3+
+4+
+3+
+
+WS
+4+
+2+
+3+
+
+S
+2
+5
+3
+4
+
+S
+3
+4
+4
+
+AP
+-1
+-2
+0
+-2
+
+AP
+0
+-2
+-1
+
+D
+D3
+2
+1
+1
+
+D
+1
+1
+1
+
+ABILITIES
+
+CORE: Infiltrators, Leader
+
+FACTION: Assigned Agents
+
+Backroom Deals: While this unit is leading a unit, models in 
+that unit have the Infiltrators ability.
+Warrant of Trade: If your army includes one or more units with 
+this ability, after players have deployed, select D3 Imperium 
+Battleline units from your army and redeploy them. You can 
+use this ability to place those selected units into Strategic 
+Reserves, regardless of how many units are already in 
+Strategic Reserves. If both players have abilities that redeploy 
+units, roll off: the winner chooses who redeploys units first.
+
+WARGEAR ABILITIES
+
+Healing Serum: Models in the bearer’s unit have the 
+Feel No Pain 5+ ability.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS – ALL MODELS: Infantry, Grenades, Imperium, Navis Imperialis, 
+Retinue, Rogue Trader Entourage | ROGUE TRADER: Character
+
+FACTION KEYWORDS:  
+Agents of the Imperium
+
+ROGUE TRADER ENTOURAGE
+Rogue Traders are daring explorers, ruthless conquerors and cunning 
+merchants, exploring and exploiting the uncharted regions of the 
+galaxy in the name of the Imperium. Their families bear a Warrant of 
+Trade, which helps to identify them as Imperial elites. Some command 
+whole armadas, while others have only a small retinue of followers.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Rogue Trader
+ ■ 3 Rogue Trader Specialists
+The Rogue Trader is equipped with: household pistol; 
+monomolecular cane-rapier.
+One Rogue Trader Specialist is equipped with: dartmask; 
+Death Cult power blade.
+One other Rogue Trader Specialist is equipped with: voltaic 
+pistol; close combat weapon.
+One other Rogue Trader Specialist is equipped with: laspistol; 
+close combat weapon; healing serum.
+
+LEADER
+
+This unit can be attached to the following units:
+ ■ Imperial Navy Breachers
+ ■ Voidsmen-at-Arms
+
+KEYWORDS – ALL MODELS: Infantry, Grenades, Imperium, Navis Imperialis, 
+Retinue, Rogue Trader Entourage | ROGUE TRADER: Character
+
+FACTION KEYWORDS:  
+Agents of the Imperium
+
+VOIDSMEN-AT-ARMS
+
+M
+
+6"
+
+T
+
+3
+
+SV
+
+4+
+
+W
+
+1
+
+LD
+
+8+
+
+OC
+
+2
+
+RANGED WEAPONS
+Artificer shotgun [ASSAULT]
+Lasgun [RAPID FIRE 1]
+Laspistol [PISTOL]
+Voidsman rotor cannon [HEAVY, SUSTAINED HITS 1]
+
+MELEE WEAPONS
+Close combat weapon 
+Vicious bite 
+
+RANGE
+
+12"
+24"
+12"
+24"
+
+RANGE
+Melee
+Melee
+
+A
+2
+1
+1
+6
+
+A
+1
+3
+
+BS
+4+
+4+
+4+
+5+
+
+WS
+4+
+4+
+
+S
+4
+3
+3
+6
+
+S
+3
+4
+
+AP
+0
+0
+0
+0
+
+AP
+0
+0
+
+D
+2
+1
+1
+1
+
+D
+1
+1
+
+ABILITIES
+
+FACTION: Assigned Agents
+
+Masters of Close Confines: Each time a model in this unit 
+makes a ranged attack that targets the closest eligible target, 
+that attack has the [LETHAL HITS] ability.
+
+KEYWORDS:  Infantry, Battleline, Grenades, Imperium, Navis Imperialis, 
+
+Retinue, Voidsmen-at-Arms
+
+FACTION KEYWORDS:  
+Agents of the Imperium
+
+VOIDSMEN-AT-ARMS
+Voidsmen-at-Arms provide security on the ships of many Rogue 
+Traders. Well drilled and often well equipped, they are highly adept at 
+fighting in vessel corridors and other close-quarters environments.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Voidmaster
+ ■ 4-8 Voidsmen
+ ■ 0-1 Canid
+The Voidmaster is equipped with: artificer shotgun; laspistol; 
+close combat weapon.
+For every 5 models in this unit, 1 Voidsman is equipped with: 
+laspistol; Voidsman rotor cannon; close combat weapon.
+Every other Voidsman is equipped with: lasgun; laspistol; 
+close combat weapon.
+The Canid is equipped with: vicious bite.
+
+KEYWORDS:  Infantry, Battleline, Grenades, Imperium, Navis Imperialis, 
+
+Retinue, Voidsmen-at-Arms
+
+FACTION KEYWORDS:  
+Agents of the Imperium
+
+IMPERIAL NAVY BREACHERS
+
+M
+
+6"
+
+T
+
+3
+
+SV
+
+4+
+
+W
+
+1
+
+LD
+
+8+
+
+OC
+
+2
+
+A
+1
+1
+
+RANGE
+
+12"
+12"
+6"
+
+RANGED WEAPONS
+Autopistol [PISTOL]
+Bolt pistol [PISTOL]
+Demolition charge [ASSAULT, BLAST, HAZARDOUS, ONE SHOT]
+One Shot: The bearer can only shoot with this weapon once per battle.
+1
+Meltagun [MELTA 2]
+4
+Navis heavy shotgun [ASSAULT]
+Navis las-volley
+4
+2
+Navis shotgun [ASSAULT]
+1
+Plasma gun – standard [RAPID FIRE 1]
+Plasma gun – supercharge [HAZARDOUS , RAPID FIRE 1]
+1
+
+12"
+12"
+18"
+12"
+24"
+24"
+
+D6+3
+
+MELEE WEAPONS
+Chainfist [ANTI-VEHICLE 3+]
+Chainsword 
+Close combat weapon 
+Power weapon
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+
+A
+1
+3
+1
+2
+
+ABILITIES
+
+FACTION: Assigned Agents
+
+Breaching Team: Each time a model in this unit makes an 
+attack, re-roll a Wound roll of 1. If the target of that attack is 
+an enemy unit within range of an objective marker, you can 
+re-roll the Wound roll instead.
+
+WARGEAR ABILITIES
+
+Endurant Shield: The bearer has a 4+ invulnerable save.
+
+Grenade Belts: The bearer has the Smoke keyword, and 
+each time you select the bearer’s unit as the target of the 
+Grenade Stratagem, roll one additional D6 when resolving 
+that Stratagem.
+
+BS
+4+
+4+
+4+
+
+4+
+4+
+4+
+4+
+4+
+4+
+
+WS
+5+
+4+
+4+
+4+
+
+S
+3
+4
+12
+
+9
+4
+6
+4
+7
+8
+
+S
+6
+3
+3
+4
+
+AP
+0
+0
+-2
+
+-4
+0
+0
+0
+-1
+-2
+
+AP
+-2
+0
+0
+-2
+
+D
+1
+1
+2
+
+D6
+1
+1
+1
+1
+2
+
+D
+2
+1
+1
+1
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Infantry, Grenades, Imperium, Navis Imperialis, Retinue, 
+
+Imperial Navy Breachers
+
+FACTION KEYWORDS:  
+Agents of the Imperium
+
+IMPERIAL NAVY BREACHERS
+Experienced in hazardous boarding actions, these elite Armsmen are 
+aggressive and blunt instruments of their warship’s commander. They 
+wear fully enclosed void armour and wield robust weapons optimised 
+for close-confines fighting, while some carry more specialised gear for 
+cracking enemy bulkheads.
+
+WARGEAR OPTIONS
+
+ ■   The Navis Sergeant-at-Arms’ Navis shotgun can be replaced with one of the following: 
+
+ ◦ 1 autopistol and 1 chainsword
+ ◦ 1 bolt pistol and 1 power weapon
+
+ ■ 1 Navis Armsman’s Navis las-volley can be replaced with one of the following: 
+
+ ◦ 1 meltagun
+ ◦ 1 plasma gun
+
+ ■  1 Navis Armsman’s Navis shotgun can be replaced with 1 autopistol and 1 power weapon.
+ ■ 1 Navis Armsman’s Navis shotgun can be replaced with 1 autopistol and 1 chainfist.
+ ■ 1 Navis Armsman can be equipped with 1 demolition charge and 1 grenade belts.
+
+UNIT COMPOSITION
+
+ ■ 1 Navis Sergeant-at-Arms
+ ■ 9 Navis Armsmen
+One Navis Armsman is equipped with: Navis las-volley; close 
+combat weapon.
+One other Navis Armsman is equipped with: Navis heavy 
+shotgun; close combat weapon; endurant shield.
+Every other model is equipped with: Navis shotgun; close 
+combat weapon.
+
+KEYWORDS:  Infantry, Grenades, Imperium, Navis Imperialis, Retinue, 
+
+Imperial Navy Breachers
+
+FACTION KEYWORDS:  
+Agents of the Imperium
+
+SUBDUCTOR SQUAD
+
+M
+
+6"
+
+T
+
+3
+
+SV
+
+3+
+
+W
+
+1
+
+LD
+
+7+
+
+OC
+
+1
+
+RANGED WEAPONS
+Arbites shotpistol [PISTOL]
+
+MELEE WEAPONS
+Mechanical bite
+Shock maul 
+
+RANGE
+
+12"
+
+RANGE
+Melee
+Melee
+
+A
+1
+
+A
+3
+2
+
+BS
+4+
+
+WS
+4+
+4+
+
+S
+4
+
+S
+4
+4
+
+AP
+0
+
+AP
+0
+-1
+
+D
+1
+
+D
+1
+1
+
+ABILITIES
+
+FACTION: Assigned Agents
+
+Dedication to Duty: Each time a model in this unit is 
+destroyed by a melee attack, if that model has not fought this 
+phase, roll one D6: on a 4+, do not remove it from play. The 
+destroyed model can fight after the attacking model’s unit has 
+finished making its attacks, and is then removed from play.
+
+WARGEAR ABILITIES
+
+Nuncio Aquila (Aura): While an enemy unit is within 3" of the 
+bearer, each time that unit takes a Battle-shock test, subtract 
+1 from that test.
+
+INVULNERABLE SAVE*
+*Excluding the Cyber-mastiff.
+
+4+
+
+KEYWORDS: Infantry, Grenades, Imperium, Retinue, Subductor Squad
+
+FACTION KEYWORDS:  
+Agents of the Imperium
+
+SUBDUCTOR SQUAD
+Subductors possess one of the most recognisable – and 
+feared – silhouettes to the Imperium’s criminal classes. Bearing 
+Subjugation-pattern assault shields and crackling shock mauls, 
+they are brutal front-line brawlers capable of crushing the most 
+stubborn dissent.
+
+WARGEAR OPTIONS
+
+ ■  The Proctor-Subductor can be equipped with 1 nuncio aquila. 
+
+UNIT COMPOSITION
+
+ ■ 1 Proctor-Subductor
+ ■ 9 Subductors
+ ■ 0-1 Cyber-mastiff
+Every Proctor-Subductor and Subductor is equipped with: 
+Arbites shotpistol; shock maul.
+The Cyber-mastiff is equipped with: mechanical bite.
+
+KEYWORDS: Infantry, Grenades, Imperium, Retinue, Subductor Squad
+
+FACTION KEYWORDS:  
+Agents of the Imperium
+
+EXACTION SQUAD
+
+M
+
+6"
+
+T
+
+3
+
+SV
+
+4+
+
+W
+
+1
+
+LD
+
+7+
+
+OC
+
+1
+
+RANGED WEAPONS
+Arbites combat shotgun [ASSAULT]
+Arbites grenade launcher – frag [BLAST]
+Arbites grenade launcher – krak
+Arbites shotpistol [PISTOL]
+Executioner shotgun [IGNORES COVER, PRECISION]
+Heavy stubber [RAPID FIRE 3] 
+Webber [ASSAULT, DEVASTATING WOUNDS, TORRENT]
+
+MELEE WEAPONS
+Close combat weapon 
+Excruciator maul 
+Mechanical bite
+
+RANGE
+
+18"
+24"
+24"
+12"
+24"
+36"
+12"
+
+RANGE
+Melee
+Melee
+Melee
+
+A
+2
+D3
+1
+1
+1
+3
+D6
+
+A
+2
+2
+3
+
+BS
+4+
+4+
+4+
+4+
+4+
+4+
+N/A
+
+WS
+4+
+3+
+4+
+
+S
+4
+4
+9
+4
+5
+4
+2
+
+S
+3
+4
+4
+
+AP
+0
+0
+-2
+0
+-1
+0
+0
+
+AP
+0
+-1
+0
+
+D
+1
+1
+D3
+1
+1
+1
+1
+
+D
+1
+2
+1
+
+ABILITIES
+
+FACTION: Assigned Agents
+
+Imperial Law: At the start of the first battle round, select one 
+enemy unit to be this unit’s quarry. Each time a model in 
+this unit makes an attack that targets its quarry, add 1 to the 
+Hit roll.
+
+WARGEAR ABILITIES
+
+Arbites Medi-kit: Models in the bearer’s unit have the 
+Feel No Pain 5+ ability. 
+
+Nuncio Aquila (Aura): While an enemy unit is within 3" of the 
+bearer, each time that unit takes a Battle-shock test, subtract 
+1 from that test.
+
+Soulguilt Scanner: Ranged weapons equipped by models in 
+the bearer’s unit have the [IGNORES COVER] ability.
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Infantry, Grenades, Imperium, Retinue, Exaction Squad
+
+FACTION KEYWORDS:  
+Agents of the Imperium
+
+EXACTION SQUAD
+The most experienced and level-headed Arbitrators form Exaction 
+Squads to hunt down and seize dangerous transgressors alive. 
+They do not hesitate to crush any who stand in their way, ruthlessly 
+bludgeoning them or cutting them down in blazes of heavy firepower, 
+never halting until their target is in custody.
+
+WARGEAR OPTIONS
+
+ ■     For every 5 models in this unit, up to 2 Exaction Vigilants can each have their Arbites combat 
+
+shotguns replaced with one of the following (duplicates are not allowed): 
+ ◦ 1 executioner shotgun
+ ◦ 1 Arbites grenade launcher
+ ◦ 1 heavy stubber
+ ◦ 1 webber
+
+ ■  1 Exaction Vigilant that is equipped with an Arbites combat shotgun can be equipped with 1 
+
+excruciator maul.*
+
+ ■  1 other Exaction Vigilant that is equipped with an Arbites combat shotgun can be equipped with 1 
+
+Arbites medi-kit.*
+
+ ■  1 other Exaction Vigilant that is equipped with an Arbites combat shotgun can be equipped with 1 
+
+soulguilt scanner.*
+
+ ■ The Proctor-Exactant can be equipped with 1 nuncio aquila.
+*  That model’s Arbites combat shotgun cannot be replaced.
+
+UNIT COMPOSITION
+
+ ■ 1 Proctor-Exactant
+ ■ 4-9 Exaction Vigilants
+ ■ 0-1 Cyber-mastiff
+Every Proctor-Exactant and Exaction Vigilant is equipped 
+with: Arbites combat shotgun; Arbites shotpistol; close 
+combat weapon.
+The Cyber-mastiff is equipped with: mechanical bite.
+
+KEYWORDS: Infantry, Grenades, Imperium, Retinue, Exaction Squad
+
+FACTION KEYWORDS:  
+Agents of the Imperium
+
+VIGILANT SQUAD
+
+M
+
+6"
+
+T
+
+3
+
+SV
+
+4+
+
+W
+
+1
+
+LD
+
+7+
+
+OC
+
+2
+
+RANGED WEAPONS
+Arbites combat shotgun [ASSAULT]
+Arbites grenade launcher – frag [BLAST]
+Arbites grenade launcher – krak
+Arbites shotpistol [PISTOL]
+Executioner shotgun [IGNORES COVER, PRECISION]
+Heavy stubber [RAPID FIRE 3]
+Webber [ASSAULT, DEVASTATING WOUNDS, TORRENT]
+
+MELEE WEAPONS
+Close combat weapon 
+Mechanical bite
+
+RANGE
+
+18"
+24"
+24"
+12"
+24"
+36"
+12"
+
+RANGE
+Melee
+Melee
+
+A
+2
+D3
+1
+1
+1
+3
+D6
+
+A
+2
+3
+
+BS
+4+
+4+
+4+
+4+
+4+
+4+
+N/A
+
+WS
+4+
+4+
+
+S
+4
+4
+9
+4
+5
+4
+2
+
+S
+3
+4
+
+AP
+0
+0
+-2
+0
+-1
+0
+0
+
+AP
+0
+0
+
+D
+1
+1
+D3
+1
+1
+1
+1
+
+D
+1
+1
+
+ABILITIES
+
+FACTION: Assigned Agents
+
+Merciless Judgement: Each time a model in this unit makes 
+a ranged attack that targets a unit that is Below Half-strength, 
+add 1 to the Wound roll.
+
+WARGEAR ABILITIES
+
+Nuncio Aquila (Aura): While an enemy unit is within 3" of the 
+bearer, each time that unit takes a Battle-shock test, subtract 
+1 from that test.
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Infantry, Battleline, Grenades, Imperium, Retinue, Vigilant Squad
+
+FACTION KEYWORDS:  
+Agents of the Imperium
+
+VIGILANT SQUAD
+Vigilants brutally sweep the guilty from existence with the signature 
+combat shotgun of the Adeptus Arbites. These grim Arbitrators are ever 
+alert to malfeasance and unwavering in its punishment, unleashing 
+devastating blasts at close range.
+
+WARGEAR OPTIONS
+
+ ■   Up to 2 Vigilants can each have their Arbites combat shotgun replaced with one of the following 
+
+(duplicates are not allowed): 
+ ◦ 1 executioner shotgun
+ ◦ 1 Arbites grenade launcher
+ ◦ 1 heavy stubber
+ ◦ 1 webber
+
+ ■  The Proctor-Vigilant can be equipped with 1 nuncio aquila. 
+
+UNIT COMPOSITION
+
+ ■ 1 Proctor-Vigilant
+ ■ 9 Vigilants
+ ■ 0-1 Cyber-mastiff
+Every Proctor-Vigilant and Vigilant is equipped with: Arbites 
+combat shotgun; Arbites shotpistol; close combat weapon.
+The Cyber-mastiff is equipped with: mechanical bite.
+
+KEYWORDS: Infantry, Battleline, Grenades, Imperium, Retinue, Vigilant Squad
+
+FACTION KEYWORDS:  
+Agents of the Imperium
+
+LORD INQUISITOR KYRIA DRAXUS
+
+M
+
+6"
+
+T
+
+3
+
+SV
+
+3+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Dirgesinger 
+[ANTI-INFANTRY 4+, DEVASTATING WOUNDS, ASSAULT]
+Psychic Tempest 
+[INDIRECT FIRE, PSYCHIC, SUSTAINED HITS 2]
+
+MELEE WEAPONS
+Power fist 
+
+RANGE
+
+18"
+
+18"
+
+RANGE
+Melee
+
+A
+
+4
+
+6
+
+A
+3
+
+BS
+
+3+
+
+3+
+
+WS
+3+
+
+S
+
+4
+
+6
+
+S
+6
+
+AP
+
+0
+
+0
+
+AP
+-2
+
+D
+
+2
+
+2
+
+D
+2
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Assigned Agents
+
+Authority of the Inquisition: While this model is leading a 
+unit, it can embark within any Transport that its Bodyguard 
+unit can embark within.
+Xenos Hunter: While this model is leading a unit, each time a 
+model in that unit makes an attack that targets an enemy unit 
+(excluding Imperium and Chaos units), add 1 to the Hit roll.
+Psychic Veil (Psychic): In your Command phase, this Psyker 
+can use this ability. If it does, roll one D6: on a 1, this Psyker’s 
+unit suffers D3 mortal wounds; on a 2+, until the start of your 
+next Command phase, this Psyker’s unit can only be selected 
+as the target of a ranged attack if the attacking model is 
+within 18".
+
+INVULNERABLE SAVE
+
+5+
+
+KEYWORDS:  Infantry, Character, Epic Hero, Psyker, Grenades, Imperium, 
+
+Inquisitor, Lord Inquisitor Kyria Draxus
+
+FACTION KEYWORDS:  
+Agents of the Imperium
+
+LORD INQUISITOR KYRIA DRAXUS
+An audacious and committed Ordo Xenos Inquisitor, Kyria Draxus is a 
+specialist in hunting Necrons. Radical in her outlook, she accepts the 
+necessity of working with some aliens to protect the Imperium. She 
+has learned about the Necrons from the Aeldari and honed her psychic 
+abilities through xenos, as well as Human, tuition.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Lord Inquisitor Kyria Draxus – Epic Hero
+This model is equipped with: Dirgesinger; Psychic Tempest; 
+power fist.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Imperium Battleline Infantry
+ ■ Inquisitorial Henchmen
+
+KEYWORDS:  Infantry, Character, Epic Hero, Psyker, Grenades, Imperium, 
+
+Inquisitor, Lord Inquisitor Kyria Draxus
+
+FACTION KEYWORDS:  
+Agents of the Imperium
+
+INQUISITOR COTEAZ
+
+M
+
+6"
+
+T
+
+3
+
+SV
+
+2+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+Psychic Blast 
+[ANTI-INFANTRY 4+, DEVASTATING WOUNDS, PSYCHIC]
+
+MELEE WEAPONS
+Nemesis daemon hammer [PSYCHIC]
+
+RANGE
+
+12"
+
+18"
+
+RANGE
+Melee
+
+A
+1
+
+D6
+
+A
+3
+
+BS
+3+
+
+3+
+
+WS
+3+
+
+S
+4
+
+3
+
+S
+9
+
+AP
+0
+
+-1
+
+AP
+-3
+
+D
+1
+
+2
+
+D
+3
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Assigned Agents
+
+Authority of the Inquisition: While this model is leading a 
+unit, it can embark within any Transport that its Bodyguard 
+unit can embark within.
+Malefic Wardings (Psychic): While this model is leading 
+a unit, models in that unit have the Feel No Pain 5+ 
+ability against Psychic Attacks and attacks made by 
+Daemon models.
+Spy Network: Each time your opponent gains a CP as the 
+result of an ability, roll one D6: on a 2+, you also gain 1CP.
+
+INVULNERABLE SAVE
+
+5+
+
+KEYWORDS:  Infantry, Character, Epic Hero, Psyker, Imperium, 
+
+Inquisitor, Coteaz
+
+FACTION KEYWORDS:  
+Agents of the Imperium
+
+INQUISITOR COTEAZ
+A puritan of the Ordo Malleus, Inquisitor Coteaz spends every waking 
+moment studying reports made by his countless agents, or facing 
+down daemons, heretics and aliens in open battle. He refuses to 
+harness the power of the warp for his own ends, wiedling it instead to 
+combat the daemonic and prosecute those who lack purity.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Inquisitor Coteaz – Epic Hero
+This model is equipped with: bolt pistol; Psychic Blast; 
+Nemesis daemon hammer.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Imperium Battleline Infantry
+ ■ Inquisitorial Henchmen
+
+KEYWORDS:  Infantry, Character, Epic Hero, Psyker, Imperium, 
+
+Inquisitor, Coteaz
+
+FACTION KEYWORDS:  
+Agents of the Imperium
+
+INQUISITOR GREYFAX
+
+M
+
+6"
+
+T
+
+3
+
+SV
+
+3+
+
+W
+
+4
+
+LD
+
+4+
+
+OC
+
+1
+
+RANGED WEAPONS
+Castigation 
+[ANTI-CHARACTER 4+, DEVASTATING WOUNDS, PRECISION, 
+PSYCHIC]
+Condemnor stake 
+[ANTI-PSYKER 2+, DEVASTATING WOUNDS, PRECISION, RAPID 
+FIRE 1]
+
+MELEE WEAPONS
+Master-crafted power sword 
+
+RANGE
+
+18"
+
+24"
+
+RANGE
+Melee
+
+A
+
+1
+
+1
+
+A
+4
+
+BS
+
+3+
+
+3+
+
+WS
+3+
+
+S
+
+8
+
+4
+
+S
+4
+
+AP
+
+-2
+
+0
+
+AP
+-2
+
+D
+
+3
+
+1
+
+D
+2
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Assigned Agents
+
+Authority of the Inquisition: While this model is leading a 
+unit, it can embark within any Transport that its Bodyguard 
+unit can embark within.
+Psyoculum: While this model is leading a unit, ranged 
+weapons equipped by models in that unit have the 
+[ANTI-PSYKER 4+] ability.
+No Escape: Each time an enemy unit (excluding Monster 
+and Vehicle units) that is within Engagement Range of one or 
+more units with this ability is selected to Fall Back, models in 
+that enemy unit must take Desperate Escape tests as if their 
+unit was Battle-shocked. When doing so, if that enemy unit is 
+also Battle-shocked by other means, subtract 1 from each of 
+those Desperate Escape tests.
+
+INVULNERABLE SAVE
+
+5+
+
+KEYWORDS:  Infantry, Character, Epic Hero, Psyker, Grenades, Imperium, 
+
+Inquisitor, Greyfax
+
+FACTION KEYWORDS:  
+Agents of the Imperium
+
+INQUISITOR GREYFAX
+Inquisitor Greyfax is feared even by many in her own order, the Ordo 
+Hereticus. Devoid of mercy or remorse, she is an iron-willed warrior. 
+She is also a powerful psyker, with telepathic abilities that enable her 
+to detect lies in those she questions. Some brand Greyfax a dangerous 
+radical for this, but her commitment to the Imperium is undeniable.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Inquisitor Greyfax – Epic Hero
+This model is equipped with: Castigation; condemnor stake; 
+master-crafter power sword.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Imperium Battleline Infantry
+ ■ Inquisitorial Henchmen
+
+KEYWORDS:  Infantry, Character, Epic Hero, Psyker, Grenades, Imperium, 
+
+Inquisitor, Greyfax
+
+FACTION KEYWORDS:  
+Agents of the Imperium
+
+INQUISITOR KARAMAZOV
+
+M
+
+5"
+
+T
+
+8
+
+SV
+
+3+
+
+W
+
+9
+
+LD
+
+6+
+
+OC
+
+3
+
+RANGED WEAPONS
+Master-crafted multi-melta [MELTA 3]
+
+MELEE WEAPONS
+Master-crafted power sword 
+
+RANGE
+
+18"
+
+RANGE
+Melee
+
+A
+3
+
+A
+6
+
+BS
+3+
+
+WS
+3+
+
+S
+10
+
+S
+6
+
+AP
+-4
+
+AP
+-2
+
+D
+D6
+
+D
+2
+
+ABILITIES
+
+CORE: Deadly Demise 1
+
+FACTION: Assigned Agents
+
+Throne of Judgement (Aura): While a friendly unit is within 
+6" of this model, add 1 to Battle-shock and Leadership tests 
+taken for that unit. While an enemy unit is within 6" of this 
+model, subtract 1 from Battle-shock and Leadership tests 
+taken for that enemy unit.
+Dread Reputation: At the start of your Shooting phase, select 
+one enemy unit within 12" of this model. That unit must take a 
+Battle-shock test.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Vehicle, Walker, Character, Epic Hero, Imperium, Inquisitor, 
+
+Karamazov
+
+FACTION KEYWORDS:  
+Agents of the Imperium
+
+INQUISITOR KARAMAZOV
+Inquisitor Karamazov is amongst the most ruthless and 
+uncompromising of the Ordo Hereticus. His actions have no guile or 
+subterfuge, and he has no time for clemency. Karamazov has led vast 
+crusading armies, as well as presided over the trials of heretics from 
+his Throne of Judgement – an ancient bipedal battle-shrine.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Inquisitor Karamazov – Epic Hero
+This model is equipped with: master-crafted multi-melta; 
+master-crafted power sword.
+
+KEYWORDS:  Vehicle, Walker, Character, Epic Hero, Imperium, Inquisitor, 
+
+Karamazov
+
+FACTION KEYWORDS:  
+Agents of the Imperium
+
+INQUISITOR
+
+M
+
+6"
+
+T
+
+3
+
+SV
+
+4+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+Combi-weapon 
+[ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]
+Psychic Shock Wave 
+[DEVASTATING WOUNDS, PSYCHIC, TORRENT]
+
+MELEE WEAPONS
+Inquisitorial melee weapon 
+Force weapon [PSYCHIC]
+
+RANGE
+
+12"
+
+24"
+
+18"
+
+RANGE
+Melee
+Melee
+
+A
+1
+
+1
+
+2D6
+
+A
+5
+4
+
+BS
+3+
+
+3+
+
+N/A
+
+WS
+3+
+3+
+
+S
+4
+
+4
+
+3
+
+S
+4
+5
+
+AP
+0
+
+-2
+
+-1
+
+AP
+-2
+-2
+
+D
+1
+
+1
+
+1
+
+D
+1
+D3
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Assigned Agents
+
+Authority of the Inquisition: While this model is leading a 
+unit, it can embark within any Transport that its Bodyguard 
+unit can embark within.
+Power of the Rosette: Each time you target this model’s unit 
+with a Stratagem, roll one D6: on a 3+, you gain 1CP.
+
+WARGEAR ABILITIES
+
+Blessed Wardings: While this model is leading a unit, 
+models in that unit have the Feel No Pain 5+ ability against 
+mortal wounds.
+
+Psychic Gifts: The bearer has the Psyker keyword.  
+
+INVULNERABLE SAVE
+
+5+
+
+KEYWORDS:  Infantry, Character, Grenades, Imperium, Inquisitor
+
+FACTION KEYWORDS:  
+Agents of the Imperium
+
+INQUISITOR
+It is the Inquisitors’ task to investigate xenos plots, corruption, 
+mutation, heresy, cults, rogue psykers and anything else they deem 
+worthy of scrutiny. Such is their power, nothing is beyond their 
+authority and no one is beyond their justice. If they deem it necessary, 
+they can order the destruction of entire worlds.
+
+WARGEAR OPTIONS
+
+ ■   This model’s bolt pistol can be replaced with 1 combi-weapon.
+ ■  This model’s blessed wardings can be replaced with 1 psychic gifts and 1 Psychic Shock Wave.
+ ■  If this model is equipped with 1 psychic gifts, its Inquisitorial melee weapon can be replaced with 1 
+
+force weapon.
+
+UNIT COMPOSITION
+
+ ■ 1 Inquisitor
+This model is equipped with: bolt pistol; Inquisitorial melee 
+weapon; blessed wardings.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Imperium Battleline Infantry
+ ■ Inquisitorial Henchmen
+
+KEYWORDS:  Infantry, Character, Grenades, Imperium, Inquisitor
+
+FACTION KEYWORDS:  
+Agents of the Imperium
+
+INQUISITOR EISENHORN
+
+M
+
+6"
+
+T
+
+3
+
+SV
+
+4+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Artificer bolt pistol 
+Mind Assault 
+[DEVASTATING WOUNDS, PRECISION, PSYCHIC, SUSTAINED HITS 1]
+
+MELEE WEAPONS
+Runestaff and Barbarisater [PSYCHIC]
+
+RANGE
+
+12"
+
+18"
+
+RANGE
+Melee
+
+A
+4
+
+2
+
+A
+5
+
+BS
+3+
+
+3+
+
+WS
+3+
+
+S
+4
+
+5
+
+S
+6
+
+AP
+0
+
+-2
+
+AP
+-2
+
+D
+2
+
+3
+
+D
+2
+
+ABILITIES
+
+CORE: Feel No Pain 6+, Leader
+
+FACTION: Assigned Agents
+
+Authority of the Inquisition: While this model is leading a 
+unit, it can embark within any Transport that its Bodyguard 
+unit can embark within.
+Malus Codicium: While this model is leading a unit, double the 
+Attacks characteristic of weapons equipped by Daemonhost 
+models in that unit.
+Dominate Will (Psychic): At the start of your opponent’s 
+Shooting phase, select one enemy Infantry unit that is 
+within 12" of and visible to this model and roll one D6: on a 1, 
+this model suffers D3 mortal wounds; on a 2-5, until the end 
+of the phase, each time a model in that unit makes an attack, 
+subtract 1 from the Hit roll; on a 6, until the end of the phase, 
+that unit is not eligible to shoot.
+
+INVULNERABLE SAVE
+
+5+
+
+KEYWORDS:  Infantry, Character, Epic Hero, Psyker, Grenades, Imperium, 
+
+Inquisitor, Eisenhorn
+
+FACTION KEYWORDS:  
+Agents of the Imperium
+
+INQUISITOR EISENHORN
+Inquisitor Eisenhorn of the Ordo Xenos is a man of great willpower and 
+resolve. He will go to any lengths to preserve the Imperium, and for his 
+actions has been declared a traitor twice – he was found to be loyal on 
+both occasions. Eisenhorn is also a potent telepath, with the power to 
+compel individuals, or even groups, to follow his instructions.
+
+WARGEAR OPTIONS
+
+ ■ None
+
+UNIT COMPOSITION
+
+ ■ 1 Inquisitor Eisenhorn – Epic Hero
+This model is equipped with: artificer bolt pistol; Mind Assault; 
+runestaff and Barbarisater
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Imperium Battleline Infantry
+ ■ Inquisitorial Henchmen
+
+KEYWORDS:  Infantry, Character, Epic Hero, Psyker, Grenades, Imperium, 
+
+Inquisitor, Eisenhorn
+
+FACTION KEYWORDS:  
+Agents of the Imperium
+
+INQUISITORIAL HENCHMEN
+
+M
+
+6"
+
+T
+
+3
+
+SV
+
+5+
+
+W
+
+2
+
+LD
+
+7+
+
+OC
+
+1
+
+RANGED WEAPONS
+Acolyte firearm [PISTOL]
+Heavy bolter [HEAVY, SUSTAINED HITS 1]
+Jokaero weapons 
+Multi-melta [HEAVY, MELTA 2]
+Plasma cannon – standard [HEAVY, BLAST]
+Plasma cannon – supercharge 
+[BLAST, HAZARDOUS, HEAVY]
+Plasma pistol – standard [PISTOL]
+Plasma pistol – supercharge [HAZARDOUS , PISTOL]
+Unholy Gaze [PSYCHIC, SUSTAINED HITS D3]
+
+MELEE WEAPONS
+Acolyte melee weapon
+Eviscerator [DEVASTATING WOUNDS]
+Warp grasp [PSYCHIC]
+
+RANGE
+
+12"
+36"
+18"
+18"
+36"
+
+36"
+
+12"
+12"
+18"
+
+RANGE
+Melee
+Melee
+Melee
+
+A
+1
+3
+3
+2
+D3
+
+D3
+
+1
+1
+1
+
+A
+3
+2
+4
+
+BS
+4+
+5+
+3+
+5+
+5+
+
+5+
+
+4+
+4+
+4+
+
+WS
+4+
+4+
+4+
+
+S
+4
+5
+6
+9
+7
+
+8
+
+7
+8
+9
+
+S
+3
+6
+6
+
+AP
+-1
+-1
+-1
+-4
+-1
+
+-2
+
+-1
+-2
+-2
+
+AP
+0
+-2
+-2
+
+D
+1
+2
+2
+D6
+1
+
+2
+
+1
+2
+3
+
+D
+1
+2
+1
+
+ABILITIES
+
+FACTION: Assigned Agents
+
+Acolytes: While an Inquisitor model is leading this unit, each 
+time an attack is made against this unit, subtract 1 from the 
+Wound roll.
+Mystics: While an Inquisitor model is leading this 
+unit, enemy units that are set up on the battlefield as 
+Reinforcements cannot be set up within 12” of one or more of 
+this unit’s Mystic models.
+Jokaero: While an Inquisitor model is leading this unit, if 
+it contains a Jokaero model, each time a model in this unit 
+makes a ranged attack, add 1 to the Wound roll.
+Daemonhost: While an Inquisitor model is leading this unit, 
+if it contains a Daemonhost model, models in this unit have a 
+5+ invulnerable save.
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Infantry, Grenades, Imperium, Retinue, Inquisitorial Henchmen
+
+FACTION KEYWORDS:  
+Agents of the Imperium
+
+INQUISITORIAL HENCHMEN
+To aid them in their esoteric and complex missions, many Inquisitors 
+maintain retinues of select individuals of rare talent, skill and power. 
+Motley collections of fighters, fanatics, savants and psykers, they 
+work ceaselessly in the shadows to protect the Imperium.
+
+WARGEAR OPTIONS
+
+ ■ 1 Inquisitorial Acolyte can be equipped with 1 plasma pistol.
+ ■ 1 Inquisitorial Acolyte can be equipped with 1 eviscerator.
+ ■ 1 Gun Servitor’s heavy bolter can be replaced with one of the following: 
+
+ ◦ 1 multi-melta
+ ◦ 1 plasma cannon
+
+UNIT COMPOSITION
+
+ ■ 4-10 Inquisitorial Acolytes
+ ■ 0-2 Gun Servitors
+ ■ 0-2 Mystics
+ ■ 0-1 Jokaero Weaponsmith
+ ■ 0-1 Daemonhost
+Every Inquisitorial Acolyte is equipped with: Acolyte firearm; 
+Acolyte melee weapon.
+Every Gun Servitor is equipped with: heavy bolter; Acolyte 
+melee weapon.
+Every Mystic is equipped with: Acolyte firearm; Acolyte 
+melee weapon.
+A Jokaero Weaponsmith is equipped with: Jokaero weapons; 
+Acolyte melee weapon.
+A Daemonhost is equipped with: Unholy Gaze; warp grasp.
+
+KEYWORDS:  Infantry, Grenades, Imperium, Retinue, Inquisitorial Henchmen
+
+FACTION KEYWORDS:  
+Agents of the Imperium
+
+

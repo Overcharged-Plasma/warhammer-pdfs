@@ -1,0 +1,5188 @@
+TYRANIDS
+ARMY RULES
+
+SYNAPSE
+Some Tyranids serve as synaptic conduits or nodal 
+relays through which a portion of the Hive Mind’s 
+iron will flows, overriding the natural instincts of the 
+swarm to direct the teeming warrior-beasts to function 
+as a single, gestalt organism on the battlefield. 
+
+If your Army Faction is Tyranids, while a Tyranids 
+unit from your army is within 6" of one or more 
+Synapse models from your army, that unit is said to 
+be within Synapse Range of your army. Each time a 
+Tyranids unit from your army takes a Battle-shock 
+test, if it is within Synapse Range of your army, take 
+that test on 3D6 instead of 2D6.
+
+SHADOW IN THE WARP
+Tyranids flood the battlefield with the psychic 
+signature of the hive fleet, an icy, alien dread that 
+gnaws at the minds of their prey and smothers even 
+the most stalwart courage. When faced with such 
+unfathomable horror, many are driven insane or suffer 
+catastrophic neural damage.
+
+If your Army Faction is Tyranids, once per battle, in 
+either player’s Command phase, if one or more units 
+from your army with this ability are on the battlefield, 
+you can unleash the Shadow in the Warp. When you 
+do, each enemy unit on the battlefield must take a 
+Battle-shock test. 
+
+TYRANIDS – INVASION FLEET
+DETACHMENT RULE
+
+If your Army Faction is Tyranids, you can use this 
+Invasion Fleet Detachment rule. 
+
+HYPER-ADAPTATIONS
+Every warrior organism in the Tyranid race is 
+fashioned by the ineffable alien will of the Hive Mind. 
+Their flesh and chitin is endlessly mutable, honed into 
+whatever form will prove most lethal to the prey.
+
+At the start of the first battle round, select one of the 
+following Hyper-adaptations to be active for Tyranids 
+units from your army until the end of the battle:
+
+ SWARMING INSTINCTS 
+Each time a Tyranids model with this 
+Hyper-adaptation makes an attack that targets an 
+enemy Infantry or Swarm unit, that attack has the 
+[SUSTAINED HITS 1] ability.
+
+ HYPER-AGGRESSION 
+Each time a Tyranids model with this 
+Hyper-adaptation makes an attack that targets an 
+enemy Monster or Vehicle unit, that attack has the 
+[LETHAL HITS] ability.
+
+ HIVE PREDATORS 
+Each time a Tyranids model with this 
+Hyper-adaptation makes an attack that targets an 
+enemy Character unit, if a Critical Hit is scored, that 
+attack has the [PRECISION] ability.
+
+TYRANIDS – INVASION FLEET
+STRATAGEMS
+
+If you are using the Invasion Fleet Detachment rule, you can use these Invasion Fleet Stratagems.
+
+1CP
+
+1CP
+
+RAPID REGENERATION
+INVASION FLEET – BATTLE TACTIC STRATAGEM
+
+Prey stare in horror as chitinous 
+armour regrows and flesh, muscle and 
+sinew knots back together as though 
+never harmed.
+
+WHEN: Your opponent’s Shooting phase or 
+the Fight phase, just after an enemy unit 
+has selected its targets.
+TARGET: One Tyranids unit from your 
+army that was selected as the target of 
+one or more of the attacking unit’s attacks.
+EFFECT: Until the end of the phase, 
+models in your unit have the 
+Feel No Pain 6+ ability. If your unit is 
+within Synapse Range of your army, until 
+the end of the phase, models in your unit 
+have the Feel No Pain 5+ ability instead.
+
+DEATH FRENZY
+INVASION FLEET – STRATEGIC PLOY STRATAGEM
+
+Tyranids care nothing for self-
+preservation, lashing out even in death.
+
+WHEN: Fight phase, just after an enemy 
+unit has selected its targets.
+TARGET: One Tyranids unit from your 
+army that was selected as the target of 
+one or more of the attacking unit’s attacks.
+EFFECT: Until the end of the phase, each 
+time a model in your unit is destroyed, if 
+that model has not fought this phase, roll 
+one D6: on a 4+, do not remove it from 
+play. The destroyed model can fight after 
+the attacking model’s unit has finished 
+making attacks, and is then removed 
+from play.
+
+2CP
+
+1CP
+
+ADRENAL SURGE
+INVASION FLEET – BATTLE TACTIC STRATAGEM
+
+These warrior organisms destroy all as 
+their adrenaline surges.
+
+WHEN: Fight phase.
+TARGET: Up to two Tyranids units from 
+your army that are within Synapse Range 
+of your army and are eligible to fight, or 
+one other Tyranids unit from your army 
+that is eligible to fight.
+EFFECT: Until the end of the phase, each 
+time a model in one of those selected 
+units makes an attack, a successful 
+unmodified Hit roll of 5+ scores a 
+Critical Hit.
+
+OVERRUN
+INVASION FLEET – STRATEGIC PLOY STRATAGEM
+
+Tyranids are an unstoppable avalanche of 
+flesh and chitin.
+
+WHEN: Fight phase, just before a Tyranids 
+unit from your army Consolidates.
+TARGET: That Tyranids unit.
+EFFECT: Until the end of the phase, 
+each time a model in your unit makes a 
+Consolidation move, it can move up to 
+6" instead of up to 3", provided your unit 
+can end its Consolidation move in Unit 
+Coherency and within Engagement Range 
+of one or more enemy units. If your unit 
+is within Synapse Range of your army 
+and not within Engagement Range of 
+any enemy units, instead of making that 
+Consolidation move, it can instead make a 
+Normal move of up to 6".
+
+TYRANIDS – INVASION FLEET
+STRATAGEMS
+
+If you are using the Invasion Fleet Detachment rule, you can use these Invasion Fleet Stratagems.
+
+1CP
+
+ENDLESS SWARM
+INVASION FLEET – STRATEGIC PLOY STRATAGEM
+
+As the battle rages, more organisms pour 
+in to bolster the swarms.
+
+WHEN: Your Command phase.
+TARGET: Up to two Endless Multitude 
+units from your army that are within 
+Synapse Range of your army, or one other 
+Endless Multitude unit from your army.
+EFFECT: Up to D3+3 destroyed models are 
+returned to each of the selected units.
+
+1CP
+
+SYNAPTIC INSIGHT
+INVASION FLEET – STRATEGIC PLOY STRATAGEM
+
+Guided by the instincts of leader-beasts, 
+a portion of the swarm can be tasked with 
+focusing its hunting instincts to destroy a 
+particular foe.
+
+WHEN: Your Command phase.
+TARGET: Up to two Tyranids units from 
+your army that are within Synapse Range 
+of your army, or one other Tyranids unit 
+from your army.
+EFFECT: Select one Hyper-adaptation. 
+Until the end of the battle round, that 
+hyper-adaptation is active for those 
+selected units in addition to any other that 
+may be active for your army.
+RESTRICTIONS: You cannot select the 
+same hyper-adaptation you selected at 
+the start of the first battle round.
+
+TYRANIDS – INVASION FLEET
+ENHANCEMENTS
+
+If you are using the Invasion Fleet Detachment rule, you can use these Invasion Fleet Enhancements.
+ALIEN CUNNING
+This leader-beast possesses highly sophisticated 
+neural pathways, allowing it to identify priority 
+strategic assets and adapt the position of its 
+warriors to seize them before the foe even recognise 
+their value.
+
+SYNAPTIC LINCHPIN
+With a cerebral cortex that pulsates with the 
+irresistible power of the Hive Mind, this leader acts as 
+a blazing synaptic beacon to the lesser creatures of 
+the swarm, the better to direct their actions and react 
+to the ever-changing state of battle.
+
+Tyranids model only. After both players have 
+deployed their armies, select up to three Tyranids 
+units from your army and redeploy them. When doing 
+so, you can set those units up in Strategic Reserves if 
+you wish, regardless of how many units are already in 
+Strategic Reserves.
+PERFECTLY ADAPTED
+This creature was created for one purpose: to 
+completely eradicate the defenders of the target 
+prey world.
+
+Tyranids model only. Once per turn, you can re-roll 
+one Hit roll, one Wound roll, one Damage roll, one 
+Advance roll, one Charge roll or one saving throw 
+made for the bearer.
+
+Tyranids model only. While a friendly Tyranids unit 
+is within 9" of the bearer, that unit is within Synapse 
+Range of your army.
+ADAPTIVE BIOLOGY
+The same weapon rarely works against this 
+leader-beast twice, as its alien physiology adapts at 
+an astonishing rate to counter the attacks of the foe.
+
+Tyranids model only. The bearer has the Feel No Pain 
+5+ ability. At the start of any turn, if the bearer has 
+fewer than its starting number of wounds remaining, 
+until the end of the battle, it has the Feel No Pain 4+ 
+ability instead.
+
+WINGED HIVE TYRANT
+
+M
+
+12"
+
+T
+
+9
+
+SV
+
+2+
+
+W
+
+10
+
+LD
+
+7+
+
+OC
+
+3
+
+RANGED WEAPONS
+Heavy venom cannon [BLAST]
+Stranglethorn cannon [BLAST]
+
+MELEE WEAPONS
+Monstrous bonesword and lash whip [TWIN-LINKED]
+Monstrous scything talons [EXTRA ATTACKS]
+Tyrant talons 
+
+RANGE
+
+36"
+36"
+
+RANGE
+Melee
+Melee
+Melee
+
+A
+D3
+D6+1
+
+A
+6
+4
+5
+
+BS
+2+
+2+
+
+WS
+2+
+2+
+2+
+
+S
+9
+7
+
+S
+9
+7
+7
+
+AP
+-2
+-1
+
+AP
+-2
+-2
+-2
+
+D
+3
+2
+
+D
+3
+2
+2
+
+ABILITIES
+
+CORE: Deadly Demise D3, Deep Strike
+
+FACTION: Shadow in the Warp, Synapse
+
+Will of the Hive Mind: Once per turn, one friendly Tyranids 
+unit within 12" of one or more models with this ability can be 
+targeted with a Stratagem for 0CP, even if another unit from 
+your army has already been targeted with that Stratagem 
+this phase.
+Paroxysm (Psychic): At the start of the Fight phase, you can 
+select one enemy unit within 12" of and visible to this model 
+and roll one D6: on a 1, this Psyker suffers D3 mortal wounds; 
+on a 2+, until the end of the phase, subtract 1 from the Attacks 
+characteristic of weapons equipped by models in that unit.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Monster, Character, Psyker, Fly, Great Devourer, Synapse, 
+
+Winged Hive Tyrant
+
+FACTION KEYWORDS:  
+Tyranids
+
+WINGED HIVE TYRANT
+When the Hive Mind deploys airborne swarms, it spawns Winged Hive 
+Tyrants to direct them in battle. Wielding an array of nightmarish 
+organic weapons, their monstrous forms singing with the synaptic 
+might of the Hive Mind, these dread swarm-leaders spread terror and 
+death wherever the dark shadow of their wings falls.
+
+WARGEAR OPTIONS
+
+ ■ This model’s monstrous bonesword and lash whip can be replaced with one of the following: 
+
+ ◦ 1 heavy venom cannon
+ ◦ 1 stranglethorn cannon
+ ◦ 1 monstrous scything talons
+
+UNIT COMPOSITION
+
+ ■ 1 Winged Hive Tyrant
+This model is equipped with: monstrous bonesword and lash 
+whip; Tyrant talons.
+
+KEYWORDS:  Monster, Character, Psyker, Fly, Great Devourer, Synapse, 
+
+Winged Hive Tyrant
+
+FACTION KEYWORDS:  
+Tyranids
+
+HIVE TYRANT
+
+M
+
+8"
+
+T
+
+10
+
+SV
+
+2+
+
+W
+
+10
+
+LD
+
+7+
+
+OC
+
+3
+
+RANGED WEAPONS
+Heavy venom cannon [BLAST]
+Stranglethorn cannon [BLAST]
+
+MELEE WEAPONS
+Monstrous bonesword and lash whip [TWIN-LINKED]
+Monstrous scything talons [EXTRA ATTACKS]
+
+RANGE
+
+36"
+36"
+
+RANGE
+Melee
+Melee
+
+A
+D3
+D6+1
+
+A
+6
+4
+
+BS
+2+
+2+
+
+WS
+2+
+2+
+
+S
+9
+7
+
+S
+9
+7
+
+AP
+-2
+-1
+
+AP
+-2
+-2
+
+D
+3
+2
+
+D
+3
+2
+
+ABILITIES
+
+CORE: Deadly Demise D3, Leader
+
+FACTION: Shadow in the Warp, Synapse
+
+Will of the Hive Mind: Once per turn, one friendly Tyranids 
+unit within 12" of one or more models with this ability can be 
+targeted with a Stratagem for 0CP, even if another unit from 
+your army has already been targeted with that Stratagem 
+this phase.
+Onslaught (Aura, Psychic): While a friendly Tyranids unit is 
+within 6" of this model, ranged weapons equipped by models 
+in that unit have the [ASSAULT] ability.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Monster, Character, Psyker, Great Devourer, Synapse, 
+
+Hive Tyrant
+
+FACTION KEYWORDS:  
+Tyranids
+
+HIVE TYRANT
+Hive Tyrants command the swarm on the Hive Mind’s behalf. Not 
+only are they powerful warrior organisms in their own right, but they 
+are also possessed of a depth of sentient autonomy and strategic 
+cunning that makes them truly deadly foes. Where the Hive Tyrants 
+bestride the battlefield, death comes for the prey.
+
+WARGEAR OPTIONS
+
+ ■ This model’s monstrous bonesword and lash whip can be replaced with one of the following: 
+
+ ◦ 1 heavy venom cannon
+ ◦ 1 stranglethorn cannon
+ ◦ 1 monstrous scything talons
+
+UNIT COMPOSITION
+
+ ■ 1 Hive Tyrant
+This model is equipped with: monstrous bonesword and lash 
+whip; monstrous scything talons.
+
+ ■  This model’s monstrous scything talons can be replaced with one of the following: 
+
+ ◦ 1 heavy venom cannon*
+ ◦ 1 stranglethorn cannon*
+
+*  This model cannot be equipped with both a stranglethorn cannon and a heavy venom cannon. This model cannot be equipped 
+with more than 1 heavy venom cannon, and it cannot be equipped with more than 1 stranglethorn cannon.
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Tyrant Guard
+
+KEYWORDS:  Monster, Character, Psyker, Great Devourer, Synapse, 
+
+Hive Tyrant
+
+FACTION KEYWORDS:  
+Tyranids
+
+THE SWARMLORD
+
+M
+
+8"
+
+T
+
+10
+
+SV
+
+2+
+
+W
+
+10
+
+LD
+
+7+
+
+OC
+
+3
+
+RANGED WEAPONS
+Synaptic pulse [PSYCHIC, TORRENT]
+
+MELEE WEAPONS
+Bone sabres [TWIN-LINKED]
+
+RANGE
+
+18"
+
+RANGE
+Melee
+
+A
+
+D6+3
+
+A
+8
+
+BS
+N/A
+
+WS
+2+
+
+S
+5
+
+S
+9
+
+AP
+-1
+
+AP
+-2
+
+D
+2
+
+D
+3
+
+ABILITIES
+
+CORE: Deadly Demise D3, Leader
+
+FACTION: Shadow in the Warp, Synapse
+
+Hive Commander: At the start of your Command phase, if this 
+model is on the battlefield, you gain 1CP.
+Malign Presence: Once per battle, after your opponent uses 
+a Stratagem, if this model is your Warlord and is on the 
+battlefield, it can use this ability. If it does, until the end of 
+the battle, increase that Stratagem’s cost to your opponent 
+by 1CP.
+Domination of the Hive Mind: While a friendly Tyranids 
+unit is within 9" of this model, that unit is within your army’s 
+Synapse Range.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Monster, Character, Epic Hero, Psyker, Great Devourer, 
+
+Synapse, The Swarmlord
+
+FACTION KEYWORDS:  
+Tyranids
+
+THE SWARMLORD
+The Swarmlord is the herald of the Hive Mind and may be as old as 
+the Tyranid race itself. Upon death, the beast is always absorbed 
+through the synaptic link and spawned anew. It has presided over the 
+annihilation of countless civilisations, and with every incarnation it 
+only becomes more deadly.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Swarmlord – Epic Hero
+This model is equipped with: synaptic pulse; bone sabres.
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Tyrant Guard
+
+KEYWORDS:  Monster, Character, Epic Hero, Psyker, Great Devourer, 
+
+Synapse, The Swarmlord
+
+FACTION KEYWORDS:  
+Tyranids
+
+BROODLORD
+
+M
+
+8"
+
+T
+
+5
+
+SV
+
+4+
+
+W
+
+6
+
+LD
+
+7+
+
+OC
+
+1
+
+MELEE WEAPONS
+Broodlord claws and talons 
+[DEVASTATING WOUNDS, TWIN-LINKED]
+
+RANGE
+
+Melee
+
+A
+
+5
+
+WS
+
+2+
+
+S
+
+6
+
+AP
+
+-2
+
+D
+
+2
+
+ABILITIES
+
+CORE: Leader, Scouts 8"
+
+FACTION: Synapse
+
+Vicious Insight: While this model is leading a unit, 
+weapons equipped by models in that unit have the 
+[DEVASTATING WOUNDS] ability.
+Hypnotic Gaze (Psychic): At the start of the Fight phase, 
+select one enemy unit within Engagement Range of this 
+model. Until the end of the phase, each time a model in that 
+unit makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Infantry, Character, Psyker, Great Devourer, Broodlord
+
+FACTION KEYWORDS:  
+Tyranids
+
+BROODLORD
+Mightiest and most intelligent of the Genestealer bioforms, the 
+Broodlord is an insidious predatory infiltrator. Able to act as a forward 
+commander for the invasion swarms, it sows carnage through the 
+enemy lines while maximising the cunning and lethality of lesser 
+warrior organisms around it.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Broodlord
+This model is equipped with: Broodlord claws and talons.
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Genestealers
+
+KEYWORDS:  Infantry, Character, Psyker, Great Devourer, Broodlord
+
+FACTION KEYWORDS:  
+Tyranids
+
+WINGED TYRANID PRIME
+
+M
+
+12"
+
+T
+
+5
+
+SV
+
+4+
+
+W
+
+6
+
+LD
+
+7+
+
+OC
+
+1
+
+MELEE WEAPONS
+Prime talons 
+
+RANGE
+Melee
+
+A
+6
+
+WS
+2+
+
+S
+6
+
+AP
+-1
+
+D
+2
+
+ABILITIES
+
+CORE: Deep Strike, Leader
+
+FACTION: Shadow in the Warp, Synapse
+
+Alpha Warrior: While this model is leading a unit, 
+weapons equipped by models in that unit have the 
+[SUSTAINED HITS 1] ability.
+Death Blow: If this model is destroyed by a melee attack, if it 
+has not fought this phase, roll one D6: on a 4+, do not remove 
+it from play. The destroyed model can fight after the attacking 
+model’s unit has finished making its attacks, and is then 
+removed from play.
+
+KEYWORDS:  Infantry, Character, Fly, Great Devourer, Synapse, 
+
+Winged Tyranid Prime
+
+FACTION KEYWORDS:  
+Tyranids
+
+WINGED TYRANID PRIME
+Tyranid Primes adapted for flight possess all the physical and synaptic 
+might of an alpha war-beast, while also boasting the frightening speed 
+and manoeuvrability imparted by huge leathery wings. Swooping 
+down into the midst of the foe, they rend and tear until nought remains 
+but corpses and fleeing prey.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Winged Tyranid Prime
+This model is equipped with: Prime talons.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Gargoyles
+ ■ Tyranid Warriors with melee Bio-weapons
+ ■ Tyranid Warriors with Ranged Bio-weapons
+
+KEYWORDS:  Infantry, Character, Fly, Great Devourer, Synapse, 
+
+Winged Tyranid Prime
+
+FACTION KEYWORDS:  
+Tyranids
+
+TERVIGON
+
+M
+
+8"
+
+T
+
+11
+
+SV
+
+2+
+
+W
+
+16
+
+LD
+
+7+
+
+OC
+
+5
+
+RANGED WEAPONS
+Stinger salvoes 
+
+MELEE WEAPONS
+Massive crushing claws 
+Massive scything talons – strike 
+Massive scything talons – sweep 
+
+RANGE
+
+24"
+
+RANGE
+Melee
+Melee
+Melee
+
+A
+8
+
+A
+4
+4
+8
+
+BS
+3+
+
+WS
+4+
+3+
+3+
+
+S
+5
+
+S
+12
+9
+7
+
+AP
+0
+
+AP
+-3
+-2
+-1
+
+D
+1
+
+D
+D6+1
+D6
+2
+
+ABILITIES
+
+CORE: Deadly Demise D6
+
+FACTION: Shadow in the Warp, Synapse
+
+Spawn Termagants: In your Command phase, you can select 
+one friendly Termagants unit within 6" of this model and 
+return up to D3+3 destroyed Termagant models to that unit. 
+A Termagants unit cannot be selected for this ability more 
+than once per phase.
+Brood Progenitor (Aura, Psychic): While a friendly 
+Termagants unit is within 6" of this model, ranged 
+weapons equipped by models in that unit have the 
+[LETHAL HITS] ability.
+
+DAMAGED: 1-5 WOUNDS REMAINING
+
+While this model has 1-5 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Monster, Character, Psyker, Great Devourer, Synapse, Tervigon
+
+FACTION KEYWORDS:  
+Tyranids
+
+TERVIGON
+Beyond simply being large and powerful synapse beasts, Tervigons 
+are also able to spawn skittering masses of Termagant warrior 
+organisms from within their bulging abdomens. These dripping spawn 
+instinctively protect their broodmother with their lives, their numbers 
+growing all the time until they overwhelm the prey.
+
+WARGEAR OPTIONS
+
+ ■   This model’s massive scything talons can be replaced with 1 massive crushing claws.
+
+UNIT COMPOSITION
+
+ ■ 1 Tervigon
+This model is equipped with: stinger salvoes; massive 
+scything talons.
+
+KEYWORDS: Monster, Character, Psyker, Great Devourer, Synapse, Tervigon
+
+FACTION KEYWORDS:  
+Tyranids
+
+OLD ONE EYE
+
+M
+
+8"
+
+T
+
+9
+
+SV
+
+2+
+
+W
+
+9
+
+LD
+
+8+
+
+OC
+
+3
+
+MELEE WEAPONS
+Old One Eye’s claws and talons – strike 
+Old One Eye’s claws and talons – sweep 
+
+RANGE
+Melee
+Melee
+
+A
+6
+12
+
+WS
+3+
+3+
+
+S
+14
+6
+
+AP
+-3
+-1
+
+D
+D6+1
+
+1
+
+ABILITIES
+
+CORE: Feel No Pain 5+, Leader
+
+FACTION: Synapse
+
+Alpha Leader: While this model is leading a unit, each time a 
+model in that unit makes an attack, you can re-roll the Hit roll.
+Unstoppable Monster: At the start of each player’s Command 
+phase, this model regains up to D3 lost wounds.
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Monster, Character, Epic Hero, Great Devourer, Old One Eye
+
+FACTION KEYWORDS:  
+Tyranids
+
+OLD ONE EYE
+Known as the Beast of Calth, this unstoppable brute was first seen 
+during the First Tyrannic War. Though many have thought it slain over 
+the centuries, always the scarred monster rises again. Whether it is a 
+Tyranid subgenus or the same unstoppable monster come again is a 
+mystery few in its path live long enough to ponder.
+
+WARGEAR OPTIONS
+
+ ■ None
+
+UNIT COMPOSITION
+
+ ■ 1 Old One Eye – Epic Hero 
+This model is equipped with: Old One Eye’s claws and talons.
+
+ 
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Carnifexes
+
+KEYWORDS: Monster, Character, Epic Hero, Great Devourer, Old One Eye
+
+FACTION KEYWORDS:  
+Tyranids
+
+TYRANID WARRIORS WITH RANGED BIO-WEAPONS
+
+M
+
+6"
+
+T
+
+5
+
+SV
+
+4+
+
+W
+
+3
+
+LD
+
+7+
+
+OC
+
+2
+
+RANGED WEAPONS
+Barbed strangler [BLAST]
+Deathspitter 
+Devourer 
+Spinefists [ASSAULT, PISTOL, TWIN-LINKED]
+Venom cannon [BLAST]
+
+MELEE WEAPONS
+Bio-weapons
+
+RANGE
+
+36"
+24"
+18"
+12"
+36"
+
+RANGE
+Melee
+
+A
+
+D6+1
+
+3
+5
+2
+D3
+
+A
+5
+
+BS
+4+
+4+
+4+
+4+
+4+
+
+WS
+3+
+
+S
+6
+5
+4
+4
+9
+
+S
+5
+
+AP
+-1
+-1
+0
+0
+-2
+
+AP
+-1
+
+D
+1
+1
+1
+1
+2
+
+D
+1
+
+ABILITIES
+
+FACTION: Shadow in the Warp, Synapse
+
+Adaptable Predators: This unit is eligible to shoot and declare 
+a charge in a turn in which it Fell Back.
+
+KEYWORDS: Infantry, Synapse, Tyranid Warriors with Ranged Bio-weapons
+
+FACTION KEYWORDS:  
+Tyranids
+
+TYRANID WARRIORS WITH RANGED BIO-WEAPONS
+Strong, swift, independently intelligent and amongst the Hive Mind’s 
+most adaptable bioforms, Tyranid Warriors are the backbone of many 
+Tyranid invasions. Their synaptic link imbues them with advanced 
+martial abilities, and also allows them to serve as synaptic linchpins 
+within the wider swarms during battle.
+
+WARGEAR OPTIONS
+
+ ■ Any number of models can each have their devourer replaced with one of the following:
+
+ ◦ 1 deathspitter
+ ◦ 1 spinefists
+
+ ■ For every 3 models in this unit, 1 model’s devourer can be replaced with 1 barbed strangler.
+ ■ For every 3 models in this unit, 1 model’s devourer can be replaced with 1 venom cannon.
+
+UNIT COMPOSITION
+
+ ■ 1 Tyranid Prime
+ ■ 2-5 Tyranid Warriors
+Every model is equipped with: devourer; bio-weapons.
+
+KEYWORDS: Infantry, Synapse, Tyranid Warriors with Ranged Bio-weapons
+
+FACTION KEYWORDS:  
+Tyranids
+
+TYRANID WARRIORS WITH MELEE BIO-WEAPONS
+
+M
+
+6"
+
+T
+
+5
+
+SV
+
+4+
+
+W
+
+3
+
+LD
+
+7+
+
+OC
+
+2
+
+MELEE WEAPONS
+Bio-weapons [TWIN-LINKED]
+
+RANGE
+Melee
+
+A
+6
+
+WS
+3+
+
+S
+5
+
+AP
+-2
+
+D
+1
+
+ABILITIES
+
+FACTION: Shadow in the Warp, Synapse
+
+Adrenalised Onslaught: At the start of the Fight phase, you 
+can select one of the following abilities to apply to models in 
+this unit until the end of the phase:
+ ■  Aggression Imperative: Each time a model in this unit 
+
+makes a melee attack, re-roll a Hit roll of 1.
+
+ ■  Preservation Imperative: Each time a saving throw is made 
+
+for a model in this unit, re-roll a saving throw of 1.
+
+KEYWORDS: Infantry, Synapse, Tyranid Warriors with Melee Bio-weapons
+
+FACTION KEYWORDS:  
+Tyranids
+
+TYRANID WARRIORS WITH MELEE BIO-WEAPONS
+Strong, swift, independently intelligent and amongst the Hive Mind’s 
+most adaptable bioforms, Tyranid Warriors are the backbone of many 
+Tyranid invasions. Their synaptic link imbues them with advanced 
+martial abilities, and also allows them to serve as synaptic linchpins 
+within the wider swarms during battle.
+
+WARGEAR OPTIONS
+
+ ■ None
+
+UNIT COMPOSITION
+
+ ■ 1 Tyranid Prime
+ ■ 2-5 Tyranid Warriors
+Every model is equipped with: bio-weapons.
+
+KEYWORDS: Infantry, Synapse, Tyranid Warriors with Melee Bio-weapons
+
+FACTION KEYWORDS:  
+Tyranids
+
+TERMAGANTS
+
+M
+
+6"
+
+T
+
+3
+
+SV
+
+5+
+
+W
+
+1
+
+LD
+
+8+
+
+OC
+
+2
+
+RANGED WEAPONS
+Fleshborer [ASSAULT]
+Termagant spinefists [ASSAULT, PISTOL, TWIN-LINKED]
+Termagant devourer 
+
+MELEE WEAPONS
+Xenos claws and teeth 
+
+RANGE
+
+18"
+12"
+18"
+
+RANGE
+Melee
+
+A
+1
+2
+2
+
+A
+1
+
+BS
+4+
+4+
+4+
+
+WS
+4+
+
+S
+5
+3
+4
+
+S
+3
+
+AP
+0
+0
+0
+
+AP
+0
+
+D
+1
+1
+1
+
+D
+1
+
+ABILITIES
+
+FACTION: Synapse
+
+Skulking Horrors: Once per turn, when an enemy unit ends a 
+Normal, Advance or Fall Back move within 9" of this unit, if this 
+unit is not within Engagement Range of one or more enemy 
+units, it can make a Normal move of up to D6".
+
+KEYWORDS:  Infantry, Battleline, Great Devourer, Endless Multitude, 
+
+Termagants
+
+FACTION KEYWORDS:  
+Tyranids
+
+TERMAGANTS
+Scuttling predators that attack in huge swarms, Termagants were 
+originally spawned to roam the tight arterial passages of hive ships 
+and hunt intruders. They harry their prey with a hail of firepower, 
+seeking always to outflank and envelop their victims as they erode 
+their numbers.
+
+WARGEAR OPTIONS
+
+ ■  All models in this unit can each have their fleshborer replaced with 1 Termagant devourer.
+ ■  All models in this unit can each have their fleshborer replaced with 1 Termagant spinefists.
+
+UNIT COMPOSITION
+
+ ■ 10-20 Termagants
+Every model is equipped with: fleshborer; xenos claws 
+and teeth.
+
+KEYWORDS:  Infantry, Battleline, Great Devourer, Endless Multitude, 
+
+Termagants
+
+FACTION KEYWORDS:  
+Tyranids
+
+HORMAGAUNTS
+
+M
+
+10"
+
+T
+
+3
+
+SV
+
+5+
+
+W
+
+1
+
+LD
+
+8+
+
+OC
+
+2
+
+MELEE WEAPONS
+Hormagaunt talons 
+
+RANGE
+Melee
+
+A
+3
+
+WS
+4+
+
+S
+3
+
+AP
+-1
+
+D
+1
+
+ABILITIES
+
+FACTION: Synapse
+
+Bounding Leap: This unit is eligible to declare a charge in a 
+turn in which it Advanced.
+
+KEYWORDS:  Infantry, Battleline, Great Devourer, Endless Multitude, 
+
+Hormagaunts
+
+FACTION KEYWORDS:  
+Tyranids
+
+HORMAGAUNTS
+Swarming shock troops, Hormagaunts are seeded onto prey worlds in 
+their billions. As simple hunter-slayer organisms, they can be left to 
+rampage, wearing down defence lines and forcing the prey to expend 
+lives and ammunition. Many formidable bastions have been buried in 
+literal mountains of these chitinous horrors.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 10-20 Hormagaunts
+Every model is equipped with: Hormagaunt talons.
+
+KEYWORDS:  Infantry, Battleline, Great Devourer, Endless Multitude, 
+
+Hormagaunts
+
+FACTION KEYWORDS:  
+Tyranids
+
+GARGOYLES
+
+M
+
+12"
+
+T
+
+3
+
+SV
+
+6+
+
+W
+
+1
+
+LD
+
+8+
+
+OC
+
+2
+
+RANGED WEAPONS
+Fleshborer [ASSAULT]
+
+MELEE WEAPONS
+Blinding venom
+
+RANGE
+
+18"
+
+RANGE
+Melee
+
+A
+1
+
+A
+1
+
+BS
+4+
+
+WS
+4+
+
+S
+5
+
+S
+3
+
+AP
+0
+
+AP
+0
+
+D
+1
+
+D
+1
+
+ABILITIES
+
+CORE: Deep Strike
+
+FACTION: Synapse
+
+Winged Swarm: In your Shooting phase, after this unit has 
+shot, if it is not within Engagement Range of any enemy units, 
+it can make a Normal move of up to 6". If it does, until the end 
+of the turn, this unit is not eligible to declare a charge.
+
+KEYWORDS:  Infantry, Battleline, Fly, Great Devourer, Endless Multitude, 
+
+Gargoyles
+
+FACTION KEYWORDS:  
+Tyranids
+
+GARGOYLES
+Gargoyles are often the first warrior organisms hurled against a prey 
+world. Their teeming swarms darken the skies. Their opportunistic 
+attacks spread panic and disarray. Worst of all, the creatures can 
+squirm through gaps that appear far too small, bursting through gun 
+slits and vent pipes to assail horrified defenders.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 10-20 Gargoyles
+Every model is equipped with: fleshborer; blinding venom.
+
+KEYWORDS:  Infantry, Battleline, Fly, Great Devourer, Endless Multitude, 
+
+Gargoyles
+
+FACTION KEYWORDS:  
+Tyranids
+
+TOXICRENE
+
+M
+
+8"
+
+T
+
+11
+
+SV
+
+3+
+
+W
+
+14
+
+LD
+
+8+
+
+OC
+
+4
+
+RANGED WEAPONS
+Massive toxic lashes [ANTI-INFANTRY 2+]
+
+MELEE WEAPONS
+Massive toxic lashes [ANTI-INFANTRY 2+]
+
+RANGE
+
+9"
+
+RANGE
+Melee
+
+A
+2D6
+
+A
+12
+
+BS
+3+
+
+WS
+3+
+
+S
+6
+
+S
+6
+
+AP
+-1
+
+AP
+-1
+
+D
+2
+
+D
+2
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Synapse
+
+Grasping Tendrils: Each time an enemy unit (excluding 
+Titanic units) within Engagement Range of one or more 
+units from your army with this ability is selected to Fall Back, 
+you can roll one D6: on a 3+, that enemy unit must Remain 
+Stationary instead.
+Hypertoxic Miasma (Aura): At the end of your Movement 
+phase, roll one D6 for each enemy unit within 6" of this model: 
+on a 2-3, that unit suffers 1 mortal wound; on a 4-5, that 
+unit suffers D3 mortal wounds; on a 6, that unit suffers D6 
+mortal wounds.
+
+DAMAGED: 1-5 WOUNDS REMAINING
+
+While this model has 1-5 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+KEYWORDS: Monster, Great Devourer, Toxicrene
+
+FACTION KEYWORDS:  
+Tyranids
+
+TOXICRENE
+The semi-sentient spores spewed by the Toxicrene can penetrate even 
+sealed armour and enviro-suits before multiplying within the victim’s 
+body to burst their organs and dissolve their flesh. Prey not slain in 
+this horrible manner soon fall to the Toxicrene’s monstrous bulk and 
+vast, lashing tendrils as it rampages ever onwards.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Toxicrene
+This model is equipped with: massive toxic lashes.
+
+KEYWORDS: Monster, Great Devourer, Toxicrene
+
+FACTION KEYWORDS:  
+Tyranids
+
+TYRANT GUARD
+
+M
+
+6"
+
+T
+
+8
+
+SV
+
+3+
+
+W
+
+4
+
+LD
+
+8+
+
+OC
+
+1
+
+MELEE WEAPONS
+Bone cleaver, lash whip and rending claws 
+[TWIN-LINKED]
+Crushing claws and rending claws 
+Scything talons and rending claws 
+
+RANGE
+
+Melee
+
+Melee
+Melee
+
+A
+
+3
+
+3
+5
+
+WS
+
+3+
+
+4+
+3+
+
+S
+
+5
+
+8
+5
+
+AP
+
+-1
+
+-2
+-1
+
+D
+
+2
+
+2
+1
+
+ABILITIES
+
+FACTION: Synapse
+
+Guardian Organism: While a Character model is leading this 
+unit, that Character has the Feel No Pain 5+ ability.
+
+KEYWORDS: Infantry, Great Devourer, Tyrant Guard
+
+FACTION KEYWORDS:  
+Tyranids
+
+TYRANT GUARD
+Incredibly well armoured and resilient, Tyrant Guard form a mobile 
+bulwark around their assigned synapse organism. So extreme is their 
+bio-adaptation, they do not even possess weak spots such as eyes. 
+Instead, they are guided as extensions of their charge’s synaptic will, 
+acting as living weapons and shields.
+
+WARGEAR OPTIONS
+
+ ■   Any number of models can each have their scything talons and rending claws replaced with one of 
+
+the following: 
+ ◦ 1 bone cleaver, lash whip and rending claws
+ ◦ 1 crushing claws and rending claws
+
+UNIT COMPOSITION
+
+ ■ 3-6 Tyrant Guard
+Every model is equipped with: scything talons and 
+rending claws.
+
+KEYWORDS: Infantry, Great Devourer, Tyrant Guard
+
+FACTION KEYWORDS:  
+Tyranids
+
+NEUROTYRANT
+
+M
+
+6"
+
+T
+
+8
+
+SV
+
+4+
+
+W
+
+9
+
+LD
+
+7+
+
+OC
+
+3
+
+RANGED WEAPONS
+Psychic scream [IGNORES COVER, PSYCHIC, TORRENT]
+
+MELEE WEAPONS
+Neurotyrant claws and lashes
+
+RANGE
+
+18"
+
+RANGE
+Melee
+
+A
+2D6
+
+A
+6
+
+BS
+N/A
+
+WS
+3+
+
+S
+5
+
+S
+5
+
+AP
+-1
+
+AP
+0
+
+D
+2
+
+D
+1
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Synapse, Shadow in the Warp 
+
+Node Lash (Psychic): While this model is leading a unit, each 
+time a model in that unit makes an attack, add 1 to the Hit roll. 
+If the target is Battle-shocked, add 1 to the Wound roll as well.
+Psychic Terror (Psychic): If one or more Neurotyrants 
+from your army are on the battlefield when you unleash the 
+Shadow in the Warp, subtract 1 from the Battle-shock test 
+each enemy unit on the battlefield must take as a result.
+Synaptic Relays: In your Command phase, you can select 
+up to two friendly Tyranids units within 12" of this model’s 
+unit. Until the start of your next Command phase, the selected 
+units are always considered to be within Synapse Range of 
+your army.
+Designer’s Note: Place a Synaptic Relay token next to each selected unit to 
+remind you. 
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Monster, Character, Fly, Psyker, Great Devourer, Synapse, 
+
+Neurotyrant
+
+FACTION KEYWORDS:  
+Tyranids
+
+NEUROTYRANT
+The Shadow in the Warp radiating from this immensely powerful 
+psyker-analogue creeps in all directions, driving even non-psychic 
+prey organisms to screaming madness. As its foes writhe in agony, 
+the Neurotyrant guides the swarms around it to slaughter with 
+brutal efficiency.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Neurotyrant
+This model is equipped with: psychic scream; Neurotyrant 
+claws and lashes.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Neurogaunts
+ ■ Tyrant Guard
+
+KEYWORDS:  Monster, Character, Fly, Psyker, Great Devourer, Synapse, 
+
+Neurotyrant
+
+FACTION KEYWORDS:  
+Tyranids
+
+LICTOR
+
+M
+
+8"
+
+T
+
+6
+
+SV
+
+4+
+
+W
+
+6
+
+LD
+
+7+
+
+OC
+
+1
+
+MELEE WEAPONS
+Lictor claws and talons [PRECISION]
+
+RANGE
+Melee
+
+A
+6
+
+WS
+2+
+
+S
+7
+
+AP
+-2
+
+D
+2
+
+ABILITIES
+
+CORE: Fights First, Infiltrators, Lone Operative, Stealth
+
+FACTION: Synapse
+
+Feeder Tendrils: Each time this model destroys an enemy 
+Character model, you gain 1CP.
+Pheromone Trail: Once per battle round, you can target one 
+model with this ability with the Rapid Ingress Stratagem 
+for 0CP. 
+
+INVULNERABLE SAVE
+
+5+
+
+KEYWORDS: Infantry, Great Devourer, Lictor
+
+FACTION KEYWORDS:  
+Tyranids
+
+LICTOR
+Lictors are an adaptation of the Tyranid Warrior bioform specialising in 
+infiltration, scouting and assassination. Hidden by their chameleonic 
+skin, Lictors pick off their prey opportunistically, always looking for 
+a chance to crack open their victims’ skulls and suck out the secrets 
+held within using their feeder tendrils.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Lictor
+This model is equipped with: Lictor claws and talons.
+
+KEYWORDS: Infantry, Great Devourer, Lictor
+
+FACTION KEYWORDS:  
+Tyranids
+
+DEATHLEAPER
+
+M
+
+8"
+
+T
+
+6
+
+SV
+
+4+
+
+W
+
+7
+
+LD
+
+7+
+
+OC
+
+1
+
+MELEE WEAPONS
+Lictor claws and talons [PRECISION]
+
+RANGE
+Melee
+
+A
+6
+
+WS
+2+
+
+S
+7
+
+AP
+-2
+
+D
+2
+
+ABILITIES
+
+CORE: Fights First, Infiltrators, Lone Operative, Stealth
+
+FACTION: Synapse
+
+Feeder Tendrils: Each time this model destroys an enemy 
+Character model, you gain 1CP.
+Fear of the Unseen (Aura): While an enemy unit is within 6" 
+of this model, worsen the Leadership characteristic of models 
+in that unit by 1. In addition, in the Battle-shock step of your 
+opponent’s Command phase, if such an enemy unit is below 
+its Starting Strength, it must take a Battle-shock test.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS: Infantry, Character, Epic Hero, Great Devourer, Deathleaper
+
+FACTION KEYWORDS:  
+Tyranids
+
+DEATHLEAPER
+The Deathleaper is an advancement of the Lictor strain intended to act 
+as a terror weapon. Possessing an instinctive understanding of how 
+to spread fear through prey populations, it uses its skills in stealth, 
+infiltration and assassination to sow paranoia and dread before the 
+hive fleet attacks en masse.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Deathleaper – Epic Hero
+This model is equipped with: Lictor claws and talons.
+
+HUNTER ORGANISM
+
+This model cannot be your Warlord.
+
+KEYWORDS: Infantry, Character, Epic Hero, Great Devourer, Deathleaper
+
+FACTION KEYWORDS:  
+Tyranids
+
+MALECEPTOR
+
+M
+
+8"
+
+T
+
+11
+
+SV
+
+3+
+
+W
+
+14
+
+LD
+
+7+
+
+OC
+
+4
+
+RANGED WEAPONS
+Psychic overload [BLAST, PSYCHIC]
+
+MELEE WEAPONS
+Massive scything talons – strike 
+Massive scything talons – sweep 
+
+RANGE
+
+18"
+
+RANGE
+Melee
+Melee
+
+A
+
+D6+3
+
+A
+3
+6
+
+BS
+3+
+
+WS
+3+
+3+
+
+S
+10
+
+S
+9
+7
+
+AP
+-2
+
+AP
+-2
+-1
+
+D
+3
+
+D
+D6+1
+
+2
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Shadow in the Warp, Synapse
+
+Encephalic Diffusion (Aura, Psychic): While an enemy unit is 
+within 6" of this model, each time a model in that unit makes 
+an attack, subtract 1 from the Hit roll, and, if that enemy unit 
+is Below Half-strength, subtract 1 from the Wound roll as well.
+
+DAMAGED: 1-5 WOUNDS REMAINING
+
+While this model has 1-5 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE
+
+4+
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Monster, Psyker, Great Devourer, Synapse, Maleceptor
+
+FACTION KEYWORDS:  
+Tyranids
+
+MALECEPTOR
+Amongst the most powerful Tyranid psyker-analogues yet known, 
+Maleceptors wield colossal synaptic power. Ethereal psychic 
+pseudopods lash about them, able to literally detonate victims’ skulls 
+with the slightest touch, while the encephalitic orbs set into their 
+carapaces focus the smothering dread of the Shadow in the Warp.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Maleceptor
+This model is equipped with: psychic overload; massive 
+scything talons.
+
+KEYWORDS: Monster, Psyker, Great Devourer, Synapse, Maleceptor
+
+FACTION KEYWORDS:  
+Tyranids
+
+PYROVORES
+
+M
+
+5"
+
+T
+
+6
+
+SV
+
+3+
+
+W
+
+4
+
+LD
+
+8+
+
+OC
+
+1
+
+RANGED WEAPONS
+Flamespurt [IGNORES COVER, TORRENT, TWIN-LINKED]
+
+MELEE WEAPONS
+Chitin-barbed limbs 
+
+RANGE
+
+12"
+
+RANGE
+Melee
+
+A
+
+D6+1
+
+A
+2
+
+BS
+N/A
+
+WS
+4+
+
+S
+6
+
+S
+5
+
+AP
+-1
+
+AP
+0
+
+D
+1
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise 1
+
+FACTION: Synapse
+
+Burning Spray: In your Shooting phase, after this unit has 
+shot, select one enemy unit hit by one or more of those 
+attacks. Until the end of the phase, that enemy unit cannot 
+have the Benefit of Cover.
+
+KEYWORDS: Infantry, Great Devourer, Pyrovores
+
+FACTION KEYWORDS:  
+Tyranids
+
+PYROVORES
+Pyrovores exist to predigest biomass. The acids that drip from their 
+maws are so corrosive they can melt adamantine. Meanwhile, their 
+flame-spewing dorsal organisms can engulf entire squads of prey in 
+roiling chemical fire. Even killing these bioforms is perilous, for their 
+volatile innards can detonate upon death.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1-3 Pyrovores
+Every model is equipped with: flamespurt; 
+chitin-barbed limbs.
+
+KEYWORDS: Infantry, Great Devourer, Pyrovores
+
+FACTION KEYWORDS:  
+Tyranids
+
+HARUSPEX
+
+M
+
+8"
+
+T
+
+11
+
+SV
+
+3+
+
+W
+
+14
+
+LD
+
+8+
+
+OC
+
+4
+
+RANGED WEAPONS
+Grasping tongue [PRECISION]
+
+MELEE WEAPONS
+Ravenous maw 
+Shovelling claws [EXTRA ATTACKS]
+
+RANGE
+
+12"
+
+RANGE
+Melee
+Melee
+
+A
+1
+
+A
+14
+4
+
+BS
+3+
+
+WS
+3+
+3+
+
+S
+6
+
+S
+7
+14
+
+AP
+-2
+
+AP
+-1
+-2
+
+D
+D6+1
+
+D
+2
+
+D6+1
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Synapse
+
+Grisly Spectacle: Each time this model is selected to fight, 
+after resolving its attacks, if one or more enemy units were 
+destroyed by those attacks, each enemy unit within 6" of this 
+model must take a Battle-shock test.
+
+DAMAGED: 1-5 WOUNDS REMAINING
+
+While this model has 1-5 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+KEYWORDS: Monster, Great Devourer, Haruspex
+
+FACTION KEYWORDS:  
+Tyranids
+
+HARUSPEX
+The infinite hunger of the Haruspex can see it consume an entire 
+platoon of prey organisms in moments. Nothing escapes its yawning 
+gullet and lashing tongue for long; its victims meet a horrible end as 
+they are swallowed down to be gradually dissolved into raw biomass 
+within the monster’s churning innards.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Haruspex
+This model is equipped with: grasping tongue; ravenous maw; 
+shovelling claws.
+
+KEYWORDS: Monster, Great Devourer, Haruspex
+
+FACTION KEYWORDS:  
+Tyranids
+
+VENOMTHROPES
+
+M
+
+6"
+
+T
+
+5
+
+SV
+
+4+
+
+W
+
+3
+
+LD
+
+8+
+
+OC
+
+1
+
+MELEE WEAPONS
+Toxic lashes [ANTI-INFANTRY 2+]
+
+RANGE
+Melee
+
+A
+5
+
+WS
+3+
+
+S
+3
+
+AP
+0
+
+D
+1
+
+ABILITIES
+
+CORE: Stealth
+
+FACTION: Synapse
+
+Foul Spores (Aura): While a friendly Tyranids unit is within 
+6" of this unit, each time a ranged attack targets that unit, 
+models in that unit have the Benefit of Cover against that 
+attack. In addition, while a friendly Tyranids unit (excluding 
+Monsters) is within 6" of this unit, models in that unit have 
+the Stealth ability.
+
+KEYWORDS: Infantry, Fly, Great Devourer, Venomthropes
+
+FACTION KEYWORDS:  
+Tyranids
+
+VENOMTHROPES
+Venomthropes drift forward amidst miasmal clouds of spores that 
+spew from within their bodies. The touch of their tendrils is extremely 
+poisonous, and those exposed to the Venomthropes’ spore clouds for 
+any length of time drown on their own frothing fluids as they dissolve 
+from the inside out.
+
+WARGEAR OPTIONS
+
+ ■     None
+
+UNIT COMPOSITION
+
+ ■ 3-6 Venomthropes
+Every model is equipped with: toxic lashes.
+
+KEYWORDS: Infantry, Fly, Great Devourer, Venomthropes
+
+FACTION KEYWORDS:  
+Tyranids
+
+VON RYAN’S LEAPERS
+
+M
+
+10"
+
+T
+
+5
+
+SV
+
+4+
+
+W
+
+3
+
+LD
+
+8+
+
+OC
+
+1
+
+MELEE WEAPONS
+Leaper’s talons 
+
+RANGE
+Melee
+
+A
+6
+
+WS
+3+
+
+S
+5
+
+AP
+-1
+
+D
+1
+
+ABILITIES
+
+CORE: Fights First, Infiltrators, Stealth
+
+FACTION: Synapse
+
+Pouncing Leap: You can target this unit with the Heroic 
+Intervention Stratagem for 0CP, and can do so even if 
+you have already used that Stratagem on a different unit 
+this phase.
+
+INVULNERABLE SAVE
+
+6+
+
+KEYWORDS: Infantry, Great Devourer, Von Ryan’s Leapers
+
+FACTION KEYWORDS:  
+Tyranids
+
+VON RYAN’S LEAPERS
+Stealthy hunters and expert ambushers, Von Ryan’s Leapers are swift, 
+agile and especially lethal when fighting in dense terrain. Akin to 
+living mines, they lie still at the optimum locations to cause as much 
+damage as possible. When they sense the perfect time to strike, they 
+butcher all around in a murderous frenzy.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 3-6 Von Ryan’s Leapers
+Every model is equipped with: Leaper’s talons.
+
+KEYWORDS: Infantry, Great Devourer, Von Ryan’s Leapers
+
+FACTION KEYWORDS:  
+Tyranids
+
+NEUROGAUNTS
+
+M
+
+6"
+
+T
+
+3
+
+SV
+
+6+
+
+W
+
+1
+
+LD
+
+8+
+
+OC
+
+1
+
+MELEE WEAPONS
+Xenos claws and teeth
+
+RANGE
+Melee
+
+A
+1
+
+WS
+4+
+
+S
+3
+
+AP
+0
+
+D
+1
+
+ABILITIES
+
+FACTION: Synapse
+
+Neurocytes: While this unit is within Synapse Range of your 
+army, it has the Synapse keyword.
+
+KEYWORDS: Infantry, Great Devourer, Endless Multitude, Neurogaunts
+
+FACTION KEYWORDS:  
+Tyranids
+
+NEUROGAUNTS
+Neurogaunts scuttle forward in seething masses, driven on by the 
+parasitic neurocytes that cling to their backs. Their primary purpose is 
+to protect the synaptic node beasts coordinating invasion swarms. It 
+is a task they go about with single-minded savagery, slashing, biting 
+and giving their lives without an instant’s hesitation.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1-2 Neurogaunt Nodebeasts*
+ ■ 10-20 Neurogaunts
+Every model is equipped with: xenos claws and teeth.
+*  This unit can only contain 2 Neurogaunt Nodebeasts if it contains 
+20 Neurogaunts.
+
+KEYWORDS: Infantry, Great Devourer, Endless Multitude, Neurogaunts
+
+FACTION KEYWORDS:  
+Tyranids
+
+ZOANTHROPES
+
+M
+
+5"
+
+T
+
+5
+
+SV
+
+5+
+
+W
+
+3
+
+LD
+
+7+
+
+OC
+
+1
+
+RANGED WEAPONS
+Warp Blast – witchfire [BLAST, PSYCHIC]
+Warp Blast – focused witchfire [LETHAL HITS, PSYCHIC]
+
+MELEE WEAPONS
+Xenos claws and teeth 
+
+RANGE
+
+24"
+24"
+
+RANGE
+Melee
+
+A
+D3
+1
+
+A
+2
+
+BS
+3+
+3+
+
+WS
+5+
+
+S
+7
+12
+
+S
+3
+
+AP
+-2
+-3
+
+AP
+0
+
+D
+D3
+D6+1
+
+D
+1
+
+ABILITIES
+
+FACTION: Shadow in the Warp, Synapse
+
+Spirit Leech (Aura, Psychic): While this unit contains a 
+Neurothrope, while an enemy unit is within 6" of this unit, 
+each time that enemy unit fails a Battle-shock test, it suffers 
+D3 mortal wounds and one model in this unit regains up to D3 
+lost wounds.
+Warp Field (Aura, Psychic): While a friendly Tyranids 
+unit is within 6" of this unit, models in that unit have a 6+ 
+invulnerable save.
+
+INVULNERABLE SAVE
+
+4+
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Infantry, Psyker, Fly, Great Devourer, Synapse, Zoanthropes
+
+FACTION KEYWORDS:  
+Tyranids
+
+ZOANTHROPES
+A Zoanthrope’s physical form is given over to harnessing the might 
+of the Hive Mind. Not only do they act as synapse nodes, but they 
+can also draw upon the energies of the Hive Mind to unleash searing 
+psychic blasts, and to generate fields of defensive power that can stop 
+an artillery shell dead.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Neurothrope
+ ■ 2-5 Zoanthropes
+Every model is equipped with: Warp Blast; xenos claws 
+and teeth.
+
+KEYWORDS: Infantry, Psyker, Fly, Great Devourer, Synapse, Zoanthropes
+
+FACTION KEYWORDS:  
+Tyranids
+
+GENESTEALERS
+
+M
+
+8"
+
+T
+
+4
+
+SV
+
+5+
+
+W
+
+2
+
+LD
+
+7+
+
+OC
+
+1
+
+MELEE WEAPONS
+Genestealer claws and talons 
+
+RANGE
+Melee
+
+A
+4
+
+WS
+2+
+
+S
+4
+
+AP
+-2
+
+D
+1
+
+ABILITIES
+
+CORE: Scouts 8"
+
+FACTION: Synapse
+
+Vanguard Predator: Each time a model in this unit makes an 
+attack, re-roll a Wound roll of 1. If the target is within range of 
+an objective marker, you can re-roll the Wound roll instead.
+
+INVULNERABLE SAVE
+
+5+
+
+KEYWORDS: Infantry, Great Devourer, Genestealers
+
+FACTION KEYWORDS:  
+Tyranids
+
+GENESTEALERS
+Swift vanguard organisms armoured in chitin and possessed of 
+terrifying strength and agility, Genestealers are peerless predators. 
+Their broods move ahead of the hive fleets to seek out fresh feeding 
+grounds. Then, when the invasion swarms descend, the Genestealers 
+burst from hiding to begin the slaughter.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 5-10 Genestealers
+Every model is equipped with: Genestealer claws and talons.
+
+KEYWORDS: Infantry, Great Devourer, Genestealers
+
+FACTION KEYWORDS:  
+Tyranids
+
+RAVENERS
+
+M
+
+10"
+
+T
+
+5
+
+SV
+
+4+
+
+W
+
+3
+
+LD
+
+8+
+
+OC
+
+1
+
+RANGED WEAPONS
+Thoracic bio-weapon
+
+MELEE WEAPONS
+Ravener claws and talons [TWIN-LINKED]
+
+RANGE
+
+12"
+
+RANGE
+Melee
+
+A
+3
+
+A
+7
+
+BS
+4+
+
+WS
+3+
+
+S
+4
+
+S
+5
+
+AP
+0
+
+AP
+-1
+
+D
+1
+
+D
+1
+
+ABILITIES
+
+CORE: Deep Strike
+
+FACTION: Synapse
+
+Death From Below: At the end of your opponent’s turn, if this 
+unit is not within Engagement Range of one or more enemy 
+units, you can remove it from the battlefield and place it into 
+Strategic Reserves.
+
+KEYWORDS: Infantry, Great Devourer, Raveners
+
+FACTION KEYWORDS:  
+Tyranids
+
+RAVENERS
+Serpentine bioforms capable of a terrifying turn of speed, Raveners 
+are made doubly dangerous by their ability to tunnel swiftly through 
+even solid bedrock. Often assaulting their prey from below, Raveners 
+are especially vicious and predatory warrior organisms used as shock 
+troops by the Hive Mind.
+
+WARGEAR OPTIONS
+
+ ■ Any number of models can each be equipped with 1 thoracic bio-weapon.
+
+UNIT COMPOSITION
+
+ ■ 3-6 Raveners
+Every model is equipped with: Ravener claws and talons.
+
+KEYWORDS: Infantry, Great Devourer, Raveners
+
+FACTION KEYWORDS:  
+Tyranids
+
+RIPPER SWARMS
+
+M
+
+6"
+
+T
+
+2
+
+SV
+
+6+
+
+W
+
+4
+
+LD
+
+8+
+
+OC
+
+0
+
+RANGED WEAPONS
+Spinemaws [PISTOL]
+
+MELEE WEAPONS
+Xenos claws and teeth [SUSTAINED HITS 1]
+
+RANGE
+
+6"
+
+RANGE
+Melee
+
+A
+4
+
+A
+6
+
+BS
+5+
+
+WS
+5+
+
+S
+3
+
+S
+2
+
+AP
+0
+
+AP
+0
+
+D
+1
+
+D
+1
+
+ABILITIES
+
+CORE: Deep Strike
+
+FACTION: Synapse
+
+Chitinous Horrors (Aura): While an enemy unit is within 
+Engagement Range of this unit, halve the Objective Control 
+characteristic of models in that enemy unit.
+
+KEYWORDS: Swarm, Great Devourer, Ripper Swarms
+
+FACTION KEYWORDS:  
+Tyranids
+
+RIPPER SWARMS
+Living carpets of Rippers squirm across the ground wherever the 
+Tyranid swarms advance. Little more than simple eating machines, 
+these chitinous horrors swarm over the wounded and dead alike, and 
+can even drag down trained warriors in sufficient numbers. Once a 
+Ripper’s fangs sink home, it will not let go…
+
+WARGEAR OPTIONS
+
+ ■  All models in this unit can each be equipped with 1 spinemaws.
+
+UNIT COMPOSITION
+
+ ■ 3-6 Ripper Swarms
+Every model is equipped with: xenos claws and teeth.
+
+KEYWORDS: Swarm, Great Devourer, Ripper Swarms
+
+FACTION KEYWORDS:  
+Tyranids
+
+PARASITE OF MORTREX
+
+M
+
+12"
+
+T
+
+5
+
+SV
+
+4+
+
+W
+
+5
+
+LD
+
+8+
+
+OC
+
+1
+
+MELEE WEAPONS
+Barbed ovipositor [ANTI-INFANTRY 3+, EXTRA ATTACKS]
+Clawed limbs 
+
+RANGE
+Melee
+Melee
+
+A
+1
+6
+
+WS
+2+
+2+
+
+S
+3
+5
+
+AP
+-2
+-1
+
+D
+3
+1
+
+ABILITIES
+
+CORE: Deep Strike, Lone Operative, Stealth
+
+FACTION: Synapse
+
+Parasitic Infection: Each time an Infantry model is 
+destroyed by an attack made with this model’s barbed 
+ovipositor, after this model has finished making its attacks, 
+you can add one new Ripper Swarms unit to your army 
+consisting of D3 models and set it up within 3" of this model. 
+If you do, that Ripper Swarms unit can be set up within 
+Engagement Range of the destroyed model’s unit (but not 
+within Engagement Range of any other enemy units).
+It Itches!: At the start of the Fight phase, select one enemy 
+unit within Engagement Range of this model. That enemy unit 
+must take a Battle-shock test.
+
+KEYWORDS:  Infantry, Character, Fly, Great Devourer, Parasite of Mortrex
+
+FACTION KEYWORDS:  
+Tyranids
+
+PARASITE OF MORTREX
+Swooping on leathery wings, Parasites of Mortrex use their barbed 
+ovipositors to drive Ripper gestation pods deep into their victims’ 
+bodies, from where the swiftly growing creatures soon eat their way 
+out. Such was the doom of the defenders of Mortrex, the world first 
+cursed by the Parasites’ onslaught.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Parasite of Mortrex
+This model is equipped with: barbed ovipositor; clawed limbs.
+
+KEYWORDS:  Infantry, Character, Fly, Great Devourer, Parasite of Mortrex
+
+FACTION KEYWORDS:  
+Tyranids
+
+MAWLOC
+
+M
+
+T
+
+10" 10
+
+SV
+
+3+
+
+W
+
+14
+
+LD
+
+8+
+
+OC
+
+4
+
+MELEE WEAPONS
+Distensible jaw 
+[ANTI-INFANTRY 4+, DEVASTATING WOUNDS, EXTRA ATTACKS]
+Mawloc scything talons 
+
+RANGE
+
+Melee
+
+Melee
+
+A
+
+1
+
+16
+
+WS
+
+3+
+
+3+
+
+S
+
+5
+
+8
+
+AP
+
+0
+
+-2
+
+D
+
+3
+
+1
+
+ABILITIES
+
+CORE: Deep Strike
+
+FACTION: Synapse
+
+Terror From The Deep: Each time this unit is set up on the 
+battlefield using the Deep Strike ability, roll one D6 for each 
+enemy unit within 12" of this model: on a 2-4, that unit suffers 
+D3 mortal wounds; on a 5+, that unit suffers 3 mortal wounds 
+and must take a Battle-shock test.
+
+DAMAGED: 1-5 WOUNDS REMAINING
+
+While this model has 1-5 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+KEYWORDS: Monster, Great Devourer, Mawloc
+
+FACTION KEYWORDS:  
+Tyranids
+
+MAWLOC
+Vast, burrowing wormforms, Mawlocs hunt by sensing even the 
+smallest vibrations on the surface above them. Once they have 
+located prey, the Mawlocs surge upwards in an eruption of bedrock 
+and soil, yawning maws swallowing everything above them before 
+they plunge back under the surface again.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Mawloc
+This model is equipped with: distensible jaw; Mawloc 
+scything talons.
+
+KEYWORDS: Monster, Great Devourer, Mawloc
+
+FACTION KEYWORDS:  
+Tyranids
+
+TRYGON
+
+M
+
+T
+
+10" 10
+
+SV
+
+3+
+
+W
+
+14
+
+LD
+
+8+
+
+OC
+
+4
+
+RANGED WEAPONS
+Bio-electric pulse [SUSTAINED HITS 2]
+
+MELEE WEAPONS
+Trygon scything talons 
+
+RANGE
+
+12"
+
+RANGE
+Melee
+
+A
+6
+
+A
+12
+
+BS
+3+
+
+WS
+3+
+
+S
+5
+
+S
+9
+
+AP
+0
+
+AP
+-2
+
+D
+1
+
+D
+3
+
+ABILITIES
+
+CORE: Deep Strike
+
+FACTION: Synapse
+
+Subterranean Tunnels: Each time this model is set up on 
+the battlefield using the Deep Strike ability, it can be set up 
+anywhere on the battlefield that is more than 3" horizontally 
+away from all enemy units. When doing so, if this model is set 
+up within 9" of one or more enemy units, until the end of the 
+turn, it is not eligible to declare a charge.
+
+DAMAGED: 1-5 WOUNDS REMAINING
+
+While this model has 1-5 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+KEYWORDS: Monster, Great Devourer, Trygon
+
+FACTION KEYWORDS:  
+Tyranids
+
+TRYGON
+Trygons are battle-tank-sized living tunnelling machines. As they dig 
+through the substrata of the prey world, they excavate huge tunnels 
+for other Tyranid beasts to exploit. At the same time, the rasping of 
+their chitinous plates builds up a powerful bio-electric charge that the 
+Trygons can unleash as a weapon.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Trygon
+This model is equipped with: bio-electric pulse; Trygon 
+scything talons.
+
+KEYWORDS: Monster, Great Devourer, Trygon
+
+FACTION KEYWORDS:  
+Tyranids
+
+MUCOLID SPORES
+
+M
+
+4"
+
+T
+
+4
+
+SV
+
+7+
+
+W
+
+3
+
+LD
+
+8+
+
+OC
+
+0
+
+ABILITIES
+
+CORE: Deep Strike
+
+FACTION: Synapse
+
+Bio-minefield: Enemy units cannot start or end an Advance 
+move within 6" of this unit.
+Floating Death: Each time an enemy unit ends a move within 
+3" of a model in this unit, and each time a model in this unit 
+ends a move within 3" of an enemy unit, roll one D6: on a 2-5, 
+that enemy unit suffers D3 mortal wounds; on a 6, that enemy 
+unit suffers D6 mortal wounds. The model in this unit that 
+caused that roll is then destroyed.
+
+KEYWORDS: Beast, Fly, Great Devourer, Mucolid Spores
+
+FACTION KEYWORDS:  
+Tyranids
+
+MUCOLID SPORES
+These rudimentary organisms are filled with poisonous gases 
+held under extremely high pressure. Instinct drives them to drift 
+towards prey formations or up into the path of enemy aircraft, 
+before detonating in a nauseating spray of poisonous filth and 
+chitinous shrapnel.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1-2 Mucolid Spores
+Every model is equipped with: nothing.
+
+KEYWORDS: Beast, Fly, Great Devourer, Mucolid Spores
+
+FACTION KEYWORDS:  
+Tyranids
+
+SPORE MINES
+
+M
+
+4"
+
+T
+
+1
+
+SV
+
+7+
+
+W
+
+1
+
+LD
+
+8+
+
+OC
+
+0
+
+ABILITIES
+
+CORE: Deep Strike
+
+FACTION: Synapse
+
+Bio-minefield: Enemy units cannot start or end an Advance 
+move within 6" of this unit.
+Floating Death: Each time an enemy unit ends a move within 
+3" of a model in this unit, and each time a model in this unit 
+ends a move within 3" of an enemy unit, roll one D6: on a 2-5, 
+that enemy unit suffers 1 mortal wound; on a 6, that enemy 
+unit suffers D3 mortal wounds. The model in this unit that 
+caused that roll is then destroyed.
+
+KEYWORDS: Beast, Fly, Great Devourer, Spore Mines
+
+FACTION KEYWORDS:  
+Tyranids
+
+SPORE MINES
+Spore Mines are a form of living mine or bomb, which drift across the 
+battlefield in shoals and detonate when they detect prey organisms 
+nearby. Those caught in the blast are torn apart as surely as if they 
+had caught a brace of live frag grenades. The Hive Mind often uses 
+Spore Mines to deny areas of the battlefield to the prey.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 3-6 Spore Mines
+Every model is equipped with: nothing.
+
+KEYWORDS: Beast, Fly, Great Devourer, Spore Mines
+
+FACTION KEYWORDS:  
+Tyranids
+
+EXOCRINE
+
+M
+
+8"
+
+T
+
+10
+
+SV
+
+3+
+
+W
+
+14
+
+LD
+
+8+
+
+OC
+
+4
+
+RANGED WEAPONS
+Bio-plasmic cannon [BLAST, HEAVY]
+
+MELEE WEAPONS
+Powerful limbs 
+
+RANGE
+
+36"
+
+RANGE
+Melee
+
+A
+
+D6+3
+
+A
+3
+
+BS
+3+
+
+WS
+3+
+
+S
+8
+
+S
+7
+
+AP
+-3
+
+AP
+0
+
+D
+3
+
+D
+2
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Synapse
+
+Symbiotic Targeting: In your Shooting phase, after this model 
+has shot, select one enemy unit hit by one or more of those 
+attacks. Until the end of the phase, each time a friendly 
+Tyranids model makes an attack that targets that unit, re-roll 
+a Hit roll of 1.
+
+DAMAGED: 1-5 WOUNDS REMAINING
+
+While this model has 1-5 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+KEYWORDS: Monster, Great Devourer, Exocrine
+
+FACTION KEYWORDS:  
+Tyranids
+
+EXOCRINE
+Huge, tough and very stupid, the Exocrine’s only task is to carry the 
+dorsal cannon organism on its back into an optimal firing position. 
+Once in place, the bio-plasmic cannon emits a terrible, high-pitched 
+hiss before unleashing a searing blast of bio-plasma capable of 
+reducing tanks and bunkers to glowing craters.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Exocrine
+This model is equipped with: bio-plasmic cannon; 
+powerful limbs.
+
+KEYWORDS: Monster, Great Devourer, Exocrine
+
+FACTION KEYWORDS:  
+Tyranids
+
+BIOVORES
+
+M
+
+5"
+
+T
+
+6
+
+SV
+
+4+
+
+W
+
+4
+
+LD
+
+8+
+
+OC
+
+1
+
+RANGED WEAPONS
+Spore Mine launcher 
+[BLAST, DEVASTATING WOUNDS, HEAVY, INDIRECT FIRE]
+
+MELEE WEAPONS
+Chitin-barbed limbs 
+
+RANGE
+
+48"
+
+RANGE
+Melee
+
+A
+
+D3
+
+A
+2
+
+BS
+
+4+
+
+WS
+4+
+
+S
+
+6
+
+S
+5
+
+AP
+
+-1
+
+AP
+0
+
+D
+
+2
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise 1
+
+FACTION: Synapse
+
+Seed Spore Mines: In your Shooting phase, each time this unit 
+is selected to shoot, it can use this ability instead of making 
+any attacks with its ranged weapons. If it does, you can add 
+a new Spore Mines unit to your army and set it up anywhere 
+on the battlefield that is within 48" of this unit but more than 
+9" horizontally away from all enemy units. That Spore Mines 
+unit contains 1 model for each model in this unit.
+
+KEYWORDS: Infantry, Great Devourer, Biovores
+
+FACTION KEYWORDS:  
+Tyranids
+
+BIOVORES
+These living artillery pieces nurture a clutch of Spore Mines within their 
+bodies. After anchoring themselves to the ground with their chitinous 
+spurs, the creatures fire their living ammunition in high arcs, allowing 
+the Spore Mines to drift languidly down into the midst of the foe where 
+they detonate with sudden violence.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1-3 Biovores
+Every model is equipped with: Spore Mine launcher; 
+chitin-barbed limbs.
+
+KEYWORDS: Infantry, Great Devourer, Biovores
+
+FACTION KEYWORDS:  
+Tyranids
+
+CARNIFEXES
+
+M
+
+8"
+
+T
+
+9
+
+SV
+
+2+
+
+W
+
+8
+
+LD
+
+8+
+
+OC
+
+3
+
+RANGED WEAPONS
+Bio-plasma [ASSAULT, BLAST]
+Deathspitters with slimer maggots 
+Devourers with brainleech worms 
+Heavy venom cannon [BLAST]
+Spine banks [ASSAULT]
+Stranglethorn cannon [BLAST]
+
+MELEE WEAPONS
+Carnifex crushing claws 
+Carnifex extra scything talons [EXTRA ATTACKS]
+Carnifex scything talons 
+Xenos claws and teeth 
+
+RANGE
+
+12"
+24"
+18"
+36"
+6"
+36"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+
+A
+D3
+6
+12
+D3
+5
+
+D6+1
+
+A
+4
+2
+6
+4
+
+BS
+4+
+4+
+4+
+4+
+4+
+4+
+
+WS
+4+
+4+
+4+
+4+
+
+S
+7
+7
+6
+9
+5
+7
+
+S
+12
+9
+9
+6
+
+AP
+-2
+-2
+0
+-2
+0
+-1
+
+AP
+-3
+-2
+-2
+0
+
+D
+1
+1
+1
+3
+1
+2
+
+D
+D6+1
+
+3
+3
+1
+
+ABILITIES
+
+CORE: Deadly Demise 1
+
+FACTION: Synapse
+
+Blistering Assault: Each time an enemy unit is selected to 
+shoot, after that unit has shot, if any models from this unit lost 
+one or more wounds as a result of those attacks, this unit can 
+make a Blistering Assault move. To do so, roll one D6, adding 2 
+to the result: each model in this unit can be moved a distance 
+in inches up to the result, but this unit must finish that move 
+as close as possible to the closest enemy unit. When doing 
+so, those models can be moved within Engagement Range 
+of that enemy unit. Each unit can only make one Blistering 
+Assault move per phase.
+
+KEYWORDS: Monster, Great Devourer, Carnifexes
+
+FACTION KEYWORDS:  
+Tyranids
+
+CARNIFEXES
+Carnifexes have been a mainstay of the hive fleets for centuries. 
+Rugged and adaptable organisms, they can support a great range 
+of weapon grafts and biomorphs while retaining the raw strength, 
+durability and armoured ferocity that has seen them smash through 
+countless prey defence lines like living battering rams.
+
+WARGEAR OPTIONS
+
+ ■  Any number of models can each have their Carnifex extra scything talons replaced with one of 
+
+the following:
+ ◦ 1 deathspitters with slimer maggots
+ ◦ 1 devourers with brainleech worms
+ ◦ 1 heavy venom cannon
+ ◦ 1 stranglethorn cannon
+ ◦ 1 Carnifex crushing claws
+
+ ■  Any number of models can each have their Carnifex scything talons replaced with one of 
+
+the following:
+ ◦ 1 deathspitters with slimer maggots
+ ◦ 1 devourers with brainleech worms
+ ◦ 1 Carnifex crushing claws
+
+ ■ Any number of models can each be equipped with 1 bio-plasma.
+ ■ Any number of models can each be equipped with 1 spine banks. 
+
+UNIT COMPOSITION
+
+ ■ 1-2 Carnifexes
+Every model is equipped with: Carnifex scything talons; 
+Carnifex extra scything talons; xenos claws and teeth.
+
+KEYWORDS: Monster, Great Devourer, Carnifexes
+
+FACTION KEYWORDS:  
+Tyranids
+
+SCREAMER-KILLER
+
+M
+
+8"
+
+T
+
+9
+
+SV
+
+2+
+
+W
+
+10
+
+LD
+
+8+
+
+OC
+
+3
+
+RANGED WEAPONS
+Bio-plasmic scream [ASSAULT, BLAST]
+
+MELEE WEAPONS
+Screamer-killer talons 
+
+RANGE
+
+18"
+
+RANGE
+Melee
+
+A
+
+D6+3
+
+A
+10
+
+BS
+4+
+
+WS
+3+
+
+S
+8
+
+S
+10
+
+AP
+-2
+
+AP
+-2
+
+D
+1
+
+D
+3
+
+ABILITIES
+
+CORE: Deadly Demise 1
+
+FACTION: Synapse
+
+Death Scream: In your Shooting phase, after this model has 
+shot, select one unit hit by one or more of those attacks. 
+That unit must take a Battle-shock test, subtracting 1 from 
+that test.
+
+KEYWORDS: Monster, Great Devourer, Screamer-Killer
+
+FACTION KEYWORDS:  
+Tyranids
+
+SCREAMER-KILLER
+An older adaptation of the basic Carnifex strain, the Screamer-Killer 
+was christened by terrified Imperial troops for the distinctive howl 
+it emits as it generates then unleashes its bio-plasmic blasts. 
+Screamer-Killers are often seen at the forefront of a Tyranid assault, 
+where they can inflict the most damage quickly.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Screamer-Killer
+This model is equipped with: bio-plasmic scream; 
+Screamer-Killer talons.
+
+KEYWORDS: Monster, Great Devourer, Screamer-Killer
+
+FACTION KEYWORDS:  
+Tyranids
+
+HIVE GUARD
+
+M
+
+6"
+
+T
+
+7
+
+SV
+
+3+
+
+W
+
+4
+
+LD
+
+8+
+
+OC
+
+1
+
+RANGED WEAPONS
+Impaler cannon [HEAVY, INDIRECT FIRE]
+Shockcannon [ANTI-VEHICLE 2+]
+
+MELEE WEAPONS
+Xenos claws and teeth 
+
+RANGE
+
+36"
+24"
+
+RANGE
+Melee
+
+A
+4
+2
+
+A
+3
+
+BS
+4+
+3+
+
+WS
+4+
+
+S
+5
+7
+
+S
+5
+
+AP
+-1
+-1
+
+AP
+0
+
+D
+1
+3
+
+D
+1
+
+ABILITIES
+
+FACTION: Synapse
+
+Defensive Stance: Each time you target this unit with the Fire 
+Overwatch Stratagem, while resolving that Stratagem, hits are 
+scored on unmodified Hit rolls of 5+, or unmodified Hit rolls of 
+4+ instead if this unit is within range of an objective marker.
+
+KEYWORDS: Infantry, Great Devourer, Hive Guard
+
+FACTION KEYWORDS:  
+Tyranids
+
+HIVE GUARD
+Hive Guard are spawned to protect Tyranid bio-architecture and 
+vital spore-seeding sites. They carry a monstrous arsenal of grafted 
+bio-weapons and are instinctively driven – or sometimes synaptically 
+impelled – to lay down heavy hails of firepower against those prey 
+organisms the Hive Mind wishes to see eradicated.
+
+WARGEAR OPTIONS
+
+ ■   Any number of models can each have their shockcannon replaced with 1 impaler cannon.
+
+UNIT COMPOSITION
+
+ ■ 3-6 Hive Guard
+Every model is equipped with: shockcannon; xenos claws 
+and teeth.
+
+KEYWORDS: Infantry, Great Devourer, Hive Guard
+
+FACTION KEYWORDS:  
+Tyranids
+
+TYRANNOFEX
+
+M
+
+9"
+
+T
+
+12
+
+SV
+
+2+
+
+W
+
+16
+
+LD
+
+8+
+
+OC
+
+5
+
+RANGED WEAPONS
+Acid spray [TORRENT]
+Fleshborer hive [HEAVY, SUSTAINED HITS 1, TWIN-LINKED]
+Rupture cannon [HEAVY]
+Stinger salvoes 
+
+MELEE WEAPONS
+Powerful limbs 
+
+RANGE
+
+18"
+24"
+48"
+24"
+
+RANGE
+Melee
+
+A
+
+D6+6
+20
+2
+8
+
+A
+4
+
+BS
+N/A
+3+
+3+
+3+
+
+WS
+3+
+
+S
+6
+5
+18
+5
+
+S
+8
+
+AP
+-2
+0
+-4
+0
+
+AP
+0
+
+D
+2
+1
+2D6
+1
+
+D
+2
+
+ABILITIES
+
+CORE: Deadly Demise D6
+
+FACTION: Synapse
+
+Resilient Organism: Each time an attack is allocated to 
+this model, subtract 1 from the Damage characteristic of 
+that attack.
+
+DAMAGED: 1-5 WOUNDS REMAINING
+
+While this model has 1-5 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+KEYWORDS: Monster, Great Devourer, Tyrannofex
+
+FACTION KEYWORDS:  
+Tyranids
+
+TYRANNOFEX
+The Tyrannofex is a walking battle tank and heavy weapons platform 
+of huge size and resilience. These warrior organisms are extremely 
+well armoured, more than capable of going toe-to-toe with the heaviest 
+battle tanks of their prey species in a shooting match. Few foes can 
+stand against even one of these beasts.
+
+WARGEAR OPTIONS
+
+ ■   This model’s fleshborer hive can be replaced with one of the following:
+
+ ◦ 1 acid spray
+ ◦ 1 rupture cannon
+
+UNIT COMPOSITION
+
+ ■ 1 Tyrannofex
+This model is equipped with: fleshborer hive; stinger salvoes; 
+powerful limbs.
+
+KEYWORDS: Monster, Great Devourer, Tyrannofex
+
+FACTION KEYWORDS:  
+Tyranids
+
+TYRANNOCYTE
+
+M
+
+8"
+
+T
+
+9
+
+SV
+
+3+
+
+W
+
+10
+
+LD
+
+8+
+
+OC
+
+2
+
+RANGED WEAPONS
+Tyrannocyte bio-weapons
+
+MELEE WEAPONS
+Flensing whips 
+
+RANGE
+
+24"
+
+RANGE
+Melee
+
+A
+5
+
+A
+6
+
+BS
+4+
+
+WS
+4+
+
+S
+5
+
+S
+7
+
+AP
+-1
+
+AP
+-1
+
+D
+2
+
+D
+2
+
+ABILITIES
+
+CORE: Deadly Demise D3, Deep Strike
+
+FACTION: Synapse
+
+Aerial Seeding: This model must start the battle in Reserves, 
+but neither it nor any units embarked within it are counted 
+towards any limits placed on the maximum number of 
+Reserves units you can start the battle with. This model can 
+be set up in the Reinforcements step of your first, second 
+or third Movement phase, regardless of any mission rules. 
+Any units embarked within this model must immediately 
+disembark after it has been set up on the battlefield, and they 
+must be set up more than 9" away from all enemy models. 
+After this model has been set up on the battlefield, no units 
+can embark within it.
+
+KEYWORDS:   Monster, Fly, Transport, Dedicated Transport, Great Devourer, 
+
+Tyrannocyte
+
+FACTION KEYWORDS:  
+Tyranids
+
+TYRANNOCYTE
+Tyrannocytes are huge spores, heat-resistant to endure atmospheric 
+re-entry and with wet, pulsing interior chambers within which broods 
+of organisms can ride down to a world’s surface. Once its passengers 
+spill forth into battle, the Tyrannocyte drifts skyward again and goes 
+hunting for its own prey.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Tyrannocyte
+This model is equipped with: Tyrannocyte bio-weapons; 
+flensing whips.
+
+TRANSPORT
+
+This model has a transport capacity of 20 Tyranids Infantry 
+models, or 1 Tyranids Monster model with a Wounds 
+characteristic of 12 or less. Each Infantry model with a 
+Wounds characteristic of more than 1 takes up the space of 
+3 models.
+
+KEYWORDS:   Monster, Fly, Transport, Dedicated Transport, Great Devourer, 
+
+Tyrannocyte
+
+FACTION KEYWORDS:  
+Tyranids
+
+HIVE CRONE
+
+M
+
+20+"
+
+T
+
+9
+
+SV
+
+3+
+
+W
+
+12
+
+LD
+
+8+
+
+OC
+
+0
+
+RANGED WEAPONS
+Drool cannon [TORRENT]
+Stinger salvoes 
+Tentaclids [ANTI-VEHICLE 4+, DEVASTATING WOUNDS]
+
+MELEE WEAPONS
+Scything wings 
+Thorax spur [ANTI-FLY 2+, EXTRA ATTACKS]
+
+RANGE
+
+12"
+24"
+36"
+
+RANGE
+Melee
+Melee
+
+A
+2D6
+8
+4
+
+A
+4
+1
+
+BS
+N/A
+3+
+3+
+
+WS
+4+
+3+
+
+S
+6
+5
+7
+
+S
+7
+10
+
+AP
+-1
+0
+0
+
+AP
+-1
+-3
+
+D
+1
+1
+2
+
+D
+2
+D6
+
+ABILITIES
+
+CORE: Deadly Demise D3, Hover
+
+FACTION: Synapse
+
+Airborne Predator: Each time this model makes a ranged 
+attack that targets a unit that can Fly, add 1 to the Hit roll.
+
+DAMAGED: 1-4 WOUNDS REMAINING
+
+While this model has 1-4 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+KEYWORDS: Monster, Fly, Aircraft, Great Devourer, Hive Crone
+
+FACTION KEYWORDS:  
+Tyranids
+
+HIVE CRONE
+Hive Crones scour the skies for prey fighter craft. The tentaclids they 
+release pursue enemy aircraft before erupting in bio-electric pulses 
+that banish motive force and send the dark, dead machines tumbling 
+groundward. Then, drool cannons slathering, the Hive Crones dive 
+down to seek fresh, land-based prey.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Hive Crone
+This model is equipped with: drool cannon; stinger salvoes; 
+tentaclids; scything wings; thorax spur.
+
+KEYWORDS: Monster, Fly, Aircraft, Great Devourer, Hive Crone
+
+FACTION KEYWORDS:  
+Tyranids
+
+HARPY
+
+M
+
+20+"
+
+T
+
+9
+
+SV
+
+3+
+
+W
+
+12
+
+LD
+
+8+
+
+OC
+
+0
+
+RANGED WEAPONS
+Stinger salvoes 
+Twin heavy venom cannon [BLAST, TWIN-LINKED]
+Twin stranglethorn cannon [BLAST, TWIN-LINKED]
+
+MELEE WEAPONS
+Scything wings 
+
+RANGE
+
+24"
+36"
+36"
+
+RANGE
+Melee
+
+A
+8
+D3
+D6+1
+
+A
+4
+
+BS
+3+
+3+
+2+
+
+WS
+4+
+
+S
+5
+9
+7
+
+S
+7
+
+AP
+0
+-2
+-1
+
+AP
+-1
+
+D
+1
+3
+2
+
+D
+2
+
+ABILITIES
+
+CORE: Deadly Demise D3, Hover
+
+FACTION: Synapse
+
+Spore Mine Cysts: Each time this model ends a Normal move, 
+you can do one of the following:
+ ■  Select one enemy unit it moved over during that move and 
+
+roll six D6: for each 3+, that unit suffers 1 mortal wound.
+
+ ■  Add a new Spore Mines unit containing D3 models to your 
+army and set it up anywhere on the battlefield that is within 
+6" of this model and more than 9" horizontally away from all 
+enemy units. 
+
+DAMAGED: 1-4 WOUNDS REMAINING
+
+While this model has 1-4 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+KEYWORDS: Monster, Fly, Aircraft, Great Devourer, Harpy
+
+FACTION KEYWORDS:  
+Tyranids
+
+HARPY
+Harpies are flying bioforms whose natural agility allows them to 
+outmanoeuvre most prey fighter craft. They are often sent in amidst 
+the first waves of an invasion, dropping organic munitions onto 
+panicked defenders and diving down to attack.
+
+WARGEAR OPTIONS
+
+ ■ This model’s twin stranglethorn cannon can be replaced with 1 twin heavy venom cannon.
+
+UNIT COMPOSITION
+
+ ■ 1 Harpy
+This model is equipped with: stinger salvoes; twin 
+stranglethorn cannon; scything wings.
+
+KEYWORDS: Monster, Fly, Aircraft, Great Devourer, Harpy
+
+FACTION KEYWORDS:  
+Tyranids
+
+SPOROCYST
+
+M
+
+-
+
+T
+
+10
+
+SV
+
+3+
+
+W
+
+10
+
+LD
+
+8+
+
+OC
+
+0
+
+D
+RANGED WEAPONS
+Sporocyst bio-weapons [HIVE DEFENCES]
+2
+Hive Defences: Each time an enemy unit is set up or ends a Normal, Advance or Fall Back move within 
+range of this weapon, if that enemy unit is an eligible target, the bearer can shoot with this weapon at 
+that unit as if it were your Shooting phase (the bearer can do so up to four times per phase).
+
+RANGE
+
+BS
+4+
+
+AP
+-1
+
+S
+5
+
+A
+5
+
+24"
+
+MELEE WEAPONS
+Flensing whips 
+
+RANGE
+Melee
+
+A
+6
+
+WS
+4+
+
+S
+7
+
+AP
+-1
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Synapse
+
+Seed Mucolids: In your Shooting phase, each time this model 
+is selected to shoot, it can use this ability instead of making 
+any attacks with its ranged weapons. If it does, you can add a 
+new Mucolid Spores unit containing 1 model to your army 
+and set it up anywhere on the battlefield that is within 18" 
+of this model but more than 9" horizontally away from all 
+enemy units.
+
+KEYWORDS: Monster, Great Devourer, Sporocyst
+
+FACTION KEYWORDS:  
+Tyranids
+
+SPOROCYST
+Dropped from orbit, Sporocysts dig into the surface of the prey world 
+like ticks then begin spewing toxic spores from their living chimneys. 
+They are able to eject shoals of Mucolid Spores, while prey who 
+stray too close are subjected to hails of organic projectiles from the 
+bio-cannons grafted to the Sporocyst’s hide.
+
+WARGEAR OPTIONS
+
+ ■ None
+
+UNIT COMPOSITION
+
+ ■ 1 Sporocyst
+This model is equipped with: Sporocyst bio-weapons; 
+flensing whips.
+
+KEYWORDS: Monster, Great Devourer, Sporocyst
+
+FACTION KEYWORDS:  
+Tyranids
+
+PSYCHOPHAGE
+
+M
+
+8"
+
+T
+
+9
+
+SV
+
+3+
+
+W
+
+10
+
+LD
+
+8+
+
+OC
+
+3
+
+RANGED WEAPONS
+Psychoclastic torrent [IGNORES COVER, TORRENT]
+
+MELEE WEAPONS
+Talons and betentacled maw 
+[ANTI-PSYKER 2+, DEVASTATING WOUNDS]
+
+RANGE
+
+12"
+
+RANGE
+
+A
+D6
+
+A
+
+BS
+N/A
+
+WS
+
+Melee
+
+D6+1
+
+3+
+
+S
+6
+
+S
+
+6
+
+AP
+-1
+
+AP
+
+-1
+
+D
+1
+
+D
+
+2
+
+ABILITIES
+
+CORE: Deadly Demise 1, Feel No Pain 5+
+
+FACTION: Synapse
+
+Bio-stimulus (Aura): While a friendly Tyranids unit 
+is within 6" of this model, models in that unit have the 
+Feel No Pain 6+ ability.
+Feeding Frenzy: Each time this model makes a melee attack 
+that targets a unit that is below its Starting Strength, add 1 to 
+the Hit roll. If that target is also Below Half-strength, add 1 to 
+the Wound roll as well.
+
+KEYWORDS: Monster, Great Devourer, Psychophage
+
+FACTION KEYWORDS:  
+Tyranids
+
+PSYCHOPHAGE
+These monsters stampede into battle with frightening speed. They 
+devour any prey organism in their paths, but especially favour those 
+victims with psychic abilities. How they metabolise such esoteric 
+powers is unclear, but doing so allows them to project surges of 
+psychocorrosive ash that deflagrate their victims’ minds and souls.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Psychophage
+This model is equipped with: psychoclastic torrent; talons 
+and betentacled maw.
+
+KEYWORDS: Monster, Great Devourer, Psychophage
+
+FACTION KEYWORDS:  
+Tyranids
+
+BARBGAUNTS
+
+M
+
+6"
+
+T
+
+4
+
+SV
+
+4+
+
+W
+
+2
+
+LD
+
+8+
+
+OC
+
+1
+
+RANGED WEAPONS
+Bio-cannon [BLAST, HEAVY]
+
+MELEE WEAPONS
+Xenos claws and teeth 
+
+RANGE
+
+24"
+
+RANGE
+Melee
+
+A
+D6
+
+A
+1
+
+BS
+4+
+
+WS
+4+
+
+S
+5
+
+S
+4
+
+AP
+0
+
+AP
+0
+
+D
+1
+
+D
+1
+
+ABILITIES
+
+FACTION: Synapse
+
+Disruption Bombardment: In your Shooting phase, after 
+this unit has shot, if an enemy Infantry unit was hit by one 
+or more of those attacks made by this unit’s bio-cannons, 
+until the end of your opponent’s next turn, that enemy unit is 
+disrupted. While a unit is disrupted, subtract 2 from its Move 
+characteristic, and subtract 2 from Advance and Charge rolls 
+made for it.
+
+KEYWORDS: Infantry, Great Devourer, Barbgaunts
+
+FACTION KEYWORDS:  
+Tyranids
+
+BARBGAUNTS
+Barbgaunts are little more than living weapons, their bodies and 
+bio-cannons slaved to the will of a pulsating ganglio-parasite that 
+piggybacks them into battle. There, they unleash volleys of chitinous 
+barbs that detonate with the fury of violent muscle-spasms and 
+transfix nearby victims with hails of jagged projectiles.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 5-10 Barbgaunts
+Every model is equipped with: bio-cannon; xenos claws 
+and teeth.
+
+KEYWORDS: Infantry, Great Devourer, Barbgaunts
+
+FACTION KEYWORDS:  
+Tyranids
+
+

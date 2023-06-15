@@ -1,0 +1,5112 @@
+ADEPTA SORORITAS
+ARMY RULE
+
+The Battle Sisters of the Adepta Sororitas bear the holy weaponry with which the Emperor’s legions conquered 
+the galaxy, and illuminate the faithless in lethal volleys from the holy trinity of bolter, flamer and melta weapons. 
+It is said the Emperor’s benediction touches each of these warriors, manifesting as a nimbus of holy light in 
+which his power is revealed in miraculous deeds of fortitude and divine strength.
+
+ACTS OF FAITH
+If your Army Faction is Adepta Sororitas, each unit from your army with this ability can perform one Act of Faith 
+per phase. This is done using Miracle dice.
+
+GAINING MIRACLE DICE
+If your Army Faction is Adepta Sororitas, you gain 1 
+Miracle dice:
+
+ ■ At the start of each turn.
+ ■  Each time an Adepta Sororitas unit from your 
+
+army is destroyed.
+
+Each time you gain a Miracle dice, roll one D6. The 
+number you roll is the value of that Miracle dice. This 
+value cannot be changed or re-rolled, unless a rule 
+specifically states otherwise. Keep your Miracle dice 
+to one side – this is your Miracle dice pool. 
+
+PERFORMING AN ACT OF FAITH
+Before making a dice roll for a model or unit from your 
+army with the Acts of Faith ability, if you have one 
+or more dice in your Miracle dice pool, that unit can 
+perform an Act of Faith. If it does, select one of the 
+dice from your Miracle dice pool to substitute that 
+dice roll (if a roll involves more than one dice, e.g. a 
+Charge roll or Battle-shock test, only a single dice can 
+be substituted). The dice that is being substituted is 
+not rolled; instead the value of the selected Miracle 
+dice is used as if it had been rolled (this counts as 
+an unmodified dice roll of that value for all rules 
+purposes). Each Miracle dice can only be selected for 
+substitution once. Once all Miracle dice substitutions 
+have been made, remove the chosen Miracle dice 
+from your Miracle dice pool, and roll all remaining, 
+unsubstituted dice that are a part of the dice roll. You 
+can use Miracle dice when a unit performs an Act of 
+Faith for any of the following types of dice roll:
+
+ ■  Advance roll
+ ■ Battle-shock test
+ ■ Charge roll
+ ■ Damage roll
+ ■ Hit roll
+ ■ Saving throw
+ ■ Wound roll
+
+Example: Instead of rolling 2D6 to take a unit’s 
+Battle-shock test, you could use one dice from 
+your Miracle dice pool. If the value of that dice was 
+4, the unit’s Battle-shock test would be determined 
+by rolling one D6 and adding 4 to it (i.e. it would 
+be D6+4).
+
+ADEPTA SORORITAS – HALLOWED MARTYRS
+DETACHMENT RULE
+
+If your Army Faction is Adepta Sororitas, you can 
+use this Hallowed Martyrs Detachment rule. 
+
+THE BLOOD OF MARTYRS 
+The blood of martyrs is the life force of the Imperium. 
+So do the tenets of this Order joyously proclaim, and 
+in its warriors’ darkest hour does the sacrifice of their 
+fallen Sisters shine brightest. 
+
+Each time an Adepta Sororitas model from your 
+army makes an attack, add 1 to the Hit roll if that 
+model’s unit is below its Starting Strength, and add 1 
+to the Wound roll, as well, if that model’s unit is Below 
+Half-strength. For the purposes of this ability, if a 
+unit has a Starting Strength of 1, it is considered to 
+be below its Starting Strength while it has lost one or 
+more wounds.
+
+ADEPTA SORORITAS – HALLOWED MARTYRS
+STRATAGEMS
+
+If you are using the Hallowed Martyrs Detachment rule, you can use these Hallowed Martyrs Stratagems.
+
+1CP
+
+DIVINE INTERVENTION
+HALLOWED MARTYRS – EPIC DEED STRATAGEM
+
+Sometimes, a brush with death is so close 
+the only explanation is divine intervention.
+
+WHEN: Any phase.
+TARGET: One Adepta Sororitas 
+Character unit from your army that 
+was just destroyed. You can use this 
+Stratagem on that unit even though it was 
+just destroyed.
+EFFECT: Discard 1-3 Miracle dice. At the 
+end of the phase, set the last destroyed 
+model from your unit back up on the 
+battlefield, as close as possible to 
+where it was destroyed and not within 
+Engagement Range of any enemy models. 
+That model is set back up with a number 
+of wounds remaining equal to the number 
+of Miracle dice you discarded.
+RESTRICTIONS: You cannot select Saint 
+Celestine as the target of this Stratagem. 
+You cannot select the same Character 
+as the target of this Stratagem more than 
+once per battle. 
+
+1CP
+
+1CP
+
+LIGHT OF THE EMPEROR
+HALLOWED MARTYRS – BATTLE TACTIC STRATAGEM
+
+The Emperor’s radiance shines upon his 
+warriors, emboldening them amidst the 
+thick of battle in their darkest hour.
+
+WHEN: Command phase.
+TARGET: One Adepta Sororitas unit 
+from your army that is below its Starting 
+Strength. For the purposes of this 
+Stratagem, if a unit has a Starting Strength 
+of 1, it is considered to be below its 
+Starting Strength while it has lost one or 
+more wounds.
+EFFECT: Until the end of the turn, your 
+unit can ignore any or all modifiers to 
+its characteristics and/or to any roll or 
+test made for it (excluding modifiers to 
+saving throws).
+
+HOLY RAGE
+HALLOWED MARTYRS – STRATEGIC PLOY STRATAGEM
+
+With psalms on their lips, the faithful hurl 
+themselves forward, striking the foe down 
+with the inner strength born of faith in 
+the Emperor.
+
+WHEN: Fight phase.
+TARGET: One Adepta Sororitas unit from 
+your army that has not been selected to 
+fight this phase.
+EFFECT: Until the end of the phase, each 
+time a model in your unit makes a melee 
+attack, add 1 to the Wound roll.
+
+ADEPTA SORORITAS – HALLOWED MARTYRS
+STRATAGEMS
+
+If you are using the Hallowed Martyrs Detachment rule, you can use these Hallowed Martyrs Stratagems.
+
+REJOICE THE FALLEN
+HALLOWED MARTYRS – STRATEGIC PLOY STRATAGEM
+
+1CP
+
+The death of a Battle Sister only stirs 
+the survivors to fight harder to exact 
+swift vengeance.
+
+WHEN: Your opponent’s Shooting phase, 
+just after an enemy unit has resolved 
+its attacks.
+TARGET: One Adepta Sororitas unit 
+from your army that had one or more of 
+its models destroyed as a result of the 
+attacking unit’s attacks.
+EFFECT: Your unit can shoot as if it were 
+your Shooting phase, but it must target 
+only that enemy unit when doing so, and 
+can only do so if that enemy unit is an 
+eligible target.
+
+2CP
+
+SPIRIT OF THE MARTYR
+HALLOWED MARTYRS – STRATEGIC PLOY STRATAGEM
+
+Even with their dying act, the Sororitas 
+mete out the Emperor’s judgement.
+
+WHEN: Fight phase, just after an enemy 
+unit has selected its targets.
+TARGET: One Adepta Sororitas unit 
+from your army that was selected as the 
+target of one or more of the attacking 
+unit’s attacks.
+EFFECT: Until the end of the phase, each 
+time a model in your unit is destroyed, if 
+that model has not fought this phase, do 
+not remove it from play. The destroyed 
+model can fight after the attacking 
+model’s unit has finished making attacks, 
+and is then removed from play.
+
+SUFFERING & SACRIFICE
+
+HALLOWED MARTYRS – STRATEGIC PLOY STRATAGEM
+
+1CP
+
+Suffering is a staple prayer for the Adepta 
+Sororitas, and a martyr’s fate only brings 
+greater glory to the God-Emperor.
+
+WHEN: Start of the Fight phase.
+TARGET: One Adepta Sororitas Infantry 
+or Adepta Sororitas Walker unit from 
+your army.
+EFFECT: Until the end of the phase, each 
+time an enemy model within Engagement 
+range of your unit selects targets, it must 
+select your unit as the target of its attacks.
+
+ADEPTA SORORITAS – HALLOWED MARTYRS
+ENHANCEMENTS
+
+If you are using the Hallowed Martyrs Detachment rule, you can use these Hallowed Martyrs Enhancements.
+SAINTLY EXAMPLE
+With her final breath is another heroine elevated to 
+the ranks of sainthood, her death stirring her greatest 
+companions to finish what she started.
+
+Adepta Sororitas model only. When the bearer is 
+destroyed, you gain an additional D3 Miracle dice.
+BLADE OF SAINT ELLYNOR
+This blade is forged from thrice-blessed silver, 
+quenched in the blood of a hundred martyred heroes. 
+On one side the names and deeds of a thousand 
+saints are inscribed on the molecular level, while the 
+other side is etched with the entire Fede Imperialis. 
+The blade glows with righteous power and has slain 
+heretics, mutants and xenos beyond counting.
+
+Adepta Sororitas model only. Add 1 to the 
+Attacks, Strength and Damage characteristics of 
+the bearer’s melee weapons. If the bearer has lost 
+one or more wounds, add 2 to the Attacks, Strength 
+and Damage characteristics of the bearer’s melee 
+weapons instead. 
+
+LITANIES OF FAITH
+When Sebastian Thor was declared Ecclesiarch in 
+the wake of the Age of Apostasy, his first sermon 
+was transcribed onto scrolls by an army of scribes. 
+Today, only a single original copy remains, kept in a 
+stasis vault beneath the Convent Prioris on Terra and 
+released only with the sanction of the Ecclesiarch 
+himself. This unassuming parchment is one of the 
+holiest relics in the Ministorum’s charge, its mere 
+presence enough to fill the hearts of the faithful with 
+righteous fervour.
+
+Adepta Sororitas model only. At the end of your 
+Command phase, if the bearer is on the battlefield, 
+you can re-roll one Miracle dice from your Miracle dice 
+pool and return it to your Miracle dice pool with the 
+new result you rolled. When doing so, if the bearer has 
+lost one or more wounds or is leading a unit that is 
+Below Half-strength, you can re-roll up to three Miracle 
+dice in this way instead.
+MANTLE OF OPHELIA
+The Mantle of Ophelia was once the badge of office 
+for the Prioress of the Convent Sanctorum, and was 
+worn by Helena the Virtuous, a Living Saint and one of 
+the most revered leaders in the history of the Adepta 
+Sororitas. The mantle is thought to have sacred 
+powers of protection, for Helena was said to have 
+anointed it with the Tears of the Emperor, a phial of 
+blood-like liquid meticulously collected over a century 
+from weeping statues of the Emperor found across 
+the cardinal worlds of the Imperium.
+
+Canoness or Palatine model only. Each time an 
+attack is allocated to the bearer, change the Damage 
+characteristic of that attack to 1.
+
+MORVENN VAHL
+
+M
+
+8"
+
+T
+
+6
+
+SV
+
+2+
+
+W
+
+8
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Fidelis [SUSTAINED HITS 1]
+Paragon missile launcher – prioris 
+Paragon missile launcher – sanctorum [BLAST]
+
+RANGE
+
+36"
+36"
+36"
+
+MELEE WEAPONS
+Lance of Illumination – strike [DEVASTATING WOUNDS]
+Lance of Illumination – sweep 
+
+RANGE
+Melee
+Melee
+
+A
+3
+2
+2D6
+
+A
+5
+10
+
+BS
+2+
+2+
+2+
+
+WS
+2+
+2+
+
+S
+6
+9
+4
+
+S
+8
+5
+
+AP
+-1
+-2
+0
+
+AP
+-2
+-1
+
+D
+2
+D6
+1
+
+D
+3
+1
+
+ABILITIES
+
+CORE: Deadly Demise 1, Leader 
+
+FACTION: Acts of Faith
+
+Abbess Sanctorum: While this model is leading a unit, each 
+time a model in that unit makes an attack, you can re-roll the 
+Hit roll and you can re-roll the Wound roll.
+Righteous Repugnance: Once per battle, in your Command 
+phase, this model can use this ability. If it does, until the 
+start of your next Command phase, add 3 to the Attacks 
+characteristic of Fidelis and the Lance of Illumination.
+
+INVULNERABLE SAVE
+
+4+
+
+Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Vehicle, Walker, Character, Epic Hero, Imperium, Morvenn Vahl
+
+FACTION KEYWORDS: 
+Adepta Sororitas
+
+MORVENN VAHL
+Aggressive, brash and taciturn, Morvenn Vahl leads the Adepta 
+Sororitas from the front. Taking to the field in an ancient Paragon 
+Warsuit, she smites foe after foe with deafening bursts from Fidelis, 
+devastating salvoes of missiles and pinpoint thrusts with the Lance 
+of Illumination.
+
+WARGEAR OPTIONS
+
+ ■ None
+
+UNIT COMPOSITION
+
+ ■ 1 Morvenn Vahl – Epic Hero
+This model is equipped with: Fidelis; Paragon missile 
+launcher; Lance of Illumination.
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Paragon Warsuits
+
+SUPREME COMMANDER
+
+If this model is in your army, it must be your Warlord. 
+
+KEYWORDS: Vehicle, Walker, Character, Epic Hero, Imperium, Morvenn Vahl
+
+FACTION KEYWORDS: 
+Adepta Sororitas
+
+CANONESS
+
+M
+
+6"
+
+T
+
+3
+
+SV
+
+3+
+
+W
+
+4
+
+LD
+
+7+
+
+OC
+
+1
+
+RANGE
+
+A
+RANGED WEAPONS
+1
+Bolt pistol [PISTOL]
+D6
+Brazier of holy fire [IGNORES COVER, ONE SHOT, TORRENT]
+One Shot: The bearer can only shoot with this weapon once per battle.
+Condemnor boltgun [ANTI-PSYKER 2+, 
+DEVASTATING WOUNDS, PRECISION, RAPID FIRE 1]
+Inferno pistol [MELTA 2, PISTOL]
+Plasma pistol – standard [PISTOL]
+Plasma pistol – supercharge [HAZARDOUS, PISTOL]
+
+6"
+12"
+12"
+
+12"
+12"
+
+1
+1
+1
+
+24"
+
+1
+
+MELEE WEAPONS
+Blessed blade 
+Chainsword 
+Power weapon 
+
+RANGE
+Melee
+Melee
+Melee
+
+A
+3
+5
+4
+
+BS
+2+
+N/A
+
+2+
+
+2+
+2+
+2+
+
+WS
+2+
+2+
+2+
+
+S
+4
+6
+
+4
+
+8
+7
+8
+
+S
+6
+3
+4
+
+AP
+0
+-1
+
+0
+
+-4
+-2
+-3
+
+AP
+-2
+0
+-2
+
+D
+1
+2
+
+1
+
+D3
+1
+2
+
+D
+2
+1
+1
+
+Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Infantry, Character, Grenades, Imperium, Canoness
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Acts of Faith
+
+Lead the Righteous: While this model is leading a unit, each 
+time a model in that unit makes an attack, you can re-roll the 
+Hit roll.
+The Emperor’s Grace: Once per battle, at the start of any 
+phase, this model can use this ability. If it does, until the end 
+of the phase, this model has a 2+ invulnerable save.
+
+WARGEAR ABILITIES
+
+Null Rod: Models in the bearer’s unit have the Feel No Pain 4+ 
+ability against Psychic Attacks.
+
+Rod of Office: Each time you select the bearer’s unit as the 
+target of a Stratagem, roll one D6: on a 4+, you gain 1CP.
+
+INVULNERABLE SAVE
+
+4+
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+CANONESS
+Martial and spiritual commanders of the Orders Militant, Canonesses 
+are as much veteran warriors with decades of experiences as they are 
+shining examples of purity. Possessed of impeccable leadership skills, 
+tactical genius and immense faith, they are beacons of both pious 
+virtue and holy wrath.
+
+WARGEAR OPTIONS
+
+ ■  This model’s bolt pistol can be replaced with one of the following:
+
+ ◦ 1 condemnor boltgun
+ ◦ 1 inferno pistol
+ ◦ 1 plasma pistol 
+
+ ■ This model’s chainsword can be replaced with one of the following:
+
+ ◦  1 blessed blade
+ ◦ 1 power weapon
+
+ ■  If this model is equipped with a chainsword, it can be equipped with one of the following: 
+
+ ◦ 1 brazier of holy fire
+ ◦ 1 null rod
+
+ ■  If this model is equipped with a plasma pistol and a power weapon, it can be equipped with: 
+
+ ◦ 1 rod of office
+
+UNIT COMPOSITION
+
+ ■ 1 Canoness
+This model is equipped with: bolt pistol; chainsword.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Battle Sisters Squad
+ ■ Celestian Sacresants
+
+KEYWORDS: Infantry, Character, Grenades, Imperium, Canoness
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+PALATINE
+
+M
+
+6"
+
+T
+
+3
+
+SV
+
+3+
+
+W
+
+3
+
+LD
+
+7+
+
+OC
+
+1
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+Plasma pistol – standard [PISTOL]
+Plasma pistol – supercharge [HAZARDOUS, PISTOL]
+
+MELEE WEAPONS
+Palatine blade 
+
+RANGE
+
+12"
+12"
+12"
+
+RANGE
+Melee
+
+A
+1
+1
+1
+
+A
+4
+
+BS
+2+
+2+
+2+
+
+WS
+2+
+
+S
+4
+7
+8
+
+S
+4
+
+AP
+0
+-2
+-3
+
+AP
+-2
+
+D
+1
+1
+2
+
+D
+2
+
+ABILITIES
+
+CORE: Leader, Scouts 6"
+
+FACTION: Acts of Faith
+
+Fury of the Righteous: While this model is leading a 
+unit, weapons equipped by models in that unit have the 
+[LETHAL HITS] ability.
+Rapturous Blows: Each time this model’s unit is selected to 
+fight, you can discard one Miracle dice. If you do, then until 
+the end of the phase, each time a melee attack made by this 
+model scores a wound, the target of that attack suffers 1 
+mortal wound in addition to any normal damage.
+
+INVULNERABLE SAVE
+
+4+
+
+Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Infantry, Character, Grenades, Imperium, Palatine
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+PALATINE
+Palatines are highly capable and experienced commanders of Adepta 
+Sororitas Missions. Unshakeable of faith and purpose, they act as 
+excellent examples to the Battle Sisters that follow them. This makes 
+them a powerful force on the battlefield, inspiring zealous warriors 
+to victory.
+
+WARGEAR OPTIONS
+
+ ■   This model’s bolt pistol can be replaced with 1 plasma pistol.
+
+UNIT COMPOSITION
+
+ ■ 1 Palatine
+This model is equipped with: bolt pistol; Palatine blade.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Battle Sisters Squad
+ ■ Celestian Sacresants
+ ■ Dominion Squad
+ ■ Sisters Novitiate Squad
+
+KEYWORDS: Infantry, Character, Grenades, Imperium, Palatine
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+JUNITH ERUITA
+
+M
+
+6"
+
+T
+
+4
+
+SV
+
+2+
+
+W
+
+6
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Twin Ministorum heavy flamer 
+[IGNORES COVER, TORRENT, TWIN-LINKED]
+
+MELEE WEAPONS
+Mace of Castigation 
+
+RANGE
+
+12"
+
+RANGE
+Melee
+
+A
+
+D6
+
+A
+4
+
+BS
+
+N/A
+
+WS
+2+
+
+S
+
+6
+
+S
+6
+
+AP
+
+-1
+
+AP
+-2
+
+D
+
+1
+
+D
+2
+
+ABILITIES
+
+CORE: Deadly Demise 1, Leader
+
+FACTION: Acts of Faith
+
+The Pulpit of Saint Holline’s Basilica: While this model is 
+leading a unit, each time an attack targets that unit, subtract 
+1 from the Hit roll.
+Fiery Conviction: If this model is on the battlefield at the start 
+of your Command phase, you gain 1CP. 
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS: Infantry, Character, Fly, Epic Hero, Imperium, Junith Eruita
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+JUNITH ERUITA
+Junith Eruita sweeps to battle wreathed in holy fire. She hovers above 
+the battlefield upon thrumming waves of energy within the pulpit 
+of Saint Holline’s Basilica. Her presence and voice inspire all around 
+her, filling them with faith, while her heavy flamers douse her foes in 
+purging fire.
+
+WARGEAR OPTIONS
+
+ ■ None
+
+UNIT COMPOSITION
+
+ ■ 1 Junith Eruita – Epic Hero
+This model is equipped with: twin Ministorum heavy flamer; 
+Mace of Castigation.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Battle Sisters Squad
+ ■ Celestian Sacresants
+
+KEYWORDS: Infantry, Character, Fly, Epic Hero, Imperium, Junith Eruita
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+MISSIONARY
+
+M
+
+6"
+
+T
+
+3
+
+SV
+
+6+
+
+W
+
+3
+
+LD
+
+7+
+
+OC
+
+1
+
+RANGED WEAPONS
+Autogun [RAPID FIRE 1]
+Holy pistol [PISTOL]
+Ministorum shotgun [ASSAULT]
+
+MELEE WEAPONS
+Chainsword 
+Power weapon 
+
+RANGE
+
+24"
+12"
+12"
+
+RANGE
+Melee
+Melee
+
+A
+1
+3
+2
+
+A
+4
+3
+
+BS
+4+
+4+
+4+
+
+WS
+4+
+4+
+
+S
+3
+4
+4
+
+S
+3
+4
+
+AP
+0
+0
+0
+
+AP
+0
+-2
+
+D
+1
+1
+1
+
+D
+1
+1
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Acts of Faith
+
+War Hymn: While this model is leading a unit, melee 
+weapons equipped by models in that unit have the 
+[SUSTAINED HITS 1] ability.
+Holy Piety: Each time this model makes a melee attack, 
+unless this model’s unit is Battle-shocked, you can re-roll the 
+Hit roll. 
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS: Infantry, Character, Grenades, Imperium, Missionary
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+MISSIONARY
+Missionaries live existences of constant conflict, bringing the light of 
+the God-Emperor to the most dangerous regions of the galaxy. They 
+often fight at the forefront of the Adepta Sororitas’ holy wars, striding 
+into battle without fear as they intone sacred prayers. This stirs the 
+hearts of Imperial warriors, driving them into a killing frenzy.
+
+WARGEAR OPTIONS
+
+ ■  This model’s power weapon can be replaced with one of the following: 
+
+ ◦ 1 autogun and 1 chainsword
+ ◦ 1 Ministorum shotgun and 1 chainsword
+
+UNIT COMPOSITION
+
+ ■ 1 Missionary
+This model is equipped with: holy pistol; power weapon.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Arco-flagellants
+ ■ Battle Sisters Squad
+ ■ Crusaders
+ ■ Sisters Novitiate Squad
+
+KEYWORDS: Infantry, Character, Grenades, Imperium, Missionary
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+SAINT CELESTINE
+
+M
+
+12"
+
+12"
+
+T
+
+3
+
+3
+
+SV
+
+2+
+
+2+
+
+W
+
+5
+
+2
+
+LD
+
+6+
+
+7+
+
+OC
+
+1
+
+CELESTINE
+
+1 GEMINAE SUPERIA
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+The Ardent Blade [IGNORES COVER, TORRENT]
+
+MELEE WEAPONS
+Power weapon 
+The Ardent Blade [DEVASTATING WOUNDS]
+
+RANGE
+
+12"
+12"
+
+RANGE
+Melee
+Melee
+
+A
+1
+D6
+
+A
+3
+5
+
+BS
+3+
+N/A
+
+WS
+3+
+2+
+
+S
+4
+6
+
+S
+4
+6
+
+AP
+0
+-2
+
+AP
+-2
+-3
+
+D
+1
+1
+
+D
+1
+2
+
+ABILITIES
+
+CORE: Deep Strike, Leader
+
+FACTION: Acts of Faith
+
+Healing Tears: While this unit contains a Celestine model, 
+in your Command phase, if this unit is below its Starting 
+Strength, 1 destroyed model is returned to this unit. 
+Lifewards: While this unit contains one or more Geminae 
+Superia models, Celestine has the Feel No Pain 4+ ability.
+Miraculous Intervention: The first time this unit’s Celestine 
+model is destroyed, roll one D6 at the end of the phase. On 
+a 2+, set that Celestine model back up on the battlefield, 
+as close as possible to where it was destroyed and not 
+within Engagement Range of any enemy units, with its full 
+wounds remaining.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS  – ALL MODELS: Infantry, Jump Pack, Fly, Grenades, Imperium 
+
+– SAINT CELESTINE: Character, Epic Hero, Saint Celestine
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+SAINT CELESTINE
+Saint Celestine is a living embodiment of the Emperor’s might, and 
+she radiates holy light. Beneath her the faithful are filled with courage, 
+while heretics experience overwhelming terror. Flanked by her chosen 
+Geminae champions, her gestures can heal the sick, or strike like the 
+Emperor’s judgement itself to smite the foe with divine strength.
+
+WARGEAR OPTIONS
+
+ ■ None
+
+UNIT COMPOSITION
+
+ ■ 1 Celestine – Epic Hero
+ ■ 2 Geminae Superia
+Saint Celestine is equipped with: the Ardent Blade. 
+Each Geminae Superia is equipped with: bolt pistol; 
+power weapon.
+
+LEADER
+
+This unit can be attached to the following units:
+ ■ Seraphim Squad
+ ■ Zephyrim Squad
+
+KEYWORDS  – ALL MODELS: Infantry, Jump Pack, Fly, Grenades, Imperium 
+
+– SAINT CELESTINE: Character, Epic Hero, Saint Celestine
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+TRIUMPH OF SAINT KATHERINE
+
+M
+
+6"
+
+T
+
+3
+
+SV
+
+3+
+
+W
+
+18
+
+LD
+
+6+
+
+OC
+
+6
+
+RANGED WEAPONS
+Bolt pistols [PISTOL]
+
+MELEE WEAPONS
+Relic weapons
+
+RELICS OF THE MATRIARCHS
+
+RANGE
+
+12"
+
+RANGE
+Melee
+
+A
+6
+
+A
+18
+
+BS
+2+
+
+WS
+2+
+
+S
+4
+
+S
+5
+
+AP
+0
+
+AP
+-2
+
+D
+1
+
+D
+1
+
+The Fiery Heart (Aura): While a friendly Adepta 
+Sororitas unit is within 6" of this model, if that unit 
+is destroyed, the Miracle dice you gain as a result is 
+automatically a 6.
+
+Simulacrum of the Argent Shroud (Aura): While a 
+friendly  Adepta Sororitas unit is within 6" of this 
+model, add 1 to the Attacks characteristic of Rapid 
+Fire weapons equipped by models in that unit.
+
+Censer of the Sacred Rose (Aura): While a friendly  
+Adepta Sororitas unit is within 6" of this model, 
+improve that unit’s Leadership characteristic by 1. 
+
+Icon of the Valorous Heart (Aura): While a friendly  
+Adepta Sororitas unit is within 6" of this model, 
+that unit has the Feel No Pain 6+ ability.
+
+Simulacrum of the Ebon Chalice (Aura): While a 
+friendly  Adepta Sororitas unit is within 6" of this 
+model, that unit can perform any number of Acts of 
+Faith per phase, instead of only one.
+
+Petals of the Bloody Rose (Aura): While a friendly  
+Adepta Sororitas unit is within 6" of this model, 
+melee weapons equipped by models in that unit 
+have the [LETHAL HITS] ability.
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Acts of Faith
+
+Relics of the Matriarchs: At the start of the battle round, 
+select up to two of the abilities in the Relics of the Matriarchs 
+section (see left). Until the start of the next battle round, this 
+model has those abilities.
+
+DAMAGED: 1-5 WOUNDS REMAINING
+
+While this model has 1-5 wounds remaining, the Attacks 
+characteristics of all of its weapons are halved, and you can 
+only select one ability when using its Relics of the Matriarchs 
+ability, instead of up to two.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Infantry, Grenades, Character, Epic Hero, Imperium, 
+
+Triumph of Saint Katherine
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+TRIUMPH OF SAINT KATHERINE
+At the centre of the Triumph is the blessed bier upon which lie the 
+mortal remains of Saint Katherine, beneath the sconce containing her 
+fiery heart. Wherever the Triumph goes, the Emperor’s radiance goes 
+with it. The glory of the martyred Matriarch is spread and Battle Sisters 
+are filled with conviction to purge the foes of Mankind.
+
+WARGEAR OPTIONS
+
+ ■ None
+
+UNIT COMPOSITION
+
+ ■ 1 Triumph of Saint Katherine – Epic Hero
+This model is equipped with: bolt pistols; relic weapons.
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Battle Sisters Squad
+
+KEYWORDS:  Infantry, Grenades, Character, Epic Hero, Imperium, 
+
+Triumph of Saint Katherine
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+DAEMONIFUGE
+
+M
+
+8"
+
+8"
+
+T
+
+3
+
+3
+
+SV
+
+3+
+
+6+
+
+W
+
+5
+
+3
+
+LD
+
+7+
+
+7+
+
+OC
+
+1
+
+EPHRAEL STERN
+
+1 KYGANIL OF THE BLOODY TEARS
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+
+MELEE WEAPONS
+Sanctity [ANTI-CHAOS 2+, PRECISION]
+The Outcast’s Weapons [PRECISION]
+
+RANGE
+
+12"
+
+RANGE
+Melee
+Melee
+
+A
+1
+
+A
+4
+6
+
+BS
+3+
+
+WS
+2+
+2+
+
+S
+4
+
+S
+6
+4
+
+AP
+0
+
+AP
+-2
+-1
+
+D
+1
+
+D
+2
+1
+
+ABILITIES
+
+CORE: Deep Strike, Fights First, Lone Operative 
+
+FACTION: Acts of Faith
+
+Holy Judgement: At the start of your Shooting phase, select 
+one enemy unit within 12" of and visible to Ephrael Stern. That 
+unit must take a Leadership test, subtracting 2 from the result 
+if it is a Chaos unit. If the test is failed, that enemy unit suffers 
+3 mortal wounds.
+Mysterious Saviours: You can target this unit with the Heroic 
+Intervention Stratagem for 0CP, and can do so even if you 
+have already targeted a different unit with that Stratagem 
+this phase.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS: Infantry, Grenades, Character, Epic Hero, Imperium, Daemonifuge
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+DAEMONIFUGE
+Ephrael Stern, the Daemonifuge, is capable of manifesting strange 
+powers seen by some as witchery. Yet she is a zealous defender of 
+the Imperial Creed with unwavering devotion. Alongside her Aeldari 
+companion, Kyganil, Stern pits her augmented strength and speed 
+against the Emperor’s enemies.
+
+WARGEAR OPTIONS
+
+ ■ None
+
+UNIT COMPOSITION
+
+ ■ 1 Ephrael Stern – Epic Hero
+ ■ 1 Kyganil of the Bloody Tears – Epic Hero
+Ephrael Stern is equipped with: bolt pistol; Sanctity.
+Kyganil of the Bloody Tears is equipped with: the 
+Outcast’s Weapons.
+
+KEYWORDS: Infantry, Grenades, Character, Epic Hero, Imperium, Daemonifuge
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+BATTLE SISTERS SQUAD
+
+M
+
+6"
+
+T
+
+3
+
+SV
+
+3+
+
+W
+
+1
+
+LD
+
+7+
+
+OC
+
+2
+
+RANGED WEAPONS
+Artificer-crafted storm bolter [RAPID FIRE 2]
+Bolt pistol [PISTOL]
+Boltgun [RAPID FIRE 1]
+Heavy bolter [HEAVY, SUSTAINED HITS 1]
+Meltagun [MELTA 2]
+Ministorum flamer [IGNORES COVER, TORRENT]
+Ministorum heavy flamer [IGNORES COVER, TORRENT]
+Multi-melta [HEAVY, MELTA 2]
+
+MELEE WEAPONS
+Chainsword 
+Close combat weapon 
+Power weapon 
+
+RANGE
+
+24"
+12"
+24"
+36"
+12"
+12"
+12"
+18"
+
+RANGE
+Melee
+Melee
+Melee
+
+A
+2
+1
+1
+3
+1
+D6
+D6
+2
+
+A
+3
+1
+2
+
+BS
+3+
+3+
+3+
+4+
+3+
+N/A
+N/A
+4+
+
+WS
+4+
+4+
+4+
+
+S
+4
+4
+4
+5
+9
+5
+6
+9
+
+S
+3
+3
+4
+
+AP
+0
+0
+0
+-1
+-4
+0
+-1
+-4
+
+AP
+0
+0
+-2
+
+D
+2
+1
+1
+2
+D6
+1
+1
+D6
+
+D
+1
+1
+1
+
+ABILITIES
+
+FACTION: Acts of Faith
+
+Cherub: Once per battle, after this unit has performed an Act 
+of Faith, you gain 1 Miracle dice. 
+Designer’s Note: Place a Cherub token next to the unit, 
+removing it once this ability has been used.
+Defenders of the Faith: At the end of your Command phase, 
+for each objective marker you control that has one or more 
+units from your army with this ability within range of it, you 
+gain 1 Miracle dice.
+
+ WARGEAR ABILITIES
+
+Simulacrum Imperialis: Each time a unit is destroyed by the 
+bearer’s unit, you gain 1 Miracle dice.
+
+INVULNERABLE SAVE
+
+6+
+
+KEYWORDS: Infantry, Grenades, Battleline, Imperium, Battle Sisters Squad
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+BATTLE SISTERS SQUAD
+Battle Sisters of the Orders Militant are skilled and devout warriors. 
+Wherever they advance, the light of the Emperor spreads like a holy 
+dawn. Miracles manifest in their presence that turn aside the enemy’s 
+strikes, or consume foes in fires of retribution as the Sisters cut down 
+heretics with thundering salvoes from their boltguns.
+
+WARGEAR OPTIONS
+
+ ■  The Sister Superior’s boltgun can be replaced 
+
+with one of the following:
+ ◦  1 bolt pistol
+ ◦ 1 combi-weapon*
+ ◦ 1 condemnor boltgun*
+ ◦ 1 inferno pistol*
+ ◦ 1 Ministorum hand flamer*
+ ◦ 1 plasma pistol*
+
+ ■  The Sister Superior can be equipped with one of 
+
+the following:
+ ◦ 1 chainsword
+ ◦ 1 power weapon
+
+ ■  1 Battle Sister’s boltgun can be replaced with 
+
+one of the following: 
+ ◦ 1 artificer-crafted storm bolter
+ ◦ 1 meltagun
+ ◦ 1 Ministorum flamer
+
+ ■  1 Battle Sister’s boltgun can be replaced with 
+
+one of the following: 
+ ◦ 1 artificer-crafted storm bolter
+ ◦ 1 heavy bolter
+ ◦ 1 meltagun
+ ◦ 1 Ministorum flamer
+ ◦ 1 Ministorum heavy flamer
+ ◦ 1 multi-melta
+
+ ■  1 Battle Sister equipped with 1 boltgun can be 
+equipped with 1 simulacrum imperialis (that 
+model’s boltgun cannot be replaced).
+
+*  This weapon’s profile can be found on the Adepta Sororitas 
+Armoury card.
+
+UNIT COMPOSITION
+
+ ■ 1 Sister Superior
+ ■ 9 Battle Sisters
+Every model is equipped with: bolt pistol; boltgun; close 
+combat weapon.
+
+KEYWORDS: Infantry, Grenades, Battleline, Imperium, Battle Sisters Squad
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+SISTERS NOVITIATE SQUAD
+
+M
+
+6"
+
+6"
+
+T
+
+3
+
+3
+
+SV
+
+3+
+
+4+
+
+W
+
+1
+
+1
+
+LD
+
+7+
+
+8+
+
+OC
+
+2
+
+NOVITIATE SUPERIOR
+
+2 SISTER NOVITIATE
+
+RANGED WEAPONS
+Autopistol [PISTOL]
+Autogun [RAPID FIRE 1]
+Bolt pistol [PISTOL]
+Boltgun [RAPID FIRE 1]
+Ministorum flamer [IGNORES COVER, TORRENT]
+Plasma pistol – standard [PISTOL]
+Plasma pistol – supercharge [HAZARDOUS, PISTOL]
+
+MELEE WEAPONS
+Close combat weapon 
+Novitiate melee weapons 
+Power weapon 
+
+RANGE
+
+12"
+24"
+12"
+24"
+12"
+12"
+12"
+
+RANGE
+Melee
+Melee
+Melee
+
+A
+1
+1
+1
+1
+D6
+1
+1
+
+A
+1
+2
+2
+
+BS
+3+
+3+
+3+
+3+
+N/A
+3+
+3+
+
+WS
+4+
+4+
+4+
+
+S
+3
+3
+4
+4
+5
+7
+8
+
+S
+3
+4
+4
+
+AP
+0
+0
+0
+0
+0
+-2
+-3
+
+AP
+0
+0
+-2
+
+D
+1
+1
+1
+1
+1
+1
+2
+
+D
+1
+1
+1
+
+ABILITIES
+
+FACTION: Acts of Faith
+
+Impetuous Fervour: Each time a model in this unit makes 
+an attack, re-roll a Hit roll of 1. If the target of that attack is 
+an enemy unit within range of an objective marker, you can 
+re-roll the Hit roll instead.
+
+WARGEAR ABILITIES
+
+Sacred Banner: You can re-roll Advance and Charge rolls made 
+for the bearer’s unit.
+
+Simulacrum Imperialis: Each time a unit is destroyed by the 
+bearer’s unit, you gain 1 Miracle dice.
+
+INVULNERABLE SAVE
+
+6+
+
+Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Infantry, Grenades, Imperium, Sisters Novitiate Squad
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+SISTERS NOVITIATE SQUAD
+Sisters Novitiate are young recruits to the Adepta Sororitas. Trained 
+by the Drill Abbots of the Schola Progenium, they are assigned to an 
+Order Militant to gain combat experience and prove their mettle in the 
+crucible of war.
+
+WARGEAR OPTIONS
+
+ ■   The Novitiate Superior’s bolt pistol and boltgun can be replaced with one of the following: 
+
+ ◦ 1 bolt pistol and 1 power weapon
+ ◦ 1 plasma pistol and 1 power weapon
+
+ ■ 1 Sister Novitiate’s autogun can be replaced with 1 sacred banner.
+ ■ 1 Sister Novitiate’s autogun can be replaced with 1 simulacrum imperialis.
+ ■  Up to 2 Sisters Novitiate can each have their autogun replaced with 1 Ministorum flamer.
+ ■  Any number of Sisters Novitiate can each have their autogun and close combat weapon replaced with 
+
+1 Novitiate melee weapons.
+
+UNIT COMPOSITION
+
+ ■ 1 Novitiate Superior
+ ■ 9 Sisters Novitiate
+The Novitiate Superior is equipped with: bolt pistol; boltgun; 
+close combat weapon.
+Each Sister Novitiate is equipped with: autopistol; autogun; 
+close combat weapon.
+
+KEYWORDS: Infantry, Grenades, Imperium, Sisters Novitiate Squad
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+AESTRED THURGA AND AGATHAE DOLAN
+
+M
+
+6"
+
+6"
+
+ T
+
+3
+
+3
+
+SV
+
+2+
+
+6+
+
+W
+
+4
+
+3
+
+LD
+
+6+
+
+7+
+
+OC
+
+1
+
+AESTRED THURGA
+
+1 AGATHAE DOLAN
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+
+MELEE WEAPONS
+Blade of Vigil 
+Scribe’s staff 
+
+RANGE
+
+12"
+
+RANGE
+Melee
+Melee
+
+A
+1
+
+A
+4
+3
+
+BS
+3+
+
+WS
+3+
+4+
+
+S
+4
+
+S
+5
+4
+
+AP
+0
+
+AP
+-2
+0
+
+D
+1
+
+D
+2
+1
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Acts of Faith
+
+Auto-Tapestry of the Emperor’s Judgement: While Aestred 
+Thurga is leading a unit, melee weapons equipped by models 
+in that unit have the [DEVASTATING WOUNDS] ability.
+Recount the Deeds of the Saints: While Agathae Dolan is part 
+of this unit, each time this unit performs an Act of Faith, the 
+result of one of the Miracle dice used in that Act of Faith is first 
+improved by 1 (to a maximum of 6).
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Infantry, Grenades, Character, Epic Hero, Imperium, 
+
+Aestred Thurga and Agathae Dolan
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+AESTRED THURGA AND AGATHAE DOLAN
+Aestred Thurga is a powerful warrior in her own right, but recognises with great 
+humility that the ancient relic standard she carries is far more important than 
+she can ever be. She will gladly die to protect the Auto-Tapestry of the Emperor’s 
+Judgement, while the Sisters she fights alongside are inspired to carry out great 
+deeds of faith in its presence – feats recorded by the Hagiolater, Agathae Dolan.
+
+WARGEAR OPTIONS
+
+ ■ None
+
+UNIT COMPOSITION
+
+ ■ 1 Aestred Thurga – Epic Hero
+ ■ 1 Agathae Dolan – Epic Hero 
+Aestred Thurga is equipped with: bolt pistol; Blade of Vigil.
+Agathae Dolan is equipped with: bolt pistol; scribe’s staff.
+
+LEADER
+
+This unit can be attached to the following units:
+ ■ Battle Sisters Squad
+ ■ Celestian Sacresants
+ ■ Dominion Squad
+ ■ Retributor Squad
+
+KEYWORDS:  Infantry, Grenades, Character, Epic Hero, Imperium, 
+
+Aestred Thurga and Agathae Dolan
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+IMAGIFIER
+
+M
+
+6"
+
+T
+
+3
+
+SV
+
+3+
+
+W
+
+3
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+Boltgun [RAPID FIRE 1]
+
+MELEE WEAPONS
+Close combat weapon 
+
+RANGE
+
+12"
+24"
+
+RANGE
+Melee
+
+A
+1
+1
+
+A
+3
+
+BS
+3+
+3+
+
+WS
+4+
+
+S
+4
+4
+
+S
+3
+
+AP
+0
+0
+
+AP
+0
+
+D
+1
+1
+
+D
+1
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Acts of Faith
+
+Litany of Deeds: Each time you gain a Miracle dice as the 
+result of a friendly Adepta Sororitas unit being destroyed, 
+if that unit was destroyed within 12" of this model, you can 
+re-roll the result of that Miracle dice before adding it to your 
+Miracle dice pool. 
+Stanchion of Holy Martyrs: While this model is leading a unit, 
+models in that unit have a 4+ invulnerable save. While this 
+model is leading a Celestian Sacresants unit, models in that 
+unit have a Save characteristic of 2+.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS: Infantry, Grenades, Character, Imperium, Imagifier
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+IMAGIFIER
+It is the most sacred role of the Imagifier to extol the virtues of fallen 
+Sisters and preach tales of their saintly deeds. Imagifiers bear aloft 
+great stanchions in the image of a martyr inscribed with holy texts, 
+and go wherever the fighting is thickest to recite litanies and inspire 
+their fellow Sisters.
+
+WARGEAR OPTIONS
+
+ ■ None
+
+UNIT COMPOSITION
+
+ ■ 1 Imagifier
+This model is equipped with: bolt pistol; boltgun; 
+close combat weapon.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Battle Sisters Squad
+ ■ Celestian Sacresants
+ ■ Dominion Squad
+ ■ Retributor Squad
+This model can be attached to a Battle Sisters Squad, 
+even if one Canoness, Palatine or Junith Eruita model has 
+already been attached to it. If you do, and that Bodyguard 
+unit is destroyed, the Leader units attached to it become 
+separate units, with their original Starting Strengths.
+
+KEYWORDS: Infantry, Grenades, Character, Imperium, Imagifier
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+DIALOGUS
+
+M
+
+6"
+
+T
+
+3
+
+SV
+
+3+
+
+W
+
+3
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+
+MELEE WEAPONS
+Dialogus staff 
+
+RANGE
+
+12"
+
+RANGE
+Melee
+
+A
+1
+
+A
+3
+
+BS
+3+
+
+WS
+4+
+
+S
+4
+
+S
+4
+
+AP
+0
+
+AP
+0
+
+D
+1
+
+D
+1
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Acts of Faith
+
+Laud Hailer: While this model is leading a unit, that unit 
+can be selected as the target of Stratagems even when it 
+is Battle-shocked. 
+Stirring Rhetoric: While this model is leading a unit, each time 
+this model’s unit performs an Act of Faith, the result of one of 
+the Miracle dice used in that Act of Faith is first changed to a 6.
+
+INVULNERABLE SAVE
+
+6+
+
+KEYWORDS: Infantry, Character, Imperium, Dialogus
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+DIALOGUS
+The Dialogus drowns out the war cries of the enemy with shouts of 
+exalting praise to the God-Emperor. She broadcasts her liturgies to 
+her Sisters through their vox-beads and sensor arrays, while her laud 
+hailer amplifies the inspirational rhetoric of prayers and hymns all 
+across the battlefield.
+
+WARGEAR OPTIONS
+
+ ■ None
+
+UNIT COMPOSITION
+
+ ■ 1 Dialogus
+This model is equipped with: bolt pistol; Dialogus staff.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Battle Sisters Squad
+ ■ Celestian Sacresants
+ ■ Dominion Squad 
+ ■ Retributor Squad
+ ■ Sisters Novitiate Squad
+This model can be attached to a Battle Sisters Squad, 
+even if one Canoness, Palatine or Junith Eruita model has 
+already been attached to it. If you do, and that Bodyguard 
+unit is destroyed, the Leader units attached to it become 
+separate units, with their original Starting Strengths.
+
+KEYWORDS: Infantry, Character, Imperium, Dialogus
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+PREACHER
+
+M
+
+6"
+
+T
+
+3
+
+SV
+
+6+
+
+W
+
+3
+
+LD
+
+7+
+
+OC
+
+1
+
+RANGED WEAPONS
+Autopistol [PISTOL]
+Zealot’s vindictor [IGNORES COVER, TORRENT]
+
+MELEE WEAPONS
+Chainsword 
+Zealot’s vindictor
+
+RANGE
+
+12"
+12"
+
+RANGE
+Melee
+Melee
+
+A
+1
+D6
+
+A
+4
+3
+
+BS
+4+
+N/A
+
+WS
+4+
+4+
+
+S
+3
+5
+
+S
+3
+5
+
+AP
+0
+0
+
+AP
+0
+-1
+
+D
+1
+1
+
+D
+1
+2
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Acts of Faith
+
+Righteous Smiting: While this model is leading a unit, each 
+time a model in that unit makes a melee attack, add 1 to the 
+Wound roll.
+Zealot: Once per battle, in the Fight phase, this model can 
+use this ability. If it does, until the end of the phase, improve 
+the Strength and Attacks characteristics of melee weapons 
+equipped by this model by 2.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS: Infantry, Character, Imperium, Preacher
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+PREACHER
+It is the role of Preachers to harness the faith of Imperial warriors in 
+battle. Often they join Wars of Faith – though it is not unheard of for a 
+Preacher to lead one. They are filled with a fearsome religious fervour 
+that incites the faithful as they bellow catechisms of hatred.
+
+WARGEAR OPTIONS
+
+ ■  This model’s zealot’s vindictor can be replaced with 1 autopistol and 1 chainsword. 
+
+UNIT COMPOSITION
+
+ ■ 1 Preacher
+This model is equipped with: zealot’s vindictor.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Arco-flagellants
+ ■ Crusaders
+ ■ Sisters Novitiate Squad
+
+KEYWORDS: Infantry, Character, Imperium, Preacher
+
+FACTION KEYWORDS: 
+Adepta Sororitas
+
+CELESTIAN SACRESANTS
+
+M
+
+6"
+
+T
+
+3
+
+SV
+
+3+
+
+W
+
+1
+
+LD
+
+7+
+
+OC
+
+1
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+Inferno pistol [MELTA 2, PISTOL]
+Ministorum hand flamer [IGNORES COVER, PISTOL, 
+TORRENT] 
+Plasma pistol – standard [PISTOL]
+Plasma pistol – supercharge [HAZARDOUS, PISTOL]
+
+MELEE WEAPONS
+Anointed halberd 
+Hallowed mace 
+Spear of the faithful 
+
+RANGE
+
+12"
+6"
+
+12"
+
+12"
+12"
+
+RANGE
+Melee
+Melee
+Melee
+
+A
+1
+1
+
+D6
+
+1
+1
+
+A
+2
+2
+3
+
+BS
+3+
+3+
+
+N/A
+
+3+
+3+
+
+WS
+3+
+3+
+3+
+
+S
+4
+8
+
+4
+
+7
+8
+
+S
+5
+4
+5
+
+AP
+0
+-4
+
+0
+
+-2
+-3
+
+AP
+-2
+-1
+-2
+
+D
+1
+D3
+
+1
+
+1
+2
+
+D
+1
+2
+2
+
+ABILITIES
+
+FACTION: Acts of Faith
+
+Sworn Protectors: While a Canoness, Palatine or 
+Junith Eruita model is leading this unit, each time an attack 
+targets this unit, subtract 1 from the Wound roll.
+
+INVULNERABLE SAVE
+
+4+
+
+Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Infantry, Grenades, Imperium, Celestian Sacresants
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+CELESTIAN SACRESANTS
+Part of the Celestian elite of the Orders Militant, Celestian Sacresants 
+are close-combat specialists who – rather than serve as bodyguards 
+– are charged with a holy quest. Whether that be to secure sacred 
+relics or purge sites of the unclean, the Sacresants are relentless in 
+their pursuit of victory.
+
+WARGEAR OPTIONS
+
+ ■   The Sacresant Superior’s hallowed mace can be replaced with 1 spear of the faithful.
+ ■  The Sacresant Superior’s bolt pistol can be replaced with one of the following:
+
+ ◦ 1 inferno pistol
+ ◦ 1 Ministorum hand flamer
+ ◦ 1 plasma pistol
+
+ ■ Any number of models can each have their hallowed mace replaced with 1 anointed halberd.
+
+UNIT COMPOSITION
+
+ ■ 1 Sacresant Superior
+ ■ 4-9 Celestian Sacresants
+Every model is equipped with: bolt pistol; hallowed mace.
+
+KEYWORDS: Infantry, Grenades, Imperium, Celestian Sacresants
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+HOSPITALLER
+
+M
+
+6"
+
+T
+
+3
+
+SV
+
+3+
+
+W
+
+3
+
+LD
+
+7+
+
+OC
+
+1
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+
+MELEE WEAPONS
+Chirurgeon’s tools 
+
+RANGE
+
+12"
+
+RANGE
+Melee
+
+A
+1
+
+A
+3
+
+BS
+3+
+
+WS
+4+
+
+S
+4
+
+S
+3
+
+AP
+0
+
+AP
+0
+
+D
+1
+
+D
+1
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Acts of Faith
+
+Medicus Ministorum: While this model is leading a unit, 
+models in that unit have the Feel No Pain 5+ ability.
+Sacred Healing: At the end of your Movement phase, select 
+one friendly Adepta Sororitas Infantry Character unit 
+within 3" of this model. That unit regains up to 3 lost wounds. 
+A unit can only be affected by this ability once per turn. 
+
+INVULNERABLE SAVE
+
+6+
+
+KEYWORDS: Infantry, Character, Imperium, Hospitaller
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+HOSPITALLER
+Hospitallers are physical and spiritual healers. They are possessed 
+of medicinal expertise as well as serving as a font of faith for those in 
+need, whispering mantras of vigour to dull pain and intoning prayers 
+to salve fevered minds. They move swiftly across the battlefield, 
+working in solemn calm despite the harshest conditions.
+
+WARGEAR OPTIONS
+
+ ■  None
+
+UNIT COMPOSITION
+
+ ■ 1 Hospitaller
+This model is equipped with: bolt pistol; chirurgeon’s tools.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Battle Sisters Squad
+ ■ Celestian Sacresants
+ ■ Dominion Squad 
+ ■ Retributor Squad
+ ■ Sisters Novitiate Squad
+This model can be attached to a Battle Sisters Squad, 
+even if one Canoness, Palatine or Junith Eruita model has 
+already been attached to it. If you do, and that Bodyguard 
+unit is destroyed, the Leader units attached to it become 
+separate units, with their original Starting Strengths.
+
+KEYWORDS: Infantry, Character, Imperium, Hospitaller
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+DOGMATA
+
+M
+
+6"
+
+T
+
+3
+
+SV
+
+3+
+
+W
+
+3
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+
+MELEE WEAPONS
+Mace of the righteous 
+
+RANGE
+
+12"
+
+RANGE
+Melee
+
+A
+1
+
+A
+4
+
+BS
+3+
+
+WS
+3+
+
+S
+4
+
+S
+5
+
+AP
+0
+
+AP
+-1
+
+D
+1
+
+D
+2
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Acts of Faith
+
+Executioner of Heretics (Aura): While an enemy unit is within 
+6" of this model, each time a Battle-shock or Leadership test 
+is taken for that unit, subtract 1 from the test. 
+Unflinching Determination: While this model is leading a 
+unit, add 1 to the Objective Control characteristic of models 
+in that unit.
+
+INVULNERABLE SAVE
+
+6+
+
+KEYWORDS: Infantry, Grenades, Character, Imperium, Dogmata
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+DOGMATA
+With watchful eyes, the Sisters Dogmata seek out infractions amongst 
+their Order. Held in as much fear as respect, with but a word they can 
+condemn a Sister to the Repentia. With shouted prayers and great 
+swings of their maces, they demonstrate the path of righteousness 
+and show what the Sisters should expect if they fail in their duties.
+
+WARGEAR OPTIONS
+
+ ■ None
+
+UNIT COMPOSITION
+
+ ■ 1 Dogmata
+This model is equipped with: bolt pistol; mace of 
+the righteous.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Battle Sisters Squad
+ ■ Celestian Sacresants
+ ■ Dominion Squad
+ ■ Retributor Squad
+This model can be attached to a Battle Sisters Squad, 
+even if one Canoness, Palatine or Junith Eruita model has 
+already been attached to it. If you do, and that Bodyguard 
+unit is destroyed, the Leader units attached to it become 
+separate units, with their original Starting Strengths.
+
+KEYWORDS: Infantry, Grenades, Character, Imperium, Dogmata
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+PARAGON WARSUITS
+
+M
+
+8"
+
+T
+
+6
+
+SV
+
+2+
+
+W
+
+4
+
+LD
+
+7+
+
+OC
+
+2
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+Heavy bolter [SUSTAINED HITS 1]
+Ministorum heavy flamer [IGNORES COVER, TORRENT]
+Multi-melta [MELTA 2]
+Paragon grenade launchers [TWIN-LINKED]
+Paragon storm bolters [RAPID FIRE 2, TWIN-LINKED]
+
+MELEE WEAPONS
+Paragon war blade 
+Paragon war mace 
+
+RANGE
+
+12"
+36"
+12"
+18"
+24"
+24"
+
+RANGE
+Melee
+Melee
+
+A
+1
+3
+D6
+2
+1
+2
+
+A
+4
+3
+
+BS
+3+
+3+
+N/A
+3+
+3+
+3+
+
+WS
+3+
+4+
+
+S
+4
+5
+6
+9
+9
+4
+
+S
+6
+12
+
+AP
+0
+-1
+-1
+-4
+-2
+0
+
+AP
+-2
+-1
+
+D
+1
+2
+1
+D6
+D3
+1
+
+D
+2
+3
+
+ABILITIES
+
+FACTION: Acts of Faith
+
+Righteous Paragons: This unit is eligible to shoot and declare 
+a charge in a turn in which it Fell Back.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS: Vehicle, Walker, Grenades, Imperium, Paragon Warsuits
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+PARAGON WARSUITS
+A pilot must have immense faith for a Paragon Warsuit’s spirit to 
+trust them. They must also have incredible skill to handle its control 
+system, which allows for highly complex and fluid movements. 
+Mastering a Paragon Warsuit makes a Sister capable of engaging the 
+most fearsome of enemies and emerging victorious.
+
+WARGEAR OPTIONS
+
+ ■  Any number of models can each have their Paragon storm bolters replaced with 1 Paragon 
+
+grenade launchers.
+
+ ■  Any number of models can each have their heavy bolter replaced with one of the following:
+
+ ◦ 1 Ministorum heavy flamer
+ ◦ 1 multi-melta
+
+ ■  Any number of models can each have their Paragon war blade replaced with 1 Paragon war mace.
+
+UNIT COMPOSITION
+
+ ■ 1 Paragon Superior
+ ■ 2 Paragons
+Every model is equipped with: bolt pistol; heavy bolter; 
+Paragon storm bolters; Paragon war blade.
+
+KEYWORDS: Vehicle, Walker, Grenades, Imperium, Paragon Warsuits
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+REPENTIA SQUAD
+
+M
+
+7"
+
+7"
+
+T
+
+3
+
+3
+
+SV
+
+3+
+
+7+
+
+W
+
+1
+
+1
+
+LD
+
+7+
+
+8+
+
+OC
+
+1
+
+REPENTIA SUPERIOR
+
+1 SISTERS REPENTIA
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+
+MELEE WEAPONS
+Neural whips [ANTI-INFANTRY 4+]
+Penitent eviscerator
+
+RANGE
+
+12"
+
+RANGE
+Melee
+Melee
+
+A
+1
+
+A
+4
+2
+
+BS
+3+
+
+WS
+3+
+4+
+
+S
+4
+
+S
+3
+6
+
+AP
+0
+
+AP
+-1
+-2
+
+D
+1
+
+D
+1
+2
+
+ABILITIES
+
+CORE: Feel No Pain 5+
+
+FACTION: Acts of Faith
+
+Overseer of Redemption: While this unit contains a Repentia 
+Superior, each time a model in this unit makes a melee attack, 
+you can re-roll the Hit roll and, if this unit made a Charge move 
+this turn, you can also re-roll the Wound roll.
+
+INVULNERABLE SAVE
+
+6+
+
+KEYWORDS: Infantry, Grenades, Imperium, Repentia Squad
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+REPENTIA SQUAD
+Sisters Repentia charge across the battlefield howling prayers, filled with the need for 
+atonement for past misdeeds. Overseen by a stern taskmaster in the form of a Repentia 
+Superior who is ever vigilant for sinfulness, Repentia now exist only to slaughter the 
+enemies of the Emperor, and so rush forward without heed for their own safety. Each 
+seeks to redeem herself with acts of selfless bravery and violent devotion.
+
+WARGEAR OPTIONS
+
+ ■ None
+
+UNIT COMPOSITION
+
+ ■ 1 Repentia Superior
+ ■ 4-9 Sisters Repentia
+The Repentia Superior is equipped with: bolt pistol; 
+neural whips.
+Each Sister Repentia is equipped with: penitent eviscerator.
+
+KEYWORDS: Infantry, Grenades, Imperium, Repentia Squad
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+CRUSADERS
+
+M
+
+6"
+
+T
+
+3
+
+SV
+
+3+
+
+W
+
+1
+
+LD
+
+7+
+
+OC
+
+1
+
+MELEE WEAPONS
+Power weapon 
+
+RANGE
+Melee
+
+A
+2
+
+WS
+3+
+
+S
+4
+
+AP
+-2
+
+D
+1
+
+ABILITIES
+
+FACTION: Acts of Faith
+
+Spiritual Fortitude: While a Missionary or Preacher model is 
+leading this unit, models in this unit have the Feel No Pain 4+ 
+ability against mortal wounds.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS: Infantry, Imperium, Crusaders
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+CRUSADERS
+These pious bodyguards are chosen for their martial skill and devotion 
+to the Imperial Creed. They spill the blood of heretics with great 
+sweeps of their heavy broadswords. Bullets and sorcerous witchfire 
+alike deflect from their warded tower shields, with which they form an 
+impenetrable wall around those they protect.
+
+WARGEAR OPTIONS
+
+ ■ None
+
+UNIT COMPOSITION
+
+ ■ 2-6 Crusaders
+Every model is equipped with: power weapon.
+
+KEYWORDS: Infantry, Imperium, Crusaders
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+DEATH CULT ASSASSINS
+
+M
+
+7"
+
+T
+
+3
+
+SV
+
+5+
+
+W
+
+1
+
+LD
+
+7+
+
+OC
+
+1
+
+MELEE WEAPONS
+Death Cult power blades [PRECISION]
+
+RANGE
+Melee
+
+A
+4
+
+WS
+2+
+
+S
+4
+
+AP
+-2
+
+D
+1
+
+ABILITIES
+
+CORE: Fights First
+
+FACTION: Acts of Faith
+
+Death Cult: Each time a model in this unit makes an attack 
+that targets a Character unit, re-roll a Wound roll of 1.
+
+INVULNERABLE SAVE
+
+5+
+
+KEYWORDS: Infantry, Imperium, Death Cult Assassins
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+DEATH CULT ASSASSINS
+Death Cult Assassins are obsessed with spilling the blood of the 
+unclean. They leap fearlessly into the enemy’s ranks, twirling and 
+spinning. Their every slice and stab has a ritualistic element, and to 
+them the manner of each kill has a special significance when they 
+offer the victim’s soul to the Emperor.
+
+WARGEAR OPTIONS
+
+ ■ None
+
+UNIT COMPOSITION
+
+ ■ 2-6 Death Cult Assassins
+Every model is equipped with: Death Cult power blades.
+
+KEYWORDS: Infantry, Imperium, Death Cult Assassins
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+DOMINION SQUAD
+
+M
+
+6"
+
+T
+
+3
+
+SV
+
+3+
+
+W
+
+1
+
+LD
+
+7+
+
+OC
+
+1
+
+RANGED WEAPONS
+Artificer-crafted storm bolter [RAPID FIRE 2, ASSAULT]
+Bolt pistol [PISTOL]
+Boltgun [RAPID FIRE 2, ASSAULT]
+Meltagun [ASSAULT, MELTA 2]
+Ministorum flamer [ASSAULT, IGNORES COVER, TORRENT]
+
+MELEE WEAPONS
+Chainsword 
+Close combat weapon 
+Power weapon 
+
+RANGE
+
+24"
+12"
+24"
+12"
+12"
+
+RANGE
+Melee
+Melee
+Melee
+
+A
+2
+1
+1
+1
+D6
+
+A
+3
+1
+2
+
+BS
+3+
+3+
+3+
+3+
+N/A
+
+WS
+4+
+4+
+4+
+
+S
+4
+4
+4
+9
+5
+
+S
+3
+3
+4
+
+AP
+0
+0
+0
+-4
+0
+
+AP
+0
+0
+-2
+
+D
+2
+1
+1
+D6
+1
+
+D
+1
+1
+1
+
+ABILITIES
+
+CORE: Scouts 6"
+
+FACTION: Acts of Faith
+
+Cherub: Once per battle, after this unit has performed an Act 
+of Faith, you gain 1 Miracle dice. 
+Designer’s Note: Place a Cherub token next to the unit, 
+removing it once this ability has been used.
+Holy Vanguard: You can re-roll Advance rolls made for 
+this unit.
+
+ WARGEAR ABILITIES
+
+Simulacrum Imperialis: Each time a unit is destroyed by the 
+bearer’s unit, you gain 1 Miracle dice.
+
+INVULNERABLE SAVE
+
+6+
+
+KEYWORDS: Infantry, Grenades, Imperium, Dominion Squad
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+DOMINION SQUAD
+Dominion Squads strike as swift and furious as lightning, clearing bunkers, 
+capturing strategic locations and blunting counter-attacks with vicious 
+salvoes from their flamers and meltaguns. They are aggressive, but not 
+impetuous, matching their desire to kill with an awareness of tactical values 
+and bringing righteousness where it is needed most.
+
+WARGEAR OPTIONS
+
+ ■   The Dominion Superior’s boltgun can be 
+
+replaced with one of the following:
+ ◦  1 bolt pistol
+ ◦ 1 combi-weapon*
+ ◦ 1 condemnor boltgun*
+ ◦ 1 inferno pistol*
+ ◦ 1 Ministorum hand flamer*
+ ◦ 1 plasma pistol*
+
+ ■  The Dominion Superior can be equipped with 
+
+one of the following:
+ ◦ 1 chainsword
+ ◦ 1 power weapon
+
+ ■  Up to 4 Dominions can each have their boltgun 
+
+replaced with one of the following:
+ ◦ 1 artificer-crafted storm bolter
+ ◦ 1 meltagun
+ ◦ 1 Ministorum flamer
+
+ ■  1 Dominion equipped with 1 boltgun can be 
+equipped with 1 simulacrum imperialis (that 
+model’s boltgun cannot be replaced).
+
+*  This weapon’s profile can be found on the Adepta Sororitas 
+Armoury card.
+
+UNIT COMPOSITION
+
+ ■ 1 Dominion Superior
+ ■ 9 Dominions
+Every model is equipped with: bolt pistol; boltgun; 
+close combat weapon.
+
+KEYWORDS: Infantry, Grenades, Imperium, Dominion Squad
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+SERAPHIM SQUAD
+
+M
+
+12"
+
+T
+
+3
+
+SV
+
+3+
+
+W
+
+1
+
+LD
+
+7+
+
+OC
+
+1
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+Inferno pistol [MELTA 2, PISTOL]
+Ministorum hand flamer [PISTOL, TORRENT, 
+IGNORES COVER]
+Plasma pistol – standard [PISTOL]
+Plasma pistol – supercharge [HAZARDOUS, PISTOL]
+
+MELEE WEAPONS
+Chainsword 
+Close combat weapon 
+Power weapon 
+
+RANGE
+
+12"
+6"
+
+12"
+
+12"
+12"
+
+RANGE
+Melee
+Melee
+Melee
+
+A
+1
+1
+
+D6
+
+1
+1
+
+A
+4
+2
+3
+
+BS
+3+
+3+
+
+N/A
+
+3+
+3+
+
+WS
+3+
+3+
+3+
+
+S
+4
+8
+
+4
+
+7
+8
+
+S
+3
+3
+4
+
+AP
+0
+-4
+
+0
+
+-2
+-3
+
+AP
+0
+0
+-2
+
+D
+1
+D3
+
+1
+
+1
+2
+
+D
+1
+1
+1
+
+ABILITIES
+
+CORE: Deep Strike
+
+FACTION: Acts of Faith
+
+Angelic Ascent: In your Shooting phase, after this unit has 
+shot, if it is not within Engagement Range of any enemy units, 
+it can make a Normal move of up to 6". If it does, until the end 
+of the turn, this unit is not eligible to declare a charge.
+
+INVULNERABLE SAVE
+
+5+
+
+Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Infantry, Jump Pack, Fly, Grenades, Imperium, Seraphim Squad
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+SERAPHIM SQUAD
+The Seraphim fight in the Adepta Sororitas’ advanced guard. Only 
+Battle Sisters with superlative dexterity are selected to join their ranks, 
+firing with pinpoint accuracy while moving at great speeds. They must 
+be able to land with incredible precision, cut down foes and retreat 
+within a few heartbeats.
+
+WARGEAR OPTIONS
+
+ ■   The Seraphim Superior’s 2 bolt pistols can be replaced with one of the following:
+
+ ◦ 1 bolt pistol and 1 chainsword
+ ◦ 1 bolt pistol and 1 plasma pistol
+ ◦ 1 bolt pistol and 1 power weapon
+ ◦ 1 plasma pistol and 1 chainsword
+ ◦  1 plasma pistol and 1 power weapon
+
+ ■  For every 5 models in the unit, up to 2 Seraphim can each have their 2 bolt pistols replaced with one 
+
+of the following: 
+ ◦ 2 inferno pistols
+ ◦ 2 Ministorum hand flamers
+
+UNIT COMPOSITION
+
+ ■ 1 Seraphim Superior
+ ■ 4-9 Seraphim
+Every model is equipped with: 2 bolt pistols; 
+close combat weapon.
+
+KEYWORDS: Infantry, Jump Pack, Fly, Grenades, Imperium, Seraphim Squad
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+ZEPHYRIM SQUAD
+
+M
+
+12"
+
+T
+
+3
+
+SV
+
+3+
+
+W
+
+1
+
+LD
+
+7+
+
+OC
+
+1
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+Plasma pistol – standard [PISTOL]
+Plasma pistol – supercharge [HAZARDOUS, PISTOL]
+
+MELEE WEAPONS
+Power weapon 
+
+RANGE
+
+12"
+12"
+12"
+
+RANGE
+Melee
+
+A
+1
+1
+1
+
+A
+3
+
+BS
+3+
+3+
+3+
+
+WS
+3+
+
+S
+4
+7
+8
+
+S
+4
+
+AP
+0
+-2
+-3
+
+AP
+-2
+
+D
+1
+1
+2
+
+D
+1
+
+ABILITIES
+
+CORE: Deep Strike
+
+FACTION: Acts of Faith
+
+Embodied Prophecy: Each time a model in this unit makes a 
+melee attack, if this unit made a Charge move this turn, add 1 
+to the Strength characteristic of that attack.
+
+ WARGEAR ABILITIES
+
+Sacred Banner: You can re-roll Advance and Charge rolls made 
+for the bearer’s unit.
+
+INVULNERABLE SAVE
+
+5+
+
+Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Infantry, Jump Pack, Fly, Grenades, Imperium, Zephyrim Squad
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+ZEPHYRIM SQUAD
+Only those who experience a direct and persistent connection with 
+the Emperor become Zephyrim. They are divine destroyers, figures of 
+fathomless passion and integrity. On the battlefield they strike down 
+their foes with ruthless precision, while their angelic singing drowns 
+out the screams of the dying.
+
+WARGEAR OPTIONS
+
+ ■  The Zephyrim Superior can be equipped with 1 sacred banner.
+ ■  The Zephyrim Superior’s bolt pistol can be replaced with 1 plasma pistol.
+
+UNIT COMPOSITION
+
+ ■ 1 Zephyrim Superior
+ ■ 4-9 Zephyrim
+Every model is equipped with: bolt pistol; power weapon.
+
+KEYWORDS: Infantry, Jump Pack, Fly, Grenades, Imperium, Zephyrim Squad
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+RETRIBUTOR SQUAD
+
+M
+
+6"
+
+T
+
+3
+
+SV
+
+3+
+
+W
+
+1
+
+LD
+
+7+
+
+OC
+
+1
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+Boltgun [RAPID FIRE 1]
+Heavy bolter [HEAVY, SUSTAINED HITS 1]
+Ministorum heavy flamer [IGNORES COVER, TORRENT]
+Multi-melta [HEAVY, MELTA 2]
+
+MELEE WEAPONS
+Chainsword 
+Close combat weapon 
+Power weapon 
+
+RANGE
+
+12"
+24"
+36"
+12"
+18"
+
+RANGE
+Melee
+Melee
+Melee
+
+A
+1
+1
+3
+D6
+2
+
+A
+3
+1
+2
+
+BS
+3+
+3+
+4+
+N/A
+4+
+
+WS
+4+
+4+
+4+
+
+S
+4
+4
+5
+6
+9
+
+S
+3
+3
+4
+
+AP
+0
+0
+-1
+-1
+-4
+
+AP
+0
+0
+-2
+
+D
+1
+1
+2
+1
+D6
+
+D
+1
+1
+1
+
+ABILITIES
+
+FACTION: Acts of Faith
+
+Cherubs: Twice per battle, after this unit has performed an Act 
+of Faith, you gain 1 Miracle dice. 
+Designer’s Note: Place two Cherub tokens next to the unit, 
+removing one each time this ability has been used.
+Storm of Retribution: Each time a model in this unit makes a 
+ranged attack, re-roll a Wound roll of 1.
+
+INVULNERABLE SAVE
+
+6+
+
+KEYWORDS: Infantry, Grenades, Imperium, Retributor Squad
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+RETRIBUTOR SQUAD
+Retributors are highly experienced warriors, and amongst the finest 
+sharpshooters in their Order. Only the most level-headed Battle 
+Sisters join their ranks. Providing long-range fire support is a task that 
+requires excellent target prioritisation skills, as well as the ability to 
+optimise firing solutions and identify enemy weak points.
+
+ ■  Each Retributor’s heavy bolter can be replaced 
+
+with one of the following:
+ ◦ 1 Ministorum heavy flamer
+ ◦ 1 multi-melta
+
+*  This weapon’s profile can be found on the Adepta Sororitas 
+Armoury card.
+
+UNIT COMPOSITION
+
+ ■ 1 Retributor Superior
+ ■ 4 Retributors
+The Retributor Superior is equipped with: bolt pistol; boltgun; 
+close combat weapon.
+Each Retributor is equipped with: bolt pistol; heavy bolter; 
+close combat weapon.
+
+WARGEAR OPTIONS
+
+ ■  The Retributor Superior’s boltgun can be 
+
+replaced with one of the following:
+ ◦  1 bolt pistol
+ ◦ 1 combi-weapon*
+ ◦ 1 condemnor boltgun*
+ ◦ 1 inferno pistol*
+ ◦ 1 Ministorum hand flamer*
+ ◦ 1 plasma pistol*
+
+ ■  The Retributor Superior can be equipped with 
+
+one of the following:
+ ◦ 1 chainsword
+ ◦ 1 power weapon
+
+KEYWORDS: Infantry, Grenades, Imperium, Retributor Squad
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+MORTIFIERS
+
+M
+
+8"
+
+T
+
+6
+
+SV
+
+4+
+
+W
+
+5
+
+LD
+
+7+
+
+OC
+
+2
+
+RANGED WEAPONS
+Heavy bolter [SUSTAINED HITS 1]
+Mortifier flamer [IGNORES COVER, TORRENT, TWIN-LINKED]
+
+MELEE WEAPONS
+Penitent buzz-blade 
+Penitent flail 
+Twin penitent buzz-blades [TWIN-LINKED]
+Twin penitent flails [TWIN-LINKED]
+
+RANGE
+
+36"
+12"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+
+A
+3
+D6
+
+A
+4
+8
+4
+8
+
+BS
+3+
+N/A
+
+WS
+3+
+3+
+3+
+3+
+
+S
+5
+5
+
+S
+10
+5
+10
+5
+
+AP
+-1
+0
+
+AP
+-3
+-1
+-3
+-1
+
+D
+2
+1
+
+D
+2
+1
+2
+1
+
+ABILITIES
+
+CORE: Deadly Demise 1, Feel No Pain 5+
+
+FACTION: Acts of Faith
+
+Anguish of the Unredeemed: Each time this unit makes 
+a Charge move, until the end of the phase, melee 
+weapons equipped by models in this unit have the 
+[SUSTAINED HITS 1] ability.
+
+ WARGEAR ABILITIES
+
+Anchorite Sarcophagus: The bearer has a Save characteristic 
+of 3+.
+
+INVULNERABLE SAVE
+
+6+
+
+KEYWORDS: Vehicle, Walker, Imperium, Mortifiers
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+MORTIFIERS
+The pilot of a Mortifier is a Sister Repentia who has fled from battle. 
+Bolted within the Mortifier’s armoured shell, they cannot move, 
+speak or hear. Suffering endless shame and agony, they are driven 
+by madness and pain to carve a path of mutilation and destruction 
+through the foe.
+
+WARGEAR OPTIONS
+
+ ■ 1 model can be equipped with 1 anchorite sarcophagus.
+ ■  Any number of models can each have their 2 heavy bolters replaced with one of the following:
+
+ ◦  1 heavy bolter and 1 Mortifier flamer
+ ◦ 2 Mortifier flamers
+
+ ■  Any number of models can each have their twin penitent buzz-blades replaced with one of 
+
+the following:
+ ◦ 1 twin penitent flails
+ ◦ 1 penitent buzz-blade and 1 penitent flail
+
+UNIT COMPOSITION
+
+ ■ 1-2 Mortifiers
+Every model is equipped with: 2 heavy bolters; 
+twin penitent buzz-blades.
+
+KEYWORDS: Vehicle, Walker, Imperium, Mortifiers
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+PENITENT ENGINES
+
+M
+
+8"
+
+T
+
+6
+
+SV
+
+4+
+
+W
+
+5
+
+LD
+
+7+
+
+OC
+
+2
+
+RANGED WEAPONS
+Penitent flamers [ASSAULT, IGNORES COVER, TORRENT, 
+TWIN-LINKED]
+
+MELEE WEAPONS
+Penitent buzz-blade [SUSTAINED HITS 1]
+Penitent flail [SUSTAINED HITS 1]
+Twin penitent buzz-blades [SUSTAINED HITS 1, 
+TWIN-LINKED]
+Twin penitent flails [SUSTAINED HITS 1, TWIN-LINKED]
+
+RANGE
+
+12"
+
+RANGE
+Melee
+Melee
+
+Melee
+
+Melee
+
+A
+
+2D6
+
+A
+4
+8
+
+4
+
+8
+
+BS
+
+N/A
+
+WS
+4+
+4+
+
+4+
+
+4+
+
+S
+
+5
+
+S
+10
+5
+
+10
+
+5
+
+AP
+
+0
+
+AP
+-3
+-1
+
+-3
+
+-1
+
+D
+
+1
+
+D
+2
+1
+
+2
+
+1
+
+ABILITIES
+
+CORE: Deadly Demise 1, Feel No Pain 5+
+
+FACTION: Acts of Faith
+
+Endless Suffering: This unit is eligible to declare a charge in a 
+turn in which it Advanced.
+
+KEYWORDS: Vehicle, Walker, Imperium, Penitent Engines
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+PENITENT ENGINES
+The pilots of Penitent Engines are subjected to terrible agony, thanks 
+to the torment amplifiers spliced into their synapses. They blaze a trail 
+of destruction with their flamers before charging headlong into the foe, 
+guilt and pain driving them on, heedless of danger. All they leave in 
+their wake is utter carnage.
+
+WARGEAR OPTIONS
+
+ ■   Any number of models can each have their twin penitent buzz-blades replaced with one of 
+
+the following:
+ ◦ 1 penitent buzz-blade and 1 penitent flail
+ ◦ 1 twin penitent flails
+
+UNIT COMPOSITION
+
+ ■ 1-2 Penitent Engines
+Every model is equipped with: penitent flamers; twin 
+penitent buzz-blades.
+
+KEYWORDS: Vehicle, Walker, Imperium, Penitent Engines
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+EXORCIST
+
+M
+
+T
+
+10" 10
+
+SV
+
+3+
+
+W
+
+11
+
+LD
+
+7+
+
+OC
+
+3
+
+A
+
+RANGE
+
+RANGED WEAPONS
+Exorcist conflagration rockets  
+[BLAST, HEAVY, IGNORES COVER, INDIRECT FIRE]
+Exorcist missile launcher [HEAVY, INDIRECT FIRE]
+3
+Heavy bolter [SUSTAINED HITS 1]
+1
+Hunter-killer missile [ONE SHOT]
+One Shot: The bearer can only shoot with this weapon once per battle.
+
+36"
+36"
+48"
+
+36"
+
+3D6
+
+D6+2
+
+MELEE WEAPONS
+Armoured tracks 
+
+RANGE
+Melee
+
+A
+3
+
+BS
+
+3+
+
+3+
+3+
+2+
+
+WS
+4+
+
+S
+
+5
+
+10
+5
+14
+
+S
+6
+
+AP
+
+0
+
+-2
+-1
+-3
+
+AP
+0
+
+D
+
+1
+
+D6
+2
+D6
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Acts of Faith
+
+Mobile Shrine (Aura): While a friendly Adepta Sororitas 
+Infantry unit is within 6" of this model, improve the 
+Leadership characteristic of models in that unit by 1.
+
+DAMAGED: 1-4 WOUNDS REMAINING
+
+While this model has 1-4 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE
+
+6+
+
+KEYWORDS: Vehicle, Smoke, Imperium, Exorcist
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+EXORCIST
+Every flurry of notes performed by the Exorcist’s artillerist inloads 
+targeting solutions and impact coordinates, so that volleys of 
+thrice-blessed rockets are fired into the enemy. More than artillery 
+tanks, Exorcists are mobile shrines to the magnificence of the Emperor 
+that project inspirational battle canticles.
+
+WARGEAR OPTIONS
+
+ ■  This model’s Exorcist missile launcher can be replaced with 1 Exorcist conflagration rockets.
+ ■  This model can be equipped with 1 hunter-killer missile.
+
+UNIT COMPOSITION
+
+ ■ 1 Exorcist
+This model is equipped with: Exorcist missile launcher; 
+heavy bolter; armoured tracks.
+
+KEYWORDS: Vehicle, Smoke, Imperium, Exorcist
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+CASTIGATOR
+
+M
+
+T
+
+10" 10
+
+SV
+
+3+
+
+W
+
+11
+
+LD
+
+7+
+
+OC
+
+3
+
+RANGE
+
+RANGED WEAPONS
+Castigator autocannons [TWIN-LINKED, RAPID FIRE 4]
+Castigator battle cannon [BLAST, IGNORES COVER]
+3
+Heavy bolter [SUSTAINED HITS 1]
+1
+Hunter-killer missile [ONE SHOT]
+One Shot: The bearer can only shoot with this weapon once per battle.
+2
+Storm bolter [RAPID FIRE 2]
+
+48"
+48"
+36"
+48"
+
+24"
+
+A
+4
+
+D6+3
+
+MELEE WEAPONS
+Armoured tracks 
+
+RANGE
+Melee
+
+A
+3
+
+BS
+3+
+3+
+3+
+2+
+
+3+
+
+WS
+4+
+
+S
+9
+10
+5
+14
+
+4
+
+S
+6
+
+AP
+-1
+-1
+-1
+-3
+
+0
+
+AP
+0
+
+D
+3
+3
+2
+D6
+
+1
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Acts of Faith
+
+Rites of Castigation: Each time this model makes an attack 
+with its Castigator autocannons that targets an enemy 
+Infantry unit, you can re-roll the Hit roll. Each time this model 
+makes an attack with its Castigator battle cannon that targets 
+an enemy Monster or Vehicle unit, you can re-roll the Hit 
+roll. After this model has shot, select one enemy unit that was 
+hit by its Castigator autocannons or Castigator battle cannon 
+this phase. That unit must take a Battle-shock test.
+
+DAMAGED: 1-4 WOUNDS REMAINING
+
+While this model has 1-4 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE
+
+6+
+
+KEYWORDS: Vehicle, Smoke, Imperium, Castigator
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+CASTIGATOR
+Castigators are powerful battle tanks of the Adepta Sororitas. They 
+provide excellent fire support for Battle Sisters thanks to their wide 
+array of weapons, smashing through the foe’s lines and slaughtering 
+great swathes of enemy infantry in a matter of seconds.
+
+WARGEAR OPTIONS
+
+ ■    This model’s Castigator autocannons can be replaced with 1 Castigator battle cannon.
+ ■  This model can be equipped with 1 hunter-killer missile.
+ ■ This model can be equipped with 1 storm bolter.
+
+UNIT COMPOSITION
+
+ ■ 1 Castigator
+This model is equipped with: Castigator autocannons; 
+3 heavy bolters; armoured tracks.
+
+KEYWORDS: Vehicle, Smoke, Imperium, Castigator
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+SORORITAS RHINO
+
+M
+
+12"
+
+T
+
+9
+
+SV
+
+3+
+
+W
+
+10
+
+LD
+
+7+
+
+OC
+
+2
+
+A
+RANGED WEAPONS
+Hunter-killer missile [ONE SHOT]
+1
+One Shot: The bearer can only shoot with this weapon once per battle.
+2
+Storm bolter [RAPID FIRE 2]
+
+RANGE
+
+48"
+
+24"
+
+MELEE WEAPONS
+Armoured tracks 
+
+RANGE
+Melee
+
+A
+3
+
+BS
+2+
+
+3+
+
+WS
+4+
+
+S
+14
+
+4
+
+S
+6
+
+AP
+-3
+
+0
+
+AP
+0
+
+D
+D6
+
+1
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3, Firing Deck 2
+
+FACTION: Acts of Faith
+
+Self Repair: At the start of your Command phase, this model 
+regains 1 lost wound.
+
+INVULNERABLE SAVE
+
+6+
+
+KEYWORDS:  Vehicle, Transport, Dedicated Transport, Smoke, Imperium, 
+
+Sororitas Rhino
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+SORORITAS RHINO
+Rhinos are the mainstay transport of the Adepta Sororitas, and before 
+battle are blessed by Enginseers and Ministorum priests. They are 
+durable, robust and easy to operate. Thanks to their indomitable 
+machine spirits they rarely break down, and speed the warriors inside 
+them across the battlefield wherever they are needed.
+
+WARGEAR OPTIONS
+
+ ■      This model can be equipped with 1 hunter-killer missile.
+
+UNIT COMPOSITION
+
+ ■ 1 Sororitas Rhino
+This model is equipped with: storm bolter; armoured tracks.
+
+TRANSPORT
+
+This model has a transport capacity of 12 Adepta Sororitas 
+Infantry models. It cannot transport Jump Pack models or 
+the Triumph of Saint Katherine.
+
+KEYWORDS:  Vehicle, Transport, Dedicated Transport, Smoke, Imperium, 
+
+Sororitas Rhino
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+IMMOLATOR
+
+M
+
+T
+
+12" 10
+
+SV
+
+3+
+
+W
+
+11
+
+LD
+
+7+
+
+OC
+
+2
+
+RANGE
+
+A
+RANGED WEAPONS
+3
+Heavy bolter [SUSTAINED HITS 1]
+1
+Hunter-killer missile [ONE SHOT]
+One Shot: The bearer can only shoot with this weapon once per battle.
+Immolation flamers [IGNORES COVER, TORRENT]
+Twin heavy bolter [SUSTAINED HITS 1, TWIN-LINKED]
+Twin multi-melta [MELTA 2, TWIN-LINKED]
+
+18"
+36"
+18"
+
+36"
+48"
+
+2D6
+3
+2
+
+MELEE WEAPONS
+Armoured tracks 
+
+RANGE
+Melee
+
+A
+3
+
+BS
+3+
+2+
+
+N/A
+3+
+3+
+
+WS
+4+
+
+S
+5
+14
+
+6
+5
+9
+
+S
+6
+
+AP
+-1
+-3
+
+-1
+-1
+-4
+
+AP
+0
+
+D
+2
+D6
+
+1
+2
+D6
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Acts of Faith
+
+Fire Support: In your Shooting phase, after this model has 
+shot, select one enemy unit hit by one or more of those 
+attacks. Until the end of the phase, each time a friendly model 
+that disembarked from this Transport this turn makes 
+an attack that targets that enemy unit, you can re-roll the 
+Wound roll.
+
+INVULNERABLE SAVE
+
+6+
+
+KEYWORDS:  Vehicle, Smoke, Transport, Dedicated Transport, Imperium, 
+
+Immolator
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+IMMOLATOR
+This Rhino variant has an aggressive machine spirit, and is equipped 
+with an elaborate turret fitted with a powerful weapons system. 
+This makes it ideal for rapid advances to clear enemy strongpoints, 
+providing fire support for the troops it transports to battle and acting 
+as an outrider escort for armoured columns.
+
+WARGEAR OPTIONS
+
+ ■        This model’s immolation flamers can be replaced with one of the following: 
+
+ ◦ 1 twin heavy bolter
+ ◦ 1 twin multi-melta
+
+ ■  This model can be equipped with 1 hunter-killer missile.
+
+UNIT COMPOSITION
+
+ ■ 1 Immolator
+This model is equipped with: heavy bolter; immolation 
+flamers; armoured tracks.
+
+TRANSPORT
+
+This model has a transport capacity of 6 Adepta Sororitas 
+Infantry models. It cannot transport Jump Pack models or 
+the Triumph of Saint Katherine.
+At the start of the Declare Battle Formations step, you can 
+select one Battle Sisters Squad, Dominion Squad or 
+Sisters Novitiate Squad from your army. If you do, that unit 
+is split into two units, each containing as equal a number of 
+models as possible (when splitting a unit in this way, make 
+a note of which models form each of the two new units). One 
+of these units must start the battle embarked within this 
+Transport; the other can start the battle embarked within 
+another Transport, or it can be deployed as a separate unit.
+
+KEYWORDS:  Vehicle, Smoke, Transport, Dedicated Transport, Imperium, 
+
+Immolator
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+ARCO-FLAGELLANTS
+
+M
+
+7"
+
+T
+
+3
+
+SV
+
+7+
+
+W
+
+2
+
+LD
+
+8+
+
+OC
+
+1
+
+MELEE WEAPONS
+Arco-flails [SUSTAINED HITS 1, TWIN-LINKED]
+
+RANGE
+Melee
+
+A
+4
+
+WS
+4+
+
+S
+5
+
+AP
+0
+
+D
+1
+
+ABILITIES
+
+CORE: Feel No Pain 4+
+
+FACTION: Acts of Faith
+
+Extremis Trigger Word: Each time this unit is selected to fight, 
+you can choose to invoke its extremis trigger word. If you 
+do, then until the end of the phase, arco-flails equipped by 
+models in this unit have an Attacks characteristic of 6 and the 
+[HAZARDOUS] ability.
+
+KEYWORDS: Infantry, Imperium, Arco-flagellants
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+ARCO-FLAGELLANTS
+Arco-flagellants are fitted with cybernetic weaponry and subdermal 
+stimulant pumps as punishment for past misdeeds. When battle 
+commences, their bodies are energised by means of a trigger word 
+and they are unleashed on the enemy. Any foe they reach they lash to 
+pieces with cyber-implanted flails.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■  3-10 Arco-flagellants
+Every model is equipped with: arco-flails.
+
+KEYWORDS: Infantry, Imperium, Arco-flagellants
+
+FACTION KEYWORDS:  
+Adepta Sororitas
+
+ADEPTA SORORITAS ARMOURY
+
+RANGED WEAPONS
+Combi-weapon 
+[ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]
+Condemnor boltgun 
+[ANTI-PSYKER 2+, DEVASTATING WOUNDS, PRECISION, RAPID FIRE 1]
+Inferno pistol [MELTA 2, PISTOL]
+Ministorum hand flamer [IGNORES COVER, PISTOL, TORRENT]
+Plasma pistol – standard [PISTOL]
+Plasma pistol – supercharge [HAZARDOUS, PISTOL]
+
+RANGE
+
+24"
+
+24"
+
+6"
+12"
+12"
+12"
+
+A
+
+1
+
+1
+
+1
+D6
+1
+1
+
+BS
+
+4+
+
+3+
+
+3+
+N/A
+3+
+3+
+
+S
+
+4
+
+4
+
+8
+4
+7
+8
+
+AP
+
+0
+
+0
+
+-4
+0
+-2
+-3
+
+D
+
+1
+
+1
+
+D3
+1
+1
+2
+
+WEAPON LISTS
+
+Some Adepta Sororitas unit champions can be equipped 
+with one or more weapons whose profiles are not listed on 
+their datasheet. The profiles for these weapons are instead 
+listed on this card.
+
+Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+

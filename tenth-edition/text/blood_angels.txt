@@ -1,0 +1,3063 @@
+BLOOD ANGELS – SONS OF SANGUINIUS
+DETACHMENT RULE
+
+Gene-sons of the angel-winged Primarch Sanguinius, the Blood Angels descend into battle on flaming wings to 
+stand between the Emperor’s servants and the heretical and alien hordes that seek to destroy them. Masters 
+of the rapid assault, the mechanised offensive and the swift airborne strike, they have carved out a legacy of 
+victories that stretches across the ages.
+
+If your Army Faction is Adeptus Astartes, you can 
+use this Sons of Sanguinius Detachment rule.
+
+RESTRICTIONS
+ ■  Your army can include Blood Angels units, but it 
+cannot include any Adeptus Astartes units drawn 
+from any other Chapter.
+
+THE RED THIRST
+Though they strive to restrain it, the murderous 
+ferocity of the Blood Angels simmers beneath the 
+surface of their thoughts. In battle, this rage drives 
+them towards the foe and lends great strength to 
+their blows.
+
+Each time an Adeptus Astartes unit from your 
+army is selected to fight, if that unit made a Charge 
+move this turn, until the end of the phase, add 1 to 
+the Strength and Attacks characteristics of melee 
+weapons equipped by models in that unit.
+
+BLOOD ANGELS – SONS OF SANGUINIUS
+STRATAGEMS
+
+If you are using the Sons of Sanguinius Detachment rule, you can use these Sons of 
+Sanguinius Stratagems.
+
+1CP
+
+1CP
+
+ANGEL’S SACRIFICE
+SONS OF SANGUINIUS – EPIC DEED STRATAGEM
+
+The Blood Angels would gladly put 
+themselves in harm’s way to protect 
+others, exemplifying the sacrifice 
+of Sanguinius.
+
+WHEN: Any phase.
+TARGET: One Adeptus Astartes 
+Character unit from your army that 
+was just destroyed. You can use this 
+Stratagem on that unit even though it was 
+just destroyed.
+EFFECT: Until the end of the battle, each 
+time a friendly Adeptus Astartes unit 
+makes an attack that targets the enemy 
+unit that just destroyed your Character 
+unit, you can re-roll the Hit roll.
+
+ARMOUR OF CONTEMPT
+SONS OF SANGUINIUS – BATTLE TACTIC STRATAGEM
+
+The belligerency of the Adeptus Astartes 
+combined with their transhuman 
+physiology makes them unyielding foes 
+to face.
+
+WHEN: Your opponent’s Shooting phase or 
+the Fight phase, just after an enemy unit 
+has selected its targets.
+TARGET: One Adeptus Astartes unit 
+from your army that was selected as the 
+target of one or more of the attacking 
+unit’s attacks.
+EFFECT: Until the end of the phase, each 
+time an attack targets your unit, worsen 
+the Armour Penetration characteristic of 
+that attack by 1.
+
+AGGRESSIVE ONSLAUGHT
+SONS OF SANGUINIUS – BATTLE TACTIC STRATAGEM
+
+1CP
+
+The Sons of Sanguinius constantly 
+push towards new foes, the bloodlust 
+singing in their veins unleashed in a 
+controlled dynamism.
+
+WHEN: Fight phase.
+TARGET: One Adeptus Astartes 
+unit from your army, just before that 
+unit Consolidates.
+EFFECT: Until the end of the phase, 
+each time a model in your unit makes a 
+Consolidation move, it can move up to 
+6" instead of up to 3", provided your unit 
+ends that Consolidation move in Unit 
+Coherency and within Engagement Range 
+of one or more enemy units.
+
+RED RAMPAGE
+SONS OF SANGUINIUS – BATTLE TACTIC STRATAGEM
+
+In times of great desperation, fury and 
+ferocity can be a warrior’s strongest allies.
+
+WHEN: Fight phase.
+TARGET: One Adeptus Astartes unit from 
+your army that has not been selected to 
+fight this phase.
+EFFECT: Until the end of the phase, 
+melee weapons equipped by models 
+in your unit have the [LANCE] and 
+[LETHAL HITS] abilities.
+
+1CP
+
+BLOOD ANGELS – SONS OF SANGUINIUS
+STRATAGEMS
+
+If you are using the Sons of Sanguinius Detachment rule, you can use these Sons of 
+Sanguinius Stratagems.
+
+ONLY IN DEATH DOES DUTY END
+
+SONS OF SANGUINIUS – EPIC DEED STRATAGEM
+
+2CP
+
+Imminent death does not prevent a Space 
+Marine from enacting his final justice 
+upon the enemies of the Imperium.
+
+1CP
+
+WHEN: Fight phase, just after an enemy 
+unit has selected its targets.
+TARGET: One Adeptus Astartes unit 
+from your army that was selected as the 
+target of one or more of the attacking 
+unit’s attacks.
+EFFECT: Until the end of the phase, each 
+time a model in your unit is destroyed, if 
+that model has not fought this phase, do 
+not remove it from play. The destroyed 
+model can fight after the attacking 
+model’s unit has finished making its 
+attacks, and is then removed from play.
+
+RELENTLESS ASSAULT
+SONS OF SANGUINIUS – STRATEGIC PLOY STRATAGEM
+
+The Blood Angels are loathe to resort to 
+the defensive strategies favoured by 
+other Chapters, and a tactical withdrawal 
+is but a prelude to re-entering the fray.
+
+WHEN: Your Movement phase, just after 
+an Adeptus Astartes unit from your army 
+Falls Back.
+TARGET: That Adeptus Astartes unit.
+EFFECT: Until the end of the turn, your unit 
+is eligible to declare a charge even though 
+it Fell Back this phase.
+
+BLOOD ANGELS – SONS OF SANGUINIUS
+ENHANCEMENTS
+
+If you are using the Sons of Sanguinius Detachment rule, you can use these Sons of Sanguinius Enhancements.
+ARTISAN OF WAR
+This warrior is a true artist both on and off the 
+battlefield. His talents are reflected in the exquisite 
+workmanship of his wargear, for he insists upon 
+personally crafting his weapons of war.
+
+ARCHANGEL’S SHARD
+When Sanguinius battled Horus, his magnificent 
+blade was tragically shattered against the 
+Warmaster’s profane battle plate. The shards 
+were gathered up and new swords forged to 
+incorporate them, each one gifted to a different 
+successor Chapter.
+
+Adeptus Astartes model only. Improve the Armour 
+Penetration characteristic of the bearer’s weapons by 
+1, and the bearer has a Save characteristic of 2+.
+VISAGE OF DEATH
+This exquisitely crafted mask is a thing of dark beauty 
+to the Blood Angels, and a sign of impending doom 
+to their enemies. The unchanging expression of the 
+mask inspires fear and uncertainty even in confident 
+enemies. They see no anger, pain or elation on the 
+wearer’s face – clues as to the warrior’s state of mind 
+in a duel.
+
+Adeptus Astartes model only. While an enemy 
+unit (excluding Monsters and Vehicles) is within 
+Engagement Range of the bearer’s unit, halve the 
+Objective Control characteristic of models in that unit.
+
+Adeptus Astartes model only. The bearer’s 
+melee weapons have the [ANTI-CHAOS 5+] and  
+[LANCE] abilities.
+ICON OF THE ANGEL
+Entrusted to one whose faith in the primogenitor is 
+profound, the Icon of the Angel takes the form of a 
+small shrine upon the bearer’s backpack. Through 
+displaying it, this warrior reminds his brothers of the 
+heretics who fled after laying low the Angel, exhorting 
+them to let no enemy escape their grasp again.
+
+Adeptus Astartes model only. Each time an enemy 
+unit (excluding Monsters and Vehicles) within 
+Engagement Range of the bearer’s unit is selected 
+to Fall Back, models in that enemy unit must 
+take Desperate Escape tests as if their unit was 
+Battle-shocked. When doing so, if that enemy unit is 
+also Battle-shocked by other means, subtract 1 from 
+each of those Desperate Escape tests.
+
+ASTORATH
+
+M
+
+12"
+
+T
+
+4
+
+SV
+
+2+
+
+W
+
+5
+
+LD
+
+5+
+
+OC
+
+1
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+
+MELEE WEAPONS
+The Executioner’s Axe [DEVASTATING WOUNDS]
+
+RANGE
+
+12"
+
+RANGE
+Melee
+
+A
+1
+
+A
+4
+
+BS
+2+
+
+WS
+2+
+
+S
+4
+
+S
+6
+
+AP
+0
+
+AP
+-3
+
+D
+1
+
+D
+2
+
+ABILITIES
+
+CORE: Deep Strike, Leader
+
+FACTION: Oath of Moment
+
+Redeemer of the Lost: While this model is leading a unit, each 
+time a model in that unit is destroyed by a melee attack, if 
+that model has not fought this phase, roll one D6. On a 4+, do 
+not remove it from play; that destroyed model can fight after 
+the attacking model’s unit has finished making its attacks, 
+and is then removed from play.
+Mass of Doom: Once per battle, when this model’s unit makes 
+a Charge move, this model can use this ability. When it does, 
+until the end of the turn, melee weapons equipped by models 
+in that unit have the [DEVASTATING WOUNDS] ability.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Infantry, Character, Epic Hero, Fly, Jump Pack, Grenades, 
+
+Imperium, Chaplain, Astorath
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Blood Angels
+
+ASTORATH
+Wherever sons of Sanguinius are on the cusp of the Black Rage, that 
+is where Astorath goes. Determined to give those warriors a glorious 
+final victory, he fights like a man possessed, lopping off the heads 
+of his enemies while leading frothing Space Marines consumed with 
+unrestrained fury.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Astorath – Epic Hero
+This model is equipped with: bolt pistol; the 
+Executioner’s Axe.
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Death Company Marines with Jump Packs
+
+KEYWORDS:  Infantry, Character, Epic Hero, Fly, Jump Pack, Grenades, 
+
+Imperium, Chaplain, Astorath
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Blood Angels
+
+BAAL PREDATOR
+
+M
+
+T
+
+12" 10
+
+SV
+
+3+
+
+W
+
+11
+
+LD
+
+6+
+
+OC
+
+3
+
+D6+3
+
+A
+
+RANGE
+
+RANGED WEAPONS
+Baal flamestorm cannon [IGNORES COVER, TORRENT]
+3
+Heavy bolter [SUSTAINED HITS 1]
+D6
+Heavy flamer [IGNORES COVER, TORRENT]
+1
+Hunter-killer missile [ONE SHOT]
+One Shot: The bearer can only shoot with this weapon once per battle.
+2
+Storm bolter [RAPID FIRE 2]
+Twin assault cannon 
+[DEVASTATING WOUNDS, TWIN-LINKED]
+
+18"
+36"
+12"
+48"
+
+24"
+
+24"
+
+6
+
+MELEE WEAPONS
+Armoured tracks 
+
+RANGE
+Melee
+
+A
+3
+
+BS
+N/A
+3+
+N/A
+2+
+
+3+
+
+3+
+
+WS
+4+
+
+S
+6
+5
+5
+14
+
+4
+
+6
+
+S
+6
+
+AP
+-2
+-1
+-1
+-3
+
+0
+
+0
+
+AP
+0
+
+D
+2
+2
+1
+D6
+
+1
+
+1
+
+D
+1
+
+ABILITIES
+
+FACTION: Oath of Moment
+
+Overcharged Engines: You can re-roll Advance rolls made for 
+this model. Each time this model Advances, until the end of 
+the turn, ranged weapons equipped by this model have the 
+[ASSAULT] ability but they can only target Infantry units.
+
+DAMAGED: 1-4 WOUNDS REMAINING
+
+While this model has 1-4 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+KEYWORDS: Vehicle, Smoke, Imperium, Baal Predator
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Blood Angels
+
+BAAL PREDATOR
+Only the Blood Angels and their successors have access to the STC 
+necessary to produce Baal Predators. With roaring engines these 
+tanks can keep up with rapid Blood Angels charges or rush to support 
+orbital strikes, pouring deluges of fire into the enemy as they do so.
+
+WARGEAR OPTIONS
+
+ ■ This model’s twin assault cannon can be replaced with 1 Baal flamestorm cannon.
+ ■ This model can be equipped with 1 hunter-killer missile.
+ ■ This model can be equipped with 1 storm bolter.
+ ■   This model can be equipped with one of the following:
+
+ ◦ 2 heavy bolters
+ ◦ 2 heavy flamers
+
+UNIT COMPOSITION
+
+ ■ 1 Baal Predator
+This model is equipped with: twin assault cannon; 
+armoured tracks.
+
+KEYWORDS: Vehicle, Smoke, Imperium, Baal Predator
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Blood Angels
+
+BROTHER CORBULO
+
+M
+
+6"
+
+T
+
+4
+
+SV
+
+3+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+
+MELEE WEAPONS
+Heaven’s Teeth [SUSTAINED HITS 1]
+
+RANGE
+
+12"
+
+RANGE
+Melee
+
+A
+1
+
+A
+6
+
+BS
+2+
+
+WS
+2+
+
+S
+4
+
+S
+5
+
+AP
+0
+
+AP
+-1
+
+D
+1
+
+D
+1
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Oath of Moment
+
+Sanguinary Priest: While this model is leading a unit, models 
+in that unit have the Feel No Pain 5+ ability.
+The Red Grail: While this model is leading a unit, add 1 to the 
+Attacks characteristic of melee weapons equipped by models 
+in that unit. 
+
+KEYWORDS:  Infantry, Character, Epic Hero, Grenades, Imperium, 
+
+Sanguinary Priest, Brother Corbulo
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Blood Angels
+
+BROTHER CORBULO
+The Sanguinary High Priest, Brother Corbulo, is held in high regard for 
+his commitment to the Chapter, his nobility and his gift of foresight – 
+an ability many believe Sanguinius shared. On the battlefield he races 
+to wounded brothers, hacking down any foes in his path with powerful 
+sweeps of Heaven’s Teeth.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Brother Corbulo – Epic Hero
+This model is equipped with: bolt pistol; Heaven’s Teeth.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Assault Squad
+ ■ Devastator Squad
+ ■ Tactical Squad
+ ■ Vanguard Veteran Squad
+
+KEYWORDS:  Infantry, Character, Epic Hero, Grenades, Imperium, 
+
+Sanguinary Priest, Brother Corbulo
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Blood Angels
+
+CAPTAIN TYCHO
+
+M
+
+6"
+
+T
+
+4
+
+SV
+
+2+
+
+W
+
+5
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Blood Song 
+[ANTI-INFANTRY 4+, DEVASTATING WOUNDS, MELTA 2]
+Bolt pistol [PISTOL]
+
+MELEE WEAPONS
+Dead Man’s Hand 
+
+RANGE
+
+24"
+
+12"
+
+RANGE
+Melee
+
+A
+
+2
+
+1
+
+A
+6
+
+BS
+
+2+
+
+2+
+
+WS
+2+
+
+S
+
+4
+
+4
+
+S
+4
+
+AP
+
+-1
+
+0
+
+AP
+-1
+
+D
+
+2
+
+1
+
+D
+2
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Oath of Moment
+
+Gifted Commander: While this model is leading a unit, each 
+time that unit is selected to shoot, select one of the following 
+abilities to apply to ranged weapons equipped by models in 
+that unit until the end of the phase:
+ ■ [ASSAULT]
+ ■ [HEAVY]
+ ■ [RAPID FIRE 1]
+Embittered: The first time an attack is allocated to this model, 
+after the attacking unit has finished making its attacks, until 
+the end of the battle, change the Attacks characteristic of this 
+model’s Dead Man’s Hand to 12. 
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Infantry, Character, Epic Hero, Grenades, Imperium, Captain, 
+
+Tycho
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Blood Angels
+
+CAPTAIN TYCHO
+Captain Tycho was once one of the Blood Angels’ most gifted 
+commanders, a paragon of every ideal his Chapter held to. It was while 
+fighting countless battles against the Orks on Armageddon that he 
+earned fame and renown, and there that he suffered the wound that 
+changed his life forever.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Captain Tycho – Epic Hero
+This model is equipped with: Blood Song; bolt pistol; 
+Dead Man’s Hand.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Assault Squad
+ ■ Command Squad
+ ■ Tactical Squad
+ ■ Vanguard Veteran Squad
+
+TYCHO
+
+Your army cannot contain both Captain Tycho and Tycho 
+the Lost.
+
+KEYWORDS:  Infantry, Character, Epic Hero, Grenades, Imperium, Captain, 
+
+Tycho
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Blood Angels
+
+CHIEF LIBRARIAN MEPHISTON
+
+M
+
+7"
+
+T
+
+5
+
+SV
+
+2+
+
+W
+
+6
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Fury of the Ancients – witchfire 
+[PISTOL, PSYCHIC, SUSTAINED HITS 1]
+Fury of the Ancients – focused witchfire 
+[HAZARDOUS, PISTOL, PSYCHIC, SUSTAINED HITS 3]
+Plasma pistol – standard [PISTOL]
+Plasma pistol – supercharge 
+[HAZARDOUS, PISTOL]
+
+MELEE WEAPONS
+Vitarus [PSYCHIC]
+
+RANGE
+
+12"
+
+12"
+
+12"
+
+12"
+
+RANGE
+Melee
+
+A
+
+3
+
+3
+
+1
+
+1
+
+A
+6
+
+BS
+
+2+
+
+2+
+
+2+
+
+2+
+
+WS
+2+
+
+S
+
+4
+
+5
+
+7
+
+8
+
+S
+9
+
+AP
+
+-1
+
+-2
+
+-2
+
+-3
+
+AP
+-3
+
+D
+
+D3
+
+D3
+
+1
+
+2
+
+D
+D3
+
+ABILITIES
+
+CORE: Feel No Pain 5+, Leader
+
+FACTION: Oath of Moment
+
+The Quickening (Psychic): While this model is leading a unit, 
+models in that unit have the Fights First ability.
+Psychic Hood: While this model is leading a unit, models 
+in that unit have the Feel No Pain 4+ ability against 
+Psychic Attacks.
+Transfixing Gaze (Psychic): At the start of the Fight phase, 
+you can select one enemy unit within Engagement Range 
+of this Psyker’s unit and roll one D6: on a 1, this Psyker 
+model suffers D3 mortal wounds; on a 2-5, until the end of 
+the phase, worsen the Weapon Skill characteristic of melee 
+weapons equipped by models in that enemy unit by 1; on a 
+6, until the end of the phase, worsen the Weapon Skill and 
+Attacks characteristics of those weapons by 1.
+
+INVULNERABLE SAVE
+
+5+
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Infantry, Character, Epic Hero, Psyker, Grenades, Imperium, 
+
+Tacticus, Chief Librarian Mephiston
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Blood Angels
+
+CHIEF LIBRARIAN MEPHISTON
+Mephiston is an enormously powerful warrior and psyker. He is 
+the only Blood Angel known to have suppressed the Black Rage, 
+resurrecting from near death with exceptional strength, vigour and 
+speed. Many whisper behind his back, asking what price he paid for 
+such a transformation.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Chief Librarian Mephiston – Epic Hero
+This model is equipped with: plasma pistol; Fury of the 
+Ancients; Vitarus.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Assault Intercessor Squad
+ ■ Intercessor Squad
+ ■ Sternguard Veteran Squad
+
+KEYWORDS:  Infantry, Character, Epic Hero, Psyker, Grenades, Imperium, 
+
+Tacticus, Chief Librarian Mephiston
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Blood Angels
+
+COMMANDER DANTE
+
+M
+
+12"
+
+T
+
+4
+
+SV
+
+2+
+
+W
+
+6
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Perdition [MELTA 2, PISTOL, SUSTAINED HITS D3]
+
+MELEE WEAPONS
+The Axe Mortalis [LETHAL HITS]
+
+RANGE
+
+6"
+
+RANGE
+Melee
+
+A
+1
+
+A
+8
+
+BS
+2+
+
+WS
+2+
+
+S
+8
+
+S
+7
+
+AP
+-4
+
+AP
+-3
+
+D
+D6
+
+D
+2
+
+ABILITIES
+
+CORE: Deep Strike, Leader
+
+FACTION: Oath of Moment
+
+Lord Regent of the Imperium Nihilus: While this model is 
+leading a unit, add 1 to Charge rolls made for that unit and 
+each time a model in that unit makes an attack, add 1 to the 
+Hit roll.
+Death Mask of Sanguinius: At the start of the Fight phase, 
+each enemy unit within 6" of this model must take a 
+Battle-shock test, subtracting 1 from that test when they do.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Infantry, Character, Epic Hero, Fly, Jump Pack, Grenades, 
+
+Imperium, Tacticus, Chapter Master, Commander Dante
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Blood Angels
+
+COMMANDER DANTE
+Dante soars over the battlefield, gleaming in his golden armour, before 
+roaring into bloody battle on trails of fire. Once in the fray, the piercing 
+gaze of his death mask freezes enemies in fright, while his perfectly 
+placed strikes with the Axe Mortalis cut down foe after foe.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Commander Dante – Epic Hero
+This model is equipped with: Perdition; the Axe Mortalis.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Assault Squad with Jump Packs
+ ■ Sanguinary Guard
+ ■ Vanguard Veteran Squad with Jump Packs
+
+KEYWORDS:  Infantry, Character, Epic Hero, Fly, Jump Pack, Grenades, 
+
+Imperium, Tacticus, Chapter Master, Commander Dante
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Blood Angels
+
+DEATH COMPANY DREADNOUGHT
+
+M
+
+8"
+
+T
+
+9
+
+SV
+
+2+
+
+W
+
+8
+
+LD
+
+6+
+
+OC
+
+3
+
+RANGED WEAPONS
+Heavy flamer [IGNORES COVER, TORRENT]
+Meltagun [MELTA 2]
+Storm bolter [RAPID FIRE 2]
+
+MELEE WEAPONS
+Blood talons [TWIN-LINKED]
+Twin Furioso fists [TWIN-LINKED]
+
+RANGE
+
+12"
+12"
+24"
+
+RANGE
+Melee
+Melee
+
+A
+D6
+1
+2
+
+A
+7
+5
+
+BS
+N/A
+3+
+3+
+
+WS
+3+
+3+
+
+S
+5
+9
+4
+
+S
+8
+12
+
+AP
+-1
+-4
+0
+
+AP
+-2
+-3
+
+D
+1
+D6
+1
+
+D
+3
+3
+
+ABILITIES
+
+CORE: Deadly Demise 1, Feel No Pain 6+
+
+FACTION: Oath of Moment
+
+Black Rage: Each time this model makes an attack, you can 
+re-roll the Hit roll. While this model is not within 12" of one or 
+more friendly Chaplain models, it cannot be selected to Fall 
+Back and its Objective Control characteristic is 0. 
+Frenzied Reprisal: Each time an enemy unit targets this 
+model, after that unit has finished making its attacks, this 
+model can either shoot as if it were your Shooting phase or 
+fight as if it were the Fight phase.
+
+WARGEAR ABILITIES
+
+Magna-grapple: The bearer loses the Smoke keyword, but 
+add 2 to Charge rolls made for the bearer if one or more of the 
+targets of that charge is a Monster or Vehicle unit.
+
+KEYWORDS: Vehicle, Walker, Smoke, Imperium, Death Company Dreadnought
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Blood Angels
+
+DEATH COMPANY DREADNOUGHT
+Even being interred in a Dreadnought’s sarcophagus is insufficient to 
+keep the Black Rage at bay. Death Company Dreadnoughts are like 
+furious battering rams, desperate to smash into the enemy and tear 
+them apart. They are potent terror weapons, unleashed to inflict as 
+much damage as possible.
+
+WARGEAR OPTIONS
+
+ ■ This model’s storm bolter can be replaced with 1 heavy flamer.
+ ■ This model’s meltagun can be replaced with 1 heavy flamer.
+ ■  This model’s Furioso fists can be replaced with 1 blood talons.
+ ■ This model can be equipped with 1 magna-grapple.
+
+UNIT COMPOSITION
+
+ ■ 1 Death Company Dreadnought
+This model is equipped with: meltagun; storm bolter; twin 
+Furioso fists.
+
+KEYWORDS: Vehicle, Walker, Smoke, Imperium, Death Company Dreadnought
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Blood Angels
+
+DEATH COMPANY INTERCESSORS
+
+M
+
+6"
+
+T
+
+4
+
+SV
+
+3+
+
+W
+
+2
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Astartes grenade launcher – frag [BLAST]
+Astartes grenade launcher – krak
+Bolt pistol [PISTOL]
+Bolt rifle
+Hand flamer [IGNORES COVER, PISTOL, TORRENT]
+Heavy bolt pistol [PISTOL]
+Plasma pistol – standard [PISTOL]
+Plasma pistol – supercharge [HAZARDOUS, PISTOL]
+
+MELEE WEAPONS
+Astartes chainsword 
+Close combat weapon 
+Power fist 
+Power weapon 
+Thunder hammer [DEVASTATING WOUNDS]
+
+RANGE
+
+24"
+24"
+12"
+24"
+12"
+18"
+12"
+12"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+Melee
+
+A
+D3
+1
+1
+2
+D6
+1
+1
+1
+
+A
+4
+3
+3
+4
+3
+
+BS
+3+
+3+
+3+
+3+
+N/A
+3+
+3+
+3+
+
+WS
+3+
+3+
+3+
+3+
+4+
+
+S
+4
+9
+4
+4
+3
+4
+7
+8
+
+S
+4
+4
+8
+5
+8
+
+AP
+0
+-2
+0
+-1
+0
+-1
+-2
+-3
+
+AP
+-1
+0
+-2
+-2
+-2
+
+D
+1
+D3
+1
+1
+1
+1
+1
+2
+
+D
+1
+1
+2
+1
+2
+
+ABILITIES
+
+CORE: Feel No Pain 6+
+
+FACTION: Oath of Moment
+
+Black Rage: Each time a model in this unit makes an attack, 
+you can re-roll the Hit roll. While this unit is not within 12" of 
+one or more friendly Chaplain models, it cannot be selected 
+to Fall Back and the Objective Control characteristic of models 
+in this unit is 0. 
+Visions of Heresy: Once per turn, you can target this unit 
+with the Fire Overwatch Stratagem or the Heroic Intervention 
+Stratagem for 0CP.
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Infantry, Grenades, Imperium, Tacticus, 
+
+Death Company Intercessors
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Blood Angels
+
+DEATH COMPANY INTERCESSORS
+Every Blood Angel felt their hopes dashed when the first of the 
+Primaris Space Marines brought to the Chapter by Roboute Guilliman 
+fell to the Black Rage. With great solemnity were these brothers 
+inducted into the Death Company. Their strength, combined with the 
+fury of the Black Rage, is a terrifying sight to behold.
+
+WARGEAR OPTIONS
+
+ ■  All models in this unit can each have their bolt pistol and bolt rifle replaced with 1 heavy bolt pistol 
+
+and 1 Astartes chainsword.
+
+ ■ 1 model’s heavy bolt pistol can be replaced with one of the following:
+
+ ◦ 1 hand flamer
+ ◦ 1 plasma pistol
+
+ ■  For every 5 models in this unit, 1 model equipped with a bolt rifle can be equipped with 1 Astartes 
+
+grenade launcher. 
+
+ ■ 1 model can replace its bolt rifle or Astartes chainsword with one of the following:
+
+ ◦ 1 power fist
+ ◦ 1 power weapon
+ ◦ 1 thunder hammer
+
+UNIT COMPOSITION
+
+ ■ 5-10 Death Company Intercessors
+Every model is equipped with: bolt pistol; bolt rifle; close 
+combat weapon.
+
+DEATH COMPANY
+
+If a Chaplain model from your army with the Leader ability 
+can be attached to an Intercessor Squad, it can be attached 
+to this unit instead.
+
+KEYWORDS:  Infantry, Grenades, Imperium, Tacticus, 
+
+Death Company Intercessors
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Blood Angels
+
+DEATH COMPANY MARINES
+
+M
+
+6"
+
+T
+
+4
+
+SV
+
+3+
+
+W
+
+2
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+Boltgun 
+Hand flamer [IGNORES COVER, PISTOL, TORRENT]
+Inferno pistol [MELTA 2, PISTOL]
+Plasma pistol – standard [PISTOL]
+Plasma pistol – supercharge [HAZARDOUS, PISTOL]
+
+MELEE WEAPONS
+Astartes chainsword 
+Close combat weapon 
+Power fist 
+Power weapon 
+Thunder hammer [DEVASTATING WOUNDS]
+
+RANGE
+
+12"
+24"
+12"
+6"
+12"
+12"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+Melee
+
+A
+1
+2
+D6
+1
+1
+1
+
+A
+4
+3
+3
+4
+3
+
+BS
+3+
+3+
+N/A
+3+
+3+
+3+
+
+WS
+3+
+3+
+3+
+3+
+4+
+
+S
+4
+4
+3
+8
+7
+8
+
+S
+4
+4
+8
+5
+8
+
+AP
+0
+0
+0
+-4
+-2
+-3
+
+AP
+-1
+0
+-2
+-2
+-2
+
+D
+1
+1
+1
+D3
+1
+2
+
+D
+1
+1
+2
+1
+2
+
+ABILITIES
+
+CORE: Feel No Pain 6+
+
+FACTION: Oath of Moment
+
+Black Rage: Each time a model in this unit makes an attack, 
+you can re-roll the Hit roll. While this unit is not within 12" of 
+one or more friendly Chaplain models, it cannot be selected 
+to Fall Back and the Objective Control characteristic of models 
+in this unit is 0. 
+An Honourable Death in Combat: Each time a model 
+in this unit makes an attack, that attack has the 
+[SUSTAINED HITS 1] ability if this unit is below its Starting 
+Strength, or the [SUSTAINED HITS 2] ability if this unit is 
+Below Half-strength.
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Infantry, Grenades, Imperium, Death Company Marines
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Blood Angels
+
+DEATH COMPANY MARINES
+Members of the Death Company are possessed of a berserk fury, 
+driven insane by terrible visions and hallucinations. They seek nothing 
+but death in battle, and such is their ferocity that they barely flinch 
+at even the most grievous of injuries, thinking of nothing but the 
+destruction of their enemies.
+
+WARGEAR OPTIONS
+
+ ■   Any number of models can each have their boltgun and close combat weapon replaced with one of 
+
+the following:
+ ◦ 1 Astartes chainsword and 1 bolt pistol
+ ◦ 1 thunder hammer
+
+ ■  Any number of models can each have their bolt pistol replaced with one of the following:
+
+ ◦ 1 hand flamer
+ ◦ 1 inferno pistol
+ ◦ 1 plasma pistol
+
+ ■  Any number of models can each have their Astartes chainsword replaced with one of the following:
+
+ ◦ 1 power fist
+ ◦ 1 power weapon
+
+UNIT COMPOSITION
+
+ ■ 5-10 Death Company Marines
+Every model is equipped with: boltgun; close combat weapon.
+
+DEATH COMPANY
+
+If a Chaplain model from your army with the Leader ability 
+can be attached to a Tactical Squad, it can be attached to 
+this unit instead.
+
+KEYWORDS: Infantry, Grenades, Imperium, Death Company Marines
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Blood Angels
+
+DEATH COMPANY MARINES WITH JUMP PACKS
+
+M
+
+12"
+
+T
+
+4
+
+SV
+
+3+
+
+W
+
+2
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+Boltgun 
+Hand flamer [IGNORES COVER, PISTOL, TORRENT]
+Inferno pistol [MELTA 2, PISTOL]
+Plasma pistol – standard [PISTOL]
+Plasma pistol – supercharge [HAZARDOUS, PISTOL]
+
+MELEE WEAPONS
+Astartes chainsword 
+Power fist 
+Power weapon 
+Thunder hammer [DEVESTATING WOUNDS]
+Close combat weapon 
+
+RANGE
+
+12"
+24"
+12"
+6"
+12"
+12"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+Melee
+
+A
+1
+2
+D6
+1
+1
+1
+
+A
+4
+3
+4
+3
+3
+
+BS
+3+
+3+
+N/A
+3+
+3+
+3+
+
+WS
+3+
+3+
+3+
+4+
+3+
+
+S
+4
+4
+3
+8
+7
+8
+
+S
+4
+8
+5
+8
+4
+
+AP
+0
+0
+0
+-4
+-2
+-3
+
+AP
+-1
+-2
+-2
+-2
+0
+
+D
+1
+1
+1
+D3
+1
+2
+
+D
+1
+2
+1
+2
+1
+
+ABILITIES
+
+CORE: Deep Strike, Feel No Pain 6+
+
+FACTION: Oath of Moment
+
+Black Rage: Each time a model in this unit makes an attack, 
+you can re-roll the Hit roll. While this unit is not within 12" of 
+one or more friendly Chaplain models, it cannot be selected 
+to Fall Back and the Objective Control characteristic of models 
+in this unit is 0. 
+Berserk Fury: You can re-roll Charge rolls made for this unit.
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Infantry, Fly, Jump Pack, Grenades, Imperium, 
+
+Death Company Marines with Jump Packs
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Blood Angels
+
+DEATH COMPANY MARINES WITH JUMP PACKS
+Possessed of a near peerless ferocity and berserk fury created by horrific 
+hallucinations, Death Company warriors are living weapons. When equipped with 
+jump packs they are more lethal still, capable of bringing their terrible wrath upon 
+the enemy that much more quickly.
+
+WARGEAR OPTIONS
+
+ ■  Any number of models can each have their boltgun and close combat weapon replaced with one of 
+
+the following:
+ ◦ 1 Astartes chainsword and 1 bolt pistol
+ ◦ 1 thunder hammer
+
+ ■  Any number of models can each have their bolt pistol replaced with one of the following:
+
+ ◦ 1 hand flamer
+ ◦ 1 inferno pistol
+ ◦ 1 plasma pistol
+
+ ■ Any number of models can each have their Astartes chainsword replaced with one of the following:
+
+ ◦ 1 power fist
+ ◦ 1 power weapon
+
+UNIT COMPOSITION
+
+ ■ 5-10 Death Company Marines with Jump Packs
+Every model is equipped with: boltgun; close combat weapon.
+
+DEATH COMPANY
+
+If a Chaplain model from your army with the Leader ability 
+can be attached to an Assault Squad with Jump Packs, it 
+can be attached to this unit instead.
+
+KEYWORDS:  Infantry, Fly, Jump Pack, Grenades, Imperium, 
+
+Death Company Marines with Jump Packs
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Blood Angels
+
+FURIOSO DREADNOUGHT
+
+M
+
+6"
+
+T
+
+9
+
+SV
+
+2+
+
+W
+
+8
+
+LD
+
+6+
+
+OC
+
+3
+
+RANGED WEAPONS
+Heavy flamer [IGNORES COVER, TORRENT]
+Heavy frag cannon [BLAST, RAPID FIRE D6]
+Meltagun [MELTA 2]
+Storm bolter [RAPID FIRE 2]
+
+MELEE WEAPONS
+Blood talons [TWIN-LINKED]
+Furioso fist
+Twin Furioso fists [TWIN-LINKED]
+
+RANGE
+
+12"
+18"
+12"
+24"
+
+RANGE
+Melee
+Melee
+Melee
+
+A
+D6
+D6
+1
+2
+
+A
+7
+5
+5
+
+BS
+N/A
+3+
+3+
+3+
+
+WS
+3+
+3+
+3+
+
+S
+5
+7
+9
+4
+
+S
+8
+12
+12
+
+AP
+-1
+-1
+-4
+0
+
+AP
+-2
+-3
+-3
+
+D
+1
+2
+D6
+1
+
+D
+3
+3
+3
+
+ABILITIES
+
+CORE: Deadly Demise 1
+
+FACTION: Oath of Moment
+
+Wrathful Rampage: Each time this model is selected to fight, 
+you can select one enemy unit within Engagement Range 
+of it and roll one D6, adding 2 to the result if this model 
+made a Charge move this turn: on a 4-5, that enemy unit 
+suffers D3 mortal wounds; on a 6+, that enemy unit suffers 3 
+mortal wounds.
+
+WARGEAR ABILITIES
+
+Magna-grapple: The bearer loses the Smoke keyword, but 
+add 2 to Charge rolls made for the bearer if one or more of the 
+targets of that charge is a Monster or Vehicle unit.
+
+KEYWORDS: Vehicle, Walker, Imperium, Furioso Dreadnought
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Blood Angels
+
+FURIOSO DREADNOUGHT
+Unique to the Chapter, Furiosos are frequently fitted with armaments 
+only the Blood Angels have, from the infantry-shredding heavy frag 
+cannon to the magna-grapple. The latter weapon’s bolts, attached to 
+adamantine chains, pierce armour, enabling Furiosos to drag enemies 
+into their reach.
+
+WARGEAR OPTIONS
+
+ ■  This model’s heavy frag cannon and Furioso fist can be replaced with one of the following:
+
+ ◦ 1 Blood Talons and 1 meltagun
+ ◦ 1 twin Furioso fist and 1 meltagun
+
+UNIT COMPOSITION
+
+ ■ 1 Furioso Dreadnought
+This model is equipped with: heavy frag cannon; Furioso fist; 
+storm bolter.
+
+ ■ This model’s storm bolter can be replaced with 1 heavy flamer.
+ ■ This model’s meltagun can be replaced with 1 heavy flamer.
+ ■ This model can be equipped with 1 magna-grapple. 
+
+KEYWORDS: Vehicle, Walker, Imperium, Furioso Dreadnought
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Blood Angels
+
+GABRIEL SETH
+
+M
+
+6"
+
+T
+
+4
+
+SV
+
+3+
+
+W
+
+6
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+
+MELEE WEAPONS
+Blood Reaver [SUSTAINED HITS 1]
+
+RANGE
+
+12"
+
+RANGE
+Melee
+
+A
+1
+
+A
+6
+
+BS
+2+
+
+WS
+2+
+
+S
+4
+
+S
+8
+
+AP
+0
+
+AP
+-2
+
+D
+1
+
+D
+3
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Oath of Moment
+
+Lord of Slaughter: While this model is leading a unit, that unit 
+is eligible to declare a charge in a turn in which it Advanced.
+Whirlwind of Gore: Each time this model fights, until that 
+fight is resolved, add 1 to the Attacks characteristic of this 
+model’s Blood Reaver for every 5 enemy models within 6" of 
+this model.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Infantry, Character, Epic Hero, Grenades, Imperium, 
+
+Chapter Master, Gabriel Seth
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Blood Angels
+
+GABRIEL SETH
+Gabriel Seth is a terrifyingly violent warrior, fearlessly charging 
+headlong into the fray in a whirlwind of fury and savagery. He wields 
+Blood Reaver, an enormous two-handed chainsword, with which he is 
+capable of hacking apart even the most monstrous foes.
+
+WARGEAR OPTIONS
+
+ ■ None
+
+UNIT COMPOSITION
+
+ ■ 1 Gabriel Seth – Epic Hero
+This model is equipped with: bolt pistol; Blood Reaver.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Assault Squad
+ ■ Command Squad
+ ■ Tactical Squad
+ ■ Vanguard Veteran Squad
+
+FLESH TEARERS
+
+This model is from the Flesh Tearers Chapter, a successor 
+of the Blood Angels. For all rules purposes, it is treated as a 
+Blood Angels model, but cannot be included in an army that 
+includes any other Blood Angels Epic Hero models.
+
+KEYWORDS:  Infantry, Character, Epic Hero, Grenades, Imperium, 
+
+Chapter Master, Gabriel Seth
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Blood Angels
+
+LEMARTES
+
+M
+
+12"
+
+T
+
+4
+
+SV
+
+3+
+
+W
+
+4
+
+LD
+
+5+
+
+OC
+
+1
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+
+MELEE WEAPONS
+The Blood Crozius [LETHAL HITS] 
+
+RANGE
+
+12"
+
+RANGE
+Melee
+
+A
+1
+
+A
+5
+
+BS
+2+
+
+WS
+2+
+
+S
+4
+
+S
+6
+
+AP
+0
+
+AP
+-2
+
+D
+1
+
+D
+2
+
+ABILITIES
+
+CORE: Deep Strike, Feel No Pain 6+, Leader
+
+FACTION: Oath of Moment
+
+Guardian of the Lost: While this model is leading a unit, each 
+time an attack is allocated to a model in that unit, subtract 1 
+from the Damage characteristic of that attack.
+Fury Unbound: While this model is leading a unit, melee 
+weapons equipped by models in that unit have the 
+[LETHAL HITS] ability.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Infantry, Character, Epic Hero, Fly, Jump Pack, Grenades, 
+
+Imperium, Chaplain, Lemartes
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Blood Angels
+
+LEMARTES
+Lemartes’ life is one of constant battle. A warrior of iron will, somehow 
+he retains lucidity despite having succumbed to the Black Rage. 
+He leads the Blood Angels’ Death Company as Guardian of the 
+Lost, wielding the ancient weapon known as the Blood Crozius. His 
+inspiration has only made the Death Company even more potent.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Lemartes – Epic Hero
+This model is equipped with: bolt pistol; the Blood Crozius.
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Death Company Marines with Jump Packs
+
+KEYWORDS:  Infantry, Character, Epic Hero, Fly, Jump Pack, Grenades, 
+
+Imperium, Chaplain, Lemartes
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Blood Angels
+
+LIBRARIAN DREADNOUGHT
+
+M
+
+6"
+
+T
+
+9
+
+SV
+
+2+
+
+W
+
+8
+
+LD
+
+6+
+
+OC
+
+3
+
+RANGED WEAPONS
+Blood Lance – witchfire [PSYCHIC, SUSTAINED HITS D3]
+Blood Lance – focused witchfire 
+[HAZARDOUS, PSYCHIC, SUSTAINED HITS D3]
+Heavy flamer [IGNORES COVER, TORRENT]
+Meltagun [MELTA 2]
+Storm bolter [RAPID FIRE 2]
+
+MELEE WEAPONS
+Furioso fist
+Furioso force halberd [EXTRA ATTACKS, PSYCHIC]
+
+RANGE
+
+18"
+
+18"
+
+12"
+12"
+24"
+
+RANGE
+Melee
+Melee
+
+A
+1
+
+1
+
+D6
+1
+2
+
+A
+5
+1
+
+BS
+3+
+
+3+
+
+N/A
+3+
+3+
+
+WS
+3+
+2+
+
+S
+10
+
+12
+
+5
+9
+4
+
+S
+12
+9
+
+AP
+-3
+
+-3
+
+-1
+-4
+0
+
+AP
+-3
+-3
+
+D
+D6
+
+D6+3
+
+1
+D6
+1
+
+D
+3
+
+D6+3
+
+ABILITIES
+
+CORE: Deadly Demise 1
+
+FACTION: Oath of Moment
+
+Shield of Sanguinius (Aura, Psychic): While a friendly 
+Adeptus Astartes unit is within 6" of this model, models 
+in that unit have the Feel No Pain 5+ ability against mortal 
+wounds and Psychic Attacks.
+Wings of Sanguinius (Psychic): Once per turn, at the end of 
+your Movement phase, one Psyker from your army with this 
+ability can use it. If it does, roll one D6: on a 1, that Psyker 
+suffers D3 mortal wounds; on a 2+, select one friendly 
+Adeptus Astartes Infantry unit within 12" of that Psyker 
+and remove the selected unit from the battlefield, then set 
+it up again anywhere on the battlefield that is more than 9" 
+horizontally away from all enemy models.
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Vehicle, Walker, Psyker, Imperium, Librarian Dreadnought
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Blood Angels
+
+LIBRARIAN DREADNOUGHT
+Such is the Blood Angels’ connection to the warp that those Librarians 
+interred in Dreadnoughts retain their link to it. They are dangerous 
+enemies to face, with all the adamantine strength of a Dreadnought as 
+well as the ability to boil an enemy’s blood in their veins, or blast foes 
+apart with beams of energy.
+
+WARGEAR OPTIONS
+
+ ■ This model’s storm bolter can be replaced with one of the following: 
+
+ ◦ 1 heavy flamer
+ ◦ 1 meltagun
+
+UNIT COMPOSITION
+
+ ■ 1 Librarian Dreadnought
+This model is equipped with: Blood Lance; storm bolter; 
+Furioso fist, Furioso force halberd.
+
+KEYWORDS: Vehicle, Walker, Psyker, Imperium, Librarian Dreadnought
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Blood Angels
+
+SANGUINARY GUARD
+
+M
+
+12"
+
+T
+
+4
+
+SV
+
+2+
+
+W
+
+2
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Angelus boltgun [PISTOL]
+Inferno pistol [MELTA 2, PISTOL]
+Plasma pistol – standard [PISTOL]
+Plasma pistol – supercharge [HAZARDOUS, PISTOL]
+
+MELEE WEAPONS
+Encarmine blade 
+Power fist 
+
+RANGE
+
+12"
+6"
+12"
+12"
+
+RANGE
+Melee
+Melee
+
+A
+2
+1
+1
+1
+
+A
+4
+3
+
+BS
+3+
+3+
+3+
+3+
+
+WS
+3+
+3+
+
+S
+4
+8
+7
+8
+
+S
+5
+8
+
+AP
+0
+-4
+-2
+-3
+
+AP
+-2
+-2
+
+D
+1
+D3
+1
+2
+
+D
+2
+2
+
+ABILITIES
+
+CORE: Deep Strike
+
+FACTION: Oath of Moment
+
+Angelic Visage: Each time a melee attack targets this unit, 
+subtract 1 from the Hit roll.
+Heirs of Azkaellon: While a Warlord model is leading this 
+unit, each time a melee attack targets this unit, subtract 1 
+from the Wound roll. 
+
+WARGEAR ABILITIES
+
+Sanguinary Banner: Add 1 to the Objective Control 
+characteristic of models in the bearer’s unit.
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Infantry, Fly, Jump Pack, Grenades, Imperium, Sanguinary Guard
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Blood Angels
+
+SANGUINARY GUARD
+Sanguinary Guard are proven in mind, body and spirit in a way few of 
+their brothers can match. Clad in irreplaceable golden armour believed 
+to date back to the Horus Heresy and armed with the traditional relic 
+weapons of their position, few embody the ideal of the wrathful angel 
+more than they.
+
+WARGEAR OPTIONS
+
+ ■  Any number of models can each have their angelus boltgun replaced with one of the following:
+
+ ◦ 1 inferno pistol
+ ◦ 1 plasma pistol
+
+UNIT COMPOSITION
+
+ ■ 5-10 Sanguinary Guard
+Every model is equipped with: angelus boltgun; 
+encarmine blade.
+
+ ■ For every 5 models in this unit, one model’s encarmine blade can be replaced with 1 power fist.
+ ■ 1 model can be equipped with 1 sanguinary banner.
+
+ATTACHED UNIT
+
+If a Captain model from your army with the Leader ability can 
+be attached to an Assault Squad with Jump Packs unit, it 
+can be attached to this unit instead.
+
+KEYWORDS: Infantry, Fly, Jump Pack, Grenades, Imperium, Sanguinary Guard
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Blood Angels
+
+SANGUINARY PRIEST
+
+M
+
+6"
+
+T
+
+4
+
+SV
+
+3+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+
+MELEE WEAPONS
+Astartes chainsword 
+
+RANGE
+
+12"
+
+RANGE
+Melee
+
+A
+1
+
+A
+5
+
+BS
+2+
+
+WS
+2+
+
+S
+4
+
+S
+4
+
+AP
+0
+
+AP
+-1
+
+D
+1
+
+D
+1
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Oath of Moment
+
+Sanguinary Priest: While this model is leading a unit, models 
+in that unit have the Feel No Pain 5+ ability.
+Blood Chalice: While this model is leading a unit, improve 
+the Armour Penetration characteristic of melee weapons 
+equipped by models in that unit by 1. 
+
+KEYWORDS: Infantry, Character, Grenades, Imperium, Sanguinary Priest
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Blood Angels
+
+SANGUINARY PRIEST
+The Sanguinary Priests are the Blood Angels’ Apothecaries, and hold 
+responsibility for the Chapter’s soul as well as its body. Through their 
+ministrations and ceremonies do they call upon the Blood Angels 
+to embrace the Red Thirst, control it and unleash their rage upon 
+the enemy.
+
+WARGEAR OPTIONS
+
+ ■ None
+
+UNIT COMPOSITION
+
+ ■ 1 Sanguinary Priest
+This model is equipped with: bolt pistol; Astartes chainsword.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Assault Squad
+ ■ Devastator Squad
+ ■ Tactical Squad
+ ■ Vanguard Veteran Squad
+ 
+You can attach this model to one of the above units, even if 
+one Captain, Chapter Master or Lieutenant model has 
+already been attached to it. If you do, and that Bodyguard 
+unit is destroyed, the Leader units attached to it become 
+separate units, with their original Starting Strengths.
+
+KEYWORDS: Infantry, Character, Grenades, Imperium, Sanguinary Priest
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Blood Angels
+
+THE SANGUINOR
+
+M
+
+12"
+
+T
+
+4
+
+SV
+
+2+
+
+W
+
+7
+
+LD
+
+6+
+
+OC
+
+1
+
+MELEE WEAPONS
+Encarmine broadsword [DEVASTATING WOUNDS]
+
+RANGE
+Melee
+
+A
+8
+
+WS
+2+
+
+S
+6
+
+AP
+-3
+
+D
+2
+
+ABILITIES
+
+CORE: Deep Strike, Fights First, Lone Operative 
+
+FACTION: Oath of Moment
+
+Aura of Fervour (Aura): While a friendly Adeptus Astartes 
+unit is within 6" of this model, you can re-roll Battle-shock and 
+Leadership tests taken for that unit.
+Miraculous Saviour: Once per battle, at the end of your 
+opponent’s Charge phase, if this model is still in Reserves, 
+you can select one enemy unit that made a Charge move this 
+phase. Set this model up on the battlefield within Engagement 
+Range of that enemy unit.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Infantry, Character, Epic Hero, Fly, Jump Pack, Imperium, 
+
+The Sanguinor
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Blood Angels
+
+THE SANGUINOR
+The Sanguinor is a mysterious figure who fights only on battlefields 
+of the most paramount importance, when the Blood Angels’ need is 
+greatest. He inspires as much courage in the sons of Sanguinius as 
+he does fear in the enemy, and surges across the field as if he were 
+Sanguinius’ will made manifest.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 The Sanguinor – Epic Hero
+This model is equipped with: encarmine broadsword.
+
+KEYWORDS:  Infantry, Character, Epic Hero, Fly, Jump Pack, Imperium, 
+
+The Sanguinor
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Blood Angels
+
+TYCHO THE LOST
+
+M
+
+6"
+
+T
+
+4
+
+SV
+
+2+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Blood Song 
+[ANTI-INFANTRY 4+, DEVASTATING WOUNDS, MELTA 2]
+Bolt pistol [PISTOL]
+
+MELEE WEAPONS
+Dead Man’s Hand 
+
+RANGE
+
+24"
+
+12"
+
+RANGE
+Melee
+
+A
+
+2
+
+1
+
+A
+6
+
+BS
+
+2+
+
+2+
+
+WS
+2+
+
+S
+
+4
+
+4
+
+S
+4
+
+AP
+
+-1
+
+0
+
+AP
+-1
+
+D
+
+2
+
+1
+
+D
+2
+
+ABILITIES
+
+CORE: Leader, Feel No Pain 6+
+
+FACTION: Oath of Moment
+
+Forlorn Hero: While this model is leading a unit, that unit is 
+eligible to declare a charge in a turn in which it Advanced.
+Black Rage: Each time this model makes an attack, you can 
+re-roll the Hit roll. While this model is not within 12" of one or 
+more friendly Chaplain models, it cannot be selected to Fall 
+Back and its Objective Control characteristic is 0. 
+Death Vision of Sanguinius: If this model is destroyed by a 
+melee attack, after the attacking unit has finished making 
+its attacks, you can roll one D6, adding 2 to the result if the 
+attacking unit contains the enemy Warlord: on a 2-3, that 
+enemy unit suffers 3 mortal wounds; on a 4-5, that enemy 
+unit suffers D3+3 mortal wounds; on a 6+, that enemy unit 
+suffers D6+3 mortal wounds.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Infantry, Character, Epic Hero, Grenades, Imperium, Captain, 
+
+Tycho the Lost
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Blood Angels
+
+TYCHO THE LOST
+It was in the Third War for Armageddon that rage finally consumed 
+Captain Tycho, as it will consume all sons of Sanguinius, and he took 
+his place in the Death Company. He cut down Orks with volleys from 
+Blood Song and blasts from the digital weapons built into his left 
+gauntlet, known as Dead Man’s Hand.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Tycho the Lost – Epic Hero
+This model is equipped with: Blood Song; bolt pistol; 
+Dead Man’s Hand.
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Death Company Marines
+
+TYCHO
+
+Your army cannot contain both Captain Tycho and Tycho 
+the Lost.
+
+KEYWORDS:  Infantry, Character, Epic Hero, Grenades, Imperium, Captain, 
+
+Tycho the Lost
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Blood Angels
+
+SANGUINARY PRIEST WITH JUMP PACK
+
+M
+
+12"
+
+T
+
+4
+
+SV
+
+3+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+
+MELEE WEAPONS
+Astartes chainsword 
+
+RANGE
+
+12"
+
+RANGE
+Melee
+
+A
+1
+
+A
+5
+
+BS
+2+
+
+WS
+2+
+
+S
+4
+
+S
+4
+
+AP
+0
+
+AP
+-1
+
+D
+1
+
+D
+1
+
+ABILITIES
+
+CORE: Deep Strike, Leader
+
+FACTION: Oath of Moment
+
+Sanguinary Priest: While this model is leading a unit, models 
+in that unit have the Feel No Pain 5+ ability.
+Blood Chalice: While this model is leading a unit, improve 
+the Armour Penetration characteristic of melee weapons 
+equipped by models in that unit by 1. 
+
+KEYWORDS:  Infantry, Character, Grenades, Imperium, Fly, Jump Pack, 
+
+Sanguinary Priest
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Blood Angels
+
+SANGUINARY PRIEST WITH JUMP PACK
+The Sanguinary Priests are the Blood Angels’ Apothecaries, and hold 
+responsibility for the Chapter’s soul as well as its body. Through their 
+ministrations and ceremonies do they call upon the Blood Angels 
+to embrace the Red Thirst, control it and unleash their rage upon 
+the enemy.
+
+WARGEAR OPTIONS
+
+ ■ None
+
+UNIT COMPOSITION
+
+ ■ 1 Sanguinary Priest
+This model is equipped with: bolt pistol; Astartes chainsword.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Assault Squad with Jump Packs
+ ■ Vanguard Veteran Squad with Jump packs
+You can attach this model to one of the above units, even if 
+one Captain, Chapter Master or Lieutenant model has 
+already been attached to it. If you do, and that Bodyguard 
+unit is destroyed, the Leader units attached to it become 
+separate units, with their original Starting Strengths.
+
+KEYWORDS:  Infantry, Character, Grenades, Imperium, Fly, Jump Pack, 
+
+Sanguinary Priest
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Blood Angels
+
+

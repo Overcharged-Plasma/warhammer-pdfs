@@ -1,0 +1,3001 @@
+DARK ANGELS – UNFORGIVEN TASK FORCE
+DETACHMENT RULE
+
+No matter the foe or the odds, the proud warriors of 
+the Dark Angels stubbornly refuse to accept defeat. 
+None fight with more grim determination than 
+the battle-brothers of the Dark Angels, and their 
+renowned specialised companies – the Deathwing 
+and Ravenwing – are held in awe by their allies and 
+enemies alike.
+
+If your Army Faction is Adeptus Astartes, you can 
+use this Unforgiven Task Force Detachment rule.
+
+RESTRICTIONS
+ ■  Your army can include Dark Angels units, but it 
+
+cannot include any Adeptus Astartes units drawn 
+from any other Chapter.
+
+GRIM RESOLVE
+The Dark Angels are renowned for their unshakeable 
+resolve, enduring tenacity and strict discipline in 
+battle. They are tactically astute, able to prosecute 
+their wars on any front. On the offence, they strike 
+with all the martial pride of the Lion, while in defence 
+they are stalwart, determined to accomplish their 
+mission no matter the cost.
+
+While an Adeptus Astartes unit from your army 
+is Battle-shocked, change the Objective Control 
+characteristic of models in that unit to 1, instead of 0.
+
+DARK ANGELS – UNFORGIVEN TASK FORCE
+STRATAGEMS
+
+If you are using the Unforgiven Task Force Detachment rule, you can use these Unforgiven Task 
+Force Stratagems.
+
+1CP
+
+UNFORGIVEN FURY
+
+UNFORGIVEN TASK FORCE – BATTLE  
+TACTIC STRATAGEM
+
+With focused aggression, the Dark Angels 
+relentlessly punish the foe.
+
+WHEN: Your Shooting phase or the 
+Fight phase.
+TARGET: One Adeptus Astartes unit from 
+your army that has not been selected to 
+shoot or fight this phase.
+EFFECT: Until the end of the phase, 
+weapons equipped by models in your 
+unit have the [LETHAL HITS] ability. In 
+addition, if one or more Adeptus Astartes 
+units from your army are currently 
+Battle-shocked, until the end of the phase, 
+each time a model in your unit makes an 
+attack, a successful unmodified Hit roll of 
+5+ scores a Critical Hit.
+
+INTRACTABLE
+UNFORGIVEN TASK FORCE – STRATEGIC  
+PLOY STRATAGEM
+
+1CP
+
+Although stubborn warriors, even the 
+resolute Dark Angels know that a fighting 
+retreat can be the wisest course of action.
+
+WHEN: Your Movement phase, just after 
+an Adeptus Astartes unit from your army 
+Falls Back.
+TARGET: That Adeptus Astartes unit.
+EFFECT: Until the end of the turn, that unit 
+is eligible to shoot and declare a charge, 
+even though it Fell Back this phase.
+
+1CP
+
+ARMOUR OF CONTEMPT
+UNFORGIVEN TASK FORCE – BATTLE  
+TACTIC STRATAGEM
+
+The belligerency of the Adeptus Astartes 
+combined with their transhuman 
+physiology makes them unyielding foes 
+to face.
+
+WHEN: Your opponent’s Shooting phase or 
+the Fight phase, just after an enemy unit 
+has selected its targets.
+TARGET: One Adeptus Astartes unit 
+from your army that was selected as the 
+target of one or more of the attacking 
+unit’s attacks.
+EFFECT: Until the end of the phase, each 
+time an attack targets your unit, worsen 
+the Armour Penetration characteristic of 
+that attack by 1.
+
+FIRE DISCIPLINE
+UNFORGIVEN TASK FORCE – BATTLE TACTIC 
+STRATAGEM
+
+1CP
+
+There is no escaping the Unforgiven’s 
+wrath when they bring their disciplined 
+firepower to bear.
+
+WHEN: Your Shooting phase.
+TARGET: One Adeptus Astartes unit from 
+your army that has not been selected to 
+shoot this phase.
+EFFECT: Until the end of the phase, ranged 
+weapons equipped by models in that 
+unit have the [ASSAULT], [HEAVY] and 
+[IGNORES COVER] abilities.
+
+DARK ANGELS – UNFORGIVEN TASK FORCE
+STRATAGEMS
+
+If you are using the Unforgiven Task Force Detachment rule, you can use these Unforgiven Task 
+Force Stratagems.
+
+1CP
+
+GRIM RETRIBUTION
+UNFORGIVEN TASK FORCE – STRATEGIC  
+PLOY STRATAGEM
+
+The Dark Angels are renowned for yielding 
+nothing to the enemy, and fighting back 
+with unanswerable fury in the face of 
+odds that would force even other Adeptus 
+Astartes to reconsider their position.
+
+WHEN: Your opponent’s Shooting phase, 
+just after an enemy unit has shot.
+TARGET: One Adeptus Astartes unit from 
+your army that had one or more models 
+destroyed as a result of the attacking 
+unit’s attacks.
+EFFECT: Your unit can shoot as if it were 
+your Shooting phase, but it must target 
+the enemy unit that just attacked it, and 
+can only do so if that enemy unit is an 
+eligible target.
+
+UNBREAKABLE LINES
+UNFORGIVEN TASK FORCE – BATTLE TACTIC 
+STRATAGEM
+
+1CP
+
+Countless assaults have faltered against 
+the unbreakable ceramite wall that is the 
+Unforgiven standing their ground.
+
+WHEN: Your opponent’s Charge phase, just 
+after an enemy unit ends a Charge move.
+TARGET: One Adeptus Astartes unit from 
+your army within Engagement Range of 
+that enemy unit.
+EFFECT: Until the end of the turn, each 
+time an attack is allocated to a model in 
+your unit, subtract 1 from the Damage 
+characteristic of that attack.
+
+DARK ANGELS – UNFORGIVEN TASK FORCE
+ENHANCEMENTS
+
+If you are using the Unforgiven Task Force Detachment rule, you can use these Unforgiven Task 
+Force Enhancements.
+SHROUD OF HEROES
+When one of the Dark Angels’ mightiest warriors is 
+slain in battle, his recovered remains are wrapped 
+in a death shroud until he can be interred within the 
+crypts of the Lion’s Sanctum. Pieces of this fabric are 
+then stitched into a single set of robes known as the 
+Shroud of Heroes, and those who wear it claim they 
+can feel the powers of their predecessors refusing to 
+let them yield while their duty remains unfulfilled.
+
+HEAVENFALL BLADE
+This weapon was bestowed upon the most 
+honourable Knight of the Order before a long quest 
+into the wilds of Caliban. Its blade is empowered 
+by a force generator of magnificent strength. It is a 
+weighty responsibility to bear such an heirloom into 
+battle, and a Dark Angel bestowed such an honour 
+would rather die than bring shame to his Chapter.
+
+Adeptus Astartes model only. The first time the 
+bearer is destroyed, roll one D6 at the end of the 
+phase. On a 2+, set the bearer back up on the 
+battlefield as close as possible to where it was 
+destroyed and not within Engagement Range of any 
+enemy units, with 3 wounds remaining (if the bearer 
+was Battle-shocked when it was destroyed, it is 
+instead returned with its full wounds remaining).
+STUBBORN TENACITY
+Even for a Chapter as famously stubborn as the Dark 
+Angels, this warrior is known for his intractable nature. 
+Such tenacity and dedication to duty is an inspiration 
+to the warriors who follow him – so fortified, enemy 
+attempts to break them only strengthen their resolve.
+
+Adeptus Astartes model only. While the bearer is 
+leading a unit, each time a model in that unit makes 
+an attack, add 1 to the Hit roll if the bearer’s unit is 
+below its Starting Strength, and add 1 to the Wound 
+roll as well if the bearer’s unit is Battle-shocked.
+
+Adeptus Astartes model only. Add 1 to the 
+Attacks, Strength and Damage characteristics of 
+the bearer’s melee weapons. While the bearer is 
+Battle-shocked, add 2 to the Attacks, Strength 
+and Damage characteristics of the bearer’s melee 
+weapons instead.
+PENNANT OF REMEMBRANCE
+This hallowed banner records the names and deeds 
+of the legendary members of the Deathwing that the 
+company’s bone-coloured armour commemorates. 
+The legacy of those mighty warriors is one of bravery 
+and defiance in the face of overwhelming odds. 
+Under the shadow of their example, every member 
+of the Chapter fights on through grievous injury 
+to prove themselves worthy successors of such 
+martial paragons.
+
+Bladeguard Ancient, Primaris Ancient or 
+Terminator Ancient model only. While the 
+bearer is leading a unit, models in that unit 
+have the Feel No Pain 6+ ability. While that unit 
+is Battle-shocked, models in that unit have the 
+Feel No Pain 4+ ability instead.
+
+AZRAEL
+
+M
+
+6"
+
+T
+
+4
+
+SV
+
+2+
+
+W
+
+6
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Lion’s Wrath 
+[ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]
+
+MELEE WEAPONS
+The Sword of Secrets [DEVASTATING WOUNDS]
+
+RANGE
+
+24"
+
+RANGE
+Melee
+
+A
+
+2
+
+A
+6
+
+BS
+
+2+
+
+WS
+2+
+
+S
+
+8
+
+S
+6
+
+AP
+
+-3
+
+AP
+-4
+
+D
+
+2
+
+D
+2
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Oath of Moment
+
+Supreme Grand Master: While this model is leading a 
+unit, weapons equipped by models in that unit have the 
+[SUSTAINED HITS 1] ability.
+Masterful Tactician: At the start of your Command phase, if 
+this model is on the battlefield, you gain 1CP.
+
+WARGEAR ABILITIES
+
+The Lion Helm: Models in the bearer’s unit have a 4+ 
+invulnerable save. In addition, once per battle, at any time, 
+the bearer can summon a Watcher in the Dark. When it does, 
+until the end of the phase, models in the bearer’s unit have 
+the Feel No Pain 4+ ability against mortal wounds. 
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Infantry, Character, Epic Hero, Grenades, Imperium, Tacticus, 
+
+Chapter Master, Azrael
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Dark Angels
+
+AZRAEL
+Azrael is a beacon of inspiration to those who follow him, and is 
+paid enormous respect for his ability as a strategist. A masterful 
+commander, he quickly grasps changing battlefield realities and 
+orchestrates his forces to maximum advantage. In the fray, Azrael 
+decapitates foes with every strike of the Sword of Secrets.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Azrael – Epic Hero
+This model is equipped with: Lion’s Wrath; the Sword of 
+Secrets; the Lion Helm.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Assault Intercessor Squad
+ ■ Bladeguard Veteran Squad
+ ■ Hellblaster Squad
+ ■ Infernus Squad
+ ■ Intercessor Squad
+ ■ Sternguard Veteran Squad
+
+KEYWORDS:  Infantry, Character, Epic Hero, Grenades, Imperium, Tacticus, 
+
+Chapter Master, Azrael
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Dark Angels
+
+BELIAL
+
+M
+
+5"
+
+T
+
+5
+
+SV
+
+2+
+
+W
+
+6
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Master-crafted storm bolter [PRECISION, RAPID FIRE 2]
+
+MELEE WEAPONS
+The Sword of Silence [PRECISION]
+
+RANGE
+
+24"
+
+RANGE
+Melee
+
+A
+2
+
+A
+6
+
+BS
+2+
+
+WS
+2+
+
+S
+4
+
+S
+6
+
+AP
+0
+
+AP
+-2
+
+D
+2
+
+D
+2
+
+ABILITIES
+
+CORE: Deep Strike, Leader
+
+FACTION: Oath of Moment
+
+Grand Master of the Deathwing: While this model is leading 
+a unit, each time a model in that unit makes an attack, if a 
+Critical Hit is scored, that attack has the [PRECISION] ability.
+Strikes of Retribution: Each time a melee attack is allocated 
+to this model, after the attacking model’s unit has finished 
+making its attacks, roll one D6 (to a maximum of six D6 per 
+attacking unit): for each 2+, the attacking unit suffers 1 
+mortal wound. 
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Infantry, Character, Epic Hero, Imperium, Terminator, Captain, 
+
+Belial
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Dark Angels
+
+BELIAL
+Belial is a warrior born – a killer whose skill in battle has always 
+stood out, even amongst his post-human brethren. For all his ability 
+he is a staunch perfectionist, chastising himself for every perceived 
+weakness. In battle he wields the Sword of Silence, an obsidian 
+Chapter relic that seems to swallow nearby sound.
+
+WARGEAR OPTIONS
+
+ ■     None
+
+UNIT COMPOSITION
+
+ ■ 1 Belial – Epic Hero
+This model is equipped with: master-crafted storm bolter; 
+the Sword of Silence.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Deathwing Command Squad
+ ■ Deathwing Knights
+ ■ Deathwing Squad
+ ■ Relic Terminator Squad
+ ■ Terminator Assault Squad
+ ■ Terminator Squad
+
+KEYWORDS:  Infantry, Character, Epic Hero, Imperium, Terminator, Captain, 
+
+Belial
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Dark Angels
+
+SAMMAEL
+
+M
+
+12"
+
+T
+
+5
+
+SV
+
+3+
+
+W
+
+7
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+Master-crafted plasma cannon [BLAST]
+Twin storm bolter [RAPID FIRE 2, TWIN-LINKED]
+
+MELEE WEAPONS
+The Raven Sword [SUSTAINED HITS 2]
+
+RANGE
+
+12"
+36"
+24"
+
+RANGE
+Melee
+
+A
+1
+D3
+2
+
+A
+6
+
+BS
+2+
+2+
+2+
+
+WS
+2+
+
+S
+4
+8
+4
+
+S
+6
+
+AP
+0
+-3
+0
+
+AP
+-3
+
+D
+1
+2
+1
+
+D
+2
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Oath of Moment
+
+Grand Master of the Ravenwing: While this model is leading a 
+unit, that unit is eligible to shoot and declare a charge in a turn 
+in which it Advanced.
+Cut Off Their Escape: Each time an enemy unit (excluding 
+Monsters and Vehicles) within Engagement Range of this 
+model’s unit is selected to Fall Back, models in that enemy 
+unit must take Desperate Escape tests as if their unit was 
+Battle-shocked. When doing so, if that enemy unit is also 
+Battle-shocked by other means, subtract 1 from each of those 
+Desperate Escape tests.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Mounted, Character, Epic Hero, Fly, Grenades, Imperium, Captain, 
+
+Sammael
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Dark Angels
+
+SAMMAEL
+Sammael rides to war on the jetbike Corvex, a relic from the Dark Age 
+of Technology. Upon this ancient mount, the Ravenwing’s commander 
+charges into the fray, storm bolters and plasma cannon causing 
+hideous damage before he moves in for the kill with the Raven Sword, 
+an heirloom with a razor edge that can never dull.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Sammael – Epic Hero
+This model is equipped with: bolt pistol; master-crafted 
+plasma cannon; twin storm bolter; the Raven Sword.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Bike Squad
+ ■ Outrider Squad
+ ■ Ravenwing Black Knights
+ ■ Ravenwing Command Squad
+
+KEYWORDS:  Mounted, Character, Epic Hero, Fly, Grenades, Imperium, Captain, 
+
+Sammael
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Dark Angels
+
+EZEKIEL
+
+M
+
+6"
+
+T
+
+4
+
+SV
+
+2+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+The Deliverer [PISTOL, PRECISION]
+Mind Wipe – witchfire 
+[DEVASTATING WOUNDS, PRECISION, PSYCHIC]
+Mind Wipe – focused witchfire [ANTI-CHARACTER 4+, 
+DEVASTATING WOUNDS, HAZARDOUS, PRECISION, PSYCHIC]
+
+MELEE WEAPONS
+Traitor’s Bane [ANTI-CHAOS 2+, PSYCHIC]
+
+RANGE
+
+12"
+
+12"
+
+12"
+
+RANGE
+Melee
+
+A
+1
+
+1
+
+1
+
+A
+4
+
+BS
+2+
+
+2+
+
+2+
+
+WS
+2+
+
+S
+4
+
+6
+
+6
+
+S
+6
+
+AP
+-1
+
+-2
+
+-2
+
+AP
+-2
+
+D
+2
+
+D6
+
+D6
+
+D
+D3
+
+ABILITIES
+CORE: Leader
+
+FACTION: Oath of Moment
+
+Psychic Hood: While this model is leading a unit, models 
+in that unit have the Feel No Pain 4+ ability against 
+Psychic Attacks.
+Engulfing Fear (Psychic): In your Shooting phase, you can 
+select one enemy unit within 18" of this model. That enemy 
+unit must take a Battle-shock test.
+
+WARGEAR ABILITIES
+Book of Salvation: While this model is leading a unit, add 
+1 to the Attacks characteristic of melee weapons equipped 
+by models in that unit. When this model is destroyed, each 
+friendly Adeptus Astartes unit within 6" of this model must 
+take a Battle-shock test.
+
+INVULNERABLE SAVE
+
+4+
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Infantry, Character, Epic Hero, Psyker, Grenades, Imperium, 
+
+Ezekiel
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Dark Angels
+
+EZEKIEL
+Ezekiel is often at the forefront of battle. As a master of Interromancy, 
+his warp-whispers claw away the sanity of his enemies. His blade, 
+known as Traitor’s Bane, was forged to slay those who dared turn 
+against the Emperor. It is a formidable force weapon that carries within 
+it the rage of the betrayed.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Ezekiel – Epic Hero
+This model is equipped with: the Deliverer; Mind Wipe; 
+Traitor’s Bane; Book of Salvation.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Assault Squad
+ ■ Command Squad
+ ■ Tactical Squad
+ ■ Vanguard Veteran Squad
+
+KEYWORDS:  Infantry, Character, Epic Hero, Psyker, Grenades, Imperium, 
+
+Ezekiel
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Dark Angels
+
+ASMODAI
+
+M
+
+6"
+
+T
+
+4
+
+SV
+
+3+
+
+W
+
+4
+
+LD
+
+5+
+
+OC
+
+1
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+
+MELEE WEAPONS
+Blades of Reason 
+[ANTI-CHARACTER 2+, EXTRA ATTACKS, PRECISION]
+Crozius arcanum 
+
+RANGE
+
+12"
+
+RANGE
+
+Melee
+
+Melee
+
+A
+1
+
+A
+
+3
+
+5
+
+BS
+3+
+
+WS
+
+2+
+
+2+
+
+S
+4
+
+S
+
+4
+
+6
+
+AP
+0
+
+AP
+
+0
+
+-1
+
+D
+1
+
+D
+
+1
+
+2
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Oath of Moment
+
+Exemplar of Hate: While this model is leading a unit, each 
+time a model in that unit makes a melee attack, you can 
+re-roll the Hit roll.
+Feared Interrogator: At the start of the Fight phase, each 
+enemy Character unit within 6" of this model must take 
+a Battle-shock test, subtracting 1 from that test when they 
+do. In addition, each time this model destroys an enemy 
+Character model with a melee attack, you gain 1CP.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Infantry, Character, Epic Hero, Grenades, Imperium, Chaplain, 
+
+Asmodai
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Dark Angels
+
+ASMODAI
+Asmodai is the Dark Angels’ most successful Interrogator-Chaplain. 
+Relentless and humourless, in battle he incites his battle-brothers’ 
+fighting spirit to reach new heights, rendering them unstoppable killing 
+machines by chanting his litanies of hate with unshakeable belief.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Asmodai – Epic Hero
+This model is equipped with: bolt pistol; Blades of Reason; 
+crozius arcanum.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Assault Squad
+ ■ Command Squad
+ ■ Tactical Squad
+ ■ Vanguard Veteran Squad
+
+KEYWORDS:  Infantry, Character, Epic Hero, Grenades, Imperium, Chaplain, 
+
+Asmodai
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Dark Angels
+
+RAVENWING TALONMASTER
+
+M
+
+16"
+
+T
+
+7
+
+SV
+
+3+
+
+W
+
+6
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Twin assault cannon 
+[DEVASTATING WOUNDS,TWIN-LINKED]
+Twin heavy bolter [SUSTAINED HITS 1, TWIN-LINKED]
+
+MELEE WEAPONS
+Power weapon 
+
+RANGE
+
+24"
+
+36"
+
+RANGE
+Melee
+
+A
+
+6
+
+3
+
+A
+5
+
+BS
+
+3+
+
+3+
+
+WS
+3+
+
+S
+
+6
+
+5
+
+S
+5
+
+AP
+
+0
+
+-1
+
+AP
+-2
+
+D
+
+1
+
+2
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise 1, Leader
+
+FACTION: Oath of Moment
+
+Talonmaster: While this model is within 3" of one or more 
+other friendly Adeptus Astartes Mounted or Adeptus 
+Astartes Fly Vehicle units, this model has the Lone 
+Operative ability.
+Nowhere to Hide: While a friendly Adeptus Astartes 
+Mounted or Adeptus Astartes Fly Vehicle unit is within 6" 
+of this model, ranged weapons equipped by models in that 
+unit have the [IGNORES COVER] ability.
+Master of Manoeuvre: Once per turn, when an enemy unit 
+ends a Normal, Advance or Fall Back move within 9" of this 
+model, if this model is not within Engagement Range of one 
+or more enemy units, this model can make a Normal move 
+of up to 6".
+
+INVULNERABLE SAVE
+
+5+
+
+KEYWORDS: Vehicle, Character, Fly, Imperium, Ravenwing Talonmaster
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Dark Angels
+
+RAVENWING TALONMASTER
+Mounted in a Land Speeder outfitted with additional auspex scanners 
+and vox-casters, it is a Talonmaster’s role to direct the Ravenwing’s 
+fire, using his equipment to ensure no quarry can hide from them. 
+They even identify foes seeking temporary refuge in dense terrain, 
+revealing their location to all Ravenwing warriors.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Ravenwing Talonmaster
+This model is equipped with: twin assault cannon; twin heavy 
+bolter; power weapon.
+
+KEYWORDS: Vehicle, Character, Fly, Imperium, Ravenwing Talonmaster
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Dark Angels
+
+LAZARUS
+
+M
+
+6"
+
+T
+
+4
+
+SV
+
+3+
+
+W
+
+5
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+
+MELEE WEAPONS
+Enmity’s Edge [ANTI-PSYKER 2+]
+
+RANGE
+
+12"
+
+RANGE
+Melee
+
+A
+1
+
+A
+6
+
+BS
+2+
+
+WS
+2+
+
+S
+4
+
+S
+6
+
+AP
+0
+
+AP
+-3
+
+D
+1
+
+D
+2
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Oath of Moment
+
+Intractable Will: While this model is leading a unit, each time 
+a model in that unit is destroyed by a melee attack, if that 
+model has not fought this phase, roll one D6. On a 4+, do not 
+remove it from play; that destroyed model can fight after the 
+attacking model’s unit has finished making its attacks, and is 
+then removed from play.
+The Spiritshield Helm: This model has the Feel No Pain 3+ 
+ability against Psychic Attacks and mortal wounds.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Infantry, Character, Epic Hero, Grenades, Imperium, Tacticus, 
+
+Captain, Lazarus
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Dark Angels
+
+LAZARUS
+Master Lazarus wields his sword, Enmity’s Edge, with all the martial 
+skill expected of a Dark Angels Company Master. In even the most 
+ferocious fighting he exhibits a calm demeanour, maintaining 
+composure while giving masterful orders that have yielded 
+great victories.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Lazarus – Epic Hero
+This model is equipped with: bolt pistol; Enmity’s Edge.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Assault Intercessor Squad
+ ■ Bladeguard Veteran Squad
+ ■ Infernus Squad
+ ■ Intercessor Squad
+ ■ Sternguard Veteran Squad
+
+KEYWORDS:  Infantry, Character, Epic Hero, Grenades, Imperium, Tacticus, 
+
+Captain, Lazarus
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Dark Angels
+
+DEATHWING STRIKEMASTER
+
+M
+
+5"
+
+T
+
+5
+
+SV
+
+2+
+
+W
+
+5
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Storm bolter [RAPID FIRE 2]
+
+MELEE WEAPONS
+Chainfist  [ANTI-VEHICLE 3+]
+Mace of absolution
+Master-crafted power weapon 
+Power fist 
+Thunder hammer [DEVASTATING WOUNDS]
+Twin lightning claws [TWIN-LINKED]
+
+RANGE
+
+24"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+Melee
+Melee
+
+A
+2
+
+A
+4
+5
+5
+4
+4
+6
+
+BS
+2+
+
+WS
+3+
+2+
+2+
+2+
+3+
+2+
+
+S
+4
+
+S
+8
+6
+5
+8
+8
+5
+
+AP
+0
+
+AP
+-2
+-1
+-2
+-2
+-2
+-2
+
+D
+1
+
+D
+2
+3
+2
+2
+2
+1
+
+ABILITIES
+
+CORE: Deep Strike, Leader 
+
+FACTION: Oath of Moment
+
+Tactical Precision: While this model is leading a unit, 
+weapons equipped by models in that unit have the 
+[LETHAL HITS] ability.
+Vanquish the Foe: Each time this model makes an attack that 
+targets an enemy unit that is Below Half-strength, add 1 to the 
+Hit roll and add 1 to the Wound roll.
+
+WARGEAR ABILITIES
+
+Storm Shield: The bearer has a Wounds characteristic of 6.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Infantry, Character, Imperium, Terminator, Lieutenant, 
+
+Deathwing Strikemaster
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Dark Angels
+
+DEATHWING STRIKEMASTER
+Deathwing Strikemasters serve as the Deathwing’s Lieutenants. To 
+earn such an esteemed rank they have carried out deeds of enormous 
+bravery on countless battlefields, honing their skills as warriors and 
+leaders. In battle they guide their Deathwing brethren with skill and 
+pride, bringing death to the enemy.
+
+WARGEAR OPTIONS
+
+ ■   This model’s storm bolter and master-crafted power weapon can be replaced with either 1 twin 
+
+lightning claws, or two different weapons from the following list: 
+ ◦ 1 storm bolter
+ ◦ 1 chainfist
+ ◦ 1 mace of absolution
+ ◦ 1 power fist
+ ◦ 1 thunder hammer
+ ◦ 1 storm shield
+
+UNIT COMPOSITION
+
+ ■ 1 Deathwing Strikemaster
+This model is equipped with: storm bolter; master-crafted 
+power weapon.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Deathwing Command Squad
+ ■ Deathwing Squad
+ ■ Relic Terminator Squad
+ ■ Terminator Assault Squad
+ ■ Terminator Squad
+You can attach this model to one of the above units even if 
+one Captain model has already been attached to it. If you 
+do, and that Bodyguard unit is destroyed, the Leader units 
+attached to it become separate units, with their original 
+Starting Strengths.
+
+KEYWORDS:  Infantry, Character, Imperium, Terminator, Lieutenant, 
+
+Deathwing Strikemaster
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Dark Angels
+
+DEATHWING COMMAND SQUAD
+
+M
+
+5"
+
+T
+
+5
+
+SV
+
+2+
+
+W
+
+3
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Assault cannon [DEVASTATING WOUNDS]
+Cyclone missile launcher – frag [BLAST]
+Cyclone missile launcher – krak 
+Heavy flamer [IGNORES COVER, TORRENT]
+Plasma cannon – standard [BLAST]
+Plasma cannon – supercharge [BLAST, HAZARDOUS]
+Storm bolter [RAPID FIRE 2]
+
+MELEE WEAPONS
+Chainfist [ANTI-VEHICLE 3+]
+Halberd of Caliban [PRECISION]
+Power fist 
+Power weapon 
+Thunder hammer [DEVASTATING WOUNDS]
+Twin lightning claws [TWIN-LINKED]
+
+RANGE
+
+24"
+36"
+36"
+12"
+36"
+36"
+24"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+Melee
+Melee
+
+A
+6
+2D6
+2
+D6
+D3
+D3
+2
+
+A
+3
+5
+3
+4
+3
+5
+
+BS
+3+
+3+
+3+
+N/A
+3+
+3+
+3+
+
+WS
+4+
+3+
+3+
+3+
+4+
+3+
+
+S
+6
+4
+9
+5
+7
+8
+4
+
+S
+8
+6
+8
+5
+8
+5
+
+AP
+0
+0
+-2
+-1
+-2
+-3
+0
+
+AP
+-2
+-2
+-2
+-2
+-2
+-2
+
+D
+1
+1
+D6
+1
+1
+2
+1
+
+D
+2
+2
+2
+1
+2
+1
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Infantry, Imperium, Terminator, Deathwing Command Squad
+
+ABILITIES
+
+CORE: Deep Strike
+
+FACTION: Oath of Moment
+
+Narthecium: While this unit contains an Apothecary, in 
+your Command phase, you can return 1 destroyed model 
+(excluding Character models) to this unit.
+Astartes Banner: While this unit contains an Ancient, add 1 to 
+the Objective Control characteristic of its models.
+Honour or Death: While this unit contains a Company 
+Champion, add 1 to Advance and Charge rolls made for this 
+unit and you can target this unit with the Heroic Intervention 
+Stratagem for 0CP.
+
+WARGEAR ABILITIES
+
+Storm Shield: The bearer has a Wounds characteristic of 4. 
+
+INVULNERABLE SAVE
+
+4+
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Dark Angels
+
+DEATHWING COMMAND SQUAD
+On occasion a Deathwing squad will be formed into an honour guard 
+to accompany high-ranking members of the Inner Circle, such as 
+Librarians, Interrogator-Chaplains and even Company Masters. 
+Together, they will lead their brothers straight into the heart of battle, 
+where their skills are most needed.
+
+WARGEAR OPTIONS
+
+ ■  Any number of Deathwing Command Terminators can each have their storm bolter and power fist 
+
+replaced with one of the following:
+ ◦ 1 twin lightning claws
+ ◦ 1 thunder hammer and 1 storm shield
+
+ ■  Any number of Deathwing Command Terminators can each have their power fist replaced with 
+
+1 chainfist.
+
+ ■  For every 5 models in this unit, 1 Deathwing Command Terminator can replace its storm bolter with 
+
+one of the following:
+ ◦ 1 assault cannon
+ ◦ 1 heavy flamer
+ ◦ 1 plasma cannon
+ ◦ 1 storm bolter and 1 cyclone missile launcher (this model’s storm bolter cannot be replaced)
+
+ ■ This unit can be equipped with 1 Watcher in the Dark.*
+* The rules for a Watcher in the Dark can be found on the Deathwing Knights datasheet.
+
+UNIT COMPOSITION
+
+ ■ 1 Deathwing Ancient
+ ■ 1 Deathwing Apothecary
+ ■ 1 Deathwing Champion
+ ■ 2-7 Deathwing Command Terminators
+The Deathwing Ancient is equipped with: storm bolter; 
+power fist.
+The Deathwing Apothecary is equipped with: storm 
+bolter; chainfist.
+The Deathwing Champion is equipped with: halberd 
+of Caliban.
+Every Deathwing Command Terminator is equipped with: 
+storm bolter; power fist.
+
+ATTACHED UNIT
+
+If a Character unit from your army with the Leader ability 
+can be attached to a Terminator Squad, it can be attached to 
+this unit instead.
+
+KEYWORDS: Infantry, Imperium, Terminator, Deathwing Command Squad
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Dark Angels
+
+DEATHWING TERMINATOR SQUAD
+
+M
+
+5"
+
+T
+
+5
+
+SV
+
+2+
+
+W
+
+3
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Assault cannon [DEVASTATING WOUNDS]
+Cyclone missile launcher – frag [BLAST]
+Cyclone missile launcher – krak 
+Heavy flamer [IGNORES COVER, TORRENT]
+Plasma cannon – standard [BLAST]
+Plasma cannon – supercharge [BLAST, HAZARDOUS]
+Storm bolter [RAPID FIRE 2]
+
+MELEE WEAPONS
+Chainfist [ANTI-VEHICLE 3+]
+Power fist 
+Power weapon 
+Thunder hammer [DEVASTATING WOUNDS]
+Twin lightning claws [TWIN-LINKED]
+
+RANGE
+
+24"
+36"
+36"
+12"
+36"
+36"
+24"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+Melee
+
+A
+6
+2D6
+2
+D6
+D3
+D3
+2
+
+A
+3
+3
+4
+3
+5
+
+BS
+3+
+3+
+3+
+N/A
+3+
+3+
+3+
+
+WS
+4+
+3+
+3+
+4+
+3+
+
+S
+6
+4
+9
+5
+7
+8
+4
+
+S
+8
+8
+5
+8
+5
+
+AP
+0
+0
+-2
+-1
+-2
+-3
+0
+
+AP
+-2
+-2
+-2
+-2
+-2
+
+D
+1
+1
+D6
+1
+1
+2
+1
+
+D
+2
+2
+1
+2
+1
+
+ABILITIES
+
+CORE: Deep Strike
+
+FACTION: Oath of Moment
+
+Deathwing: Each time a model in this unit makes an attack, 
+you can ignore any or all modifiers to that attack’s Ballistic 
+Skill or Weapon Skill characteristics and/or to the Hit roll. 
+In addition, each time a model in this unit makes an attack 
+that targets the enemy unit you selected at the start of your 
+Command phase for the Oath of Moment ability, add 1 to the 
+Hit roll.
+
+WARGEAR ABILITIES
+
+Storm Shield: The bearer has a Wounds characteristic of 4. 
+
+INVULNERABLE SAVE
+
+4+
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Infantry, Imperium, Terminator, Deathwing Terminator Squad
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Dark Angels
+
+DEATHWING TERMINATOR SQUAD
+Deploying rapidly onto the battlefield via blazing teleport strike or 
+within the armoured hull of a large transport, Deathwing Terminator 
+Squads pour heavy fire into their enemies or engage them in brutal 
+melee, smashing them apart with thunder hammers or cutting them to 
+ribbons with lightning claws.
+
+WARGEAR OPTIONS
+
+ ■  Any number of Deathwing Terminators can each have their storm bolter and power fist replaced with 
+
+one of the following:
+ ◦ 1 twin lightning claws
+ ◦ 1 thunder hammer and 1 storm shield
+
+ ■  Any number of Deathwing Terminators can each have their power fist replaced with 1 chainfist.
+ ■  For every 5 models in this unit, 1 Deathwing Terminator can replace its storm bolter with one of 
+
+the following:
+ ◦ 1 assault cannon
+ ◦ 1 heavy flamer
+ ◦ 1 plasma cannon
+ ◦ 1 storm bolter and 1 cyclone missile launcher (this model’s storm bolter cannot be replaced)
+
+ ■ This unit can be equipped with 1 Watcher in the Dark.*
+* The rules for a Watcher in the Dark can be found on the Deathwing Knights datasheet.
+
+UNIT COMPOSITION
+
+ ■ 1 Deathwing Sergeant
+ ■ 4-9 Deathwing Terminators
+The Deathwing Sergeant is equipped with: storm bolter; 
+power weapon.
+Every Deathwing Terminator is equipped with: storm bolter; 
+power fist.
+
+ATTACHED UNIT
+
+If a Character unit from your army with the Leader ability 
+can be attached to a Terminator Squad, it can be attached to 
+this unit instead.
+
+KEYWORDS: Infantry, Imperium, Terminator, Deathwing Terminator Squad
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Dark Angels
+
+DEATHWING KNIGHTS
+
+M
+
+5"
+
+T
+
+5
+
+SV
+
+2+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+1
+
+MELEE WEAPONS
+Flail of the Unforgiven 
+[DEVASTATING WOUNDS, SUSTAINED HITS 1]
+Mace of absolution
+
+RANGE
+
+Melee
+
+Melee
+
+A
+
+5
+
+4
+
+WS
+
+2+
+
+2+
+
+S
+
+6
+
+6
+
+AP
+
+-2
+
+-1
+
+D
+
+2
+
+3
+
+ABILITIES
+
+CORE: Deep Strike
+
+FACTION: Oath of Moment
+
+Inner Circle: Each time an attack is allocated to a model in this 
+unit, subtract 1 from the Damage characteristic of that attack.
+
+WARGEAR ABILITIES
+
+Watcher in the Dark: Once per battle, at any time, this unit can 
+summon a Watcher in the Dark. When it does, until the end of 
+the phase, models in this unit have the Feel No Pain 4+ ability 
+against mortal wounds. 
+Designer’s Note: Place a Watcher in the Dark token next to the 
+unit, removing it when this ability has been used.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS: Infantry, Imperium, Terminator, Deathwing Knights
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Dark Angels
+
+DEATHWING KNIGHTS
+Deathwing Knights are the Chapter’s ultimate death-dealers, their 
+strikes breaking the enemy’s back in one fell swoop. Equipped with 
+heirloom wargear, they teleport into the heart of the thickest fighting, 
+led by Knight Masters who are whirlwinds of deathly destruction.
+
+WARGEAR OPTIONS
+
+ ■ This unit can be equipped with 1 Watcher in the Dark.
+
+UNIT COMPOSITION
+
+ ■ 1 Knight Master
+ ■ 4-9 Deathwing Knights
+The Knight Master is equipped with: flail of the Unforgiven.
+Every Deathwing Knight is equipped with: mace 
+of absolution.
+
+ATTACHED UNIT
+
+If a Character unit from your army with the Leader ability 
+can be attached to a Terminator Squad, it can be attached to 
+this unit instead.
+
+KEYWORDS: Infantry, Imperium, Terminator, Deathwing Knights
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Dark Angels
+
+RAVENWING COMMAND SQUAD
+
+M
+
+12"
+
+T
+
+5
+
+SV
+
+3+
+
+W
+
+3
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Astartes grenade launcher – frag [BLAST]
+Astartes grenade launcher – krak 
+Bolt pistol [PISTOL]
+Plasma talon – standard [RAPID FIRE 1]
+Plasma talon – supercharge 
+[HAZARDOUS, RAPID FIRE 1]
+
+MELEE WEAPONS
+Black Knight combat weapon 
+Master-crafted power weapon 
+
+RANGE
+
+24"
+24"
+12"
+18"
+
+18"
+
+RANGE
+Melee
+Melee
+
+A
+D3
+1
+1
+2
+
+2
+
+A
+3
+6
+
+BS
+3+
+3+
+3+
+3+
+
+3+
+
+WS
+3+
+2+
+
+S
+4
+9
+4
+7
+
+8
+
+S
+5
+5
+
+AP
+0
+-2
+0
+-2
+
+-3
+
+AP
+-2
+-2
+
+D
+1
+D3
+1
+1
+
+2
+
+D
+1
+2
+
+ABILITIES
+
+FACTION: Oath of Moment
+
+Narthecium: While this unit contains an Apothecary, in 
+your Command phase, you can return 1 destroyed model 
+(excluding Character models) to this unit.
+Astartes Banner: While this unit contains an Ancient, add 1 to 
+the Objective Control characteristic of its models.
+Honour or Death: While this unit contains a Company 
+Champion, add 1 to Advance and Charge rolls made for this 
+unit and you can target this unit with the Heroic Intervention 
+Stratagem for 0CP.
+
+INVULNERABLE SAVE
+
+5+
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Mounted, Grenades, Imperium, Ravenwing Command Squad
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Dark Angels
+
+RAVENWING COMMAND SQUAD
+Bike-mounted Command Squads of elite Ravenwing accompany 
+the Chapter’s swiftest commanders. From the battle-surgery of 
+Apothecaries and the inspirational pennants carried by Ancients to the 
+martial excellence of Champions, these specialists provide support for 
+the Company’s blisteringly fast missions.
+
+WARGEAR OPTIONS
+
+ ■  For every 3 models in this unit, 1 model’s plasma talon can be replaced with 1 Astartes 
+
+grenade launcher.
+
+UNIT COMPOSITION
+
+ ■ 1 Ravenwing Champion
+ ■ 1 Ravenwing Apothecary
+ ■ 1 Ravenwing Ancient
+ ■ 0-3 Ravenwing Knights
+The Ravenwing Champion is equipped with: bolt pistol; 
+plasma talon; master-crafted power weapon.
+The Ravenwing Apothecary is equipped with: bolt pistol; 
+plasma talon; Black Knight combat weapon.
+The Ravenwing Ancient is equipped with: bolt pistol; plasma 
+talon; Black Knight combat weapon.
+Every Ravenwing Knight is equipped with: bolt pistol; plasma 
+talon; Black Knight combat weapon.
+
+ATTACHED UNIT
+
+If a Character unit from your army with the Leader ability 
+can be attached to a Outrider Squad, it can be attached to 
+this unit instead.
+
+KEYWORDS: Mounted, Grenades, Imperium, Ravenwing Command Squad
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Dark Angels
+
+RAVENWING BLACK KNIGHTS
+
+M
+
+12"
+
+T
+
+5
+
+SV
+
+3+
+
+W
+
+3
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Astartes grenade launcher – frag [BLAST]
+Astartes grenade launcher – krak 
+Bolt pistol [PISTOL]
+Plasma talon – standard [RAPID FIRE 1]
+Plasma talon – supercharge 
+[HAZARDOUS, RAPID FIRE 1]
+
+MELEE WEAPONS
+Black Knight combat weapon 
+
+RANGE
+
+24"
+24"
+12"
+18"
+
+18"
+
+RANGE
+Melee
+
+A
+D3
+1
+1
+2
+
+2
+
+A
+3
+
+BS
+3+
+3+
+3+
+3+
+
+3+
+
+WS
+3+
+
+S
+4
+9
+4
+7
+
+8
+
+S
+5
+
+AP
+0
+-2
+0
+-2
+
+-3
+
+AP
+-2
+
+D
+1
+D3
+1
+1
+
+2
+
+D
+1
+
+ABILITIES
+
+FACTION: Oath of Moment
+
+Knights of Caliban: Each time this unit is selected to fight, if 
+it made a Charge move this turn, until the end of the phase, 
+melee weapons equipped by models in this unit have the 
+[ANTI-MONSTER 4+] and [ANTI-VEHICLE 4+] abilities.
+
+INVULNERABLE SAVE
+
+5+
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Mounted, Grenades, Imperium, Ravenwing Black Knights
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Dark Angels
+
+RAVENWING BLACK KNIGHTS
+The Ravenwing Black Knights are the 2nd Company’s greatest 
+warriors, elite fighters who style themselves after the monster-hunting 
+knights of old Caliban. They speed towards the foe, swinging their 
+corvus hammers with such force that the spiked end punctures even 
+the thickest armour.
+
+WARGEAR OPTIONS
+
+ ■  For every 3 models in this unit, 1 model can replace its plasma talon with 1 Astartes 
+
+grenade launcher.
+
+UNIT COMPOSITION
+
+ ■ 1 Ravenwing Huntmaster
+ ■ 2-5 Ravenwing Black Knights
+Every model is equipped with: bolt pistol; plasma talon; Black 
+Knight combat weapon.
+
+ATTACHED UNIT
+
+If a Character unit from your army with the Leader ability 
+can be attached to an Outrider Squad, it can be attached to 
+this unit instead.
+
+KEYWORDS: Mounted, Grenades, Imperium, Ravenwing Black Knights
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Dark Angels
+
+RAVENWING DARKSHROUD
+
+M
+
+14"
+
+T
+
+8
+
+SV
+
+3+
+
+W
+
+10
+
+LD
+
+6+
+
+OC
+
+3
+
+RANGED WEAPONS
+Assault cannon [DEVASTATING WOUNDS]
+Heavy bolter [SUSTAINED HITS 1]
+
+MELEE WEAPONS
+Close combat weapon
+
+RANGE
+
+24"
+36"
+
+RANGE
+Melee
+
+A
+6
+3
+
+A
+4
+
+BS
+3+
+3+
+
+WS
+3+
+
+S
+6
+5
+
+S
+4
+
+AP
+0
+-1
+
+AP
+0
+
+D
+1
+2
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Oath of Moment
+
+Icon of Old Caliban (Aura): While a friendly Adeptus Astartes 
+unit is within 6" of this model, models in that unit have the 
+Stealth ability and each time a ranged attack targets that unit, 
+that unit has the Benefit of Cover against that attack.
+
+INVULNERABLE SAVE
+
+5+
+
+KEYWORDS: Vehicle, Fly, Imperium, Ravenwing Darkshroud
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Dark Angels
+
+RAVENWING DARKSHROUD
+Borne upon each Darkshroud is a mysterious statue that survived 
+Caliban’s destruction and became imbued with the energies released 
+by that fateful event. Through the artifice of the Dark Angels, these 
+energies are amplified and used to obscure battle-brothers close to 
+the Darkshroud from enemy sight.
+
+WARGEAR OPTIONS
+
+ ■   This model’s heavy bolter can be replaced with 1 assault cannon.
+
+UNIT COMPOSITION
+
+ ■ 1 Ravenwing Darkshroud
+This model is equipped with: heavy bolter; close 
+combat weapon.
+
+KEYWORDS: Vehicle, Fly, Imperium, Ravenwing Darkshroud
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Dark Angels
+
+RAVENWING LAND SPEEDER VENGEANCE
+
+M
+
+14"
+
+T
+
+8
+
+SV
+
+3+
+
+W
+
+10
+
+LD
+
+6+
+
+OC
+
+3
+
+RANGED WEAPONS
+Assault cannon [DEVASTATING WOUNDS]
+Heavy bolter [SUSTAINED HITS 1]
+Plasma storm battery – standard 
+[BLAST, TWIN-LINKED]
+Plasma storm battery – supercharge 
+[BLAST, HAZARDOUS, TWIN-LINKED]
+
+MELEE WEAPONS
+Close combat weapon
+
+RANGE
+
+24"
+36"
+
+36"
+
+36"
+
+A
+6
+3
+
+D6+1
+
+BS
+3+
+3+
+
+3+
+
+D6+1
+
+3+
+
+RANGE
+Melee
+
+A
+4
+
+WS
+3+
+
+S
+6
+5
+
+8
+
+9
+
+S
+4
+
+AP
+0
+-1
+
+-2
+
+-3
+
+AP
+0
+
+D
+1
+2
+
+2
+
+3
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Oath of Moment
+
+Storm of Vengeance: Once per turn, in your opponent’s 
+Shooting phase, when a friendly Adeptus Astartes unit 
+within 6" of this model is destroyed, this model can use this 
+ability (it cannot use this ability when it is itself destroyed). 
+If it does, after the attacking unit has finished making its 
+attacks, this model can shoot as if it were your Shooting 
+phase, but when resolving those attacks it can only target that 
+enemy unit (and only if it is an eligible target).
+
+INVULNERABLE SAVE
+
+5+
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Vehicle, Fly, Imperium, Ravenwing Land Speeder Vengeance
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Dark Angels
+
+RAVENWING LAND SPEEDER VENGEANCE
+With a larger chassis and superior anti-gravity engines, the Land 
+Speeder Vengeance can mount heavier weaponry than other Land 
+Speeders, and is thus fitted with a plasma storm battery. In battle, 
+it uses this to deliver devastating firepower while keeping pace with 
+even the fastest Ravenwing ground vehicles.
+
+WARGEAR OPTIONS
+
+ ■ This model’s heavy bolter can be replaced with 1 assault cannon.
+
+UNIT COMPOSITION
+
+ ■ 1 Ravenwing Land Speeder Vengeance
+This model is equipped with: heavy bolter; plasma storm 
+battery; close combat weapon.
+
+KEYWORDS: Vehicle, Fly, Imperium, Ravenwing Land Speeder Vengeance
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Dark Angels
+
+RAVENWING DARK TALON
+
+M
+
+20+"
+
+T
+
+8
+
+SV
+
+3+
+
+W
+
+11
+
+LD
+
+6+
+
+OC
+
+0
+
+RANGED WEAPONS
+Hurricane bolter [RAPID FIRE 6, TWIN-LINKED]
+Rift cannon [BLAST, DEVASTATING WOUNDS]
+
+MELEE WEAPONS
+Armoured hull
+
+RANGE
+
+24"
+18"
+
+RANGE
+Melee
+
+A
+6
+
+D3+1
+
+A
+3
+
+BS
+3+
+3+
+
+WS
+4+
+
+S
+4
+16
+
+S
+6
+
+AP
+0
+-4
+
+AP
+0
+
+D
+1
+3
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3, Hover
+
+FACTION: Oath of Moment
+
+Stasis Bomb: Once per battle, after this model ends a Normal 
+move, you can select one enemy unit (excluding Aircraft) 
+it moved over this phase. That unit suffers D3 mortal wounds 
+and you must roll one D6: on a 1-3, that unit cannot Advance 
+or Fall Back in your opponent’s next Movement phase; on a 
+4-6, that unit must Remain Stationary in your opponent’s next 
+Movement phase.
+
+DAMAGED: 1-3 WOUNDS REMAINING
+
+While this model has 1-3 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE
+
+5+
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Vehicle, Aircraft, Fly, Imperium, Ravenwing Dark Talon
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Dark Angels
+
+RAVENWING DARK TALON
+The Dark Talon possesses strange armaments dating back to the 
+Dark Age of Technology, and is designed to snatch up the Ravenwing’s 
+prey. The rift cannon fires a multicoloured beam of oblivion, while 
+the gunship’s single stasis bomb is used to slow fleeing enemies so 
+troops can move in for the kill.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Ravenwing Dark Talon
+This model is equipped with: rift cannon; 2 hurricane bolters; 
+armoured hull.
+
+KEYWORDS: Vehicle, Aircraft, Fly, Imperium, Ravenwing Dark Talon
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Dark Angels
+
+NEPHILIM JETFIGHTER
+
+M
+
+20+"
+
+T
+
+8
+
+SV
+
+3+
+
+W
+
+11
+
+LD
+
+6+
+
+OC
+
+0
+
+RANGED WEAPONS
+Avenger mega bolter [SUSTAINED HITS 1]
+Blacksword missiles [ANTI-FLY 2+]
+Nephilim lascannons
+Twin heavy bolter [SUSTAINED HITS 1, TWIN-LINKED]
+
+MELEE WEAPONS
+Armoured hull
+
+RANGE
+
+36"
+36"
+48"
+36"
+
+RANGE
+Melee
+
+A
+10
+2
+2
+3
+
+A
+3
+
+BS
+3+
+3+
+3+
+3+
+
+WS
+4+
+
+S
+5
+8
+12
+5
+
+S
+6
+
+AP
+-1
+-2
+-3
+-1
+
+AP
+0
+
+D
+2
+D6
+D6+1
+
+2
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3, Hover
+
+FACTION: Oath of Moment
+
+Lightning-fast Manoeuvres: Each time a ranged attack 
+targets this model, subtract 1 from the Hit roll. If that attack 
+was made by a model that can Fly, subtract 1 from the Wound 
+roll as well.
+
+DAMAGED: 1-3 WOUNDS REMAINING
+
+While this model has 1-3 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE
+
+5+
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Vehicle, Aircraft, Fly, Imperium, Nephilim Jetfighter
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Dark Angels
+
+NEPHILIM JETFIGHTER
+Sleek air-to-air interceptors, Nephilim Jetfighters perform 
+lightning-fast manoeuvres in high-speed warfare. These pilots 
+continually push the Techmarines for enhancements and modification 
+to their craft to make them faster and deadlier – the results have 
+proven truly substantial.
+
+WARGEAR OPTIONS
+
+ ■ This model’s avenger mega bolter can be replaced with 1 Nephilim lascannons.
+
+UNIT COMPOSITION
+
+ ■ 1 Nephilim Jetfighter
+This model is equipped with: avenger mega bolter; 
+blacksword missiles; twin heavy bolter; armoured hull.
+
+KEYWORDS: Vehicle, Aircraft, Fly, Imperium, Nephilim Jetfighter
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Dark Angels
+
+LION EL’JONSON
+
+M
+
+8"
+
+T
+
+9
+
+SV
+
+2+
+
+W
+
+10
+
+LD
+
+5+
+
+OC
+
+4
+
+RANGED WEAPONS
+Arma Luminis – bolt [PISTOL]
+Arma Luminis – plasma [PISTOL]
+
+MELEE WEAPONS
+Fealty – strike [LETHAL HITS]
+Fealty – sweep [SUSTAINED HITS 1]
+
+RANGE
+
+12"
+12"
+
+RANGE
+Melee
+Melee
+
+A
+4
+2
+
+A
+8
+16
+
+BS
+2+
+2+
+
+WS
+2+
+2+
+
+S
+4
+8
+
+S
+12
+6
+
+AP
+-1
+-3
+
+AP
+-4
+-3
+
+D
+2
+2
+
+D
+4
+2
+
+ PRIMARCH OF THE FIRST LEGION
+All Secrets Revealed: Once per turn, when your opponent targets a unit from their army with a Stratagem 
+but before that Stratagem’s effects are resolved, if that unit is within 12" of this model, you gain 1CP 
+and that enemy unit must take a Battle-shock test. If that test is failed, in addition to that unit being 
+Battle-shocked, that Stratagem’s effects are not resolved (that Stratagem still counts as having been 
+used this phase). 
+
+Martial Exemplar (Aura): While a friendly Adeptus Astartes unit is within 6" of this model , each time a 
+model in that unit makes a melee attack, add 1 to the Hit roll.
+
+No Hiding From the Watchers (Aura): While a friendly Adeptus Astartes unit is within 6" of this model, 
+models in that unit have the Feel No Pain 4+ ability against mortal wounds.
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+ABILITIES
+
+CORE: Deep Strike, Fights First
+
+FACTION: Oath of Moment
+
+Primarch of the First Legion: In your Command phase, select 
+one Primarch of the First Legion abilities (see left). Until the 
+start of your next Command phase, this model has that ability.
+The Emperor’s Shield: Each time an attack targets this model, 
+subtract 1 from the Wound roll. In addition, each time a melee 
+attack is allocated to this model, on an unmodified saving 
+throw of 6, the attacking unit suffers 1 mortal wound after it 
+has finished making its attacks.
+Dark Angels Bodyguard: While this model is within 3" of one 
+or more friendly Adeptus Astartes Infantry units, this 
+model has the Lone Operative ability.
+
+INVULNERABLE SAVE
+
+3+
+
+KEYWORDS:  Monster, Character, Epic Hero, Imperium, Primarch, 
+
+Lion El’Jonson
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Dark Angels
+
+LION EL’JONSON
+Lion El’Jonson stalks from mist-wreathed shadow realms like an 
+ancient questing knight hunting down the galaxy’s terrors. With the 
+immense blade, Fealty, the Primarch cleaves apart the most heinous 
+of monstrosities, while the Emperor’s Shield erupts in blazes of light 
+and force in response to his foes’ savage blows.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Lion El’Jonson – Epic Hero
+This model is equipped with: Arma Luminis; Fealty.
+
+SUPREME COMMANDER
+
+If this model is in your army, it must be your Warlord.
+
+KEYWORDS:  Monster, Character, Epic Hero, Imperium, Primarch, 
+
+Lion El’Jonson
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Dark Angels
+
+

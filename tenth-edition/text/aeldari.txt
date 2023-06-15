@@ -1,0 +1,8747 @@
+AELDARI
+ARMY RULE
+
+The Aeldari live on the brink of extinction. As such, their Farseers have 
+become adept at reading future events, seeing the many strands of fate 
+ahead of their people and the consequences of following each one. Taken at 
+the right time, a simple action can avoid calamitous outcomes, aiding the 
+Aeldari in their continued struggle for survival.
+
+STRANDS OF FATE
+If your Army Faction is Aeldari, at the start of the 
+battle, make a Strands of Fate roll by rolling twelve D6. 
+
+If you wish, you can then re-roll all of these dice, but 
+if you do, roll one less D6. You can continue re-rolling 
+all of the dice in this manner, rolling one less D6 each 
+time you do, until you are satisfied with the results 
+rolled (or until you only have a single D6 remaining). 
+
+When you are satisfied with the results rolled, those 
+remaining dice become your Fate dice for the battle. 
+These results cannot be changed or re-rolled further, 
+unless a rule specifically states otherwise. Keep your 
+Fate dice to one side – this is your Fate dice pool.
+
+Before making a dice roll for a model or unit from your 
+army with the Strands of Fate ability, if you have one 
+or more dice in your Fate dice pool, you can use one 
+of those Fate dice. To do so, select one of those Fate 
+dice to substitute that dice roll. The dice that is being 
+substituted is not rolled; instead, the value of the 
+selected Fate dice is used as if it had been rolled (this 
+counts as an unmodified dice roll of that value for all 
+rules purposes). Each Fate dice can only be used in 
+this way once. After using a Fate dice, remove it from 
+your Fate dice pool and roll all remaining dice that are 
+part of that dice roll (if any). You can use Fate dice for 
+any of the following types of dice roll:
+
+ ■ Advance roll
+ ■ Battle-shock test
+ ■ Charge roll
+ ■ Damage roll
+ ■ Hit roll
+ ■ Saving throw
+ ■ Wound roll
+
+AELDARI – BATTLE HOST
+DETACHMENT RULE
+
+If your Army Faction is Aeldari, you can use this 
+Battle Host Detachment rule.
+
+UNPARALLELED FORESIGHT
+When the Aeldari take to the battlefield, any who 
+oppose them are left confounded by their grace, 
+elegance and martial skill. Where lesser beings would 
+falter, the Aeldari move with a surety of purpose that 
+can only be perceived as preordained. 
+
+Each time an Aeldari unit from your army is 
+selected to shoot or fight, you can re-roll one Hit roll 
+and you can re-roll one Wound roll when resolving 
+those attacks.
+
+CORSAIRS AND TRAVELLING PLAYERS
+The Dark City is frequented by ruthless 
+mercenaries and nomadic warriors from other 
+strands of the ancient race. Troupes of Harlequins 
+and piratical bands of Corsairs accompany 
+many Drukhari raids, free from constrictive paths 
+to pursue profits and fated agendas across 
+the galaxy.
+
+If your Army Faction is Drukhari, you can include 
+Harlequins and Anhrathe units in your army, 
+even though they do not have the Drukhari 
+Faction keyword. The combined points value of 
+Harlequins and/or Anhrathe units you can 
+include in your army depends on the battle size, 
+as follows:
+
+ ■ Incursion: Up to 250 pts
+ ■ Strike Force: Up to 500 pts
+ ■ Onslaught: Up to 750 pts
+
+No Harlequins or Anhrathe models included in 
+your army in this way can be your Warlord, and 
+they cannot be given Enhancements.
+
+YNNARI
+Yvraine is a divider as much as a unifier amongst 
+the Aeldari race, drawing both hatred and 
+admiration. To some once-allies she and her ideals 
+have become an immovable rift, yet between 
+some once-enemies her influence has sewn 
+bonds of fellowship once thought impossible.
+
+If your Army Faction is Aeldari and your Warlord 
+is Yvraine, you can include Drukhari units in 
+your army, even though they do not have the 
+Aeldari Faction keyword. The combined points 
+value of such units you can include in your army 
+depends on the battle size, as follows:
+
+ ■ Incursion: Up to 500 pts
+ ■ Strike Force: Up to 1000 pts
+ ■ Onslaught: Up to 1500 pts
+
+No Drukhari models included in your army in 
+this way can be given Enhancements. You cannot 
+include units with any of the following keywords 
+in your army using these rules: Phoenix Lords; 
+Anhrathe; Avatar of Khaine; Solitaire; 
+Haemonculus Covens.
+
+AELDARI – BATTLE HOST
+ENHANCEMENTS
+
+If you are using the Battle Host Detachment rule, you can use these Battle Host Enhancements.
+READER OF THE RUNES
+THE PHOENIX GEM
+Using their prescience to discern the enemy 
+At the height of the War in Heaven, Isha drew down 
+commander’s intentions, this psyker can react before 
+the heat of a hundred stars into a glittering gem to 
+save Asuryan. It is said that the Phoenix Gem is the 
+the foe’s plans even come into action.
+only surviving fragment of this ancient stone, and still 
+retains the power to return life to the fallen.
+
+Aeldari model only. The first time the bearer is 
+destroyed, roll one D6: on a 2+, keep it to one side. At 
+the end of the phase, set the bearer back up again, 
+as close as possible to its previous position and not 
+within Engagement Range of any enemy models, with 
+its full wounds remaining.
+THE WEEPING STONES
+Carved from psychoactive rubies, these runic stones 
+resemble the beads of blood that drip from the 
+hand of Khaine. In battle, these stones rearrange 
+themselves, revealing elements of the future.
+
+Aeldari model only. Each time the bearer’s unit 
+destroys an enemy unit, roll one D6 and add it to your 
+Fate dice pool displaying the result you just rolled.
+
+Aeldari Psyker model only. In your Command phase, 
+you can select one dice in your Fate dice pool, re-roll 
+it, then add it back to your Fate dice pool displaying 
+the result you just rolled.
+FATE’S MESSENGER
+The strands of fate coil and twist around this warrior, 
+the paths of destiny manipulated to keep them from 
+harm so that they might strike back at their foes.
+
+Aeldari model only. Once per turn, just after making 
+a Hit roll, a Wound roll or a saving throw for a model 
+in the bearer’s unit, you can treat the result as an 
+unmodified roll of 6 instead.
+
+AELDARI – BATTLE HOST
+STRATAGEMS
+
+If you are using the Battle Host Detachment rule, you can use these Battle Host Stratagems.
+
+1CP
+
+1CP
+
+FEIGNED RETREAT
+BATTLE HOST – STRATEGIC PLOY STRATAGEM
+
+The Aeldari are forever elusive, and their 
+actions are unpredictable and deceptive. 
+What appears to be a full retreat one 
+moment is revealed as the prelude to a 
+devastating attack the next.
+
+WHEN: Your Movement phase, just after 
+an Aeldari unit from your army makes a 
+Fall Back move. 
+TARGET: That Aeldari unit.
+EFFECT: Your unit is eligible to shoot and 
+declare a charge this turn even though it 
+Fell Back.
+
+MATCHLESS AGILITY
+BATTLE HOST – BATTLE TACTIC STRATAGEM
+
+Grace in battle and merciless efficiency 
+are prized virtues in craftworld armies. 
+Like the shimmering blades of Khaine, 
+the Asuryani carve through the ranks of 
+their enemies.
+
+WHEN: Your Movement phase.
+TARGET: One Aeldari unit from your 
+army that has not been selected to move 
+this phase.
+EFFECT: Until the end of the phase, if your 
+unit Advances, do not make an Advance 
+roll for it. Instead, until the end of the 
+phase, add 6" to the Move characteristic 
+of models in your unit.
+
+2CP
+
+1CP
+
+FIRE AND FADE
+BATTLE HOST – STRATEGIC PLOY STRATAGEM
+
+The Aeldari are masters of hit-and-run 
+tactics, engaging a target with a flurry of 
+shots before quickly manoeuvring into 
+cover or out of sight.
+
+WHEN: End of your Shooting phase.
+TARGET: One Aeldari unit from your army.
+EFFECT: Your unit can make a Normal 
+move. It cannot embark within a 
+Transport at the end of this move.
+RESTRICTIONS: You cannot select an 
+Aircraft unit or a unit within Engagement 
+Range of one or more enemy units, and 
+until the end of the turn, the unit you 
+selected is not eligible to declare a charge.
+
+BLADESTORM
+BATTLE HOST – STRATEGIC PLOY STRATAGEM
+
+The well-trained Aeldari are able to lay 
+down a hail of fire from their weapons, 
+their superior reflexes allowing them to 
+track even the most sudden movement 
+and place every shot perfectly.
+
+WHEN: Your Shooting phase.
+TARGET: One Aeldari unit from your 
+army that has not been selected to shoot 
+this phase.
+EFFECT: Until the end of the phase, each 
+time a model in your unit makes an 
+attack, on a Critical Wound, improve the 
+Armour Penetration characteristic of that 
+attack by 2.
+
+AELDARI – BATTLE HOST
+STRATAGEMS
+
+If you are using the Battle Host Detachment rule, you can use these Battle Host Stratagems.
+
+PHANTASM
+BATTLE HOST – STRATEGIC PLOY STRATAGEM
+
+1CP
+
+The Aeldari are masters of misdirection, 
+and they employ holo-emitters and psychic 
+phantasms to fool enemy scouts.
+
+1CP
+
+WHEN: End of your opponent’s 
+Movement phase.
+TARGET: One Aeldari unit from your army.
+EFFECT: Your unit can make a Normal 
+move of up to 7". It cannot embark within 
+a Transport at the end of this move.
+RESTRICTIONS: You cannot select a unit 
+within Engagement Range of one or more 
+enemy units, and until the end of the turn, 
+you cannot target that unit with the Heroic 
+Intervention Stratagem.
+
+LIGHTNING-FAST REACTIONS
+BATTLE HOST – BATTLE TACTIC STRATAGEM
+
+The Aeldari can process battlefield 
+events at baffling speed, making their 
+physical reactions so fast that they are 
+able to dodge attacks that would hit any 
+other target.
+
+WHEN: Your opponent’s Shooting phase or 
+the Fight phase, just after an enemy unit 
+has selected its targets.
+TARGET: One Aeldari unit from your army 
+(excluding Wraith Construct units) that 
+was selected as the target of one or more 
+of the attacking unit’s attacks.
+EFFECT: Until the end of the phase, each 
+time an attack targets your unit, subtract 
+1 from the Hit roll.
+
+ASURMEN
+
+M
+
+7"
+
+T
+
+3
+
+SV
+
+2+
+
+W
+
+5
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+The Bloody Twins [ASSAULT, LETHAL HITS, PISTOL]
+
+MELEE WEAPONS
+The Sword of Asur [DEVASTATING WOUNDS]
+
+RANGE
+
+24"
+
+RANGE
+Melee
+
+A
+6
+
+A
+6
+
+BS
+2+
+
+WS
+2+
+
+S
+4
+
+S
+6
+
+AP
+-1
+
+AP
+-3
+
+D
+2
+
+D
+3
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Strands of Fate
+
+Hand of Asuryan: While this model is leading a unit, each time 
+a model in that unit makes an attack, add 1 to the Hit roll.
+Tactical Acumen: Once per turn, you can target this model’s 
+unit with the Fire Overwatch Stratagem for 0CP, and can do so 
+even if you have already used that Stratagem on a different 
+unit this phase.
+
+INVULNERABLE SAVE
+
+3+
+
+KEYWORDS: Infantry, Character, Epic Hero, Phoenix Lord, Asurmen
+
+FACTION KEYWORDS:  
+Aeldari
+
+ASURMEN
+Asurmen’s skill at war is breathtaking, the magnitude of his heroic 
+presence so great that nearby Aspect Warriors are infused with his 
+peerless tactical acumen. In addition to the wrist-mounted shuriken 
+catapults known as the Bloody Twins, he carries the Sword of Asur, 
+whose hilt bears the spirit stone of Asurmen’s brother, Tethesis.
+
+WARGEAR OPTIONS
+
+ ■ None
+
+UNIT COMPOSITION
+
+ ■ 1 Asurmen – Epic Hero
+This model is equipped with: the Bloody Twins; the Sword 
+of Asur. 
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Dire Avengers
+
+KEYWORDS: Infantry, Character, Epic Hero, Phoenix Lord, Asurmen
+
+FACTION KEYWORDS:  
+Aeldari
+
+AUTARCH
+
+M
+
+7"
+
+T
+
+3
+
+SV
+
+3+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Death spinner [DEVASTATING WOUNDS, TORRENT]
+Dragon fusion gun [ASSAULT, MELTA 3]
+Fusion pistol [ASSAULT, MELTA 2, PISTOL]
+Reaper launcher – starshot [HEAVY]
+Reaper launcher – starswarm [HEAVY]
+Shuriken pistol [ASSAULT, PISTOL]
+
+MELEE WEAPONS
+Banshee blade 
+Scorpion chainsword [SUSTAINED HITS 1]
+Star glaive 
+
+RANGE
+
+12"
+12"
+6"
+48"
+48"
+12"
+
+RANGE
+Melee
+Melee
+Melee
+
+A
+D6
+1
+1
+1
+2
+1
+
+A
+5
+6
+5
+
+BS
+N/A
+2+
+2+
+3+
+3+
+2+
+
+WS
+2+
+2+
+3+
+
+S
+4
+9
+8
+8
+5
+4
+
+S
+4
+5
+6
+
+AP
+0
+-4
+-4
+-2
+-1
+-1
+
+AP
+-3
+0
+-2
+
+D
+1
+D6
+D3
+2
+2
+1
+
+D
+1
+1
+2
+
+Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Infantry, Character, Grenades, Autarch
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Strands of Fate
+
+Superlative Strategist: Once per turn, you can target this 
+model’s unit with a Stratagem even if you have already used 
+that Stratagem on a different unit this phase. 
+Path of Command: At the start of your Command phase, if this 
+model is your Warlord and is on the battlefield, you gain 1CP.
+
+WARGEAR ABILITIES
+
+Howling Banshee Mask: The bearer’s unit has the Fights 
+First ability.
+
+Mandiblasters: Melee weapons equipped by the bearer 
+have the [DEVASTATING WOUNDS] ability when targeting units 
+without the Monster or Vehicle keywords.
+
+INVULNERABLE SAVE
+
+4+
+
+FACTION KEYWORDS:  
+Aeldari
+
+AUTARCH
+Autarchs are legendary for their strategic brilliance, sublime martial 
+skill and indomitable strength of will. Long have they trodden the Path 
+of the Warrior, never once slipping into the trap of obsession. Instead, 
+they apply all that they have learned and mastered to their command 
+of the Asuryani warhosts.
+
+WARGEAR OPTIONS
+
+ ■   This model’s shuriken pistol can be replaced with one of the following: 
+
+ ◦ 1 death spinner
+ ◦ 1 Dragon fusion gun
+ ◦ 1 Reaper launcher
+
+ ■  This model’s star glaive can be replaced with 1 Scorpion chainsword.
+ ■  This model can be equipped with 1 Howling Banshee mask.
+ ■  If this model is not equipped with 1 Howling Banshee mask, this model’s shuriken pistol and star 
+
+glaive can be replaced with all of the following:
+ ◦ 1 fusion pistol 
+ ◦ 1 Banshee blade 
+ ◦ 1 mandiblasters 
+
+UNIT COMPOSITION
+
+ ■ 1 Autarch
+This model is equipped with: shuriken pistol; star glaive.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Guardian Defenders
+ ■ Storm Guardians
+
+KEYWORDS: Infantry, Character, Grenades, Autarch
+
+FACTION KEYWORDS:  
+Aeldari
+
+AUTARCH WAYLEAPER
+
+M
+
+14"
+
+T
+
+3
+
+SV
+
+3+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Death spinner [DEVASTATING WOUNDS, TORRENT]
+Dragon fusion gun [ASSAULT, MELTA 3]
+Fusion pistol [ASSAULT, MELTA 2, PISTOL]
+Reaper launcher – starshot [HEAVY]
+Reaper launcher – starswarm [HEAVY]
+Shuriken pistol [ASSAULT, PISTOL]
+
+MELEE WEAPONS
+Banshee blade 
+Scorpion chainsword [SUSTAINED HITS 1]
+Star glaive 
+
+RANGE
+
+12"
+12"
+6"
+48"
+48"
+12"
+
+RANGE
+Melee
+Melee
+Melee
+
+A
+D6
+1
+1
+1
+2
+1
+
+A
+5
+6
+5
+
+BS
+N/A
+2+
+2+
+3+
+3+
+2+
+
+WS
+2+
+2+
+3+
+
+S
+4
+9
+8
+8
+5
+4
+
+S
+4
+5
+6
+
+AP
+0
+-4
+-4
+-2
+-1
+-1
+
+AP
+-3
+0
+-2
+
+D
+1
+D6
+D3
+2
+2
+1
+
+D
+1
+1
+2
+
+Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Infantry, Character, Jump Pack, Fly, Grenades, 
+
+Autarch Wayleaper
+
+ABILITIES
+
+CORE: Deep Strike, Lone Operative
+
+FACTION: Strands of Fate
+
+Indomitable Strength of Will (Aura): While a friendly Aeldari 
+unit is within 6" of this model, each time that unit takes a 
+Battle-shock or Leadership test, add 1 to that test. 
+Path of Command: At the start of your Command phase, if this 
+model is your Warlord and is on the battlefield, you gain 1CP.
+
+WARGEAR ABILITIES
+
+Howling Banshee Mask: The bearer has the Fights 
+First ability.
+
+Mandiblasters: Melee weapons equipped by the bearer 
+have the [DEVASTATING WOUNDS] ability when targeting units 
+without the Monster or Vehicle keywords.
+
+INVULNERABLE SAVE
+
+4+
+
+FACTION KEYWORDS:  
+Aeldari
+
+AUTARCH WAYLEAPER
+With wargear such as a winged pack or warp jump generator, an 
+Autarch becomes an incredibly manoeuvrable war leader. So equipped, 
+they can appear wherever their war host needs them in the blink of an 
+eye, bringing graceful weaponry and consummate strategy to bear 
+before vanishing out of the foe’s reach.
+
+WARGEAR OPTIONS
+
+ ■   This model’s shuriken pistol can be replaced with one of the following: 
+
+ ◦ 1 death spinner
+ ◦ 1 Dragon fusion gun
+ ◦ 1 Reaper launcher
+
+ ■  This model’s star glaive can be replaced with 1 Scorpion chainsword.
+ ■  This model can be equipped with 1 Howling Banshee mask.
+ ■  If this model is not equipped with 1 Howling Banshee mask, this model’s shuriken pistol and star 
+
+glaive can be replaced with all of the following:
+ ◦ 1 fusion pistol 
+ ◦ 1 Banshee blade 
+ ◦ 1 mandiblasters 
+
+UNIT COMPOSITION
+
+ ■ 1 Autarch Wayleaper
+This model is equipped with: shuriken pistol; star glaive.
+
+KEYWORDS:  Infantry, Character, Jump Pack, Fly, Grenades, 
+
+Autarch Wayleaper
+
+FACTION KEYWORDS:  
+Aeldari
+
+AUTARCH SKYRUNNER
+
+M
+
+14"
+
+T
+
+4
+
+SV
+
+3+
+
+W
+
+5
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Dragon fusion gun [ASSAULT, MELTA 3]
+Laser lance [ASSAULT]
+Twin shuriken catapult [ASSAULT, TWIN-LINKED]
+
+MELEE WEAPONS
+Banshee blade 
+Laser lance [LANCE]
+
+RANGE
+
+12"
+6"
+18"
+
+RANGE
+Melee
+Melee
+
+A
+1
+1
+2
+
+A
+5
+4
+
+BS
+2+
+2+
+2+
+
+WS
+2+
+2+
+
+S
+9
+6
+4
+
+S
+4
+4
+
+AP
+-4
+-3
+-1
+
+AP
+-3
+-3
+
+D
+D6
+2
+1
+
+D
+1
+2
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Strands of Fate
+
+Path of Command: At the start of your Command phase, if this 
+model is your Warlord, you gain 1CP.
+Ride the Wind: While this model is leading a unit, each time 
+that unit Advances, do not make an Advance roll for it. Instead, 
+until the end of the phase, add 6" to the Move characteristic of 
+models in that unit.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS: Mounted, Character, Fly, Autarch, Autarch Skyrunner
+
+FACTION KEYWORDS:  
+Aeldari
+
+AUTARCH SKYRUNNER
+Autarchs are more than capable of leading their warhosts from the 
+front, plunging into the fray as Skyrunners astride jetbikes. When 
+visited by war-lust, they draw upon all the skills they have learnt from 
+the Aspect Shrines to spearhead assaults, duel enemy leaders and 
+destroy war machines.
+
+WARGEAR OPTIONS
+
+ ■   This model’s laser lance can be replaced with one of the following: 
+
+ ◦ 1 Dragon fusion gun
+ ◦ 1 Banshee blade
+
+UNIT COMPOSITION
+
+ ■ 1 Autarch Skyrunner
+This model is equipped with: laser lance; 
+twin shuriken catapult.
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Windriders
+
+KEYWORDS: Mounted, Character, Fly, Autarch, Autarch Skyrunner
+
+FACTION KEYWORDS:  
+Aeldari
+
+AVATAR OF KHAINE
+
+M
+
+T
+
+10" 12
+
+SV
+
+2+
+
+W
+
+14
+
+LD
+
+6+
+
+OC
+
+5
+
+RANGED WEAPONS
+The Wailing Doom [SUSTAINED HITS D3]
+
+MELEE WEAPONS
+The Wailing Doom – strike 
+The Wailing Doom – sweep 
+
+RANGE
+
+12"
+
+RANGE
+Melee
+Melee
+
+A
+1
+
+A
+6
+12
+
+BS
+2+
+
+WS
+2+
+2+
+
+S
+16
+
+S
+14
+7
+
+AP
+-4
+
+AP
+-4
+-2
+
+D
+D6+2
+
+D
+D6+2
+
+2
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Strands of Fate
+
+Molten Form: Each time an attack is allocated to this model, 
+halve the Damage characteristic of that attack.
+The Bloody-Handed (Aura): While a friendly Aeldari unit 
+is within 6" of this model, add 1 to Advance and Charge rolls 
+made for that unit.
+
+DAMAGED: 1-5 WOUNDS REMAINING
+
+While this model has 1-5 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE
+
+4+
+
+Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Monster, Character, Epic Hero, Daemon, Avatar of Khaine
+
+FACTION KEYWORDS:  
+Aeldari
+
+AVATAR OF KHAINE
+The Avatar of Khaine is an ancient war deity incarnate, whose mere 
+presence incites merciless rage in the Asuryani around him. In battle, 
+the Avatar marches through enemy fire without breaking stride, 
+laughing cruelly as his weapon – the Wailing Doom – tastes hot flesh 
+and spurting lifeblood with each swing and thrust.
+
+WARGEAR OPTIONS
+
+ ■ None
+
+UNIT COMPOSITION
+
+ ■ 1 Avatar of Khaine – Epic Hero
+This model is equipped with: the Wailing Doom
+
+KEYWORDS: Monster, Character, Epic Hero, Daemon, Avatar of Khaine
+
+FACTION KEYWORDS:  
+Aeldari
+
+BAHARROTH
+
+M
+
+14"
+
+T
+
+3
+
+SV
+
+2+
+
+W
+
+5
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Fury of the Tempest [ASSAULT, LETHAL HITS]
+
+MELEE WEAPONS
+The Shining Blade [SUSTAINED HITS 1]
+
+RANGE
+
+24"
+
+RANGE
+Melee
+
+A
+4
+
+A
+6
+
+BS
+2+
+
+WS
+2+
+
+S
+6
+
+S
+5
+
+AP
+-1
+
+AP
+-2
+
+D
+2
+
+D
+2
+
+ABILITIES
+
+CORE: Deep Strike, Leader
+
+FACTION: Strands of Fate
+
+Cry of the Wind: While this model is leading a unit, each time a 
+model in that unit makes an attack, add 1 to the Hit roll.
+Cloudstrider: In your Shooting phase, after this model’s unit 
+has shot, if it is not within Engagement Range of any enemy 
+units, that unit can make a Normal move of up to 6" as if it 
+were your Movement phase. If it does, until the end of the 
+turn, that unit is not eligible to declare a charge.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Infantry, Character, Epic Hero, Jump Pack, Fly, Grenades, 
+
+Phoenix Lord, Baharroth
+
+FACTION KEYWORDS:  
+Aeldari
+
+BAHARROTH
+Baharroth moves with the grace of a zephyr and attacks with the 
+force of a hurricane. He shines with a brilliance of his own making in 
+battle, diving into range, opening fire then peeling away to face his 
+next quarry. At close quarters he strikes with the resplendent Shining 
+Blade, lopping off heads with its elegantly curved edge.
+
+WARGEAR OPTIONS
+
+ ■ None
+
+UNIT COMPOSITION
+
+ ■ 1 Baharroth – Epic Hero
+This model is equipped with: Fury of the Tempest; 
+the Shining Blade.
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Swooping Hawks
+
+KEYWORDS:  Infantry, Character, Epic Hero, Jump Pack, Fly, Grenades, 
+
+Phoenix Lord, Baharroth
+
+FACTION KEYWORDS:  
+Aeldari
+
+CORSAIR VOIDREAVERS
+
+M
+
+7"
+
+T
+
+3
+
+SV
+
+4+
+
+W
+
+1
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Corsair blaster [ASSAULT]
+Corsair shredder [ASSAULT, TORRENT]
+Neuro disruptor [ANTI-INFANTRY 2+, ASSAULT, PISTOL]
+Shuriken cannon [SUSTAINED HITS 1]
+Shuriken pistol [ASSAULT, PISTOL]
+Shuriken rifle [ASSAULT, RAPID FIRE 1]
+Wraithcannon [DEVASTATING WOUNDS]
+
+MELEE WEAPONS
+Aeldari power sword 
+
+RANGE
+
+18"
+18"
+12"
+24"
+12"
+24"
+18"
+
+RANGE
+Melee
+
+A
+1
+D6
+1
+3
+1
+1
+1
+
+A
+2
+
+BS
+3+
+N/A
+3+
+3+
+3+
+3+
+3+
+
+WS
+3+
+
+S
+8
+6
+4
+6
+4
+4
+14
+
+S
+4
+
+AP
+-4
+0
+0
+-1
+-1
+-1
+-4
+
+AP
+-2
+
+D
+D6+1
+
+ABILITIES
+
+CORE: Scouts 7"
+
+Reavers of the Void: Each time a model in this unit makes 
+an attack, re-roll a Hit roll of 1. If the target of that attack is 
+an enemy unit within range of an objective marker, you can 
+re-roll the Hit roll instead.
+
+WARGEAR ABILITIES
+
+Mistshield: The bearer has a 4+ invulnerable save. 
+
+1
+1
+2
+1
+1
+D6
+
+D
+1
+
+KEYWORDS: Infantry, Battleline, Grenades, Anhrathe, Corsair Voidreavers
+
+FACTION KEYWORDS:  
+Aeldari
+
+CORSAIR VOIDREAVERS
+The skilled and agile warriors known as Voidreavers make up the bulk 
+of most Corsair warbands. With precise volleys of lethal shuriken fire 
+they can tear through enemy infantry, or draw their power swords and 
+storm hostile positions to engage in furious hand-to-hand fighting.
+
+WARGEAR OPTIONS
+
+ ■  The Voidreaver Felarch’s shuriken pistol can be replaced with one of the following: 
+
+ ◦ 1 neuro disruptor 
+ ◦ 1 shuriken rifle
+
+ ■ The Voidreaver Felarch can be equipped with:
+
+ ◦  1 mistshield
+
+ ■  All of the Corsair Voidreavers in this unit can each have their shuriken pistol and Aeldari power sword 
+
+replaced with 1 shuriken rifle.
+
+ ■  For every 5 models in this unit, 1 Corsair Voidreaver’s Aeldari power sword or shuriken rifle can be 
+
+replaced with one of the following: 
+ ◦ 1 Corsair blaster
+ ◦ 1 Corsair shredder
+
+ ■  If this unit contains 10 models, 1 Corsair Voidreaver’s shuriken rifle can be replaced with one of 
+
+the following: 
+ ◦ 1 shuriken cannon
+ ◦ 1 wraithcannon
+
+UNIT COMPOSITION
+
+ ■ 1 Voidreaver Felarch
+ ■ 4-9 Corsair Voidreavers
+Every model is equipped with: shuriken pistol; Aeldari power 
+sword
+
+KEYWORDS: Infantry, Battleline, Grenades, Anhrathe, Corsair Voidreavers
+
+FACTION KEYWORDS:  
+Aeldari
+
+CORSAIR VOIDSCARRED
+
+M
+
+7"
+
+T
+
+3
+
+SV
+
+4+
+
+W
+
+1
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Corsair blaster [ASSAULT]
+Corsair shredder [ASSAULT, TORRENT]
+Executioner [ANTI-INFANTRY 2+, PSYCHIC]
+Fusion pistol [ASSAULT, MELTA 2, PISTOL]
+Neuro disruptor [ANTI-INFANTRY 2+, ASSAULT, PISTOL]
+Ranger long rifle [HEAVY, PRECISION]
+Shuriken cannon [SUSTAINED HITS 1]
+Shuriken pistol [ASSAULT, PISTOL]
+Shuriken rifle [ASSAULT, RAPID FIRE 1]
+Wraithcannon [DEVASTATING WOUNDS]
+
+MELEE WEAPONS
+Aeldari power sword 
+Paired Hekatarii blades [TWIN-LINKED]
+Witch staff [ANTI-INFANTRY 2+, PSYCHIC]
+
+RANGE
+
+18"
+18"
+18"
+6"
+12"
+36"
+24"
+12"
+24"
+18"
+
+RANGE
+Melee
+Melee
+Melee
+
+A
+1
+D6
+3
+1
+1
+1
+3
+1
+1
+1
+
+A
+3
+4
+2
+
+BS
+3+
+N/A
+3+
+3+
+3+
+3+
+3+
+3+
+3+
+3+
+
+WS
+3+
+2+
+2+
+
+S
+8
+6
+6
+8
+4
+4
+6
+4
+4
+14
+
+S
+4
+3
+3
+
+AP
+-4
+0
+-2
+-4
+0
+-1
+-1
+-1
+-1
+-4
+
+AP
+-2
+-2
+0
+
+D
+D6+1
+
+ABILITIES
+
+CORE: Scouts 7"
+
+Piratical Raiders: At the start of the battle, select one unit 
+from your opponent’s army. Each time a model in this unit 
+makes an attack that targets that unit, that attack has the 
+[LETHAL HITS] and [PRECISION] abilities.
+
+WARGEAR ABILITIES
+
+Channeller Stones: Once per turn, the first time a saving 
+throw is failed for the bearer’s unit, change the Damage 
+characteristic of that attack to 0.
+
+Faolchú: Ranged weapons equipped by models in the 
+bearer’s unit have the [IGNORES COVER] ability.
+
+Mistshield: The bearer has a 4+ invulnerable save.
+
+1
+D3
+D6
+1
+2
+2
+1
+1
+D6
+
+D
+1
+1
+D3
+
+KEYWORDS  – ALL MODELS: Infantry, Grenades, Anhrathe, Corsair Voidscarred 
+
+| WAY SEEKER: Psyker
+
+FACTION KEYWORDS:  
+Aeldari
+
+CORSAIR VOIDSCARRED
+The Voidscarred are hardened veterans of a life of piracy. These 
+Corsairs have travelled the stars for centuries, and have seen the 
+worst and the best the galaxy has to offer. Many have developed 
+unique skills and fighting styles over the years, and carry specialist 
+wargear into battle.
+
+WARGEAR OPTIONS
+
+ ■  Any number of Corsair Voidscarred can each 
+have their shuriken pistol and Aeldari power 
+sword replaced with 1 shuriken rifle.
+
+ ■  The Voidscarred Felarch’s shuriken pistol can be 
+
+replaced with one of the following: 
+ ◦ 1 neuro disruptor
+ ◦ 1 shuriken rifle
+
+ ■  The Voidscarred Felarch can be equipped with 
+
+1 mistshield.
+
+ ■  For every 5 models in this unit, 1 Corsair 
+
+Voidscarred’s shuriken rifle can be replaced with 
+one of the following: 
+ ◦ 1 Corsair blaster
+ ◦ 1 Corsair shredder
+
+ ■  If this unit contains 10 models, 1 Corsair 
+
+Voidscarred’s shuriken rifle can be replaced with 
+one of the following: 
+ ◦ 1 shuriken cannon
+ ◦ 1 wraithcannon
+
+ ■  If this unit contains 10 models, 1 Corsair 
+
+Voidscarred’s shuriken rifle can be replaced with 
+1 Ranger long rifle.
+
+ ■  If this unit contains 10 models, 1 Corsair 
+Voidscarred’s Aeldari power sword can be 
+replaced with 1 fusion pistol.
+
+ ■  1 Corsair Voidscarred model equipped with a 
+
+shuriken pistol and Aeldari power sword can be 
+equipped with 1 Faolchú.  
+
+UNIT COMPOSITION
+
+This unit can contain a maximum of 10 models.
+ ■ 1 Voidscarred Felarch
+ ■ 4-9 Corsair Voidscarred
+ ■ 0-1 Shade Runner
+ ■ 0-1 Soul Weaver
+ ■ 0-1 Way Seeker
+Every Corsair Voidscarred and Voidscarred Felarch is 
+equipped with: shuriken pistol; Aeldari power sword.
+A Shade Runner is equipped with: shuriken pistol; paired 
+Hekatarii blades.
+A Soul Weaver is equipped with: shuriken pistol; Aeldari power 
+sword; channeller stones.
+A Way Seeker is equipped with: shuriken pistol; Executioner; 
+witch staff.
+
+KEYWORDS  – ALL MODELS: Infantry, Grenades, Anhrathe, Corsair Voidscarred 
+
+| WAY SEEKER: Psyker
+
+FACTION KEYWORDS:  
+Aeldari
+
+CRIMSON HUNTER
+
+M
+
+20+"
+
+T
+
+8
+
+SV
+
+3+
+
+W
+
+12
+
+LD
+
+6+
+
+OC
+
+0
+
+RANGED WEAPONS
+Bright lance 
+Pulse laser 
+Starcannon 
+
+MELEE WEAPONS
+Wraithbone hull 
+
+RANGE
+
+36"
+48"
+36"
+
+RANGE
+Melee
+
+A
+1
+3
+2
+
+A
+3
+
+BS
+3+
+3+
+3+
+
+WS
+4+
+
+S
+12
+9
+8
+
+S
+6
+
+AP
+-3
+-2
+-3
+
+AP
+0
+
+D
+D6+2
+D6
+2
+
+D
+1
+
+ABILITIES
+
+FACTION: Strands of Fate
+
+Skyhunter: Each time this model makes a ranged attack that 
+targets a unit that can Fly, add 1 to the Hit roll and add 1 to 
+the Wound roll.
+
+DAMAGED: 1-4 WOUNDS REMAINING
+
+While this model has 1-4 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE
+
+5+
+
+KEYWORDS: Vehicle, Fly, Aircraft, Crimson Hunter
+
+FACTION KEYWORDS:  
+Aeldari
+
+CRIMSON HUNTER
+Crimson Hunters are the sublime pilots of formidable airborne fighters 
+with armaments dedicated to aerial interdiction. With superhuman 
+reflexes they hunt down and destroy enemy aircraft with sickening 
+ease, their skills honed by nightly training sorties with those of their 
+Aspect Shrine.
+
+WARGEAR OPTIONS
+
+ ■   This model’s 2 starcannons can be replaced with 2 bright lances.
+
+UNIT COMPOSITION
+
+ ■ 1 Crimson Hunter
+This model is equipped with: 2 starcannons; pulse laser; 
+wraithbone hull.
+
+KEYWORDS: Vehicle, Fly, Aircraft, Crimson Hunter
+
+FACTION KEYWORDS:  
+Aeldari
+
+DARK REAPERS
+
+M
+
+6"
+
+6"
+
+T
+
+3
+
+3
+
+SV
+
+3+
+
+3+
+
+W
+
+1
+
+2
+
+LD
+
+6+
+
+6+
+
+OC
+
+1
+
+1
+
+DARK REAPER
+
+DARK REAPER EXARCH
+
+RANGED WEAPONS
+Aeldari missile launcher – starshot [IGNORES COVER]
+Aeldari missile launcher – sunburst 
+[BLAST, IGNORES COVER]
+Reaper launcher – starshot [IGNORES COVER]
+Reaper launcher – starswarm [IGNORES COVER]
+Shuriken cannon [IGNORES COVER, SUSTAINED HITS 1]
+Tempest launcher [BLAST, INDIRECT FIRE]
+
+MELEE WEAPONS
+Close combat weapon 
+
+RANGE
+
+48"
+
+48"
+
+48"
+48"
+24"
+36"
+
+RANGE
+Melee
+
+A
+1
+
+D6
+
+1
+2
+3
+2D6
+
+A
+2
+
+BS
+3+
+
+3+
+
+3+
+3+
+3+
+3+
+
+WS
+3+
+
+S
+10
+
+4
+
+8
+5
+6
+4
+
+S
+3
+
+AP
+-2
+
+-1
+
+-2
+-1
+-1
+-1
+
+AP
+0
+
+D
+D6
+
+1
+
+2
+1
+2
+1
+
+D
+1
+
+ABILITIES
+
+FACTION: Strands of Fate
+
+Inescapable Accuracy: Each time a model in this unit makes 
+a ranged attack, you can ignore any or all modifiers to that 
+attack’s Ballistic Skill characteristic and to the Hit roll.
+
+INVULNERABLE SAVE
+
+5+
+
+Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Infantry, Dark Reapers
+
+FACTION KEYWORDS:  
+Aeldari
+
+DARK REAPERS
+Dark Reapers unleash firestorms with their long-ranged Reaper 
+launchers, whether using infantry-shredding starswarm missiles 
+or armour-piercing starshot variants. These salvoes are chillingly 
+accurate, thanks to advanced targeting systems but also the Reapers’ 
+armour, which anchors them firmly to the ground while they fire.
+
+WARGEAR OPTIONS
+
+ ■  The Dark Reaper Exarch’s Reaper launcher can be replaced with 1 of the following: 
+
+ ◦ 1 Aeldari missile launcher
+ ◦ 1 shuriken cannon
+ ◦ 1 tempest launcher
+
+UNIT COMPOSITION
+
+ ■ 1 Dark Reaper Exarch
+ ■ 4-9 Dark Reapers
+Every model is equipped with: Reaper launcher.
+
+KEYWORDS: Infantry, Dark Reapers
+
+FACTION KEYWORDS:  
+Aeldari
+
+DEATH JESTER
+
+M
+
+8"
+
+T
+
+3
+
+SV
+
+6+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Shrieker cannon [DEVASTATING WOUNDS]
+
+MELEE WEAPONS
+Jester’s blade 
+
+RANGE
+
+24"
+
+RANGE
+Melee
+
+A
+3
+
+A
+4
+
+BS
+2+
+
+WS
+2+
+
+S
+6
+
+S
+4
+
+AP
+-1
+
+AP
+0
+
+D
+2
+
+D
+1
+
+ABILITIES
+
+CORE: Lone Operative
+
+FACTION: Strands of Fate
+
+Death is Not Enough: In your Shooting phase, after this model 
+has shot, if one or more of those attacks destroyed an enemy 
+model, that enemy model’s unit must take a Battle-shock test.
+Cruel Amusement: In your Shooting phase, one model from 
+your army with this ability can use it. If they do, until the end 
+of the phase, select one of the following abilities to apply to 
+that model’s shrieker cannon:
+ ■ [IGNORES COVER]
+ ■ [PRECISION]
+ ■ [SUSTAINED HITS 3]
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS: Infantry, Character, Harlequins, Death Jester
+
+FACTION KEYWORDS:  
+Aeldari
+
+DEATH JESTER
+The arrival of a Death Jester upon the battlefield is announced by a 
+hissing storm of shrieker cannon fire. Enemy infantry are torn apart in 
+sprays of blood and scalded flesh as the weapon’s gene-toxins cause 
+them to combust horrifically from within. Adding insult to injury, the 
+Death Jester ensures every demise is as cruelly ironic as possible.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Death Jester
+This model is equipped with: shrieker cannon; Jester’s blade.
+
+KEYWORDS: Infantry, Character, Harlequins, Death Jester
+
+FACTION KEYWORDS:  
+Aeldari
+
+DIRE AVENGERS
+
+M
+
+7"
+
+7"
+
+T
+
+3
+
+3
+
+SV
+
+4+
+
+4+
+
+W
+
+1
+
+2
+
+LD
+
+6+
+
+6+
+
+OC
+
+1
+
+DIRE AVENGER
+
+1 DIRE AVENGER EXARCH
+
+RANGED WEAPONS
+Avenger shuriken catapult [ASSAULT, LETHAL HITS]
+Shuriken pistol [ASSAULT, PISTOL]
+
+MELEE WEAPONS
+Close combat weapon 
+Diresword [DEVASTATING WOUNDS]
+Power glaive 
+
+RANGE
+
+18"
+12"
+
+RANGE
+Melee
+Melee
+Melee
+
+A
+3
+1
+
+A
+2
+3
+3
+
+BS
+3+
+3+
+
+WS
+3+
+3+
+3+
+
+S
+4
+4
+
+S
+3
+4
+5
+
+AP
+-1
+-1
+
+AP
+0
+-2
+-2
+
+D
+1
+1
+
+D
+1
+1
+1
+
+ABILITIES
+
+FACTION: Strands of Fate
+
+Defence Tactics: Each time you target this unit with the Fire 
+Overwatch Stratagem, while resolving that Stratagem, hits are 
+scored on unmodified Hit rolls of 5+, or unmodified Hit rolls of 
+4+ instead if this unit is within range of an objective marker 
+you control. 
+
+WARGEAR ABILITIES
+
+Shimmershield: The bearer has a 4+ invulnerable save.
+
+INVULNERABLE SAVE
+
+5+
+
+KEYWORDS: Infantry, Grenades, Dire Avengers
+
+FACTION KEYWORDS:  
+Aeldari
+
+DIRE AVENGERS
+Furious in attack and immovable in defence, Dire Avengers wield 
+Avenger catapults that unleash punishing bursts of monomolecular 
+shurikens. Drawing on their faultless battle instincts, they always 
+know when to launch lightning-fast assaults and when to fall back and 
+draw the enemy into a kill zone.
+
+WARGEAR OPTIONS
+
+ ■  The Dire Avenger Exarch’s Avenger shuriken catapult can be replaced with 1 shuriken pistol and one 
+
+of the following: 
+ ◦ 1 diresword 
+ ◦ 1 power glaive
+
+ ■  If this unit’s Dire Avenger Exarch is equipped with 1 Avenger shuriken catapult, it can be equipped 
+
+with 1 additional Avenger shuriken catapult.
+
+ ■  The Dire Avenger Exarch’s shuriken pistol can be replaced with:
+
+ ◦  1 shimmershield
+
+UNIT COMPOSITION
+
+ ■ 1 Dire Avenger Exarch
+ ■ 4-9 Dire Avengers
+Every model is equipped with: Avenger shuriken catapult.
+
+KEYWORDS: Infantry, Grenades, Dire Avengers
+
+FACTION KEYWORDS:  
+Aeldari
+
+ELDRAD ULTHRAN
+
+M
+
+7"
+
+T
+
+4
+
+SV
+
+6+
+
+W
+
+5
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Shuriken pistol [ASSAULT, PISTOL]
+Mind War [ANTI-CHARACTER 4+, PRECISION, PSYCHIC]
+
+MELEE WEAPONS
+The Staff of Ulthamar and witchblade 
+[ANTI-INFANTRY 2+, PSYCHIC]
+
+RANGE
+
+12"
+18"
+
+RANGE
+
+Melee
+
+A
+1
+1
+
+A
+
+3
+
+BS
+2+
+2+
+
+WS
+
+2+
+
+S
+4
+5
+
+S
+
+5
+
+AP
+-1
+-2
+
+AP
+
+-1
+
+D
+1
+D6
+
+D
+
+2
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Strands of Fate
+
+Diviner of Futures: At the start of the battle, when making 
+your first Strands of Fate roll, roll an additional three D6 (this 
+means that roll will consist of fifteen D6).
+Doom (Psychic): At the start of your Shooting phase, you can 
+select one enemy unit within 18" of and visible to this Psyker 
+and roll one D6: on a 2+, until the end of the turn, each time 
+a friendly Aeldari model makes an attack that targets that 
+enemy unit, add 1 to the Wound roll.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS: Infantry, Character, Epic Hero, Psyker, Farseer, Eldrad Ulthran
+
+FACTION KEYWORDS:  
+Aeldari
+
+ELDRAD ULTHRAN
+One of the most powerful Aeldari psykers ever to have lived, when 
+Eldrad Ulthran takes to the field his enemies’ plans are already known 
+to him. Such is Eldrad’s psychic might that he can break Titans and 
+banish the mightiest of daemons, and over the millennia he has slain 
+kings and champions beyond number.
+
+WARGEAR OPTIONS
+
+ ■   None 
+
+UNIT COMPOSITION
+
+ ■ 1 Eldrad Ulthran – Epic Hero
+This model is equipped with: shuriken pistol; Mind War; the 
+Staff of Ulthamar and witchblade.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Guardian Defenders
+ ■ Storm Guardians
+ ■ Warlock Conclave
+
+KEYWORDS: Infantry, Character, Epic Hero, Psyker, Farseer, Eldrad Ulthran
+
+FACTION KEYWORDS:  
+Aeldari
+
+FALCON
+
+M
+
+14"
+
+T
+
+9
+
+SV
+
+3+
+
+W
+
+12
+
+LD
+
+6+
+
+OC
+
+3
+
+RANGED WEAPONS
+Aeldari missile launcher – starshot 
+Aeldari missile launcher – sunburst [BLAST]
+Bright lance 
+Pulse laser 
+Scatter laser 
+Shuriken cannon [SUSTAINED HITS 1]
+Starcannon 
+Twin shuriken catapult [ASSAULT, TWIN-LINKED]
+
+MELEE WEAPONS
+Wraithbone hull 
+
+RANGE
+
+48"
+48"
+36"
+48"
+36"
+24"
+36"
+18"
+
+RANGE
+Melee
+
+A
+1
+D6
+1
+3
+6
+3
+2
+2
+
+A
+3
+
+BS
+3+
+3+
+3+
+3+
+3+
+3+
+3+
+3+
+
+WS
+4+
+
+S
+10
+4
+12
+9
+5
+6
+8
+4
+
+S
+6
+
+AP
+-2
+-1
+-3
+-2
+0
+-1
+-3
+-1
+
+AP
+0
+
+D
+D6
+1
+
+D6+2
+D6
+1
+2
+2
+1
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3, Deep Strike
+
+FACTION: Strands of Fate
+
+Fire Support: In your Shooting phase, after this model has 
+shot, select one enemy unit hit by one or more of those 
+attacks. Until the end of the turn, each time a friendly model 
+that disembarked from this Transport this turn makes 
+an attack that targets that enemy unit, you can re-roll the 
+Wound roll.
+
+DAMAGED: 1-4 WOUNDS REMAINING
+
+While this model has 1-4 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Vehicle, Transport, Fly, Falcon
+
+FACTION KEYWORDS:  
+Aeldari
+
+FALCON
+The primary battle tanks of the Asuryani, Falcons mount a diverse 
+array of potent weapons that make them the bane of war machines 
+and foot troops alike. They also boast a transport pod, in which small 
+squads of warriors can be borne to wherever on the battlefield their 
+martial prowess is most needed.
+
+WARGEAR OPTIONS
+
+ ■ This model’s scatter laser can be replaced with one of the following: 
+
+ ◦ 1 Aeldari missile launcher
+ ◦ 1 bright lance
+ ◦ 1 shuriken cannon
+ ◦ 1 starcannon
+
+ ■  This model’s twin shuriken catapult can be replaced with 1 shuriken cannon.
+
+UNIT COMPOSITION
+
+ ■ 1 Falcon
+This model is equipped with: pulse laser; scatter laser; twin 
+shuriken catapult; wraithbone hull.
+
+TRANSPORT
+
+This model has a transport capacity of 6 Aeldari Infantry 
+models. Each Wraith Construct model takes the space of 2 
+models. It cannot transport Jump Pack models.
+
+KEYWORDS: Vehicle, Transport, Fly, Falcon
+
+FACTION KEYWORDS:  
+Aeldari
+
+FARSEER
+
+M
+
+7"
+
+T
+
+3
+
+SV
+
+6+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Eldritch Storm [BLAST, PSYCHIC]
+Shuriken pistol [ASSAULT, PISTOL]
+Singing spear [ASSAULT, PSYCHIC]
+
+MELEE WEAPONS
+Singing spear [PSYCHIC]
+Witchblade [ANTI-INFANTRY 2+, PSYCHIC]
+
+RANGE
+
+24"
+12"
+12"
+
+RANGE
+Melee
+Melee
+
+A
+D6
+1
+1
+
+A
+2
+2
+
+BS
+3+
+2+
+2+
+
+WS
+2+
+2+
+
+S
+6
+4
+9
+
+S
+3
+3
+
+AP
+-2
+-1
+0
+
+AP
+0
+0
+
+D
+D3
+1
+3
+
+D
+3
+2
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Strands of Fate
+
+Branching Fates (Psychic): Once per turn, when you use a 
+Fate dice to substitute a roll made for a model or unit within 
+12" of a Farseer model from your army, one model from your 
+army with this ability can use it. If it does, the result of that 
+Fate dice is first changed to a 6. 
+Fortune (Psychic): In your Command phase, you can roll 
+one D6: on a 2+, select one friendly Aeldari unit within 12" 
+of this Psyker. Until the start of your next Command phase, 
+each time an attack targets that unit, subtract 1 from the 
+Wound roll.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS: Character, Infantry, Psyker, Farseer
+
+FACTION KEYWORDS:  
+Aeldari
+
+FARSEER
+The Asuryani look to their Farseers for leadership in battle. These 
+psykers can uncover the foe’s intentions and calculate the effects of 
+attacks. Their minds are their true weapons; with a thought, they can 
+obliterate the memories of enemy commanders, hurl battle tanks into 
+the air or summon terrifying storms of coruscating eldritch energy.
+
+WARGEAR OPTIONS
+
+ ■ This model’s witchblade can be replaced with 1 singing spear.  
+
+UNIT COMPOSITION
+
+ ■ 1 Farseer
+This model is equipped with: shuriken pistol; Eldritch 
+Storm; witchblade.
+
+LEADER
+
+ This model can be attached to the following units:
+ ■ Guardian Defenders
+ ■ Storm Guardians
+ ■ Warlock Conclave
+
+KEYWORDS: Character, Infantry, Psyker, Farseer
+
+FACTION KEYWORDS:  
+Aeldari
+
+FARSEER SKYRUNNER
+
+M
+
+14"
+
+T
+
+4
+
+SV
+
+3+
+
+W
+
+5
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Eldritch Storm [BLAST, PSYCHIC]
+Shuriken pistol [ASSAULT, PISTOL]
+Singing spear [ASSAULT, PSYCHIC]
+Twin shuriken catapult [ASSAULT, TWIN-LINKED]
+
+MELEE WEAPONS
+Singing spear [PSYCHIC]
+Witchblade [ANTI-INFANTRY 2+, PSYCHIC]
+
+RANGE
+
+24"
+12"
+12"
+18"
+
+RANGE
+Melee
+Melee
+
+A
+D6
+1
+1
+2
+
+A
+2
+2
+
+BS
+3+
+3+
+3+
+3+
+
+WS
+2+
+2+
+
+S
+6
+4
+9
+4
+
+S
+3
+3
+
+AP
+-2
+-1
+0
+-1
+
+AP
+0
+0
+
+D
+D3
+1
+3
+1
+
+D
+3
+2
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Strands of Fate
+
+Branching Fates (Psychic): Once per turn, when you use a 
+Fate dice to substitute a roll made for a model or unit within 
+12” of a Farseer model from your army, one model from your 
+army with this ability can use it. If it does, the result of that 
+Fate dice is first changed to a 6.
+Guide (Psychic): In your Command phase, you can roll one 
+D6: on a 2+, select one friendly Aeldari unit within 12" of this 
+Psyker. Until the start of your next Command phase, each 
+time a model in that unit makes an attack, you can re-roll the 
+Hit roll.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS: Mounted, Character, Fly, Psyker, Farseer, Farseer Skyrunner
+
+FACTION KEYWORDS:  
+Aeldari
+
+FARSEER SKYRUNNER
+Farseers are expert combatants as well as battle seers. Their 
+semi-sentient witchblades and singing spears are embedded with 
+crystals that transmit the destructive potential of their bearer’s 
+psyche. In battle, they flow around weapon blasts and blade thrusts 
+with a natural grace that makes their foes seem predictable and slow.
+
+WARGEAR OPTIONS
+
+ ■ This model’s witchblade can be replaced with 1 singing spear.   
+
+UNIT COMPOSITION
+
+ ■ 1 Farseer Skyrunner
+This model is equipped with: shuriken pistol; twin shuriken 
+catapult; Eldritch Storm; witchblade.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Warlock Skyrunner Conclave
+ ■ Windriders
+
+KEYWORDS: Mounted, Character, Fly, Psyker, Farseer, Farseer Skyrunner
+
+FACTION KEYWORDS:  
+Aeldari
+
+FIRE DRAGONS
+
+M
+
+7"
+
+7"
+
+T
+
+3
+
+3
+
+SV
+
+3+
+
+3+
+
+W
+
+1
+
+2
+
+LD
+
+6+
+
+6+
+
+OC
+
+1
+
+1
+
+FIRE DRAGON
+
+FIRE DRAGON EXARCH
+
+RANGED WEAPONS
+Dragon fusion gun [ASSAULT, MELTA 3]
+Dragon’s breath flamer [IGNORES COVER, TORRENT]
+Firepike [MELTA 3]
+
+MELEE WEAPONS
+Close combat weapon 
+
+RANGE
+
+12"
+12"
+18"
+
+RANGE
+Melee
+
+A
+1
+D6
+1
+
+A
+2
+
+BS
+3+
+N/A
+3+
+
+WS
+3+
+
+S
+9
+6
+12
+
+S
+3
+
+AP
+-4
+-1
+-4
+
+AP
+0
+
+D
+D6
+1
+D6
+
+D
+1
+
+ABILITIES
+
+FACTION: Strands of Fate
+
+Assured Destruction: Each time a model in this unit makes a 
+ranged attack that targets a Monster or Vehicle unit, re-roll a 
+Wound roll of 1 and re-roll a Damage roll of 1.
+
+INVULNERABLE SAVE
+
+5+
+
+KEYWORDS: Infantry, Grenades, Fire Dragons
+
+FACTION KEYWORDS:  
+Aeldari
+
+FIRE DRAGONS
+Fire Dragons are aggressive and warlike, seeking nothing less than 
+the total annihilation of the enemy’s redoubts and war machines. 
+They can identify the weak points of a target with a mere glance, then 
+swiftly reduce them to molten liquid with their fusion guns.
+
+WARGEAR OPTIONS
+
+ ■  The Fire Dragon Exarch’s Dragon fusion gun can be replaced with 1 of the following: 
+
+ ◦ 1 Dragon’s breath flamer
+ ◦ 1 firepike
+
+UNIT COMPOSITION
+
+ ■ 1 Fire Dragon Exarch
+ ■ 4-9 Fire Dragons
+Every model is equipped with: Dragon fusion gun; close 
+combat weapon.
+
+KEYWORDS: Infantry, Grenades, Fire Dragons
+
+FACTION KEYWORDS:  
+Aeldari
+
+FIRE PRISM
+
+M
+
+14"
+
+T
+
+9
+
+SV
+
+3+
+
+W
+
+12
+
+LD
+
+6+
+
+OC
+
+3
+
+RANGE
+
+D
+RANGED WEAPONS
+2
+Prism cannon – dispersed pulse [BLAST]
+Prism cannon – focused lances [LINKED FIRE]
+6
+Linked Fire: When selecting targets for this weapon, you can measure range and determine visibility 
+from another friendly Fire Prism model that is visible to the bearer.
+Shuriken cannon [SUSTAINED HITS 1]
+Twin shuriken catapult [ASSAULT, TWIN-LINKED]
+
+A
+2D6
+2
+
+BS
+3+
+3+
+
+AP
+-1
+-4
+
+S
+6
+18
+
+60"
+60"
+
+24"
+18"
+
+3+
+3+
+
+-1
+-1
+
+3
+2
+
+6
+4
+
+2
+1
+
+MELEE WEAPONS
+Wraithbone hull 
+
+RANGE
+Melee
+
+A
+3
+
+WS
+4+
+
+S
+6
+
+AP
+0
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Strands of Fate
+
+Crystal Matrix: Each time this model is selected to shoot, you 
+can re-roll one Hit roll and you can re-roll one Wound roll when 
+resolving those attacks.
+
+DAMAGED: 1-4 WOUNDS REMAINING
+
+While this model has 1-4 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Vehicle, Fly, Fire Prism
+
+FACTION KEYWORDS:  
+Aeldari
+
+FIRE PRISM
+The prism cannon of this vehicle is the bane of heavy battle tanks. In 
+its firing process, a laser is discharged into a massive crystal prism 
+that amplifies the shot’s potency. The energy is released in one of two 
+ways – either as thin lances of light to destroy the toughest vehicles, 
+or as a dispersed pulse to slaughter swathes of infantry.
+
+WARGEAR OPTIONS
+ ■  This model’s twin shuriken catapult can be replaced with 1 shuriken cannon.
+
+UNIT COMPOSITION
+ ■ 1 Fire Prism
+This model is equipped with: prism cannon; twin shuriken 
+catapult; wraithbone hull.
+
+KEYWORDS: Vehicle, Fly, Fire Prism
+
+FACTION KEYWORDS:  
+Aeldari
+
+FUEGAN
+
+M
+
+7"
+
+T
+
+3
+
+SV
+
+2+
+
+W
+
+5
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Searsong – beam [SUSTAINED HITS D3]
+Searsong – lance [MELTA 6]
+
+MELEE WEAPONS
+The Fire Axe 
+
+RANGE
+
+12"
+18"
+
+RANGE
+Melee
+
+A
+3
+1
+
+A
+6
+
+BS
+2+
+2+
+
+WS
+2+
+
+S
+8
+14
+
+S
+5
+
+AP
+-3
+-4
+
+AP
+-4
+
+D
+2
+D6
+
+D
+3
+
+ABILITIES
+
+CORE: Feel No Pain 5+, Leader
+
+FACTION: Strands of Fate
+
+Burning Lance: While this model is leading a unit, each time a 
+model in that unit makes an attack, add 1 to the Hit roll.
+Unquenchable Resolve: The first time this model is 
+destroyed, roll one D6 at the end of the phase. On a 2+, set 
+this model back up on the battlefield, as close as possible to 
+where it was destroyed and not within Engagement Range of 
+any enemy units, with its full wounds remaining.
+
+INVULNERABLE SAVE
+
+4+
+
+Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Infantry, Character, Epic Hero, Phoenix Lord, Fuegan
+
+FACTION KEYWORDS:  
+Aeldari
+
+FUEGAN
+Fuegan has dedicated himself to the total destruction of the enemies 
+of the Asuryani, and the trail of corpses he has left in his wake spans 
+the galaxy. Those he sets his fiery gaze upon he either eradicates from 
+existence with burning blasts from his firepike, Searsong, or cuts in 
+twain with furious blows from the Fire Axe.
+
+WARGEAR OPTIONS
+ ■ None
+
+UNIT COMPOSITION
+ ■ 1 Fuegan – Epic Hero
+This model is equipped with: Searsong; the Fire Axe.
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Fire Dragons
+
+KEYWORDS: Infantry, Character, Epic Hero, Phoenix Lord, Fuegan
+
+FACTION KEYWORDS:  
+Aeldari
+
+GUARDIAN DEFENDERS
+
+M
+
+7"
+
+7"
+
+T
+
+3
+
+3
+
+SV
+
+4+
+
+4+
+
+W
+
+1
+
+2
+
+LD
+
+6+
+
+6+
+
+OC
+
+2
+
+GUARDIAN DEFENDER
+
+0 HEAVY WEAPON PLATFORM
+
+RANGED WEAPONS
+Aeldari missile launcher – starshot 
+Aeldari missile launcher – sunburst [BLAST]
+Bright lance 
+Scatter laser 
+Shuriken cannon [SUSTAINED HITS 1]
+Shuriken catapult [ASSAULT]
+Starcannon 
+
+MELEE WEAPONS
+Close combat weapon 
+
+RANGE
+
+48"
+48"
+36"
+36"
+24"
+18"
+36"
+
+RANGE
+Melee
+
+A
+1
+D6
+1
+6
+3
+2
+2
+
+A
+1
+
+BS
+3+
+3+
+3+
+3+
+3+
+3+
+3+
+
+WS
+3+
+
+S
+10
+4
+12
+5
+6
+4
+8
+
+S
+3
+
+AP
+-2
+-1
+-3
+0
+-1
+-1
+-3
+
+AP
+0
+
+D
+D6
+1
+
+D6+2
+
+1
+2
+1
+2
+
+D
+1
+
+ABILITIES
+
+FACTION: Strands of Fate
+
+Defenders of Fate: At the end of your Command phase, for 
+each objective marker you control that has one or more units 
+from your army with this ability within range of it, roll one D6 
+and add it to your Fate dice pool displaying the result you 
+just rolled.
+Crewed Platform: When the last Guardian Defender model in 
+this unit is destroyed, any remaining Heavy Weapon Platform 
+models in this unit are also destroyed.
+
+Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Infantry, Battleline, Grenades, Guardians, Guardian Defenders
+
+FACTION KEYWORDS:  
+Aeldari
+
+GUARDIAN DEFENDERS
+Guardian Defenders are versatile support troops capable of unleashing 
+withering hails of fire from their shuriken catapults. They also man 
+anti-grav Heavy Weapon Platforms that can be fitted with a variety 
+of powerful guns with which to sunder enemy armour or mow down 
+swathes of infantry.
+
+WARGEAR OPTIONS
+ ■  The Heavy Weapon Platform can replace its shuriken cannon with one of the following: 
+
+ ◦ 1 Aeldari missile launcher
+ ◦ 1 bright lance
+ ◦ 1 scatter laser
+ ◦ 1 starcannon
+
+UNIT COMPOSITION
+ ■ 10 Guardian Defenders
+ ■ 1 Heavy Weapon Platform
+Every Guardian Defender is equipped with: shuriken 
+catapult; close combat weapon.
+The Heavy Weapon Platform is equipped with: shuriken 
+cannon; close combat weapon.
+
+KEYWORDS: Infantry, Battleline, Grenades, Guardians, Guardian Defenders
+
+FACTION KEYWORDS:  
+Aeldari
+
+HEMLOCK WRAITHFIGHTER
+
+M
+
+20+"
+
+T
+
+8
+
+SV
+
+3+
+
+W
+
+12
+
+LD
+
+6+
+
+OC
+
+0
+
+RANGED WEAPONS
+Heavy D-scythe [BLAST]
+
+MELEE WEAPONS
+Wraithbone hull 
+
+RANGE
+
+18"
+
+RANGE
+Melee
+
+A
+D6
+
+A
+3
+
+BS
+4+
+
+WS
+4+
+
+S
+12
+
+S
+6
+
+AP
+-4
+
+AP
+0
+
+D
+2
+
+D
+1
+
+ABILITIES
+
+FACTION: Strands of Fate
+
+Mindshock Pod (Aura, Psychic): While an enemy unit is 
+within 9" of this model, subtract 1 from Battle-shock and 
+Leadership tests taken for that unit.
+
+KEYWORDS:  Vehicle, Fly, Aircraft, Psyker, Wraith Construct, 
+
+Hemlock Wraithfighter
+
+FACTION KEYWORDS:  
+Aeldari
+
+HEMLOCK WRAITHFIGHTER
+Hemlocks blend the psychic abilities of their Spiritseer pilots with the 
+gestalt energies of the Aeldari dead, who can pilot the craft should the 
+seer be incapacitated. The aircraft’s mindshock pod unleashes waves 
+of negative emotion to cause terror in the enemy, while its heavy 
+D-scythes hurl the Hemlock’s victims into the warp.
+
+WARGEAR OPTIONS
+ ■ None
+
+UNIT COMPOSITION
+ ■ 1 Hemlock Wraithfighter
+This model is equipped with: 2 heavy D-scythes; 
+wraithbone hull.
+
+KEYWORDS:  Vehicle, Fly, Aircraft, Psyker, Wraith Construct, 
+
+Hemlock Wraithfighter
+
+FACTION KEYWORDS:  
+Aeldari
+
+HOWLING BANSHEES
+
+M
+
+8"
+
+8"
+
+T
+
+3
+
+3
+
+SV
+
+4+
+
+4+
+
+W
+
+1
+
+2
+
+LD
+
+6+
+
+6+
+
+OC
+
+1
+
+1
+
+HOWLING BANSHEE
+
+HOWLING BANSHEE EXARCH
+
+RANGED WEAPONS
+Shuriken pistol [ASSAULT, PISTOL]
+Triskele [ASSAULT]
+
+MELEE WEAPONS
+Banshee blade 
+Executioner 
+Mirrorswords 
+Triskele 
+
+RANGE
+
+12"
+12"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+
+A
+1
+3
+
+A
+3
+4
+6
+5
+
+BS
+3+
+3+
+
+WS
+3+
+3+
+3+
+3+
+
+S
+4
+4
+
+S
+4
+5
+4
+3
+
+AP
+-1
+-2
+
+AP
+-3
+-2
+-3
+-2
+
+D
+1
+1
+
+D
+1
+2
+1
+1
+
+ABILITIES
+
+CORE: Fights First
+
+FACTION: Strands of Fate
+
+Acrobatic: This unit is eligible to declare a charge in a turn in 
+which it Advanced or Fell Back.
+
+INVULNERABLE SAVE
+This invulnerable save is improved to 4+ against  
+melee attacks.
+
+5+
+
+KEYWORDS: Infantry, Howling Banshees
+
+FACTION KEYWORDS:  
+Aeldari
+
+HOWLING BANSHEES
+Howling Banshees are deadly in hand-to-hand fighting and renowned 
+for their rapid strikes. Their Banshee masks contain psychosonic 
+amplifiers that magnify the wearer’s keening battle screams into a 
+mind-destroying shock wave. This aural assault inspires terror and 
+paralysis in the foe as the Aspect Warriors move in for the kill.
+
+WARGEAR OPTIONS
+ ■  The Howling Banshee Exarch’s Banshee blade can be replaced with 1 of the following:
+
+ ◦ 1 executioner
+ ◦ 1 triskele
+
+ ■  The Howling Banshee Exarch’s shuriken pistol and Banshee blade can be replaced with 
+
+1 mirrorswords.
+
+UNIT COMPOSITION
+ ■ 1 Howling Banshee Exarch
+ ■ 4-9 Howling Banshees
+Every model is equipped with: shuriken pistol; 
+Banshee blade.
+
+KEYWORDS: Infantry, Howling Banshees
+
+FACTION KEYWORDS:  
+Aeldari
+
+ILLIC NIGHTSPEAR
+
+M
+
+7"
+
+T
+
+3
+
+SV
+
+5+
+
+W
+
+3
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Shuriken pistol [ASSAULT, PISTOL]
+Voidbringer [DEVASTATING WOUNDS, HEAVY, PRECISION]
+
+MELEE WEAPONS
+Aeldari power sword 
+
+RANGE
+
+12"
+48"
+
+RANGE
+Melee
+
+A
+1
+1
+
+A
+4
+
+BS
+2+
+2+
+
+WS
+2+
+
+S
+4
+6
+
+S
+4
+
+AP
+-1
+-3
+
+AP
+-2
+
+D
+1
+3
+
+D
+1
+
+ABILITIES
+
+CORE: Infiltrators, Leader, Stealth
+
+FACTION: Strands of Fate
+
+Bringer of the True Death: While this model is leading a unit, 
+each time a model in that unit makes an attack, you can 
+re-roll the Wound roll.
+Hunter Unseen: This model’s unit can only be selected as the 
+target of a ranged attack if the attacking model is within 12".
+
+INVULNERABLE SAVE*
+*  This model has a 5+ invulnerable save against  
+ranged attacks.
+
+5+
+
+KEYWORDS: Infantry, Character, Epic Hero, Illic Nightspear
+
+FACTION KEYWORDS:  
+Aeldari
+
+ILLIC NIGHTSPEAR
+There are few Aeldari more skilled in the arts of stealth and 
+marksmanship than Illic Nightspear, whose kill-tally numbers in the 
+hundreds of thousands. Illic’s weapon of choice is the long rifle Void 
+Bringer; each shot from this weapon opens a tiny warp hole within the 
+target, ripping their body apart or wrenching them into the void.
+
+WARGEAR OPTIONS
+ ■   None
+
+UNIT COMPOSITION
+ ■ 1 Illic Nightspear – Epic Hero
+This model is equipped with: Voidbringer; shuriken pistol; 
+Aeldari power sword.
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Rangers
+
+KEYWORDS: Infantry, Character, Epic Hero, Illic Nightspear
+
+FACTION KEYWORDS:  
+Aeldari
+
+JAIN ZAR
+
+M
+
+8"
+
+T
+
+3
+
+SV
+
+2+
+
+W
+
+5
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+The Silent Death [ASSAULT]
+
+MELEE WEAPONS
+The Blade of Destruction – strike 
+The Blade of Destruction – sweep 
+
+RANGE
+
+12"
+
+RANGE
+Melee
+Melee
+
+A
+6
+
+A
+6
+12
+
+BS
+2+
+
+WS
+2+
+2+
+
+S
+6
+
+S
+6
+4
+
+AP
+-2
+
+AP
+-3
+-3
+
+D
+1
+
+D
+2
+1
+
+ABILITIES
+
+CORE: Fights First, Leader
+
+FACTION: Strands of Fate
+
+Storm of Silence: While this model is leading a unit, each time 
+a model in that unit makes an attack, add 1 to the Hit roll.
+Whirling Death: Once per turn, you can target this model’s unit 
+with the Heroic Intervention Stratagem for 0CP, and can do so 
+even if you have already used that Stratagem on a different 
+unit this phase.
+
+INVULNERABLE SAVE
+
+4+
+
+Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Infantry, Character, Epic Hero, Phoenix Lord, Jain Zar
+
+FACTION KEYWORDS:  
+Aeldari
+
+JAIN ZAR
+Always at the front of a charge and famed for her speed and ferocity, 
+Jain Zar carries the Blade of Destruction, an ancient executioner. This 
+she whirls in bloody arcs to carve through foes, before vaulting into a 
+new position. With a flick of her wrist she unleashes the Silent Death, a 
+triple-bladed throwing weapon that can easily sever a foe’s head.
+
+WARGEAR OPTIONS
+ ■   None
+
+UNIT COMPOSITION
+ ■ 1 Jain Zar – Epic Hero
+This model is equipped with: the Silent Death; the Blade 
+of Destruction.
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Howling Banshees
+
+KEYWORDS: Infantry, Character, Epic Hero, Phoenix Lord, Jain Zar
+
+FACTION KEYWORDS:  
+Aeldari
+
+KARANDRAS
+
+M
+
+7"
+
+T
+
+3
+
+SV
+
+2+
+
+W
+
+5
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Arhra’s Bane [ASSAULT, PISTOL]
+
+MELEE WEAPONS
+Arhra’s Bane [SUSTAINED HITS 1]
+Isirmathil [SUSTAINED HITS 1]
+
+RANGE
+
+12"
+
+RANGE
+Melee
+Melee
+
+A
+2
+
+A
+5
+8
+
+BS
+2+
+
+WS
+2+
+2+
+
+S
+5
+
+S
+8
+6
+
+AP
+-1
+
+AP
+-3
+-1
+
+D
+2
+
+D
+2
+1
+
+ABILITIES
+
+CORE: Infiltrators, Leader
+
+FACTION: Strands of Fate
+
+Shadow Hunter: While this model is leading a unit, each time 
+a model in that unit makes an attack, add 1 to the Hit roll.
+Sustained Assault: Each time this model makes a melee 
+attack, if it made a Charge move this turn, a successful 
+unmodified Hit roll of 4+ scores a Critical Hit.
+
+WARGEAR ABILITIES
+
+The Scorpion’s Bite: Melee weapons equipped by the bearer 
+have the [DEVASTATING WOUNDS] ability when targeting units 
+without the Titanic keyword.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS: Infantry, Character, Epic Hero, Phoenix Lord, Karandras
+
+FACTION KEYWORDS:  
+Aeldari
+
+KARANDRAS
+Karandras is a master of stealth and patience, striking in a blur of 
+emerald armour. He assails his enemies with a white-hot burst from 
+the mandiblaster Scorpion’s Bite before ripping them to shreds with his 
+diamond-tipped chainblade Isirmathil, or crushing them in the grip of 
+Arhra’s Bane – his bespoke Scorpion’s claw.
+
+WARGEAR OPTIONS
+ ■   None
+
+UNIT COMPOSITION
+ ■ 1 Karandras – Epic Hero
+This model is equipped with: Arhra’s Bane; Isirmathil; the 
+Scorpion’s Bite.
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Striking Scorpions
+
+KEYWORDS: Infantry, Character, Epic Hero, Phoenix Lord, Karandras
+
+FACTION KEYWORDS:  
+Aeldari
+
+MAUGAN RA
+
+M
+
+7"
+
+T
+
+3
+
+SV
+
+2+
+
+W
+
+5
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+The Maugetar [DEVASTATING WOUNDS, IGNORES COVER]
+
+MELEE WEAPONS
+The Maugetar 
+
+RANGE
+
+36"
+
+RANGE
+Melee
+
+A
+6
+
+A
+5
+
+BS
+2+
+
+WS
+2+
+
+S
+7
+
+S
+6
+
+AP
+-1
+
+AP
+-2
+
+D
+2
+
+D
+2
+
+ABILITIES
+
+FACTION: Leader, Strands of Fate
+
+Harvester of Souls: While this model is leading a unit, each 
+time a model in that unit makes an attack, add 1 to the Hit roll.
+Face of Death: Each time this model makes an attack that 
+targets a unit that is Below Half-strength, you can re-roll the 
+Hit roll and you can re-roll the Wound roll.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS: Infantry, Character, Epic Hero, Phoenix Lord, Maugan Ra
+
+FACTION KEYWORDS:  
+Aeldari
+
+MAUGAN RA
+A master at killing from a distance, Maugan Ra wields the Maugetar. 
+This scythe-like weapon fires mind-linked shuriken discs large enough 
+to decapitate a swathe of foes before vanishing into nothingness. 
+Should the enemy survive this barrage, they will meet a swift end on 
+the curved edge of the Maugetar’s built-in reaping blade.
+
+WARGEAR OPTIONS
+ ■   None
+
+UNIT COMPOSITION
+ ■ 1 Maugan Ra
+This model is equipped with: the Maugetar.
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Dark Reapers
+
+KEYWORDS: Infantry, Character, Epic Hero, Phoenix Lord, Maugan Ra
+
+FACTION KEYWORDS:  
+Aeldari
+
+NIGHT SPINNER
+
+M
+
+14"
+
+T
+
+9
+
+SV
+
+3+
+
+W
+
+12
+
+LD
+
+6+
+
+OC
+
+3
+
+RANGED WEAPONS
+Doomweaver 
+[BLAST, DEVASTATING WOUNDS, INDIRECT FIRE, TWIN-LINKED]
+Shuriken cannon [SUSTAINED HITS 1]
+Twin shuriken catapult [ASSAULT, TWIN-LINKED]
+
+MELEE WEAPONS
+Wraithbone hull 
+
+RANGE
+
+A
+
+48"
+
+24"
+18"
+
+RANGE
+Melee
+
+D6+3
+
+3
+2
+
+A
+3
+
+BS
+
+3+
+
+3+
+3+
+
+WS
+4+
+
+S
+
+7
+
+6
+4
+
+S
+6
+
+AP
+
+0
+
+-1
+-1
+
+AP
+0
+
+D
+
+2
+
+2
+1
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Strands of Fate
+
+Monofilament Web: In your Shooting phase, after this 
+model has shot, if one or more of those attacks made with 
+its doomweaver scored a hit against an enemy unit, that 
+enemy unit is pinned until the end of your opponent’s next 
+turn. While a unit is pinned, subtract 2 from that unit’s Move 
+characteristic and that unit cannot Advance.
+
+DAMAGED: 1-4 WOUNDS REMAINING
+
+While this model has 1-4 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+KEYWORDS: Vehicle, Fly, Night Spinner
+
+FACTION KEYWORDS:  
+Aeldari
+
+NIGHT SPINNER
+The doomweaver mounted by the Night Spinner is an esoteric weapon 
+that spins great swathes of monofilament wire into a lethal web that is 
+launched high into the air. So strong is this substance that nothing can 
+stop its descent, and any foe lying beneath it faces a horrible death as 
+the razor-sharp strands fall first upon and then through them.
+
+WARGEAR OPTIONS
+ ■   This model’s twin shuriken catapult can be replaced with 1 shuriken cannon.
+
+UNIT COMPOSITION
+ ■ 1 Night Spinner
+This model is equipped with: doomweaver; twin shuriken 
+catapult; wraithbone hull.
+
+KEYWORDS: Vehicle, Fly, Night Spinner
+
+FACTION KEYWORDS:  
+Aeldari
+
+PRINCE YRIEL
+
+M
+
+7"
+
+T
+
+3
+
+SV
+
+3+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+The Eye of Wrath [ASSAULT]
+
+MELEE WEAPONS
+The Spear of Twilight 
+
+RANGE
+
+6"
+
+RANGE
+Melee
+
+A
+1
+
+A
+5
+
+BS
+2+
+
+WS
+2+
+
+S
+6
+
+S
+6
+
+AP
+-3
+
+AP
+-3
+
+D
+2
+
+D
+3
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Strands of Fate
+
+Hero of Iyanden: While this model is leading a unit, add 1 to 
+the Objective Control characteristic of models in that unit.
+Prince of Corsairs: If your army includes this model, after 
+both players have deployed their armies, select up to three 
+Aeldari units from your army and redeploy them. When 
+doing so, you can set those units up in Strategic Reserves 
+if you wish, regardless of how many units are already in 
+Strategic Reserves. 
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS: Infantry, Character, Epic Hero, Prince Yriel
+
+FACTION KEYWORDS:  
+Aeldari
+
+PRINCE YRIEL
+A great hero of Iyanden, Prince Yriel is a superlative commander of 
+mighty fleets and great hosts of warriors alike. Yriel’s combat skill is 
+equally unparalleled, and in battle he wields the Spear of Twilight with 
+such speed and flair that his foes have little way of knowing where his 
+next strikes will come from.
+
+WARGEAR OPTIONS
+ ■   None
+
+UNIT COMPOSITION
+ ■ 1 Prince Yriel – Epic Hero
+This model is equipped with: the Eye of Wrath; the Spear 
+of Twilight.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Corsair Voidreavers
+ ■ Corsair Voidscarred
+ ■ Guardian Defenders
+ ■ Storm Guardians
+
+KEYWORDS: Infantry, Character, Epic Hero, Prince Yriel
+
+FACTION KEYWORDS:  
+Aeldari
+
+RANGERS
+
+M
+
+7"
+
+T
+
+3
+
+SV
+
+5+
+
+W
+
+1
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Ranger long rifle [HEAVY, PRECISION]
+Shuriken pistol [ASSAULT, PISTOL]
+
+MELEE WEAPONS
+Close combat weapon 
+
+RANGE
+
+36"
+12"
+
+RANGE
+Melee
+
+A
+1
+1
+
+A
+1
+
+BS
+3+
+2+
+
+WS
+3+
+
+S
+4
+4
+
+S
+3
+
+AP
+-1
+-1
+
+AP
+0
+
+D
+2
+1
+
+D
+1
+
+ABILITIES
+
+CORE: Infiltrators, Stealth
+
+FACTION: Strands of Fate
+
+Path of the Outcast: Once per turn, when an enemy unit ends 
+a Normal, Advance or Fall Back move within 9" of this unit, 
+if this unit is not within Engagement Range of one or more 
+enemy units, it can make a Normal move of up to D6" as if it 
+were your Movement phase.
+
+INVULNERABLE SAVE*
+*  Models in this unit have a 5+ invulnerable save  
+against ranged attacks.
+
+5+
+
+KEYWORDS: Infantry, Rangers
+
+FACTION KEYWORDS:  
+Aeldari
+
+RANGERS
+These Outcast warriors are adepts in the arts of stealth warfare, 
+marksmanship and tracking their enemies through the harshest 
+terrain. Veiled by cameleoline cloaks and gloom field generators, they 
+can hide from their foes even in plain sight as they pick them off one 
+by one from extreme range.
+
+WARGEAR OPTIONS
+ ■   None
+
+UNIT COMPOSITION
+ ■ 5-10 Rangers
+Every model is equipped with: Ranger long rifle; shuriken 
+pistol; close combat weapon.
+
+KEYWORDS: Infantry, Rangers
+
+FACTION KEYWORDS:  
+Aeldari
+
+SHADOWSEER
+
+M
+
+8"
+
+T
+
+3
+
+SV
+
+6+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Neuro disruptor [ANTI-INFANTRY 2+, ASSAULT, PISTOL]
+Shuriken pistol [ASSAULT, PISTOL]
+
+MELEE WEAPONS
+Miststave [PSYCHIC]
+
+RANGE
+
+12"
+12"
+
+RANGE
+Melee
+
+A
+1
+1
+
+A
+4
+
+BS
+2+
+2+
+
+WS
+2+
+
+S
+4
+4
+
+S
+5
+
+AP
+0
+-1
+
+AP
+-1
+
+D
+1
+1
+
+D
+D3
+
+ABILITIES
+
+CORE: Leader, Stealth
+
+FACTION: Strands of Fate
+
+Fog of Dreams (Psychic): While this model is leading a unit, 
+models in that unit have the Stealth ability.
+Twilight Pathways (Psychic): At the start of your Movement 
+phase, one model from your army with this ability can use it. If 
+it does, until the end of the turn, you can re-roll Advance rolls 
+made for that model’s unit and that model’s unit is eligible to 
+declare a charge in a turn in which it Advanced.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS: Infantry, Character, Psyker, Grenades, Harlequins, Shadowseer
+
+FACTION KEYWORDS:  
+Aeldari
+
+SHADOWSEER
+Shadowseers can blind their enemies and drive them mad with their 
+psychic powers. They shield their allies with veils of illusion, and crush 
+bones in close combat with strikes from their miststaves – which also 
+scramble the perceptions of those they hit.
+
+WARGEAR OPTIONS
+ ■   This model’s shuriken pistol can be replaced with 1 neuro disruptor.
+
+UNIT COMPOSITION
+ ■ 1 Shadowseer
+This model is equipped with: shuriken pistol; miststave.
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Troupe
+
+KEYWORDS: Infantry, Character, Psyker, Grenades, Harlequins, Shadowseer
+
+FACTION KEYWORDS:  
+Aeldari
+
+SHINING SPEARS
+
+M
+
+14"
+
+14"
+
+T
+
+4
+
+4
+
+SV
+
+3+
+
+3+
+
+W
+
+2
+
+3
+
+LD
+
+6+
+
+6+
+
+OC
+
+2
+
+SHINING SPEAR
+
+2 SHINING SPEAR EXARCH
+
+RANGED WEAPONS
+Laser lance [ASSAULT]
+Shuriken cannon [SUSTAINED HITS 1]
+Star lance [ASSAULT]
+Twin shuriken catapult [ASSAULT, TWIN-LINKED]
+
+MELEE WEAPONS
+Laser lance [LANCE]
+Paragon sabre 
+Star lance [LANCE]
+
+RANGE
+
+6"
+24"
+6"
+18"
+
+RANGE
+Melee
+Melee
+Melee
+
+A
+1
+3
+1
+2
+
+A
+3
+6
+4
+
+BS
+3+
+3+
+2+
+3+
+
+WS
+3+
+3+
+2+
+
+S
+6
+6
+9
+4
+
+S
+4
+4
+4
+
+AP
+-2
+-1
+-3
+-1
+
+AP
+-2
+-2
+-3
+
+D
+2
+2
+2
+1
+
+D
+2
+2
+2
+
+ABILITIES
+
+FACTION: Strands of Fate
+
+Aerobatic Grace: Each time an attack targets this unit, 
+subtract 1 from the Hit roll.
+
+WARGEAR ABILITIES
+
+Shimmershield: The bearer has a 4+ invulnerable save.
+
+INVULNERABLE SAVE
+If this unit Advances or makes a Charge move, until the  
+start of your next turn, this invulnerable save is improved to 4+.
+
+5+
+
+KEYWORDS: Mounted, Fly, Shining Spears
+
+FACTION KEYWORDS:  
+Aeldari
+
+SHINING SPEARS
+Shining Spears live to joust, which they do at breathtaking speeds 
+upon their jetbike steeds. Their chosen weapon is the long and 
+formidable laser lance, which burns an opening in the target with a 
+powerful energy blast an instant before the bulk of the weapon slams 
+home with a devastating, piercing impact.
+
+WARGEAR OPTIONS
+ ■   The Shining Spear Exarch’s laser lance can be replaced with one of the following: 
+
+ ◦ 1 paragon sabre
+ ◦ 1 star lance
+
+ ■  The Shining Spear Exarch’s twin shuriken catapult can be replaced with 1 shuriken cannon.
+ ■  The Shining Spear Exarch can be equipped with 1 shimmershield.
+
+UNIT COMPOSITION
+ ■ 1 Shining Spear Exarch
+ ■ 2-5 Shining Spears
+Every model is equipped with: laser lance; twin 
+shuriken catapult.
+
+KEYWORDS: Mounted, Fly, Shining Spears
+
+FACTION KEYWORDS:  
+Aeldari
+
+SHROUD RUNNERS
+
+M
+
+14"
+
+T
+
+4
+
+SV
+
+4+
+
+W
+
+3
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Ranger long rifle [PRECISION]
+Scatter laser 
+Shuriken pistol [ASSAULT, PISTOL]
+
+MELEE WEAPONS
+Close combat weapon 
+
+RANGE
+
+36"
+36"
+12"
+
+RANGE
+Melee
+
+A
+1
+6
+1
+
+A
+1
+
+BS
+3+
+3+
+2+
+
+WS
+3+
+
+S
+4
+5
+4
+
+S
+3
+
+AP
+-1
+0
+-1
+
+AP
+0
+
+D
+2
+1
+1
+
+D
+1
+
+ABILITIES
+
+CORE: Scouts 9", Stealth
+
+FACTION: Strands of Fate
+
+Target Acquisition: At the start of your Shooting phase, select 
+one enemy unit within 12" of and visible to this unit. Until 
+the end of the phase, ranged weapons equipped by friendly 
+Aeldari models have the [LETHAL HITS] ability when targeting 
+that unit.
+
+INVULNERABLE SAVE*
+*  Models in this unit have a 5+ invulnerable save  
+against ranged attacks.
+
+5+
+
+KEYWORDS: Mounted, Fly, Shroud Runners
+
+FACTION KEYWORDS:  
+Aeldari
+
+SHROUD RUNNERS
+Streaking into battle as barely perceived blurs, Shroud Runners 
+effortlessly outmanoeuvre their enemies while harassing them with 
+pinpoint sniper fire. Each jetbike acts as the mount for a pair of skilled 
+Aeldari Rangers, the pillion rider often entering a marksman’s trance 
+so as to aim and fire while travelling at incredible speeds.
+
+WARGEAR OPTIONS
+ ■   None
+
+UNIT COMPOSITION
+ ■ 3-6 Shroud Runners
+Every model is equipped with: Ranger long rifle; scatter laser; 
+shuriken pistol; close combat weapon.
+
+KEYWORDS: Mounted, Fly, Shroud Runners
+
+FACTION KEYWORDS:  
+Aeldari
+
+SKYWEAVERS
+
+M
+
+14"
+
+T
+
+4
+
+SV
+
+4+
+
+W
+
+3
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Shuriken cannon [SUSTAINED HITS 1]
+Star bolas
+Skyweaver haywire cannon 
+[ANTI-VEHICLE 4+, DEVASTATING WOUNDS]
+
+MELEE WEAPONS
+Close combat weapon 
+Zephyrglaive
+
+RANGE
+
+24"
+12"
+
+24"
+
+RANGE
+Melee
+Melee
+
+A
+3
+D3
+
+2
+
+A
+4
+4
+
+BS
+3+
+3+
+
+3+
+
+WS
+3+
+3+
+
+S
+6
+7
+
+3
+
+S
+3
+5
+
+AP
+-1
+-2
+
+-1
+
+AP
+0
+-1
+
+D
+2
+2
+
+3
+
+D
+1
+2
+
+ABILITIES
+
+FACTION: Strands of Fate
+
+Scything Swipes: Each time this unit ends a Normal move, 
+you can select one enemy unit (excluding Monster and 
+Vehicle units) that it moved over during that move. If you 
+do, roll one D6 for each model in this unit: for each 4+, that 
+enemy unit suffers 1 mortal wound.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS: Mounted, Fly, Smoke, Harlequins, Skyweavers
+
+FACTION KEYWORDS:  
+Aeldari
+
+SKYWEAVERS
+Skyweavers shoot through the air in a prismatic storm of hallucinatory 
+colour and light. While the riders known as Skyborne Princes pilot each 
+jetbike and operate its guns, those called Great Falcons ride pillion, 
+poised to cut down the foe with their star bolas or bisect them with 
+their sweeping zephyrglaives.
+
+WARGEAR OPTIONS
+ ■  Any number of models can each have their shuriken cannon replaced with 1 Skyweaver 
+
+haywire cannon.
+
+ ■  Any number of models can each have their star bolas replaced with 1 zephyrglaive.
+
+UNIT COMPOSITION
+ ■  2-4 Skyweavers
+Every model is equipped with: shuriken cannon; star bolas; 
+close combat weapon.
+
+KEYWORDS: Mounted, Fly, Smoke, Harlequins, Skyweavers
+
+FACTION KEYWORDS:  
+Aeldari
+
+SOLITAIRE
+
+M
+
+12"
+
+T
+
+3
+
+SV
+
+6+
+
+W
+
+3
+
+LD
+
+6+
+
+OC
+
+1
+
+MELEE WEAPONS
+Solitaire weapons [PRECISION]
+
+RANGE
+Melee
+
+A
+9
+
+WS
+2+
+
+S
+6
+
+AP
+-2
+
+D
+2
+
+ABILITIES
+
+CORE: Fights First, Lone Operative
+
+FACTION: Strands of Fate
+
+Blitz: Once per battle, in your Movement phase, this model 
+can use this ability before it makes a Normal move. If it 
+does, until the end of the turn, add 2D6" to this model’s Move 
+characteristic and add 3 to this model’s Attacks characteristic.
+Blur of Movement: This model is eligible to declare a charge in 
+a turn in which it Advanced.
+
+INVULNERABLE SAVE
+
+3+
+
+KEYWORDS: Infantry, Character, Epic Hero, Harlequins, Solitaire
+
+FACTION KEYWORDS:  
+Aeldari
+
+SOLITAIRE
+Solitaires are the equal of a host of lesser warriors, and can move at 
+speeds the naked eye cannot follow. In combat, their scything kicks 
+and hammer-blow punches come so fast their foes are dead before 
+they know they are in a fight. They sever heads and pierce hearts in a 
+rapid blur of movement, and cause blood to fall like monsoon rain.
+
+WARGEAR OPTIONS
+ ■   None
+
+UNIT COMPOSITION
+ ■ 1 Solitaire – Epic Hero
+This model is equipped with: Solitaire weapons.
+
+PATH OF DAMNATION
+
+This model cannot be your Warlord.
+
+KEYWORDS: Infantry, Character, Epic Hero, Harlequins, Solitaire
+
+FACTION KEYWORDS:  
+Aeldari
+
+SPIRITSEER
+
+M
+
+7"
+
+T
+
+3
+
+SV
+
+6+
+
+W
+
+3
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Shuriken pistol [ASSAULT, PISTOL]
+
+MELEE WEAPONS
+Witch staff [ANTI-INFANTRY 2+, PSYCHIC]
+
+RANGE
+
+12"
+
+RANGE
+Melee
+
+A
+1
+
+A
+2
+
+BS
+2+
+
+WS
+2+
+
+S
+4
+
+S
+3
+
+AP
+-1
+
+AP
+0
+
+D
+1
+
+D
+D3
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Strands of Fate
+
+Spirit Mark: While this model is leading a unit, weapons in that 
+unit have the [LETHAL HITS] ability and each time a model in 
+that unit makes an attack, add 1 to the Hit roll.
+Tears of Isha (Psychic): While this model is leading a unit, in 
+the Command phase, you can return 1 destroyed Bodyguard 
+model to that unit.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS: Character, Infantry, Psyker, Spiritseer
+
+FACTION KEYWORDS:  
+Aeldari
+
+SPIRITSEER
+It falls to the Spiritseers to commune with the souls of the dead. In 
+this capacity, they guide ghost warriors through the inferno of battle, 
+bringing the world around them into greater focus. Aided in this 
+way, ghost warriors become yet more lethal, their strikes and shots 
+ensuring the swift demise of their foes.
+
+WARGEAR OPTIONS
+ ■   None
+
+UNIT COMPOSITION
+ ■ 1 Spiritseer
+This model is equipped with: shuriken pistol; witch staff.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Wraithblades
+ ■ Wraithguard
+ ■ Wraithlord
+
+KEYWORDS: Character, Infantry, Psyker, Spiritseer
+
+FACTION KEYWORDS:  
+Aeldari
+
+STARWEAVER
+
+M
+
+14"
+
+T
+
+6
+
+SV
+
+4+
+
+W
+
+6
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Shuriken cannon [SUSTAINED HITS 1]
+
+MELEE WEAPONS
+Close combat weapon 
+
+RANGE
+
+24"
+
+RANGE
+Melee
+
+A
+3
+
+A
+4
+
+BS
+3+
+
+WS
+3+
+
+S
+6
+
+S
+3
+
+AP
+-1
+
+AP
+0
+
+D
+2
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise 1, Firing Deck 6
+
+FACTION: Strands of Fate
+
+Rapid Embarkation: At the end of the Fight phase, if there are 
+no models currently embarked within this Transport, you 
+can select one friendly Harlequins Infantry unit that has 
+6 or fewer models that is wholly within 6" of this Transport. 
+Unless that unit is within Engagement Range of one or more 
+enemy units, it can embark within this Transport.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Vehicle, Transport, Dedicated Transport, Smoke, Fly, Harlequins, 
+
+Starweaver
+
+FACTION KEYWORDS:  
+Aeldari
+
+STARWEAVER
+These agile and nimble anti-grav transport craft swoop and spiral 
+effortlessly through incoming fire, their flickering holo-fields giving 
+them polychromatic camouflage. Armed with multiple heavy weapons, 
+they provide great volumes of supporting fire for the troops they carry, 
+scything down the foe with withering hails of shurikens.
+
+WARGEAR OPTIONS
+ ■   None
+
+UNIT COMPOSITION
+ ■ 1 Starweaver
+This model is equipped with: 2 shuriken cannons; close 
+combat weapon.
+
+TRANSPORT
+
+This model has a transport capacity of 6 Harlequins 
+Infantry models. 
+
+KEYWORDS:  Vehicle, Transport, Dedicated Transport, Smoke, Fly, Harlequins, 
+
+Starweaver
+
+FACTION KEYWORDS:  
+Aeldari
+
+STORM GUARDIANS
+
+M
+
+7"
+
+7"
+
+T
+
+3
+
+3
+
+SV
+
+4+
+
+4+
+
+W
+
+1
+
+2
+
+LD
+
+6+
+
+6+
+
+OC
+
+2
+
+STORM GUARDIAN
+
+0 SERPENT’S SCALE PLATFORM
+
+RANGED WEAPONS
+Aeldari flamer [ASSAULT, IGNORES COVER, TORRENT]
+Guardian fusion gun [ASSAULT, MELTA 2]
+Shuriken pistol [ASSAULT, PISTOL]
+
+MELEE WEAPONS
+Aeldari power sword 
+Guardian combat weapon 
+
+RANGE
+
+12"
+12"
+12"
+
+RANGE
+Melee
+Melee
+
+A
+D6
+1
+1
+
+A
+2
+2
+
+BS
+N/A
+3+
+3+
+
+WS
+3+
+3+
+
+S
+4
+8
+4
+
+S
+4
+3
+
+AP
+0
+-4
+-1
+
+AP
+-2
+0
+
+D
+1
+D6
+1
+
+D
+1
+1
+
+ABILITIES
+
+FACTION: Strands of Fate
+
+Stormblades: At the end of your Command phase, if this 
+unit is within range of an objective marker you control, that 
+objective marker remains under your control, even if you have 
+no models within range of it, until your opponent controls it at 
+the start or end of any turn.
+Crewed Platform: When the last Storm Guardian model in this 
+unit is destroyed, any remaining Serpent’s Scale Platform 
+models in this unit are also destroyed.
+
+WARGEAR ABILITIES
+
+Serpent Shield: Models in the bearer’s unit have a 5+ 
+invulnerable save.
+
+KEYWORDS: Infantry, Battleline, Grenades, Guardians, Storm Guardians
+
+FACTION KEYWORDS:  
+Aeldari
+
+STORM GUARDIANS
+Storm Guardians often support Aspect Warriors in close combat, 
+wielding their pistols and blades with all the grace and skill of their 
+kind. Other Storm Guardians bring special weapons to bear, burning 
+foes out of cover with bursts from their flamers or melting through 
+armoured bunkers with their fusion guns.
+
+WARGEAR OPTIONS
+ ■  Up to 2 Storm Guardians can each have their shuriken pistol and Guardian combat weapon replaced 
+
+with 1 Aeldari flamer.
+
+ ■  Up to 2 Storm Guardians can each have their shuriken pistol and Guardian combat weapon replaced 
+
+with 1 Guardian fusion gun.
+
+ ■  Up to 2 Storm Guardians can each have their Guardian combat weapon replaced with 1 Aeldari 
+
+power sword.
+
+UNIT COMPOSITION
+ ■ 10 Storm Guardians
+ ■ 1 Serpent’s Scale Platform
+Every Storm Guardian is equipped with: shuriken pistol; 
+Guardian combat weapon.
+The Serpent’s Scale Platform is equipped with: Guardian 
+combat weapon; Serpent shield.
+
+KEYWORDS: Infantry, Battleline, Grenades, Guardians, Storm Guardians
+
+FACTION KEYWORDS:  
+Aeldari
+
+STRIKING SCORPIONS
+
+M
+
+7"
+
+7"
+
+T
+
+3
+
+3
+
+SV
+
+3+
+
+3+
+
+W
+
+1
+
+2
+
+LD
+
+6+
+
+6+
+
+OC
+
+1
+
+STRIKING SCORPION
+
+1 STRIKING SCORPION EXARCH
+
+RANGED WEAPONS
+Scorpion’s claw [ASSAULT, PISTOL]
+Shuriken pistol [ASSAULT, PISTOL]
+
+MELEE WEAPONS
+Biting blade [SUSTAINED HITS 1]
+Scorpion chainsword [SUSTAINED HITS 1]
+Scorpion’s claw [SUSTAINED HITS 1]
+
+RANGE
+
+12"
+12"
+
+RANGE
+Melee
+Melee
+Melee
+
+A
+2
+1
+
+A
+5
+4
+4
+
+BS
+3+
+3+
+
+WS
+3+
+3+
+4+
+
+S
+4
+4
+
+S
+5
+4
+8
+
+AP
+-1
+-1
+
+AP
+-1
+0
+-2
+
+D
+1
+1
+
+D
+2
+1
+2
+
+ABILITIES
+
+CORE: Infiltrators
+
+FACTION: Strands of Fate
+
+WARGEAR ABILITIES
+
+Mandiblasters: Melee weapons equipped by the bearer 
+have the [DEVASTATING WOUNDS] ability when targeting units 
+without the Monster or Vehicle keywords.
+
+INVULNERABLE SAVE
+
+5+
+
+KEYWORDS: Infantry, Striking Scorpions
+
+FACTION KEYWORDS:  
+Aeldari
+
+STRIKING SCORPIONS
+Striking Scorpions are the stealthiest Aspect, becoming one with the 
+shadows to creep up on the enemy before falling upon them with 
+ruthless intent. They can wait for days without motion before striking 
+with the force of a lightning bolt, launching hails of mandiblaster fire 
+and delivering flurries of blows with their Scorpion chainswords.
+
+WARGEAR OPTIONS
+ ■  The Striking Scorpion Exarch’s Scorpion chainsword can be replaced with 1 Scorpion’s claw.
+ ■  The Striking Scorpion Exarch’s shuriken pistol and Scorpion chainsword can be replaced with 1 
+
+biting blade.
+
+UNIT COMPOSITION
+ ■ 1 Striking Scorpion Exarch
+ ■ 4-9 Striking Scorpions
+Every model is equipped with: shuriken pistol; Scorpion 
+chainsword; mandiblasters.
+
+KEYWORDS: Infantry, Striking Scorpions
+
+FACTION KEYWORDS:  
+Aeldari
+
+SUPPORT WEAPONS
+
+M
+
+3"
+
+T
+
+6
+
+SV
+
+4+
+
+W
+
+5
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+D-cannon 
+[BLAST, DEVASTATING WOUNDS, HEAVY, INDIRECT FIRE]
+Shadow weaver 
+[BLAST, DEVASTATING WOUNDS, HEAVY, INDIRECT FIRE]
+Shuriken catapult [ASSAULT]
+Vibro cannon [HEAVY]
+
+MELEE WEAPONS
+Close combat weapon 
+
+RANGE
+
+24"
+
+48"
+
+18"
+48"
+
+RANGE
+Melee
+
+A
+
+D3
+
+D6+2
+
+2
+D6 
+
+A
+2
+
+BS
+
+3+
+
+3+
+
+3+
+3+
+
+WS
+3+
+
+S
+
+16
+
+6
+
+4
+8
+
+S
+3
+
+AP
+
+D
+
+ABILITIES
+
+-4
+
+0
+
+-1
+-1
+
+AP
+0
+
+D6+2
+
+FACTION: Strands of Fate
+
+Artillery Barrage: In your Shooting phase, after this unit 
+has shot, select one enemy unit (excluding Monster and 
+Vehicle untis) that was hit by one or more of those attacks. 
+Until the start of your next turn, while this unit is on the 
+battlefield, that enemy unit is suppressed. While a unit is 
+suppressed, each time a model in that unit makes an attack, 
+subtract 1 from the Hit roll.
+
+1
+
+1
+2
+
+D
+1
+
+KEYWORDS: Vehicle, Support Weapons
+
+FACTION KEYWORDS:  
+Aeldari
+
+SUPPORT WEAPONS
+These large yet graceful artillery pieces glide to battle on anti-grav 
+engines, mounting huge guns that utilise a variety of technologies. 
+Shadow weavers fire nets of monofilament wires that shred vulnerable 
+foes. Vibro cannons project crushing sonic waves, while the blasts of 
+D-cannons cause physical matter to collapse in upon itself.
+
+WARGEAR OPTIONS
+ ■  Any number of models can each have their shadow weaver replaced with one of the following: 
+
+ ◦ 1 D-cannon
+ ◦ 1 vibro cannon 
+
+UNIT COMPOSITION
+ ■ 1 Support Weapon
+This model is equipped with: shadow weaver; shuriken 
+catapult; close combat weapon.
+
+KEYWORDS: Vehicle, Support Weapons
+
+FACTION KEYWORDS:  
+Aeldari
+
+SWOOPING HAWKS
+
+M
+
+14"
+
+14"
+
+T
+
+3
+
+3
+
+SV
+
+4+
+
+4+
+
+W
+
+1
+
+2
+
+LD
+
+6+
+
+6+
+
+OC
+
+1
+
+1
+
+SWOOPING HAWK
+
+SWOOPING HAWK EXARCH
+
+RANGED WEAPONS
+Hawk’s talon [ASSAULT, LETHAL HITS]
+Lasblaster [ASSAULT, LETHAL HITS]
+
+MELEE WEAPONS
+Aeldari power sword 
+Close combat weapon 
+
+RANGE
+
+24"
+24"
+
+RANGE
+Melee
+Melee
+
+A
+4
+4
+
+A
+3
+2
+
+BS
+3+
+3+
+
+WS
+3+
+3+
+
+S
+5
+4
+
+S
+4
+3
+
+AP
+0
+0
+
+AP
+-2
+0
+
+D
+1
+1
+
+D
+1
+1
+
+ABILITIES
+
+CORE: Deep Strike
+
+FACTION: Strands of Fate
+
+Skyleap: At the end of your opponent’s turn, if this unit is not 
+within Engagement Range of one or more enemy units, you 
+can remove this unit from the battlefield and place it into 
+Strategic Reserves.
+
+INVULNERABLE SAVE
+
+5+
+
+KEYWORDS: Infantry, Jump Pack, Fly, Grenades, Swooping Hawks
+
+FACTION KEYWORDS:  
+Aeldari
+
+SWOOPING HAWKS
+Swooping Hawks soar high above the battlefield with incredible 
+grace and agility, moving with such speed that they appear as a 
+blur of colour. They are masters of harassment warfare, perfectly 
+suited to breaking up enemy counter-attacks or picking off vulnerable 
+formations with a hail of las-fire and plasma grenades.
+
+WARGEAR OPTIONS
+ ■  The Swooping Hawk Exarch’s lasblaster can be replaced with 1 Hawk’s talon.
+ ■  The Swooping Hawk Exarch can be equipped with 1 Aeldari power sword.
+
+UNIT COMPOSITION
+ ■ 1 Swooping Hawk Exarch
+ ■ 4-9 Swooping Hawks
+Every model is equipped with: lasblaster; close 
+combat weapon.
+
+KEYWORDS: Infantry, Jump Pack, Fly, Grenades, Swooping Hawks
+
+FACTION KEYWORDS:  
+Aeldari
+
+THE VISARCH
+
+M
+
+8"
+
+T
+
+3
+
+SV
+
+2+
+
+W
+
+5
+
+LD
+
+6+
+
+OC
+
+1
+
+MELEE WEAPONS
+Asu-var, the Sword of Silent Screams [PRECISION]
+
+RANGE
+Melee
+
+A
+5
+
+WS
+2+
+
+S
+5
+
+AP
+-4
+
+D
+2
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Strands of Fate
+
+Way of the Blade: While this model is leading a unit, that unit 
+has the Fights First ability.
+Champion of Ynnead: Each time this model is selected to 
+fight, select one of the abilities below for Asu-var, the Sword of 
+Silent Screams, to gain until the end of the phase:
+ ■  [SUSTAINED HITS 2]
+ ■ [DEVASTATING WOUNDS]
+ ■  [LETHAL HITS]
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS: Infantry, Character, Epic Hero, Ynnari, The Visarch
+
+FACTION KEYWORDS:  
+Aeldari
+
+THE VISARCH
+The Visarch darts amongst the foe, taking off limbs and heads with 
+the Cronesword Asu-var, the Sword of Silent Screams. The many 
+faces that adorn his ancient suit of Bel-Anshoc armour represent the 
+personalities he can take in battle, which include the sure blade of an 
+Exarch and the acrobatic prowess of a Drukhari Wych.
+
+WARGEAR OPTIONS
+ ■   None
+
+UNIT COMPOSITION
+ ■ 1 Visarch – Epic Hero
+This model is equipped with: Asu-var, the Sword of 
+Silent Screams.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Corsair Voidreavers
+ ■ Corsair Voidscarred
+ ■ Guardian Defenders
+ ■ Kabalite Warriors (see Drukhari)
+ ■ Storm Guardians
+ ■ Troupe
+ ■ Wyches (see Drukhari)
+You can attach this unit to one of the above units, even if 
+Yvraine has already been attached to it. If you do, and that 
+Bodyguard unit is destroyed, the Leader units attached to it 
+become separate units, with their original Starting Strengths.
+
+KEYWORDS: Infantry, Character, Epic Hero, Ynnari, The Visarch
+
+FACTION KEYWORDS:  
+Aeldari
+
+THE YNCARNE
+
+M
+
+T
+
+10" 10
+
+SV
+
+2+
+
+W
+
+12
+
+LD
+
+6+
+
+OC
+
+3
+
+RANGED WEAPONS
+Swirling soul energy [IGNORES COVER, PSYCHIC, TORRENT]
+
+MELEE WEAPONS
+Vilith-zhar, the Sword of Souls – strike 
+Vilith-zhar, the Sword of Souls – sweep 
+
+RANGE
+
+12"
+
+RANGE
+Melee
+Melee
+
+A
+
+D6+3
+
+A
+5
+10
+
+BS
+N/A
+
+WS
+2+
+2+
+
+S
+7
+
+S
+12
+6
+
+AP
+-1
+
+AP
+-4
+-4
+
+D
+D3
+
+D
+D6+1
+
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Strands of Fate
+
+Inevitable Death: Once per phase, if this model is on the 
+battlefield, when another unit is destroyed, just after 
+removing the last model in that unit, you can remove this 
+model from the battlefield and set it up again as close as 
+possible to where that destroyed model was and not within 
+Engagement Range of any enemy models. 
+Deathly Form: Each time an attack is allocated to this model, 
+halve the Damage characteristic of that attack.
+
+INVULNERABLE SAVE
+
+4+
+
+Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Monster, Character, Epic Hero, Fly, Psyker, Daemon, Ynnari, 
+
+The Yncarne
+
+FACTION KEYWORDS:  
+Aeldari
+
+THE YNCARNE
+Once it has torn into realspace, the Yncarne advances on its enemies 
+amidst a vortex of deathly whispers. It is a roaring psychic hurricane 
+that rips the life from those who earn its ire. Nearby Ynnari are 
+invigorated by its chilling power, while foes are turned to dust by the 
+Yncarne’s gaze, or sliced in two by its sweeping blows.
+
+WARGEAR OPTIONS
+ ■   None
+
+UNIT COMPOSITION
+ ■ 1 Yncarne – Epic Hero
+This model is equipped with: swirling soul energy; Vilith-zhar, 
+the Sword of Souls.
+
+KEYWORDS:  Monster, Character, Epic Hero, Fly, Psyker, Daemon, Ynnari, 
+
+The Yncarne
+
+FACTION KEYWORDS:  
+Aeldari
+
+TROUPE
+
+M
+
+8"
+
+T
+
+3
+
+SV
+
+6+
+
+W
+
+1
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Fusion pistol [ASSAULT, MELTA 2, PISTOL]
+Neuro disruptor [ANTI-INFANTRY 2+, ASSAULT, PISTOL]
+Shuriken pistol [ASSAULT, PISTOL]
+
+MELEE WEAPONS
+Aeldari power sword 
+Harlequin’s blade 
+Harlequin’s special weapon 
+
+RANGE
+
+6"
+12"
+12"
+
+RANGE
+Melee
+Melee
+Melee
+
+A
+1
+1
+1
+
+A
+5
+5
+4
+
+BS
+3+
+3+
+3+
+
+WS
+3+
+3+
+3+
+
+S
+8
+4
+4
+
+S
+4
+3
+4
+
+AP
+-4
+0
+-1
+
+AP
+-2
+0
+-1
+
+D
+D3
+1
+1
+
+D
+1
+1
+1
+
+ABILITIES
+
+FACTION: Strands of Fate
+
+Harlequin Assault: Each time this unit makes a Charge move, 
+until the end of the turn, each time a model in this unit makes 
+a melee attack, add 1 to the Wound roll.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS: Infantry, Grenades, Harlequins, Troupe
+
+FACTION KEYWORDS:  
+Aeldari
+
+TROUPE
+The Players of Harlequin Troupes perform with breathtaking skill, 
+whether their stage is a wraithbone and glass amphitheatre bathed in 
+crystalline light, or the firelit hell of the battlefield. They tumble, sprint 
+and leap with beautiful agility, every squeeze of a trigger and slash of 
+a blade bringing death to the enemy.
+
+WARGEAR OPTIONS
+ ■  Any number of models can each have their Harlequin’s blade replaced with 1 Harlequin’s 
+
+special weapon.
+
+ ■  The Lead Player’s Harlequin’s blade can be replaced with 1 Aeldari power sword.
+ ■ If this unit contains 10 or fewer models:
+
+ ◦  Up to two models can each have their shuriken pistol replaced with 1 neuro disruptor
+ ◦  Up to two models can each have their shuriken pistol replaced with 1 fusion pistol
+
+ ■ If this unit contains 11 or more models:
+
+ ◦  Up to four models can each have their shuriken pistol replaced with 1 neuro disruptor
+ ◦  Up to four models can each have their shuriken pistol replaced with 1 fusion pistol
+
+UNIT COMPOSITION
+ ■ 1 Lead Player
+ ■ 4-11 Players
+Every model is equipped with: shuriken pistol; 
+Harlequin’s blade.
+
+KEYWORDS: Infantry, Grenades, Harlequins, Troupe
+
+FACTION KEYWORDS:  
+Aeldari
+
+TROUPE MASTER
+
+M
+
+8"
+
+T
+
+3
+
+SV
+
+6+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Fusion pistol [ASSAULT, MELTA 2, PISTOL]
+Neuro disruptor [ANTI-INFANTRY 2+, ASSAULT, PISTOL]
+Shuriken pistol [ASSAULT, PISTOL]
+
+MELEE WEAPONS
+Harlequin’s special weapon 
+Troupe Master’s blade 
+
+RANGE
+
+6"
+12"
+12"
+
+RANGE
+Melee
+Melee
+
+A
+1
+1
+1
+
+A
+5
+6
+
+BS
+2+
+2+
+2+
+
+WS
+2+
+2+
+
+S
+8
+4
+4
+
+S
+4
+4
+
+AP
+-4
+0
+-1
+
+AP
+-1
+-2
+
+D
+D3
+1
+1
+
+D
+1
+1
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Strands of Fate
+
+Choreographer of War: While this model is leading a unit, 
+melee weapons equipped by models in that unit have the 
+[DEVASTATING WOUNDS] ability.
+Cegorach’s Favour: Once per turn, when you use a Fate dice 
+to substitute a Hit roll, a Wound roll or a saving throw made for 
+this model, you can first change the result of that Fate dice 
+to a 6.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS: Infantry, Character, Grenades, Harlequins, Troupe Master
+
+FACTION KEYWORDS:  
+Aeldari
+
+TROUPE MASTER
+Choreographers of conflict, Troupe Masters direct their comrades’ 
+reactions to the fates of battle and ensure their performance in the 
+theatre of war is as perfect as it can be. They are blisteringly swift and 
+deadly warriors, and with the consent of their peers they act as focal 
+points of their Troupes.
+
+WARGEAR OPTIONS
+ ■  This model’s shuriken pistol can be replaced with one of the following:
+
+ ◦ 1 fusion pistol
+ ◦ 1 neuro disruptor
+
+ ■  This model’s Troupe Master’s blade can be replaced with 1 Harlequin’s special weapon.
+
+UNIT COMPOSITION
+ ■ 1 Troupe Master
+This model is equipped with: shuriken pistol; Troupe 
+Master’s blade.
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Troupe
+
+TROUPE MASTER
+
+If this model is your Warlord, Troupe units from your army 
+have the Battleline keyword.
+
+KEYWORDS: Infantry, Character, Grenades, Harlequins, Troupe Master
+
+FACTION KEYWORDS:  
+Aeldari
+
+VOIDWEAVER
+
+M
+
+14"
+
+T
+
+6
+
+SV
+
+4+
+
+W
+
+6
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Prismatic cannon – dispersed pulse [BLAST]
+Prismatic cannon – focused lances 
+Shuriken cannon [SUSTAINED HITS 1]
+Voidweaver haywire cannon 
+[ANTI-VEHICLE 4+,  DEVASTATING WOUNDS]
+
+MELEE WEAPONS
+Close combat weapon
+
+RANGE
+
+36"
+36"
+24"
+
+24"
+
+RANGE
+Melee
+
+A
+2D6
+2
+3
+
+3
+
+A
+4
+
+BS
+3+
+3+
+3+
+
+3+
+
+WS
+3+
+
+S
+4
+12
+6
+
+4
+
+S
+3
+
+AP
+0
+-3
+-1
+
+-1
+
+AP
+0
+
+D
+1
+4
+2
+
+3
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise 1
+
+FACTION: Strands of Fate
+
+Devastating Assault: In your Shooting phase, after this model 
+has shot, select one enemy unit hit by one or more of those 
+attacks. That enemy unit must take a Battle-shock test.
+
+INVULNERABLE SAVE
+
+4+
+
+Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Vehicle, Fly, Smoke, Harlequins, Voidweaver
+
+FACTION KEYWORDS:  
+Aeldari
+
+VOIDWEAVER
+The Voidweaver’s potent combination of versatile weapons, lightweight 
+psychoplastic armour, hyper-velocity and polychromatic camouflage 
+make them exceptionally dangerous attack craft. Deadly on the 
+ambush, groups of Voidweavers can rip apart enemy battle tanks or 
+slaughter whole squads of infantry.
+
+WARGEAR OPTIONS
+ ■   This model’s Voidweaver haywire cannon can be replaced with 1 prismatic cannon.
+
+UNIT COMPOSITION
+ ■ 1 Voidweaver
+This model is equipped with: 2 shuriken cannons; Voidweaver 
+haywire cannon; close combat weapon.
+
+KEYWORDS: Vehicle, Fly, Smoke, Harlequins, Voidweaver
+
+FACTION KEYWORDS:  
+Aeldari
+
+VYPERS
+
+M
+
+14"
+
+T
+
+6
+
+SV
+
+3+
+
+W
+
+6
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Aeldari missile launcher – starshot 
+Aeldari missile launcher – sunburst [BLAST]
+Bright lance 
+Scatter laser 
+Shuriken cannon [SUSTAINED HITS 1]
+Starcannon 
+Twin shuriken catapult [ASSAULT, TWIN-LINKED]
+
+MELEE WEAPONS
+Wraithbone hull 
+
+RANGE
+
+48"
+48"
+36"
+36"
+24"
+36"
+18"
+
+RANGE
+Melee
+
+A
+1
+D6
+1
+6
+3
+2
+2
+
+A
+3
+
+BS
+3+
+3+
+3+
+3+
+3+
+3+
+3+
+
+WS
+4+
+
+S
+10
+4
+12
+5
+6
+8
+4
+
+S
+6
+
+AP
+-2
+-1
+-3
+0
+-1
+-3
+-1
+
+AP
+0
+
+D
+D6
+1
+
+D6+2
+
+1
+2
+2
+1
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise 1
+
+FACTION: Strands of Fate
+
+Harassment Fire: In your Shooting phase, after this model 
+has shot, select one enemy unit hit by one or more of those 
+attacks. Until the end of the phase, that enemy unit cannot 
+have the Benefit of Cover.
+
+Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Vehicle, Fly, Vypers
+
+FACTION KEYWORDS:  
+Aeldari
+
+VYPERS
+These sleek skimmers offer a perfect compromise between the speed 
+of a jetbike and the heavier armament of a grav-tank. Well-drilled 
+Vyper squadrons move as one at breakneck speeds, evincing 
+incredible grace as their seated gunners blast at the vulnerable rear 
+armour of tanks, or harass the flanks of infantry squads.
+
+WARGEAR OPTIONS
+ ■    Any number of models can each have their shuriken cannon replaced with one of the following: 
+
+ ◦ 1 Aeldari missile launcher
+ ◦ 1 bright lance
+ ◦ 1 scatter laser
+ ◦ 1 starcannon
+
+UNIT COMPOSITION
+ ■ 1 Vyper
+This model is equipped with: shuriken cannon; twin shuriken 
+catapult; wraithbone hull.
+
+KEYWORDS: Vehicle, Fly, Vypers
+
+FACTION KEYWORDS:  
+Aeldari
+
+WAR WALKERS
+
+M
+
+10"
+
+T
+
+7
+
+SV
+
+3+
+
+W
+
+6
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Aeldari missile launcher – starshot 
+Aeldari missile launcher – sunburst [BLAST]
+Bright lance 
+Scatter laser 
+Shuriken cannon [SUSTAINED HITS 1]
+Starcannon 
+
+MELEE WEAPONS
+War Walker feet 
+
+RANGE
+
+48"
+48"
+36"
+36"
+24"
+36"
+
+RANGE
+Melee
+
+A
+1
+D6
+1
+6
+3
+2
+
+A
+3
+
+BS
+3+
+3+
+3+
+3+
+3+
+3+
+
+WS
+3+
+
+S
+10
+4
+12
+5
+6
+8
+
+S
+5
+
+AP
+-2
+-1
+-3
+0
+-1
+-3
+
+AP
+0
+
+D
+D6
+1
+
+D6+2
+
+1
+2
+2
+
+D
+1
+
+ABILITIES
+
+CORE: Scouts 9"
+
+FACTION: Strands of Fate
+
+Power Field: Each time a ranged attack targets this unit, 
+subtract 1 from the Wound roll.
+
+INVULNERABLE SAVE
+
+4+
+
+Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Vehicle, Walker, War Walkers
+
+FACTION KEYWORDS:  
+Aeldari
+
+WAR WALKERS
+The graceful, bipedal War Walkers often take to the field in the 
+vanguard of Asuryani armies. Highly agile, they are also heavily 
+armed, carrying two heavy weapons to eliminate foes before they can 
+strike back. A formidable power field of invisible energy protects each 
+War Walker, blurring and distorting its outline and shielding the pilot.
+
+WARGEAR OPTIONS
+ ■  Each model can have each shuriken cannon it is equipped with replaced with one of the following: 
+
+ ◦ 1 Aeldari missile launcher
+ ◦ 1 bright lance
+ ◦ 1 scatter laser
+ ◦ 1 starcannon
+
+UNIT COMPOSITION
+ ■ 1 War Walker
+This model is equipped with: 2 shuriken cannons; War 
+Walker feet.
+
+KEYWORDS: Vehicle, Walker, War Walkers
+
+FACTION KEYWORDS:  
+Aeldari
+
+WARLOCK SKYRUNNER
+
+M
+
+14"
+
+T
+
+4
+
+SV
+
+3+
+
+W
+
+3
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Destructor [PSYCHIC, TORRENT]
+Shuriken pistol [ASSAULT, PISTOL]
+Singing spear [ASSAULT, PSYCHIC]
+Twin shuriken catapult [ASSAULT, TWIN-LINKED]
+
+MELEE WEAPONS
+Singing spear [PSYCHIC]
+Witchblade [ANTI-INFANTRY 2+, PSYCHIC]
+
+RANGE
+
+12"
+12"
+12"
+18"
+
+RANGE
+Melee
+Melee
+
+A
+D6
+1
+1
+2
+
+A
+2
+2
+
+BS
+N/A
+3+
+3+
+3+
+
+WS
+3+
+3+
+
+S
+5
+4
+9
+4
+
+S
+3
+3
+
+AP
+-1
+-1
+0
+-1
+
+AP
+0
+0
+
+D
+1
+1
+3
+1
+
+D
+3
+2
+
+ABILITIES
+
+FACTION: Leader, Strands of Fate
+
+Runes of Battle (Psychic): In your Command phase, select 
+one of the following to take effect until the start of your next 
+Command phase:
+ ■  Conceal: Models in this model’s unit have the Stealth ability.
+ ■  Reveal: Ranged weapons equipped by models in this 
+
+model’s unit have the [IGNORES COVER] ability. 
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS: Mounted, Character, Fly, Psyker, Warlock, Warlock Skyrunner
+
+FACTION KEYWORDS:  
+Aeldari
+
+WARLOCK SKYRUNNER
+Jetbikes add great speed to Warlocks’ already formidable array 
+of powers. Many craftworlds deploy entire Skyrunner conclaves, 
+although such formations are especially common in the Wild Rider 
+clans of Saim-Hann.
+
+WARGEAR OPTIONS
+ ■ This model’s witchblade can be replaced with 1 singing spear.
+
+UNIT COMPOSITION
+ ■ 1 Warlock Skyrunner
+This model is equipped with: Destructor; shuriken pistol; 
+twin shuriken catapult; witchblade.
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Windriders
+You can attach this unit to the above unit, even if one other 
+Leader unit (excluding Warlock units) has already been 
+attached to it. If you do, and that Bodyguard unit is destroyed, 
+the Leader units attached to it become separate units, with 
+their original Starting Strengths.
+
+KEYWORDS: Mounted, Character, Fly, Psyker, Warlock, Warlock Skyrunner
+
+FACTION KEYWORDS:  
+Aeldari
+
+WARLOCK
+
+M
+
+7"
+
+T
+
+3
+
+SV
+
+6+
+
+W
+
+2
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Destructor [PSYCHIC, TORRENT]
+Shuriken pistol [ASSAULT, PISTOL]
+Singing spear [ASSAULT, PSYCHIC]
+
+MELEE WEAPONS
+Singing spear [PSYCHIC]
+Witchblade [ANTI-INFANTRY 2+, PSYCHIC]
+
+RANGE
+
+12"
+12"
+12"
+
+RANGE
+Melee
+Melee
+
+A
+D6
+1
+1
+
+A
+2
+2
+
+BS
+N/A
+3+
+3+
+
+WS
+3+
+3+
+
+S
+5
+4
+9
+
+S
+3
+3
+
+AP
+-1
+-1
+0
+
+AP
+0
+0
+
+D
+1
+1
+3
+
+D
+3
+2
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Strands of Fate
+
+Runes of Fortune (Psychic): In your Command phase, select 
+one of the following to take effect until the start of your next 
+Command phase:
+ ■  Quicken: Each time this model’s unit Advances, do not make 
+
+an Advance roll. Instead, until the end of the phase, add 6" 
+to the Move characteristic of models in that unit. 
+
+ ■  Restrain: Each time an enemy unit declares a charge, if this 
+model’s unit is selected as a target of that charge, subtract 
+2 from the Charge roll. The same enemy unit can only be 
+affected in this way once per phase.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS: Infantry, Character, Psyker, Warlock
+
+FACTION KEYWORDS:  
+Aeldari
+
+WARLOCK
+Seers who have trained as Aspect Warriors find it easier to develop 
+destructive psychic powers. These Aeldari are called Warlocks. In 
+battle, they frequently band together in conclaves to pool their eldritch 
+power, or else lead other Aeldari squads such as Guardians from the 
+front. Casting the runes of battle, they wreak havoc on the foe.
+
+WARGEAR OPTIONS
+ ■     This model’s witchblade can be replaced with 1 singing spear.
+
+UNIT COMPOSITION
+ ■ 1 Warlock
+This model is equipped with: Destructor; shuriken 
+pistol; witchblade.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Guardian Defenders
+ ■ Storm Guardians
+You can attach this model to one of the above units, even if 
+one other Leader unit (excluding Warlock units) has already 
+been attached to it. If you do, and that Bodyguard unit is 
+destroyed, the Leader units attached to it become separate 
+units, with their original Starting Strengths.
+
+KEYWORDS: Infantry, Character, Psyker, Warlock
+
+FACTION KEYWORDS:  
+Aeldari
+
+WARP SPIDERS
+
+M
+
+12"
+
+12"
+
+T
+
+3
+
+3
+
+SV
+
+3+
+
+3+
+
+W
+
+1
+
+2
+
+LD
+
+6+
+
+6+
+
+OC
+
+1
+
+WARP SPIDER
+
+1 WARP SPIDER EXARCH
+
+RANGED WEAPONS
+Death spinner [DEVASTATING WOUNDS, TORRENT]
+
+MELEE WEAPONS
+Close combat weapon 
+Powerblades 
+
+RANGE
+
+12"
+
+RANGE
+Melee
+Melee
+
+A
+D6
+
+A
+2
+3
+
+BS
+N/A
+
+WS
+3+
+3+
+
+S
+4
+
+S
+3
+4
+
+AP
+0
+
+AP
+0
+-2
+
+D
+1
+
+D
+1
+1
+
+ABILITIES
+
+CORE: Deep Strike
+
+FACTION: Strands of Fate
+
+Flickerjump: In your Movement phase, when this unit makes 
+a Normal move, it can make a flickerjump. If it does, until the 
+end of the phase, its Move characteristic is changed to 24" 
+but you must roll one D6 after this unit ends that move: on 
+a 1, this unit suffers 1 mortal wound. This unit is not eligible 
+to declare a charge in the same turn in which it makes 
+a flickerjump.
+
+INVULNERABLE SAVE
+
+5+
+
+KEYWORDS: Infantry, Jump Pack, Fly, Warp Spiders
+
+FACTION KEYWORDS:  
+Aeldari
+
+WARP SPIDERS
+Warp Spiders attack without warning. They do this with their jump 
+generators – arcane dimensional devices that allow them to make 
+short but dangerous leaps through the immaterium. When they return 
+to reality, Warp Spiders fire clouds of razor-sharp monofilament wire at 
+the foe, slicing them apart as they writhe in a doomed effort to escape.
+
+WARGEAR OPTIONS
+ ■       The Warp Spider Exarch can be equipped with 1 additional death spinner and 1 powerblades.
+
+UNIT COMPOSITION
+ ■ 1 Warp Spider Exarch
+ ■ 4-9 Warp Spiders
+Every model is equipped with: death spinner; close 
+combat weapon.
+
+KEYWORDS: Infantry, Jump Pack, Fly, Warp Spiders
+
+FACTION KEYWORDS:  
+Aeldari
+
+WAVE SERPENT
+
+M
+
+14"
+
+T
+
+9
+
+SV
+
+3+
+
+W
+
+13
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Shuriken cannon [SUSTAINED HITS 1]
+Twin Aeldari missile launcher – starshot 
+[TWIN-LINKED]
+Twin Aeldari missile launcher – sunburst 
+[BLAST, TWIN-LINKED]
+Twin bright lance [TWIN-LINKED]
+Twin scatter laser [TWIN-LINKED]
+Twin shuriken cannon [SUSTAINED HITS 1, TWIN-LINKED]
+Twin shuriken catapult [ASSAULT, TWIN-LINKED]
+Twin starcannon [TWIN-LINKED]
+
+MELEE WEAPONS
+Wraithbone hull 
+
+RANGE
+
+24"
+
+48"
+
+48"
+
+36"
+36"
+24"
+18"
+36"
+
+RANGE
+Melee
+
+A
+3
+
+1
+
+D6
+
+1
+6
+3
+2
+4
+
+A
+3
+
+BS
+3+
+
+3+
+
+3+
+
+3+
+3+
+3+
+3+
+3+
+
+WS
+4+
+
+S
+6
+
+10
+
+4
+
+12
+5
+6
+4
+8
+
+S
+6
+
+AP
+-1
+
+-2
+
+-1
+
+-3
+0
+-1
+-1
+-3
+
+AP
+0
+
+D
+2
+
+D6
+
+1
+
+D6+2
+
+1
+2
+1
+2
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Strands of Fate
+
+Wave Serpent Shield: Once per battle, you can select one 
+enemy unit that is within 12" of and visible to this model 
+and roll one D6: on a 2+, that enemy unit suffers D3 mortal 
+wounds and must take a Battle-shock test.
+
+INVULNERABLE SAVE
+
+5+
+
+Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Vehicle, Transport, Dedicated Transport, Fly, Wave Serpent
+
+FACTION KEYWORDS:  
+Aeldari
+
+WAVE SERPENT
+The main troop carriers in a craftworld’s arsenal, Wave Serpents 
+transport warriors to any part of the battlefield at immense speeds. 
+These troops are protected by a powerful energy field – which can also 
+be projected forward as a weapon in extremis – and receive covering 
+fire from the vehicle’s powerful array of heavy weapons.
+
+WARGEAR OPTIONS
+ ■   This model’s twin shuriken cannon can be replaced with one of the following: 
+
+ ◦ 1 twin Aeldari missile launcher
+ ◦ 1 twin bright lance
+ ◦ 1 twin scatter laser
+ ◦ 1 twin starcannon
+
+ ■  This model’s twin shuriken catapult can be replaced with 1 shuriken cannon.
+
+UNIT COMPOSITION
+ ■ 1 Wave Serpent
+This model is equipped with: twin shuriken cannon; twin 
+shuriken catapult; wraithbone hull.
+
+TRANSPORT
+
+This model has a transport capacity of 12 Aeldari Infantry 
+models. Each Wraith Construct model takes the space of 2 
+models. It cannot transport Jump Pack models.
+
+KEYWORDS: Vehicle, Transport, Dedicated Transport, Fly, Wave Serpent
+
+FACTION KEYWORDS:  
+Aeldari
+
+WEBWAY GATE
+
+M
+
+-
+
+T
+
+12
+
+SV
+
+3+
+
+W
+
+14
+
+LD
+
+6+
+
+OC
+
+0
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Strands of Fate
+
+Arcane Cover: Each time a ranged attack is allocated to a model, if that model is not 
+fully visible to every model in the attacking unit because of this Fortification, that 
+model has the Benefit of Cover against that attack.
+Webway Strike: Each time a friendly Aeldari unit arrives from Strategic Reserves, 
+you can choose to set it up anywhere on the battlefield that is wholly within 6" of this 
+Fortification. If you do, that Aeldari unit can be set up within 9" of enemy models, 
+and can be set up within Engagement Range of enemy models. If an Aeldari unit 
+is set up within Engagement Range of any enemy models in this way, it counts as 
+having made a Charge move this turn and is eligible to fight this turn.
+Fortification: While an enemy unit is only within Engagement Range of one or more 
+Fortifications from your army:
+ ■  That unit can still be selected as the target of ranged attacks, but each time such 
+
+an attack is made, unless it is made with a Pistol, subtract 1 from the Hit roll.
+
+ ■  Models in that unit do not need to take Desperate Escape tests due to Falling Back 
+
+while Battle-shocked, except for those that will move over enemy models when 
+doing so.
+
+KEYWORDS: Fortification, Webway Gate
+
+FACTION KEYWORDS:  
+Aeldari
+
+WEBWAY GATE
+Webway Gates allow the Aeldari access to the boundless 
+corridors of the labyrinth dimension. Remnants of the 
+lost Aeldari empire, millions of these portals are scattered 
+across the galaxy, and every craftworld has a nexus of such 
+constructs to enable their people to travel where they need to.
+
+UNIT COMPOSITION
+ ■ 2 Wraithbone Arches
+This unit is equipped with: nothing.
+
+WARGEAR OPTIONS
+ ■   None
+
+DEPLOYMENT
+
+Both Wraithbone Arches of this Fortification must be set up 
+with their upper points no more than 1" apart and with both 
+statues facing in fully opposite directions so that an arch is 
+formed, as shown on the right. Both arches are then treated 
+as a single model for all rules purposes.
+
+KEYWORDS: Fortification, Webway Gate
+
+FACTION KEYWORDS:  
+Aeldari
+
+WINDRIDERS
+
+M
+
+14"
+
+T
+
+4
+
+SV
+
+3+
+
+W
+
+2
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Scatter laser 
+Shuriken cannon [SUSTAINED HITS 1]
+Twin shuriken catapult [ASSAULT, TWIN-LINKED]
+
+MELEE WEAPONS
+Close combat weapon 
+
+RANGE
+
+36"
+24"
+18"
+
+RANGE
+Melee
+
+A
+6
+3
+2
+
+A
+3
+
+BS
+3+
+3+
+3+
+
+WS
+3+
+
+S
+5
+6
+4
+
+S
+3
+
+AP
+0
+-1
+-1
+
+AP
+0
+
+D
+1
+2
+1
+
+D
+1
+
+ABILITIES
+
+FACTION: Strands of Fate
+
+Swift Demise: Each time a model in this unit makes a ranged 
+attack that targets the closest eligible target, re-roll a Hit roll 
+of 1. If the target of that attack is within range of an objective 
+marker your opponent controls, you can re-roll the Hit 
+roll instead.
+
+KEYWORDS: Mounted, Fly, Windriders
+
+FACTION KEYWORDS:  
+Aeldari
+
+WINDRIDERS
+The jetbikes ridden by the Windriders can cross leagues in the space 
+of a few heartbeats, and to master such incredible machines takes 
+great skill. Windriders are expected to do this and more, for in battle 
+they must be able to shred what resistance they encounter with 
+devastating bursts of fire from their jetbikes’ attached weapons.
+
+WARGEAR OPTIONS
+ ■  Any number of models can each have their twin shuriken catapult replaced with one of the following: 
+
+ ◦ 1 scatter laser
+ ◦ 1 shuriken cannon
+
+UNIT COMPOSITION
+ ■ 3-9 Windriders
+Every model is equipped with: twin shuriken catapult; close 
+combat weapon.
+
+KEYWORDS: Mounted, Fly, Windriders
+
+FACTION KEYWORDS:  
+Aeldari
+
+WRAITHBLADES
+
+M
+
+6"
+
+T
+
+7
+
+SV
+
+2+
+
+W
+
+3
+
+LD
+
+6+
+
+OC
+
+1
+
+MELEE WEAPONS
+Ghostaxe 
+Ghostswords 
+
+RANGE
+Melee
+Melee
+
+A
+3
+5
+
+WS
+4+
+4+
+
+S
+7
+6
+
+AP
+-2
+-2
+
+D
+2
+1
+
+ABILITIES
+
+FACTION: Strands of Fate
+
+Malevolent Souls: Each time a model in this unit is destroyed 
+by a melee attack, if that model has not fought this phase, roll 
+one D6. On a 4+, do not remove it from play; that destroyed 
+model can fight after the attacking model’s unit has finished 
+making its attacks, and is then removed from play.
+
+WARGEAR ABILITIES
+
+Forceshield: The bearer has a 4+ invulnerable save.
+
+KEYWORDS: Infantry, Wraith Construct, Wraithblades
+
+FACTION KEYWORDS:  
+Aeldari
+
+WRAITHBLADES
+Wraithblades are inhabited by wrathful spirits who are eager to get to 
+grips with the foe. Armed with ghostswords or ghostaxes, they cleave 
+their foes apart, each blow driven further by the power of the spirit 
+stones implanted into the weapons. These stones are inhabited by 
+malevolent souls that rage against their confinement.
+
+WARGEAR OPTIONS
+ ■   All of the models in this unit can each have their ghostswords replaced with 1 ghostaxe and 
+
+1 forceshield.
+
+UNIT COMPOSITION
+ ■ 5-10 Wraithblades
+Every model is equipped with: ghostswords.
+
+KEYWORDS: Infantry, Wraith Construct, Wraithblades
+
+FACTION KEYWORDS:  
+Aeldari
+
+WRAITHGUARD
+
+M
+
+6"
+
+T
+
+7
+
+SV
+
+2+
+
+W
+
+3
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Wraithcannon [DEVASTATING WOUNDS]
+D-scythe
+
+MELEE WEAPONS
+Close combat weapon 
+
+RANGE
+
+18"
+12"
+
+RANGE
+Melee
+
+A
+1
+D6
+
+A
+3
+
+BS
+4+
+4+
+
+WS
+4+
+
+S
+14
+10
+
+S
+5
+
+AP
+-4
+-4
+
+AP
+0
+
+D
+D6
+1
+
+D
+1
+
+ABILITIES
+
+FACTION: Strands of Fate
+
+War Construct: Once per battle round, when an enemy 
+unit targets this unit, after that unit has finished making 
+its attacks, this unit can shoot as if it were your Shooting 
+phase. When doing so, this unit’s ranged weapons have the 
+[PISTOL] ability.
+
+KEYWORDS: Infantry, Wraith Construct, Wraithguard
+
+FACTION KEYWORDS:  
+Aeldari
+
+WRAITHGUARD
+Wraithguard are all but impervious to pain. This is vitally important, for 
+their D-scythes and wraithcannons are short-ranged, and require them 
+to advance close to the foe. These immensely powerful weapons fire 
+arcane beams that open a momentary rift between realspace and the 
+warp, capable of tearing any target apart.
+
+WARGEAR OPTIONS
+ ■  All of the models in this unit can each have their wraithcannon replaced with 1 D-scythe.
+
+UNIT COMPOSITION
+ ■ 5-10 Wraithguard
+Every model is equipped with: wraithcannon; close 
+combat weapon.
+
+KEYWORDS: Infantry, Wraith Construct, Wraithguard
+
+FACTION KEYWORDS:  
+Aeldari
+
+WRAITHKNIGHT
+
+M
+
+T
+
+10" 12
+
+SV
+
+2+
+
+W
+
+18
+
+LD
+
+6+
+
+OC
+
+10
+
+RANGED WEAPONS
+Heavy wraithcannon [BLAST, DEVASTATING WOUNDS]
+Scatter laser 
+Shuriken cannon [SUSTAINED HITS 1]
+Starcannon 
+Suncannon 
+
+MELEE WEAPONS
+Titanic feet 
+Titanic ghostglaive – strike 
+Titanic ghostglaive – sweep 
+
+RANGE
+
+36"
+36"
+24"
+36"
+48"
+
+RANGE
+Melee
+Melee
+Melee
+
+A
+D3
+6
+3
+2
+2D6
+
+A
+5
+5
+15
+
+BS
+3+
+3+
+3+
+3+
+3+
+
+WS
+3+
+3+
+3+
+
+S
+20
+5
+6
+8
+8
+
+S
+8
+16
+8
+
+AP
+-4
+0
+-1
+-3
+-3
+
+AP
+-1
+-3
+-2
+
+D
+2D6
+1
+2
+2
+3
+
+D
+2
+6
+2
+
+ABILITIES
+
+CORE: Deadly Demise D6
+
+FACTION: Strands of Fate
+
+Agile: Each time this model makes a Normal, Advance or Fall 
+Back move, it can move over other models (excluding Titanic 
+models) and terrain features that are 4" or less in height as if 
+they were not there.
+Wraithbone Form: Each time an attack is allocated to this 
+model, subtract 1 from that attack’s Damage characteristic.
+
+WARGEAR ABILITIES
+
+Scattershield: The bearer has a 4+ invulnerable save.
+
+DAMAGED: 1-6 WOUNDS REMAINING
+
+While this model has 1-6 wounds remaining, subtract 5 from 
+this model’s Objective Control characteristic and each time 
+this model makes an attack, subtract 1 from the Hit roll.
+
+Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Monster, Titanic, Towering, Walker, Wraith Construct, 
+
+Wraithknight
+
+FACTION KEYWORDS:  
+Aeldari
+
+WRAITHKNIGHT
+Few foes can stand up to the power of a Wraithknight. Those armed 
+with a heavy wraithcannon can throw targets straight into the 
+hell-dimension of the warp, while the suncannon can doom masses of 
+soldiers in plasma blasts. Wraithknights that wield a ghostglaive and 
+scattershield are amply equipped to duel even titanic war engines.
+
+WARGEAR OPTIONS
+ ■   This model’s titanic ghostglaive can be replaced with one of the following:
+
+ ◦ 1 heavy wraithcannon
+ ◦ 1 suncannon
+
+ ■  This model’s scattershield can be replaced with 1 heavy wraithcannon.
+ ■  This model can be equipped with up to two of the following: 
+
+ ◦ 1 scatter laser
+ ◦ 1 shuriken cannon
+ ◦ 1 starcannon
+
+UNIT COMPOSITION
+ ■ 1 Wraithknight
+This model is equipped with: titanic ghostglaive; titanic 
+feet; scattershield.
+
+KEYWORDS:  Monster, Titanic, Towering, Walker, Wraith Construct, 
+
+Wraithknight
+
+FACTION KEYWORDS:  
+Aeldari
+
+WRAITHLORD
+
+M
+
+8"
+
+T
+
+11
+
+SV
+
+2+
+
+W
+
+10
+
+LD
+
+6+
+
+OC
+
+3
+
+RANGED WEAPONS
+Aeldari missile launcher – starshot 
+Aeldari missile launcher – sunburst [BLAST]
+Aeldari flamer [ASSAULT, IGNORES COVER, TORRENT]
+Bright lance 
+Scatter laser 
+Shuriken cannon [SUSTAINED HITS 1]
+Shuriken catapult [ASSAULT]
+Starcannon 
+
+MELEE WEAPONS
+Ghostglaive – strike 
+Ghostglaive – sweep 
+Wraithbone fists 
+
+RANGE
+
+48"
+48"
+12"
+36"
+36"
+24"
+18"
+36"
+
+RANGE
+Melee
+Melee
+Melee
+
+A
+1
+D6
+D6
+1
+6
+3
+2
+2
+
+A
+4
+8
+4
+
+BS
+4+
+4+
+N/A
+4+
+4+
+4+
+4+
+4+
+
+WS
+4+
+4+
+4+
+
+S
+10
+4
+4
+12
+5
+6
+4
+8
+
+S
+10
+7
+7
+
+AP
+-2
+-1
+0
+-3
+0
+-1
+-1
+-3
+
+AP
+-3
+-2
+-2
+
+D
+D6
+1
+1
+
+D6+2
+
+1
+2
+1
+2
+
+D
+D6+1
+
+2
+2
+
+ABILITIES
+
+CORE: Deadly Demise 1
+
+FACTION: Strands of Fate
+
+Fated Hero: Each time this model destroys an enemy unit, roll 
+one D6 and add it to your Fate dice pool displaying the result 
+you just rolled. 
+
+Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Monster, Walker, Wraith Construct, Wraithlord
+
+FACTION KEYWORDS:  
+Aeldari
+
+WRAITHLORD
+Wraithlords are lithe, towering wraithbone constructs powered by the 
+spirit of a fallen Aeldari hero. These mighty ghost warriors can wield 
+a swathe of armaments, ranging from energised fists and sentient 
+scimitars to heavy weapons capable of destroying battle tanks or 
+infantry squads at a distance.
+
+WARGEAR OPTIONS
+ ■  Each of this model’s shuriken catapults can be replaced with 1 Aeldari flamer.
+ ■ This model can be equipped with 1 ghostglaive.
+ ■  This model can be equipped with up to two of the following: 
+
+ ◦  1 Aeldari missile launcher
+ ◦ 1 bright lance
+ ◦ 1 scatter laser
+ ◦ 1 shuriken cannon
+ ◦ 1 starcannon
+
+UNIT COMPOSITION
+ ■ 1 Wraithlord
+This model is equipped with: 2 shuriken catapults; 
+wraithbone fists.
+
+KEYWORDS: Monster, Walker, Wraith Construct, Wraithlord
+
+FACTION KEYWORDS:  
+Aeldari
+
+YVRAINE
+
+M
+
+8"
+
+T
+
+3
+
+SV
+
+6+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Storm of Whispers 
+[ANTI-INFANTRY 2+, DEVASTATING WOUNDS, PSYCHIC]
+
+RANGE
+
+A
+
+12"
+
+D6+3
+
+MELEE WEAPONS
+Kha-vir, the Sword of Sorrows [DEVASTATING WOUNDS]
+
+RANGE
+Melee
+
+A
+5
+
+BS
+
+2+
+
+WS
+2+
+
+S
+
+2
+
+S
+4
+
+AP
+
+-2
+
+AP
+-3
+
+D
+
+1
+
+D
+2
+
+ABILITIES
+
+CORE: Deep Strike, Leader
+
+FACTION: Strands of Fate
+
+Herald of Ynnead: While this model is leading a unit, models 
+in that unit have the Feel No Pain 5+ ability.
+Word of the Phoenix (Psychic): While this model is leading a 
+unit, in your Command phase, you can roll one D6: on a 2+, D3 
+destroyed Bodyguard models are returned to that unit.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS: Infantry, Character, Epic Hero, Ynnari, Psyker, Yvraine
+
+FACTION KEYWORDS:  
+Aeldari
+
+YVRAINE
+Yvraine wields the Cronesword Kha-vir, the Sword of Sorrows, which 
+can turn an enemy to ash with the slightest touch. The power of 
+Ynnead manifests in her when she enters battle, to the extent that 
+the Reborn warriors that fight around her are transformed into bloody 
+blurs of violence.
+
+WARGEAR OPTIONS
+ ■   None
+
+UNIT COMPOSITION
+ ■ 1 Yvraine – Epic Hero
+This model is equipped with: Storm of Whispers; Kha-vir, the 
+Sword of Sorrows.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Corsair Voidscarred
+ ■ Corsair Voidreavers
+ ■ Guardian Defenders
+ ■ Kabalite Warriors (see Drukhari)
+ ■ Storm Guardians
+ ■ Troupe
+ ■ Wyches (see Drukhari)
+
+KEYWORDS: Infantry, Character, Epic Hero, Ynnari, Psyker, Yvraine
+
+FACTION KEYWORDS:  
+Aeldari
+
+WARLOCK SKYRUNNER CONCLAVE
+
+M
+
+14"
+
+T
+
+4
+
+SV
+
+3+
+
+W
+
+3
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Destructor [PSYCHIC, TORRENT]
+Shuriken pistol [ASSAULT, PISTOL]
+Singing spear [ASSAULT, PSYCHIC]
+Twin shuriken catapult [ASSAULT, TWIN-LINKED]
+
+MELEE WEAPONS
+Singing spear [PSYCHIC]
+Witchblade [ANTI-INFANTRY 2+, PSYCHIC]
+
+RANGE
+
+12"
+12"
+12"
+18"
+
+RANGE
+Melee
+Melee
+
+A
+D6
+1
+1
+2
+
+A
+2
+2
+
+BS
+N/A
+3+
+3+
+3+
+
+WS
+3+
+3+
+
+S
+5
+4
+9
+4
+
+S
+3
+3
+
+AP
+-1
+-1
+0
+-1
+
+AP
+0
+0
+
+D
+1
+1
+3
+1
+
+D
+3
+2
+
+ABILITIES
+
+FACTION: Strands of Fate
+
+Protect (Psychic): While a Farseer model is leading this 
+unit, each time an attack targets this unit, subtract 1 from the 
+Wound roll.
+Warlock Conclave: Models in this unit have the 
+Feel No Pain 4+ ability against Psychic Attacks.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS: Mounted, Fly, Psyker, Warlocks, Warlock Skyrunner Conclave
+
+FACTION KEYWORDS:  
+Aeldari
+
+WARLOCK SKYRUNNER CONCLAVE
+Jetbikes add great speed to Warlocks’ already formidable array 
+of powers. Many craftworlds deploy entire Skyrunner conclaves, 
+although such formations are especially common in the Wild Rider 
+clans of Saim-Hann.
+
+WARGEAR OPTIONS
+ ■ Any number of models can each have their witchblade replaced with 1 singing spear.
+
+UNIT COMPOSITION
+ ■ 2-3 Warlock Skyrunners
+Every model is equipped with: Destructor; shuriken pistol; 
+twin shuriken catapult; witchblade.
+
+KEYWORDS: Mounted, Fly, Psyker, Warlocks, Warlock Skyrunner Conclave
+
+FACTION KEYWORDS:  
+Aeldari
+
+WARLOCK CONCLAVE
+
+M
+
+7"
+
+T
+
+3
+
+SV
+
+6+
+
+W
+
+2
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Destructor [PSYCHIC, TORRENT]
+Shuriken pistol [ASSAULT, PISTOL]
+Singing spear [PSYCHIC, ASSAULT]
+
+MELEE WEAPONS
+Singing spear [PSYCHIC]
+Witchblade [ANTI-INFANTRY 2+, PSYCHIC]
+
+RANGE
+
+12"
+12"
+12"
+
+RANGE
+Melee
+Melee
+
+A
+D6
+1
+1
+
+A
+2
+2
+
+BS
+N/A
+3+
+3+
+
+WS
+3+
+3+
+
+S
+5
+4
+9
+
+S
+3
+3
+
+AP
+-1
+-1
+0
+
+AP
+0
+0
+
+D
+1
+1
+3
+
+D
+3
+2
+
+ABILITIES
+
+FACTION: Strands of Fate
+
+Protect (Psychic): While a Farseer model is leading this 
+unit, each time an attack targets this unit, subtract 1 from the 
+Wound roll.
+Warlock Conclave: Models in this unit have the 
+Feel No Pain 4+ ability against Psychic Attacks.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS: Infantry, Psyker, Warlocks, Warlock Conclave
+
+FACTION KEYWORDS:  
+Aeldari
+
+WARLOCK CONCLAVE
+Seers who have trained as Aspect Warriors find it easier to develop 
+destructive psychic powers. These Aeldari are called Warlocks. In 
+battle, they frequently band together in conclaves to pool their eldritch 
+power, or else lead other Aeldari squads such as Guardians from the 
+front. Casting the runes of battle, they wreak havoc on the foe.
+
+WARGEAR OPTIONS
+ ■     Any number of models can each have their witchblade replaced with 1 singing spear.
+
+UNIT COMPOSITION
+ ■ 2-4 Warlocks
+Every model is equipped with: Destructor; shuriken 
+pistol; witchblade.
+
+KEYWORDS: Infantry, Psyker, Warlocks, Warlock Conclave
+
+FACTION KEYWORDS:  
+Aeldari
+
+

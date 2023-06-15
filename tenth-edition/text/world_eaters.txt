@@ -1,0 +1,3617 @@
+WORLD EATERS
+ARMY RULE
+
+Khorne is the god of warfare and slaughter, and provides mighty boons to those who consecrate the battlefield 
+in his name.
+
+BLESSINGS OF KHORNE
+If your Army Faction is World Eaters, at the start of 
+the battle round, you can make a Blessings of Khorne 
+roll. To do so, roll eight D6. You can then use those dice 
+to activate up to two Blessings of Khorne from the 
+Blessings of Khorne list (see right). Each Blessing of 
+Khorne specifies the dice results it requires (where 
+a number is specified, a double or triple of that 
+value or higher is required). You can only activate 
+each Blessing of Khorne once per battle round. Any 
+unused dice from the Blessings of Khorne roll are 
+then discarded.
+
+Once activated, each Blessing of Khorne applies to all 
+units from your army with this ability until the end of 
+the battle round.
+
+Example: Ash makes their Blessings of Khorne roll 
+and gets the following dice: 1, 2, 2, 2, 3, 4, 6, 6.
+
+First they use the two 6s to activate Warp Blades 
+(which requires a double 5+), leaving the following 
+dice: 1, 2, 2, 2, 3, 4.
+
+They then use the two 2s to activate Wrathful 
+Devotion (which requires any double), leaving the 
+following dice: 1, 2, 3, 4.
+
+However, now that they have activated two Blessings 
+of Khorne, they cannot activate any more and the 
+remaining dice are discarded.
+
+RAGE-FUELLED INVIGORATION 
+ANY DOUBLE
+Add 2" to the Move characteristic of models in 
+this unit.
+
+WRATHFUL DEVOTION 
+ANY DOUBLE
+Models in this unit have the Feel No Pain 6+ ability. 
+If models in this unit already have the Feel No Pain 
+ability, add 1 to their Feel No Pain rolls.
+
+MARTIAL EXCELLENCE 
+DOUBLE 3+
+Melee weapons equipped by models in this unit have 
+the [SUSTAINED HITS 1] ability.
+
+TOTAL CARNAGE
+DOUBLE 4+ OR ANY TRIPLE
+Each time a model in this unit is destroyed by a 
+melee attack, if that model has not fought this phase, 
+roll one D6: on a 4+, do not remove it from play. The 
+destroyed model can fight after the attacking model’s 
+unit has finished making its attacks, and is then 
+removed from play.
+
+WARP BLADES
+DOUBLE 5+ OR ANY TRIPLE
+Melee weapons equipped by models in this unit have 
+the [LETHAL HITS] ability.
+
+UNBRIDLED BLOODLUST 
+DOUBLE 6 OR TRIPLE 4+
+This unit is eligible to declare a charge in a turn in 
+which it Advanced.
+
+WORLD EATERS – BERZERKER WARBAND
+DETACHMENT RULE
+
+If your Army Faction is World Eaters, you can use 
+this Berzerker Warband Detachment rule.
+
+RELENTLESS RAGE
+The World Eaters fight in a perpetual fury, 
+driven ever onwards to slaughter all who 
+stand in their way. All of their warriors have 
+been subject to horrific psycho-surgery, 
+implanted with crude devices that amplify 
+their aggression, while some also submit to 
+possession by the raging daemons of the 
+Blood God. Whatever drives their berserk 
+rage, these warriors only stop killing when 
+every foe lies in ruin at their feet – and 
+sometimes not even then.
+
+Each time a World Eaters unit from 
+your army is selected to fight, if 
+that unit made a Charge move 
+this turn, until the end of the 
+phase, add 1 to the Strength and 
+Attacks characteristics of melee 
+weapons equipped by models 
+in that unit.
+
+WORLD EATERS – BERZERKER WARBAND
+STRATAGEMS
+
+If you are using the Berzerker Warband Detachment rule, you can use these Berzerker 
+Warband Stratagems.
+
+GORY MASSACRE
+
+BERZERKER WARBAND – STRATEGIC PLOY STRATAGEM
+
+1CP
+
+Those who witness the massacres 
+inflicted by the World Eaters flee to avoid 
+being the next victims.
+
+1CP
+
+WHEN: Fight phase.
+TARGET: One World Eaters unit from 
+your army that made a Charge move this 
+turn and destroyed one or more enemy 
+units this phase.
+EFFECT: In your opponent’s next 
+Command phase, each enemy unit within 
+6" of your unit must take a Battle-shock 
+test. If the unit taking that test is Below 
+Half-strength, subtract 1 from that test. 
+Enemy units affected by this Stratagem 
+do not need to take any other Battle-shock 
+tests in the same phase.
+
+FOR THE SKULL THRONE!
+
+BERZERKER WARBAND – BATTLE TACTIC STRATAGEM
+
+2CP
+
+1CP
+
+Khorne rewards those who test their might 
+against the strongest foes, blessing the 
+greatest warriors with his favour.
+
+WHEN: Fight phase.
+TARGET: One World Eaters unit from 
+your army that has not been selected to 
+fight this phase.
+EFFECT: Until the end of the phase, 
+each time a model in your unit makes a 
+melee attack that targets a Character, 
+Monster or Vehicle unit, add 1 to the 
+Wound roll. 
+
+FOR THE BLOOD GOD!
+BERZERKER WARBAND – BATTLE TACTIC STRATAGEM
+
+When blood spills, the blessings of the 
+Blood God are bountiful.
+
+WHEN: Fight phase, just after a World 
+Eaters unit from your army destroys an 
+enemy unit.
+TARGET: That World Eaters unit.
+EFFECT: Make a Blessings of Khorne 
+roll. You can use the results of this roll 
+to activate one Blessing of Khorne. 
+That Blessing of Khorne does not count 
+towards your maximum number of 
+activated Blessings of Khorne, but all 
+other rules for Blessings of Khorne apply.
+
+KHORNE CARES NOT…
+
+BERZERKER WARBAND – STRATEGIC PLOY STRATAGEM
+
+Khorne cares not from whence the blood 
+flows, so long as it flows, and mere flesh 
+wounds will not stay the wrath of the 
+World Eaters.
+
+WHEN: Fight phase, just after an enemy 
+unit has selected its targets.
+TARGET: One World Eaters unit from 
+your army that was selected as the 
+target of one or more of that enemy 
+unit’s attacks.
+EFFECT: Until the end of the phase, each 
+time an attack targets your unit, subtract 
+1 from the Damage characteristic of 
+that attack. 
+
+WORLD EATERS – BERZERKER WARBAND
+STRATAGEMS
+
+If you are using the Berzerker Warband Detachment rule, you can use these Berzerker 
+Warband Stratagems.
+
+BLOOD OFFERING
+
+APOPLECTIC FRENZY
+
+BERZERKER WARBAND – EPIC DEED STRATAGEM
+
+BERZERKER WARBAND – BATTLE TACTIC STRATAGEM
+
+1CP
+
+The blood of Khorne’s devoted warriors 
+is still blood, and when the battleground 
+runs red, it is still a worthy addition to the 
+Blood God’s domain.
+
+WHEN: Any phase.
+TARGET: One World Eaters unit from 
+your army that was just destroyed 
+while it was within range of an objective 
+marker you controlled. You can use this 
+Stratagem on that unit even though it was 
+just destroyed.
+EFFECT: That objective marker remains 
+under your control, even if you have 
+no models within range of it, until your 
+opponent controls it at the start or end of 
+any turn. 
+
+1CP
+
+Those who fight for Khorne are driven 
+to even greater depths of rage, surging 
+towards the foe in a barely controlled tide. 
+
+WHEN: Your Movement phase.
+TARGET: One World Eaters unit from 
+your army that has not been selected to 
+move this phase.
+EFFECT: Until the end of the phase, if your 
+unit Advances, do not make an Advance 
+roll for it. Instead, until the end of the 
+phase, add 6" to the Move characteristic 
+of models in your unit.
+
+WORLD EATERS – BERZERKER WARBAND
+ENHANCEMENTS
+
+If you are using the Berzerker Warband Detachment rule, you can use these Berzerker Warband Enhancements.
+FAVOURED OF KHORNE
+This warrior has the favour of Khorne; the Blood God 
+seems to aid him in his slaughter with a portion of his 
+own power.
+
+BATTLE-LUST
+This veteran killer’s lust for battle draws him into any 
+and all fights, his thirst driving him to new heights of 
+battlefield frenzy.
+
+World Eaters model only. You can select the 
+bearer’s unit for the Heroic Intervention Stratagem for 
+0CP, and can do so even if you have already targeted a 
+different unit with that Stratagem this phase.
+HELM OF BRAZEN IRE
+This helm is forged from unbreakable brass from the 
+Blood God’s own throne. Any who seek to take the 
+bearer’s skull find that their blades break upon it.
+
+World Eaters model only. Each time an attack 
+is allocated to the bearer, halve the Damage 
+characteristic of that attack.
+
+World Eaters model only. Each time you make a 
+Blessings of Khorne roll, before doing anything else, 
+the bearer can use this Enhancement. If it does, 
+discard all of the dice from that roll and make a new 
+Blessings of Khorne roll. This new roll does not count 
+as a re-roll, so any rules that enable you to re-roll or 
+manipulate individual dice (e.g. Icon of Khorne) can 
+still be used.
+BERZERKER GLAIVE
+The bearer of this daemon-infested weapon is driven 
+to a state of apoplectic frenzy by the proximity of its 
+red-hot steel.
+
+World Eaters model only. Add 1 to the Attacks 
+and Damage characteristics of melee weapons 
+equipped by the bearer. Each time the bearer ends 
+a Charge move, roll one D3; until the end of the turn, 
+add the result of that roll to the Attacks and Damage 
+characteristics of those melee weapons instead. 
+
+ANGRON
+
+M
+
+T
+
+14" 11
+
+SV
+
+2+
+
+W
+
+16
+
+LD
+
+5+
+
+OC
+
+6
+
+MELEE WEAPONS
+Samni’arius and Spinegrinder – strike 
+Samni’arius and Spinegrinder – sweep 
+
+RANGE
+Melee
+Melee
+
+A
+8
+18
+
+WS
+2+
+2+
+
+S
+16
+8
+
+AP
+-4
+-2
+
+D
+D6+2
+
+2
+
+ABILITIES
+
+CORE: Deadly Demise D6, Deep Strike
+
+FACTION: Blessings of Khorne
+
+WRATHFUL PRESENCE
+
+Glorious Bloodletting (Aura): While a friendly World Eaters unit is within 6" of this model, 
+each time a Charge roll is made for that unit, add 1 to the roll. 
+
+Infectious Rage (Aura): While a friendly World Eaters unit that is below its Starting 
+Strength is within 6" of this model, add 1 to the Attacks characteristic of melee weapons 
+equipped by models in that unit. For the purposes of this ability, if a unit has a Starting 
+Strength of 1, it is considered to be below its Starting Strength while it has lost one or 
+more wounds.
+
+Righteous Slaughter (Aura): While a friendly World Eaters unit is within 6" of this model, 
+each time a model in that unit makes an attack, you can re-roll the Hit roll.
+
+Reborn in Blood: Each time you make a Blessings of 
+Khorne roll, if this model is destroyed, you can use a triple 
+6 from that roll to use this ability. If you do, this model is no 
+longer destroyed and is placed into Reserves with its full 
+wounds remaining.
+Wrathful Presence: At the start of your Charge phase, select 
+one Wrathful Presence ability (see left). Until the start of your 
+next Charge phase, this model has that ability. 
+
+DAMAGED: 1-6 WOUNDS REMAINING
+
+While this model has 1-6 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE
+
+4+
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Monster, Fly, Character, Epic Hero, Chaos, Khorne, Daemon, 
+
+Primarch, Angron
+
+FACTION KEYWORDS:  
+World Eaters
+
+ANGRON
+Angron is rage given immortal form. An engine of destruction, he 
+possesses the strength to tear apart Imperial bastions with his 
+bare hands and stop Titans in their tracks. Armed with the sword 
+Samni’arius and the axe Spinegrinder, he is capable of carving his way 
+through entire armies of foes in a whirlwind of apocalyptic bloodshed.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+ 
+
+UNIT COMPOSITION
+
+ ■ 1 Angron – Epic Hero
+This model is equipped with: Samni’arius and Spinegrinder.
+
+SUPREME COMMANDER
+
+If this model is in your army, it must be your Warlord.
+
+KEYWORDS:  Monster, Fly, Character, Epic Hero, Chaos, Khorne, Daemon, 
+
+Primarch, Angron
+
+FACTION KEYWORDS:  
+World Eaters
+
+KHÂRN THE BETRAYER
+
+M
+
+6"
+
+T
+
+4
+
+SV
+
+3+
+
+W
+
+5
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Khârn’s plasma pistol [PISTOL]
+
+MELEE WEAPONS
+Gorechild 
+
+RANGE
+
+12"
+
+RANGE
+Melee
+
+A
+1
+
+A
+8
+
+BS
+2+
+
+WS
+2+
+
+S
+8
+
+S
+6
+
+AP
+-3
+
+AP
+-2
+
+D
+2
+
+D
+3
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Blessings of Khorne
+
+Legendary Killer: While this model is leading a unit, each time 
+a model in that unit makes an attack, re-roll a Hit roll of 1 and 
+re-roll a Wound roll of 1.
+The Betrayer: At the end of your Charge phase, if this model is 
+leading a unit and that unit is not within Engagement Range of 
+one or more enemy units, you must take a Leadership test for 
+this model. If that test is failed, one Bodyguard model of your 
+choice in that unit is destroyed. 
+Berzerker Frenzy: If this model is destroyed by a melee 
+attack, if it has not fought this phase, do not remove it from 
+play. It can fight after the attacking model’s unit has finished 
+making its attacks, and is then removed from play.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Infantry, Character, Epic Hero, Grenades, Chaos, Khorne, 
+
+Khârn the Betrayer
+
+FACTION KEYWORDS:  
+World Eaters
+
+KHÂRN THE BETRAYER
+Khârn is a raging storm of slaughter, the embodiment of the eightfold 
+path of Khorne. As he sprints into battle, his bellowed war cries boom 
+from the vox-grille of his helm. Khârn’s mantra – ‘Kill! Maim! Burn!’ – 
+has become infamous across the Imperium, a terrifying harbinger of 
+the carnage to come.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Khârn the Betrayer – Epic Hero
+This model is equipped with: Khârn’s plasma pistol; Gorechild.
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Khorne Berzerkers
+
+KEYWORDS:  Infantry, Character, Epic Hero, Grenades, Chaos, Khorne, 
+
+Khârn the Betrayer
+
+FACTION KEYWORDS:  
+World Eaters
+
+LORD INVOCATUS
+
+M
+
+12"
+
+T
+
+6
+
+SV
+
+2+
+
+W
+
+8
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+
+MELEE WEAPONS
+Coward’s Bane [DEVASTATING WOUNDS]
+Juggernaut’s bladed horn [EXTRA ATTACKS, LANCE]
+
+RANGE
+
+12"
+
+RANGE
+Melee
+Melee
+
+A
+1
+
+A
+7
+4
+
+BS
+2+
+
+WS
+2+
+3+
+
+S
+4
+
+S
+6
+6
+
+AP
+0
+
+AP
+-2
+-1
+
+D
+1
+
+D
+2
+2
+
+ABILITIES
+
+CORE: Leader, Scouts 6"
+
+FACTION: Blessings of Khorne
+
+Counter-attacks: While this model is leading a unit, that unit 
+is eligible to shoot and declare a charge in a turn in which it 
+Fell Back.
+Road of Eight Bloody Steps: At the start of the battle, before 
+any moves are made using the Scouts ability, you can select 
+up to two friendly World Eaters Infantry units within 6" 
+of this model that do not have the Scouts ability. Until the 
+end of the battle, all models in the selected units have the 
+Scouts 6" ability.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Mounted, Character, Epic Hero, Grenades, Chaos, Khorne, 
+
+Lord Invocatus
+
+FACTION KEYWORDS:  
+World Eaters
+
+LORD INVOCATUS
+A master of swift raiding, devastating counter-attacks and hit-and-run 
+strategies, Lord Invocatus seeks to shed more blood and take more 
+skulls for Khorne by moving from one war zone to another at great 
+speed, leading his hosts as they smash into enemy battle lines while 
+mounted upon his mighty Juggernaut, Khal’guruth.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Lord Invocatus – Epic Hero
+This model is equipped with: bolt pistol; Coward’s Bane, 
+Juggernaut’s bladed horn.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Eightbound
+ ■ Exalted Eightbound
+ ■ Khorne Berzerkers
+
+KEYWORDS:  Mounted, Character, Epic Hero, Grenades, Chaos, Khorne, 
+
+Lord Invocatus
+
+FACTION KEYWORDS:  
+World Eaters
+
+WORLD EATERS DAEMON PRINCE
+
+M
+
+8"
+
+T
+
+10
+
+SV
+
+2+
+
+W
+
+10
+
+LD
+
+6+
+
+OC
+
+3
+
+RANGED WEAPONS
+Infernal cannon 
+
+MELEE WEAPONS
+Hellforged weapons – strike
+Hellforged weapons – sweep 
+
+RANGE
+
+24"
+
+RANGE
+Melee
+Melee
+
+A
+3
+
+A
+6
+14
+
+BS
+2+
+
+WS
+2+
+2+
+
+S
+5
+
+S
+10
+8
+
+AP
+-1
+
+AP
+-2
+0
+
+D
+2
+
+D
+3
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Blessings of Khorne
+
+Infernal Fortitude (Aura): While a friendly World Eaters 
+Infantry unit is within 6" of this model, models in that unit 
+have a 4+ invulnerable save.
+Devastating Assault: Each time this model makes a Charge 
+move, until the end of the turn, its hellforged weapons have 
+the [DEVASTATING WOUNDS] ability.
+
+INVULNERABLE SAVE
+
+4+
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Monster, Character, Chaos, Khorne, Daemon, Daemon Prince
+
+FACTION KEYWORDS:  
+World Eaters
+
+WORLD EATERS DAEMON PRINCE
+The trail of blood a World Eater must leave behind him to become 
+a Daemon Prince is so vast that it could submerge entire worlds. 
+For their deeds, the Lord of Rage has rewarded them with infernal 
+immortality and might. In battle, Daemon Princes lead their warbands 
+in devastating assaults, striding unharmed through enemy attacks.
+
+WARGEAR OPTIONS
+
+ ■ None
+
+UNIT COMPOSITION
+
+ ■ 1 World Eaters Daemon Prince
+This model is equipped with: infernal cannon; 
+hellforged weapons.
+
+KEYWORDS: Monster, Character, Chaos, Khorne, Daemon, Daemon Prince
+
+FACTION KEYWORDS:  
+World Eaters
+
+WORLD EATERS DAEMON PRINCE WITH WINGS
+
+M
+
+12"
+
+T
+
+9
+
+SV
+
+2+
+
+W
+
+10
+
+LD
+
+6+
+
+OC
+
+3
+
+RANGED WEAPONS
+Infernal cannon 
+
+MELEE WEAPONS
+Hellforged weapons – strike
+Hellforged weapons – sweep 
+
+RANGE
+
+24"
+
+RANGE
+Melee
+Melee
+
+A
+3
+
+A
+6
+14
+
+BS
+2+
+
+WS
+2+
+2+
+
+S
+5
+
+S
+10
+8
+
+AP
+-1
+
+AP
+-2
+0
+
+D
+2
+
+D
+3
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3, Deep Strike
+
+FACTION: Blessings of Khorne
+
+Bloodied Terror: At the start of the Fight phase, each enemy 
+unit within Engagement Range of this model must take a 
+Battle-shock test.
+Oath to Khorne: At the start of the battle, select one unit from 
+your opponent’s army to be this model’s sworn foe. Each time 
+this model makes an attack that targets that sworn foe, you 
+can re-roll the Hit roll and you can re-roll the Wound roll. If, at 
+the end of the battle, that sworn foe has not been destroyed, 
+this model is destroyed.
+
+INVULNERABLE SAVE
+
+4+
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Monster, Character, Fly, Chaos, Khorne, Daemon, Daemon Prince
+
+FACTION KEYWORDS:  
+World Eaters
+
+WORLD EATERS DAEMON PRINCE WITH WINGS
+Desperate eagerness to kill in Khorne’s name is a trait shared 
+by all World Eaters Daemon Princes. The blessing of a pair of 
+powerful, hooked wings is the perfect aid. Descending from the 
+skies at the speed of bullets, they slam into their enemies, roaring 
+oaths to Khorne and swearing the doom of those before them.
+
+WARGEAR OPTIONS
+
+ ■ None
+
+UNIT COMPOSITION
+
+ ■ 1 World Eaters Daemon Prince with Wings
+This model is equipped with: infernal cannon; 
+hellforged weapons.
+
+KEYWORDS:  Monster, Character, Fly, Chaos, Khorne, Daemon, Daemon Prince
+
+FACTION KEYWORDS:  
+World Eaters
+
+WORLD EATERS LORD ON JUGGERNAUT
+
+M
+
+10"
+
+T
+
+6
+
+SV
+
+2+
+
+W
+
+7
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Plasma pistol – standard [PISTOL]
+Plasma pistol – supercharge [HAZARDOUS, PISTOL]
+
+MELEE WEAPONS
+Exalted chainblade 
+Juggernaut’s bladed horn [EXTRA ATTACKS, LANCE]
+
+RANGE
+
+12"
+12"
+
+RANGE
+Melee
+Melee
+
+A
+1
+1
+
+A
+7
+4
+
+BS
+2+
+2+
+
+WS
+2+
+3+
+
+S
+7
+8
+
+S
+6
+6
+
+AP
+-2
+-3
+
+AP
+-1
+-1
+
+D
+1
+2
+
+D
+2
+2
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Blessings of Khorne
+
+Aggressive Advance: While this model is leading a unit, 
+you can re-roll any or all of the following rolls made for that 
+unit: Advance rolls; Charge rolls; Blood Surge rolls (see 
+Khorne Berzerkers).
+Bloody Stampede: Each time this model’s unit ends a Charge 
+move, select one enemy unit within Engagement Range of 
+this model and roll one D6: on a 2-3, that enemy unit suffers 
+1 mortal wound; on a 4-5, that enemy unit suffers D3 mortal 
+wounds; on a 6, that enemy unit suffers D3+3 mortal wounds.
+
+INVULNERABLE SAVE
+
+4+
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Mounted, Character, Grenades, Chaos, Khorne, 
+
+Lord on Juggernaut
+
+FACTION KEYWORDS:  
+World Eaters
+
+WORLD EATERS LORD ON JUGGERNAUT
+Lords of the World Eaters have spent countless mortal lifetimes 
+leading their warriors. Some have achieved such feats of greatness 
+that their bloody patron has seen fit to reward them with a 
+Juggernaut. These savage daemonic steeds crush all in their path 
+when they stampede forward.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+ 
+
+UNIT COMPOSITION
+
+ ■ 1 World Eaters Lord on Juggernaut
+This model is equipped with: plasma pistol; exalted 
+chainblade; Juggernaut’s bladed horn.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Eightbound
+ ■ Exalted Eightbound
+ ■ Khorne Berzerkers
+
+KEYWORDS:  Mounted, Character, Grenades, Chaos, Khorne, 
+
+Lord on Juggernaut
+
+FACTION KEYWORDS:  
+World Eaters
+
+WORLD EATERS MASTER OF EXECUTIONS
+
+M
+
+6"
+
+T
+
+4
+
+SV
+
+3+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+
+MELEE WEAPONS
+Axe of dismemberment 
+[DEVASTATING WOUNDS, PRECISION]
+
+RANGE
+
+12"
+
+RANGE
+
+Melee
+
+A
+1
+
+A
+
+5
+
+BS
+3+
+
+WS
+
+2+
+
+S
+4
+
+S
+
+7
+
+AP
+0
+
+AP
+
+-2
+
+D
+1
+
+D
+
+2
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Blessings of Khorne
+
+Trophy Taker: While this model is leading a unit, models in 
+that unit have the Fights First ability. 
+Murderous Swing: Each time this model makes a melee 
+attack that targets a Character unit, you can re-roll the Hit 
+roll and you can re-roll the Wound roll.
+
+KEYWORDS:  Infantry, Character, Chaos, Khorne, Master of Executions
+
+FACTION KEYWORDS:  
+World Eaters
+
+WORLD EATERS MASTER OF EXECUTIONS
+Masters of Executions are corrupted axemen who single-mindedly 
+seek out the greatest enemy champions to claim their skulls for 
+Khorne, bellowing a fatal decree before crashing forward and 
+hacking through armour, flesh and bone.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 World Eaters Master of Executions
+This model is equipped with: bolt pistol; 
+axe of dismemberment.
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Khorne Berzerkers
+
+KEYWORDS:  Infantry, Character, Chaos, Khorne, Master of Executions
+
+FACTION KEYWORDS:  
+World Eaters
+
+KHORNE BERZERKERS
+
+M
+
+6"
+
+T
+
+4
+
+SV
+
+3+
+
+W
+
+2
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+Plasma pistol – standard [PISTOL]
+Plasma pistol – supercharge [HAZARDOUS, PISTOL]
+
+MELEE WEAPONS
+Berzerker chainblade 
+Khornate eviscerator 
+
+RANGE
+
+12"
+12"
+12"
+
+RANGE
+Melee
+Melee
+
+A
+1
+1
+1
+
+A
+4
+3
+
+BS
+3+
+3+
+3+
+
+WS
+3+
+3+
+
+S
+4
+7
+8
+
+S
+5
+8
+
+AP
+0
+-2
+-3
+
+AP
+-1
+-2
+
+D
+1
+1
+2
+
+D
+1
+2
+
+ABILITIES
+
+FACTION: Blessings of Khorne
+
+Blood Surge: Each time an enemy unit is selected to shoot, 
+after that unit has finished making its attacks, if any models 
+from this unit were destroyed as a result of those attacks, 
+this unit can make a Blood Surge move. To do so, roll one D6: 
+this unit can be moved a number of inches up to the result, 
+but this unit must finish that move as close as possible to the 
+closest enemy unit (excluding Aircraft). When doing so, 
+those models can be moved within Engagement Range of that 
+enemy unit. A unit cannot make a Blood Surge move while it 
+is Battle-shocked.
+
+WARGEAR ABILITIES
+
+Icon of Khorne: Each time you make a Blessings of Khorne 
+roll, if the bearer’s unit is within range of an objective marker 
+you control, you can re-roll one of the dice.
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Infantry, Battleline, Grenades, Chaos, Khorne, Berzerkers
+
+FACTION KEYWORDS:  
+World Eaters
+
+KHORNE BERZERKERS
+Berzerkers of Khorne relish their role as the Blood God’s sacred 
+destroyers, and are fanatical in the extreme. The warp-fuelled anger 
+of these psychopathic warriors drives them into an endless frenzy of 
+action. Those who face them in battle disappear under a rain of heavy 
+blows, each potent enough to shear limbs and shatter shields.
+
+WARGEAR OPTIONS
+
+ ■   The Khorne Berzerker Champion’s bolt pistol can be replaced with 1 plasma pistol.
+ ■  For every 5 models in this unit, 1 Khorne Berzerker’s bolt pistol can be replaced with 1 plasma pistol.
+ ■  For every 5 models in this unit, 1 Khorne Berzerker’s Berzerker chainblade can be replaced with 1 
+
+Khornate eviscerator.
+
+ ■ 1 model can be equipped with 1 icon of Khorne.
+
+UNIT COMPOSITION
+
+ ■ 1 Khorne Berzerker Champion
+ ■ 4-9 Khorne Berzerkers
+Every model is equipped with: bolt pistol; 
+Berzerker chainblade.
+
+KEYWORDS:  Infantry, Battleline, Grenades, Chaos, Khorne, Berzerkers
+
+FACTION KEYWORDS:  
+World Eaters
+
+JAKHALS
+
+M
+
+6"
+
+T
+
+3
+
+SV
+
+6+
+
+W
+
+1
+
+LD
+
+7+
+
+OC
+
+1
+
+RANGED WEAPONS
+Autopistol [PISTOL]
+
+MELEE WEAPONS
+Jakhal chainblades [SUSTAINED HITS 1]
+Dishonoured chainblades [SUSTAINED HITS 1]
+Mauler chainblade [SUSTAINED HITS 1]
+Skullsmasher 
+
+RANGE
+
+12"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+
+A
+1
+
+A
+2
+3
+2
+4
+
+BS
+4+
+
+WS
+4+
+4+
+5+
+4+
+
+S
+3
+
+S
+3
+4
+5
+4
+
+AP
+0
+
+AP
+0
+0
+-1
+-1
+
+D
+1
+
+D
+1
+1
+2
+2
+
+ABILITIES
+
+CORE: Feel No Pain 6+ 
+
+FACTION: Blessings of Khorne
+
+Objective Ravaged: At the end of your Command phase, if this 
+unit is within range of an objective marker you control, that 
+objective marker remains under your control, even if you have 
+no models within range of it, until your opponent controls it at 
+the start or end of any turn.
+
+WARGEAR ABILITIES
+
+Icon of Khorne: Each time you make a Blessings of Khorne 
+roll, if the bearer’s unit is within range of an objective marker 
+you control, you can re-roll one of the dice.
+
+KEYWORDS: Infantry, Battleline, Chaos, Khorne, Jakhals
+
+FACTION KEYWORDS:  
+World Eaters
+
+JAKHALS
+Jakhals are amongst the strongest and most bloodthirsty of all 
+the mortal followers of the World Eaters, and seek to emulate their 
+gore-crazed masters in every way they can. When sent into battle, 
+they enter the fray with wild abandon, hacking and slashing with their 
+chain weapons in the hope of earning the favour of their lords.
+
+WARGEAR OPTIONS
+
+ ■  For every 10 models in this unit, 1 Jakhal’s Jakhal chainblades can be replaced with 1 
+
+mauler chainblade.
+
+ ■  Any number of Dishonoured models can each have their Dishonoured chainblades replaced with 
+
+1 skullsmasher.
+
+ ■  For every 10 models in this unit, 1 Jakhal can be equipped with 1 icon of Khorne.
+
+ 
+
+UNIT COMPOSITION
+
+ ■ 1 Jakhal Pack Leader, 1 Dishonoured and 8 Jakhals
+or:
+ ■ 1 Jakhal Pack Leader, 2 Dishonoured and 17 Jakhals
+The Jakhal Pack Leader and every Jakhal is equipped with: 
+autopistol; Jakhal chainblades.
+Every Dishonoured is equipped with: 
+Dishonoured chainblades.
+
+KEYWORDS: Infantry, Battleline, Chaos, Khorne, Jakhals
+
+FACTION KEYWORDS:  
+World Eaters
+
+WORLD EATERS TERMINATOR SQUAD
+
+M
+
+5"
+
+T
+
+5
+
+SV
+
+2+
+
+W
+
+3
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Combi-bolter [RAPID FIRE 2]
+Combi-weapon 
+[ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]
+Heavy flamer [IGNORES COVER, TORRENT]
+Reaper autocannon 
+[DEVASTATING WOUNDS, SUSTAINED HITS 1]
+
+MELEE WEAPONS
+Accursed weapon 
+Paired accursed weapons [TWIN-LINKED]
+Chainfist [ANTI-VEHICLE 3+]
+Power fist
+
+RANGE
+
+24"
+
+24"
+
+12"
+
+36"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+
+A
+2
+
+1
+
+D6
+
+4
+
+A
+4
+5
+3
+3
+
+BS
+3+
+
+4+
+
+N/A
+
+3+
+
+WS
+3+
+3+
+4+
+3+
+
+S
+4
+
+4
+
+5
+
+7
+
+S
+6
+6
+9
+9
+
+AP
+0
+
+0
+
+-1
+
+-1
+
+AP
+-2
+-2
+-3
+-2
+
+D
+1
+
+1
+
+1
+
+1
+
+D
+1
+1
+2
+2
+
+ABILITIES
+
+CORE: Deep Strike
+
+FACTION: Blessings of Khorne
+
+Bloody Fury: Each time a model in this unit makes an 
+attack, add 1 to the Hit roll if this unit is below its Starting 
+Strength, and add 1 to the Wound roll as well if this unit is 
+Below Half-strength.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS: Infantry, Chaos, Khorne, Terminator, Terminator Squad
+
+FACTION KEYWORDS:  
+World eaters
+
+WORLD EATERS TERMINATOR SQUAD
+Clad in hulking, corrupted Terminator plate, each of these 
+murderous brutes is akin to a walking tank. Their powerful array 
+of heavy firepower and brutal melee weapons can tear through 
+elite squads.
+
+WARGEAR OPTIONS
+
+ ■  For every 5 models in this unit, 1 World Eaters Terminator’s combi-bolter can be replaced with one of 
+
+the following:
+ ◦ 1 heavy flamer
+ ◦ 1 reaper autocannon
+
+ ■  Any number of models can each have their combi-bolter replaced with 1 combi-weapon.
+ ■  For every 5 models in this unit, 1 model’s combi-bolter and accursed weapon can be replaced with 1 
+
+paired accursed weapons.
+
+ ■  For every 5 models in this unit, up to 3 models can each have their accursed weapon replaced with 1 
+
+power fist.
+
+ ■  For every 5 models in this unit, 1 model’s accursed weapon can be replaced with 1 chainfist.
+
+UNIT COMPOSITION
+
+ ■ 1 World Eaters Terminator Champion
+ ■ 4-9 World Eaters Terminators
+Every model is equipped with: combi-bolter; 
+accursed weapon.
+
+KEYWORDS: Infantry, Chaos, Khorne, Terminator, Terminator Squad
+
+FACTION KEYWORDS:  
+World eaters
+
+EIGHTBOUND
+
+M
+
+9"
+
+T
+
+6
+
+SV
+
+3+
+
+W
+
+3
+
+LD
+
+6+
+
+OC
+
+1
+
+MELEE WEAPONS
+Eightbound eviscerators 
+Heavy chainglaive 
+Lacerators 
+
+RANGE
+Melee
+Melee
+Melee
+
+A
+6
+8
+4
+
+WS
+3+
+3+
+3+
+
+S
+5
+7
+9
+
+AP
+-2
+-3
+-2
+
+D
+2
+1
+3
+
+ABILITIES
+
+CORE: Scouts 6"
+
+FACTION: Blessings of Khorne
+
+Beacons of Rage (Aura): While a friendly World Eaters unit 
+is within 6" of this unit, each time a model in that unit makes 
+a melee attack, re-roll a Wound roll of 1. If that attack targets 
+a unit that is Below Half-strength, you can re-roll the Wound 
+roll instead.
+
+INVULNERABLE SAVE
+
+5+
+
+KEYWORDS: Infantry, Chaos, Khorne, Daemon, Eightbound
+
+FACTION KEYWORDS:  
+World Eaters
+
+EIGHTBOUND
+Virtually unrecognisable from the World Eaters they once were, 
+Eightbound are Heretic Astartes whose form is possessed by eight 
+daemons of Khorne. As a result they have incredible strength and 
+savagery far in excess of others in their warband. Carrying all manner 
+of chain weapons, they can rip apart any who stand against them.
+
+WARGEAR OPTIONS
+
+ ■   The Eightbound Champion’s lacerators can be replaced with 1 heavy chainglaive.
+
+ 
+
+UNIT COMPOSITION
+
+ ■ 1 Eightbound Champion
+ ■ 2-5 Eightbound
+The Eightbound Champion model is equipped 
+with: lacerators.
+Every Eightbound model is equipped with: 
+Eightbound eviscerators.
+
+KEYWORDS: Infantry, Chaos, Khorne, Daemon, Eightbound
+
+FACTION KEYWORDS:  
+World Eaters
+
+EXALTED EIGHTBOUND
+
+M
+
+9"
+
+T
+
+6
+
+SV
+
+3+
+
+W
+
+3
+
+LD
+
+6+
+
+OC
+
+1
+
+MELEE WEAPONS
+Eightbound chainfist 
+Eightbound eviscerator 
+Heavy chainglaive 
+Paired Eightbound chainfists [TWIN-LINKED]
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+
+A
+3
+5
+8
+5
+
+WS
+3+
+2+
+2+
+3+
+
+S
+14
+6
+8
+14
+
+AP
+-3
+-2
+-3
+-3
+
+D
+2
+2
+1
+2
+
+ABILITIES
+
+CORE: Deep Strike, Feel No Pain 6+
+
+FACTION: Blessings of Khorne
+
+Overwhelming Wrath (Aura): Each time an enemy unit within 
+6" of this unit is selected to Fall Back, that unit must take a 
+Leadership test. If that test is failed, that unit must Remain 
+Stationary this phase instead.
+
+INVULNERABLE SAVE
+
+5+
+
+KEYWORDS: Infantry, Chaos, Khorne, Daemon, Exalted Eightbound
+
+FACTION KEYWORDS:  
+World Eaters
+
+EXALTED EIGHTBOUND
+Some Eightbound reach a level of apotheosis when the soul of the 
+World Eater they once were becomes one with the eight daemons 
+sharing their physical form. This only makes them more dangerous. 
+With no internal competition for control over their body, the Exalted 
+Eightbound possess a purer kind of rage that is directed at their foes.
+
+WARGEAR OPTIONS
+
+ ■   The Exalted Eightbound Champion’s Eightbound eviscerator and Eightbound chainfist can be replaced 
+
+with one of the following:
+ ◦ 1 paired Eightbound chainfists
+ ◦ 1 heavy chainglaive
+
+UNIT COMPOSITION
+
+ ■ 1 Exalted Eightbound Champion
+ ■ 2-5 Exalted Eightbound
+Every model is equipped with: Eightbound eviscerator; 
+Eightbound chainfist.
+
+KEYWORDS: Infantry, Chaos, Khorne, Daemon, Exalted Eightbound
+
+FACTION KEYWORDS:  
+World Eaters
+
+WORLD EATERS LAND RAIDER
+
+M
+
+T
+
+10" 12
+
+SV
+
+2+
+
+W
+
+16
+
+LD
+
+6+
+
+OC
+
+5
+
+RANGED WEAPONS
+Combi-bolter [RAPID FIRE 2] 
+Combi-weapon 
+[ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]
+Havoc launcher [BLAST]
+Soulshatter lascannon 
+Twin heavy bolter [SUSTAINED HITS 1, TWIN-LINKED]
+
+MELEE WEAPONS
+Armoured tracks 
+
+RANGE
+
+24"
+
+24"
+
+48"
+48"
+36"
+
+RANGE
+Melee
+
+A
+2
+
+1
+
+D6
+2
+3
+
+A
+6
+
+BS
+3+
+
+4+
+
+3+
+3+
+3+
+
+WS
+4+
+
+S
+4
+
+4
+
+5
+12
+5
+
+S
+8
+
+AP
+0
+
+0
+
+0
+-3
+-1
+
+AP
+0
+
+D
+1
+
+1
+
+1
+
+D6+1
+
+2
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D6
+
+FACTION: Blessings of Khorne
+
+Assault Ramp: Each time a unit disembarks from this model 
+after it has made a Normal move, that unit is still eligible to 
+declare a charge this turn.
+
+DAMAGED: 1-5 WOUNDS REMAINING
+
+While this model has 1-5 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+KEYWORDS: Vehicle, Transport, Smoke, Chaos, Khorne, Land Raider
+
+FACTION KEYWORDS:  
+World Eaters
+
+WORLD EATERS LAND RAIDER
+World Eaters Land Raiders are massive armoured transports bristling 
+with heavy armaments and seething with a killer spirit. Strung with 
+trophies taken from those slain by the savage warriors the tanks 
+carry to the front line, Land Raiders are the gore-encrusted spear-tip of 
+many World Eaters assaults.
+
+WARGEAR OPTIONS
+
+ ■   This model can be equipped with one of the following: 
+
+ ◦ 1 combi-bolter
+ ◦ 1 combi-weapon
+
+ ■  This model can be equipped with 1 havoc launcher.  
+
+ 
+
+UNIT COMPOSITION
+
+ ■ 1 World Eaters Land Raider
+This model is equipped with: 2 soulshatter lascannons;  
+twin heavy bolter; armoured tracks.
+
+TRANSPORT
+
+This model has a transport capacity of 12 World Eaters 
+Infantry models. Each Eightbound, Exalted Eightbound 
+and Terminator model takes up the space of 2 models.
+
+KEYWORDS: Vehicle, Transport, Smoke, Chaos, Khorne, Land Raider
+
+FACTION KEYWORDS:  
+World Eaters
+
+WORLD EATERS PREDATOR ANNIHILATOR
+
+M
+
+T
+
+10" 10
+
+SV
+
+3+
+
+W
+
+11
+
+LD
+
+6+
+
+OC
+
+3
+
+RANGED WEAPONS
+Combi-bolter [RAPID FIRE 2] 
+Combi-weapon 
+[ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]
+Havoc launcher [BLAST]
+Heavy bolter [SUSTAINED HITS 1]
+Lascannon
+Predator twin lascannon [TWIN-LINKED]
+
+MELEE WEAPONS
+Armoured tracks 
+
+RANGE
+
+24"
+
+24"
+
+48"
+48"
+48"
+48"
+
+RANGE
+Melee
+
+A
+2
+
+1
+
+D6
+3
+1
+1
+
+A
+3
+
+BS
+3+
+
+4+
+
+3+
+3+
+3+
+3+
+
+WS
+4+
+
+S
+4
+
+4
+
+5
+5
+12
+14
+
+S
+6
+
+AP
+0
+
+0
+
+0
+-1
+-3
+-3
+
+AP
+0
+
+D
+1
+
+1
+
+1
+2
+
+D6+1
+D6+1
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Blessings of Khorne
+
+Annihilator: Each time this model makes a ranged attack that 
+targets a Monster or Vehicle unit, re-roll a Damage roll of 1.
+
+DAMAGED: 1-4 WOUNDS REMAINING
+
+While this model has 1-4 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+KEYWORDS: Vehicle, Smoke, Chaos, Khorne, Predator Annihilator
+
+FACTION KEYWORDS:  
+World Eaters
+
+WORLD EATERS PREDATOR ANNIHILATOR
+These tanks’ machine spirits are likened to the animus of 
+a stalking hunter. They unleash searing beams from their 
+lascannons and enter front-line brawls to crack open bunkers 
+housing the craven foe.
+
+WARGEAR OPTIONS
+
+ ■    This model can be equipped with one of the following: 
+
+ ◦ 2 heavy bolters
+ ◦ 2 lascannons
+
+ ■   This model can be equipped with one of the following: 
+
+ ◦ 1 combi-bolter
+ ◦ 1 combi-weapon
+
+ ■  This model can be equipped with 1 havoc launcher.
+
+ 
+
+UNIT COMPOSITION
+
+ ■ 1 World Eaters Predator Annihilator
+This model is equipped with: Predator twin lascannon; 
+armoured tracks.
+
+KEYWORDS: Vehicle, Smoke, Chaos, Khorne, Predator Annihilator
+
+FACTION KEYWORDS:  
+World Eaters
+
+WORLD EATERS PREDATOR DESTRUCTOR
+
+M
+
+T
+
+10" 10
+
+SV
+
+3+
+
+W
+
+11
+
+LD
+
+6+
+
+OC
+
+3
+
+RANGED WEAPONS
+Combi-bolter [RAPID FIRE 2] 
+Combi-weapon 
+[ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]
+Havoc launcher [BLAST]
+Heavy bolter [SUSTAINED HITS 1]
+Lascannon
+Predator autocannon
+
+MELEE WEAPONS
+Armoured tracks 
+
+RANGE
+
+24"
+
+24"
+
+48"
+48"
+48"
+48"
+
+RANGE
+Melee
+
+A
+2
+
+1
+
+D6
+3
+1
+4
+
+A
+3
+
+BS
+3+
+
+4+
+
+3+
+3+
+3+
+3+
+
+WS
+4+
+
+S
+4
+
+4
+
+5
+5
+12
+9
+
+S
+6
+
+AP
+0
+
+0
+
+0
+-1
+-3
+-1
+
+AP
+0
+
+D
+1
+
+1
+
+1
+2
+
+D6+1
+
+3
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Blessings of Khorne
+
+Destructor: Each time a ranged attack made by this model 
+targets an enemy Infantry unit, improve the Armour 
+Penetration characteristic of that attack by 1.
+
+DAMAGED: 1-4 WOUNDS REMAINING
+
+While this model has 1-4 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+KEYWORDS: Vehicle, Smoke, Chaos, Khorne, Predator Destructor
+
+FACTION KEYWORDS:  
+World Eaters
+
+WORLD EATERS PREDATOR DESTRUCTOR
+Many of these ancient war engines have unleashed destruction 
+on battlefields dating back to the Horus Heresy. Their rapid-firing 
+guns scythe apart infantry and light vehicles as they storm 
+into battle.
+
+WARGEAR OPTIONS
+
+ ■  This model can be equipped with one of the following: 
+
+ ◦ 2 heavy bolters
+ ◦ 2 lascannons
+
+ ■   This model can be equipped with one of the following: 
+
+ ◦ 1 combi-bolter
+ ◦ 1 combi-weapon
+
+ ■  This model can be equipped with 1 havoc launcher.
+
+ 
+
+UNIT COMPOSITION
+
+ ■ 1 World Eaters Predator Destructor
+This model is equipped with: Predator autocannon; 
+armoured tracks.
+
+KEYWORDS: Vehicle, Smoke, Chaos, Khorne, Predator Destructor
+
+FACTION KEYWORDS:  
+World Eaters
+
+WORLD EATERS DEFILER
+
+M
+
+8"
+
+T
+
+10
+
+SV
+
+3+
+
+W
+
+14
+
+LD
+
+6+
+
+OC
+
+5
+
+RANGED WEAPONS
+Combi-bolter [RAPID FIRE 2] 
+Combi-weapon 
+[ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]
+Defiler cannon [BLAST]
+Havoc launcher [BLAST]
+Reaper autocannon 
+[DEVASTATING WOUNDS, SUSTAINED HITS 1]
+Twin heavy bolter [SUSTAINED HITS 1, TWIN-LINKED]
+Twin heavy flamer 
+[IGNORES COVER, TORRENT, TWIN-LINKED]
+Twin lascannon [TWIN-LINKED]
+
+MELEE WEAPONS
+Defiler claws 
+Defiler scourge [EXTRA ATTACKS]
+
+RANGE
+
+24"
+
+24"
+
+48"
+48"
+
+36"
+
+36"
+
+12"
+
+48"
+
+RANGE
+Melee
+Melee
+
+A
+2
+
+1
+
+D6+3
+D6
+
+4
+
+3
+
+D6
+
+1
+
+A
+5
+3
+
+BS
+3+
+
+4+
+
+3+
+3+
+
+3+
+
+3+
+
+N/A
+
+3+
+
+WS
+3+
+3+
+
+S
+4
+
+4
+
+10
+5
+
+7
+
+5
+
+5
+
+12
+
+S
+16
+12
+
+AP
+0
+
+0
+
+-1
+0
+
+-1
+
+-1
+
+-1
+
+-3
+
+AP
+-3
+-1
+
+D
+1
+
+1
+
+3
+1
+
+1
+
+2
+
+1
+
+D6+1
+
+D
+D6+1
+
+2
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Blessings of Khorne
+
+Scuttling Walker: Each time this model makes a Normal, 
+Advance or Fall Back move, it can be moved over friendly 
+Monster and Vehicle models as if they were not there. This 
+model can move over terrain features that are 4" or less in 
+height as if they were not there.
+
+DAMAGED: 1-5 WOUNDS REMAINING
+
+While this model has 1-5 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE
+
+5+
+
+KEYWORDS: Vehicle, Walker, Smoke, Chaos, Khorne, Daemon, Defiler
+
+FACTION KEYWORDS:  
+World Eaters
+
+WORLD EATERS DEFILER
+Defilers are Daemon Engines possessed by abominable entities. 
+Towering creations that stomp across the battlefield on piston-driven 
+legs, their clanking claws are easily capable of cutting a Space Marine 
+in half. Foes are not safe at a distance either, as Defilers’ monstrous 
+heavy weapons are just as deadly at long range.
+
+WARGEAR OPTIONS
+
+ ■   This model’s twin heavy flamer can be replaced with one of the following: 
+
+ ◦ 1 havoc launcher
+ ◦ 1 Defiler scourge
+
+ ■  This model’s reaper autocannon can be replaced with one of the following: 
+
+ ◦ 1 twin heavy bolter
+ ◦ 1 twin lascannon
+
+ ■   This model can be equipped with one of the following: 
+
+ ◦ 1 combi-bolter
+ ◦ 1 combi-weapon
+
+UNIT COMPOSITION
+
+ ■ 1 World Eaters Defiler
+This model is equipped with: Defiler cannon;  
+reaper autocannon; twin heavy flamer; Defiler claws.
+
+KEYWORDS: Vehicle, Walker, Smoke, Chaos, Khorne, Daemon, Defiler
+
+FACTION KEYWORDS:  
+World Eaters
+
+WORLD EATERS FORGEFIEND
+
+M
+
+8"
+
+T
+
+10
+
+SV
+
+3+
+
+W
+
+12
+
+LD
+
+6+
+
+OC
+
+3
+
+RANGED WEAPONS
+Ectoplasma cannon [BLAST]
+Hades autocannon 
+
+MELEE WEAPONS
+Forgefiend claws
+Forgefiend jaws 
+
+RANGE
+
+36"
+36"
+
+RANGE
+Melee
+Melee
+
+A
+D3
+6
+
+A
+3
+5
+
+BS
+3+
+3+
+
+WS
+3+
+3+
+
+S
+10
+8
+
+S
+6
+7
+
+AP
+-3
+-1
+
+AP
+0
+0
+
+D
+3
+2
+
+D
+1
+2
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Blessings of Khorne
+
+Furious Onslaught: In your Shooting phase, after this model 
+has finished making its attacks, if one or more of those 
+attacks scored a hit against an enemy Infantry unit, that 
+Infantry unit must take a Battle-shock test.
+
+DAMAGED: 1-4 WOUNDS REMAINING
+
+While this model has 1-4 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE
+
+5+
+
+KEYWORDS: Vehicle, Walker, Chaos, Khorne, Daemon, Forgefiend
+
+FACTION KEYWORDS:  
+World Eaters
+
+WORLD EATERS FORGEFIEND
+Forgefiends are fused with enormous rotary cannons that fire 
+fist-sized phosphor shells, or else with ancient artefact ordnance 
+perverted to vomit ectoplasma from the beasts’ own innards. With 
+such weaponry they mow down masses of enemy troops and blast 
+glowing craters into the toughest opposition.
+
+WARGEAR OPTIONS
+
+ ■   This model’s 2 Hades autocannons can be replaced with 2 ectoplasma cannons.
+ ■  This model’s Forgefiend jaws can be replaced with 1 ectoplasma cannon and 1 Forgefiend claws.
+
+UNIT COMPOSITION
+
+ ■ 1 World Eaters Forgefiend
+This model is equipped with: 2 Hades autocannons; 
+1 Forgefiend jaws.
+
+KEYWORDS: Vehicle, Walker, Chaos, Khorne, Daemon, Forgefiend
+
+FACTION KEYWORDS:  
+World Eaters
+
+WORLD EATERS HELBRUTE
+
+M
+
+6"
+
+T
+
+9
+
+SV
+
+2+
+
+W
+
+8
+
+LD
+
+6+
+
+OC
+
+3
+
+RANGED WEAPONS
+Combi-bolter [RAPID FIRE 2]
+Heavy flamer [IGNORES COVER, TORRENT]
+Helbrute plasma cannon [BLAST, HAZARDOUS]
+Missile launcher – frag [BLAST]
+Missile launcher – krak
+Multi-melta [MELTA 2]
+Twin autocannon [TWIN-LINKED]
+Twin heavy bolter [SUSTAINED HITS 1, TWIN-LINKED]
+Twin lascannon [TWIN-LINKED]
+
+MELEE WEAPONS
+Close combat weapon 
+Helbrute fist 
+Helbrute hammer 
+Power scourge 
+
+RANGE
+
+24"
+12"
+36"
+48"
+48"
+18"
+48"
+36"
+48"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+
+A
+2
+D6
+D3
+D6
+1
+2
+2
+3
+1
+
+A
+5
+5
+5
+8
+
+BS
+3+
+N/A
+3+
+3+
+3+
+3+
+3+
+3+
+3+
+
+WS
+3+
+3+
+4+
+3+
+
+S
+4
+5
+8
+4
+9
+9
+9
+5
+12
+
+S
+6
+12
+14
+7
+
+AP
+0
+-1
+-3
+0
+-2
+-4
+-1
+-1
+-3
+
+AP
+0
+-2
+-3
+-1
+
+D
+1
+1
+3
+1
+D6
+D6
+3
+2
+
+D6+1
+
+D
+1
+3
+
+D6+1
+
+2
+
+ABILITIES
+
+CORE: Deadly Demise 1
+
+FACTION: Blessings of Khorne
+
+Frenzy: Each time an enemy unit targets this model, after that 
+unit has finished making its attacks, this model can either 
+shoot as if it were your Shooting phase or fight as if it were the 
+Fight phase.
+Helbrute Fists: If this model is equipped with two Helbrute 
+fists, those weapons have the [TWIN-LINKED] ability.
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Vehicle, Walker, Chaos, Khorne, Helbrute
+
+FACTION KEYWORDS:  
+World Eaters
+
+WORLD EATERS HELBRUTE
+Helbrutes are walking engines of destruction, their psychotic 
+occupants kept alive in a state of agony and insanity. These infernal 
+sarcophagi are fitted with a variety of powerful armaments to blast 
+enemy armour open from afar, and cruel appendages with which to 
+hack and crush with enormous strength at close quarters.
+
+WARGEAR OPTIONS
+
+ ■ This model’s multi-melta can be replaced with one of the following:
+
+ ◦ 1 Helbrute plasma cannon
+ ◦ 1 twin autocannon
+ ◦ 1 twin heavy bolter
+ ◦ 1 twin lascannon
+ ◦ 1 Helbrute fist
+
+ ■ This model’s missile launcher can be replaced with one of the following:
+
+ ◦ 1 Helbrute fist
+ ◦ 1 Helbrute hammer
+ ◦ 1 power scourge
+
+ ■  For each Helbrute fist this model is equipped with, it can be equipped with one of the following:
+
+ ◦ 1 combi-bolter
+ ◦ 1 heavy flamer
+
+ 
+
+UNIT COMPOSITION
+
+ ■ 1 World Eaters Helbrute
+This model is equipped with: missile launcher; multi-melta; 
+close combat weapon.
+
+KEYWORDS: Vehicle, Walker, Chaos, Khorne, Helbrute
+
+FACTION KEYWORDS:  
+World Eaters
+
+WORLD EATERS HELDRAKE
+
+M
+
+20+"
+
+T
+
+9
+
+SV
+
+3+
+
+W
+
+12
+
+LD
+
+6+
+
+OC
+
+0
+
+RANGED WEAPONS
+Baleflamer [IGNORES COVER, TORRENT]
+Hades autocannon 
+
+MELEE WEAPONS
+Heldrake claws [ANTI-FLY 2+, DEVASTATING WOUNDS]
+
+RANGE
+
+12"
+36"
+
+RANGE
+Melee
+
+A
+
+D6+3
+
+6
+
+A
+5
+
+BS
+N/A
+3+
+
+WS
+3+
+
+S
+6
+8
+
+S
+7
+
+AP
+-1
+-1
+
+AP
+-1
+
+D
+2
+2
+
+D
+2
+
+ABILITIES
+
+CORE: Deadly Demise D3, Hover
+
+FACTION: Blessings of Khorne
+
+Swooping Predator: Each time this model ends a Normal 
+move, you can select one enemy unit that it moved over 
+during that move and roll two D6: for each 4+, that enemy unit 
+suffers D3 mortal wounds.
+
+DAMAGED: 1-4 WOUNDS REMAINING
+
+While this model has 1-4 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE
+
+5+
+
+KEYWORDS: Vehicle, Fly, Aircraft, Chaos, Khorne, Daemon, Heldrake
+
+FACTION KEYWORDS:  
+World Eaters
+
+WORLD EATERS HELDRAKE
+Like vast, draconic predators of myth, Heldrakes sweep suddenly out 
+of the sky. These airborne Daemon Engines excel at intercepting the 
+enemy’s aerial assets, tearing them from the air and incinerating their 
+crew. Once their dominance of the sky is complete, they turn their 
+claws and weapons against prey on the ground.
+
+WARGEAR OPTIONS
+
+ ■   This model’s Hades autocannon can be replaced with 1 baleflamer.
+
+ 
+
+UNIT COMPOSITION
+
+ ■ 1 World Eaters Heldrake
+This model is equipped with: Hades autocannon; 
+Heldrake claws.
+
+KEYWORDS: Vehicle, Fly, Aircraft, Chaos, Khorne, Daemon, Heldrake
+
+FACTION KEYWORDS:  
+World Eaters
+
+WORLD EATERS MAULERFIEND
+
+M
+
+T
+
+10" 10
+
+SV
+
+3+
+
+W
+
+12
+
+LD
+
+6+
+
+OC
+
+3
+
+RANGED WEAPONS
+Magma cutter [MELTA 2]
+
+MELEE WEAPONS
+Lasher tendrils [EXTRA ATTACKS]
+Maulerfiend fists 
+
+RANGE
+
+6"
+
+RANGE
+Melee
+Melee
+
+A
+2
+
+A
+6
+6
+
+BS
+3+
+
+WS
+3+
+3+
+
+S
+9
+
+S
+7
+14
+
+AP
+-4
+
+AP
+-1
+-2
+
+D
+D6
+
+D
+1
+
+D6+1
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Blessings of Khorne
+
+The Scent of Blood: Each time you make a Charge roll for this 
+model, if one or more of the targets of that charge are below 
+their Starting Strength, add 2 to that roll. Each time this model 
+makes a melee attack that targets an enemy unit that is below 
+its Starting Strength, add 1 to the Hit roll.
+
+DAMAGED: 1-4 WOUNDS REMAINING
+
+While this model has 1-4 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE
+
+5+
+
+KEYWORDS: Vehicle, Walker, Chaos, Khorne, Daemon, Maulerfiend
+
+FACTION KEYWORDS:  
+World Eaters
+
+WORLD EATERS MAULERFIEND
+Maulerfiends stalk the battlefield like immense hunting beasts. With 
+the enemy in sight, these huge Daemon Engines thunder forward, 
+even scaling defensive walls in their eagerness to get at their prey. 
+Once amongst the foe, they slaughter anything in reach with their 
+huge talons, crushing jaws and lashing tendrils.
+
+WARGEAR OPTIONS
+
+ ■     This model’s lasher tendrils can be replaced with 2 magma cutters.
+
+UNIT COMPOSITION
+
+ ■ 1 World Eaters Maulerfiend
+This model is equipped with: lasher tendrils; 
+Maulerfiend fists.
+
+KEYWORDS: Vehicle, Walker, Chaos, Khorne, Daemon, Maulerfiend
+
+FACTION KEYWORDS:  
+World Eaters
+
+WORLD EATERS RHINO
+
+M
+
+12"
+
+T
+
+9
+
+SV
+
+3+
+
+W
+
+10
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Combi-bolter [RAPID FIRE 2] 
+Combi-weapon 
+[ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]
+Havoc launcher [BLAST]
+
+MELEE WEAPONS
+Armoured tracks 
+
+RANGE
+
+24"
+
+24"
+
+48"
+
+RANGE
+Melee
+
+A
+2
+
+1
+
+D6
+
+A
+3
+
+BS
+3+
+
+4+
+
+3+
+
+WS
+4+
+
+S
+4
+
+4
+
+5
+
+S
+6
+
+AP
+0
+
+0
+
+0
+
+AP
+0
+
+D
+1
+
+1
+
+1
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Blessings of Khorne
+
+Self Repair: At the start of your Command phase, this model 
+regains 1 lost wound.
+
+KEYWORDS:  Vehicle, Transport, Dedicated Transport, Smoke, Chaos, Khorne, 
+
+Rhino
+
+FACTION KEYWORDS:  
+World Eaters
+
+WORLD EATERS RHINO
+World Eaters Rhinos are well-adapted for battlefield transportation. 
+Though corrupted by the warp and encrusted with dried blood, they 
+remain as reliable as ever, safely carrying their passengers over 
+fire-swept terrain. Many of these vehicles are festooned with blades, 
+and have machine spirits just as bloodthirsty as their occupants.
+
+WARGEAR OPTIONS
+
+ ■   This model can be equipped with one of the following: 
+
+ ◦ 1 additional combi-bolter
+ ◦ 1 combi-weapon
+
+ ■  This model can be equipped with 1 havoc launcher.
+
+UNIT COMPOSITION
+
+ ■ 1 World Eaters Rhino
+This model is equipped with: combi-bolter; armoured tracks.
+
+TRANSPORT
+
+This model has a transport capacity of 12 World Eaters 
+Infantry models. It cannot transport Eightbound or 
+Terminator models.
+
+KEYWORDS:  Vehicle, Transport, Dedicated Transport, Smoke, Chaos, Khorne, 
+
+Rhino
+
+FACTION KEYWORDS:  
+World Eaters
+
+WORLD EATERS CHAOS SPAWN
+
+M
+
+8"
+
+T
+
+5
+
+SV
+
+4+
+
+W
+
+4
+
+LD
+
+7+
+
+OC
+
+1
+
+MELEE WEAPONS
+Hideous mutations 
+
+RANGE
+Melee
+
+A
+
+D6+2
+
+WS
+4+
+
+S
+6
+
+AP
+-1
+
+D
+2
+
+ABILITIES
+
+CORE: Feel No Pain 5+
+
+FACTION: Blessings of Khorne
+
+Regenerating Monstrosities: At the start of each player’s 
+Command phase, one model in this unit regains up to D3 
+lost wounds.
+
+KEYWORDS: Beast, Chaos, Khorne, Spawn
+
+FACTION KEYWORDS:  
+World Eaters
+
+WORLD EATERS CHAOS SPAWN
+Becoming a Chaos Spawn is the dark fate of many upon the Path 
+to Glory. Wracked with the endless gifts of the Dark Gods, they are 
+mutated mounds of muscle, writhing pseudopods, slathering maws 
+and far more. Chaos Spawn are herded towards their terrified foes, 
+advancing in loping runs, seeking only to tear, crush and consume.
+
+WARGEAR OPTIONS
+
+ ■     None
+
+ 
+
+UNIT COMPOSITION
+
+ ■ 2 Chaos Spawn
+Every model is equipped with: hideous mutations.
+
+KEYWORDS: Beast, Chaos, Khorne, Spawn
+
+FACTION KEYWORDS:  
+World Eaters
+
+KHORNE LORD OF SKULLS
+
+M
+
+8"
+
+T
+
+13
+
+SV
+
+3+
+
+W
+
+24
+
+LD
+
+6+
+
+OC
+
+8
+
+RANGED WEAPONS
+Daemongore cannon [BLAST]
+Gorestorm cannon [BLAST]
+Hades gatling cannon [SUSTAINED HITS 1]
+Ichor cannon [BLAST]
+Skullhurler 
+
+MELEE WEAPONS
+Great cleaver of Khorne – strike 
+Great cleaver of Khorne – sweep 
+
+RANGE
+
+18"
+24"
+48"
+48"
+60"
+
+RANGE
+Melee
+Melee
+
+A
+D6
+D6+3
+12
+2D6
+2D6
+
+A
+5
+15
+
+BS
+3+
+3+
+3+
+3+
+3+
+
+WS
+3+
+3+
+
+S
+14
+10
+8
+7
+14
+
+S
+16
+8
+
+AP
+-4
+-2
+-2
+-2
+-3
+
+AP
+-4
+-2
+
+D
+D6+2
+
+3
+2
+2
+3
+
+D
+8
+2
+
+ABILITIES
+
+CORE: Deadly Demise D6+2
+
+FACTION: Blessings of Khorne
+
+Blessed Slaughter: Each time you make a Blessings of 
+Khorne roll, for each enemy unit destroyed by this model in 
+the previous battle round, you can add 1 to or subtract 1 from 
+one of the dice rolled (each dice can only be modified in this 
+way once, and a dice cannot be modified below 1 or above 6).
+
+DAMAGED: 1-8 WOUNDS REMAINING
+
+While this model has 1-8 wounds remaining, subtract 4 from 
+this model’s Objective Control characteristic and each time 
+this model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE
+
+5+
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Vehicle, Titanic, Towering, Chaos, Khorne, Daemon, 
+
+Lord of Skulls
+
+FACTION KEYWORDS:  
+World Eaters
+
+KHORNE LORD OF SKULLS
+Lords of Skulls are insane, monolithic creations fuelled by boiling 
+blood and dedicated to slaughtering in the name of Khorne. They 
+plough through the enemy’s ranks, crushing infantry beneath their 
+tracks, hacking tanks into kindling with sweeps of their cleaver and 
+hurling brazen projectiles or burning ichor at the survivors.
+
+WARGEAR OPTIONS
+
+ ■   This model’s gorestorm cannon can be replaced with one of the following: 
+
+ ◦ 1 daemongore cannon
+ ◦ 1 ichor cannon
+
+ ■  This model’s Hades gatling cannon can be replaced with 1 skullhurler.
+
+UNIT COMPOSITION
+
+ ■ 1 Khorne Lord of Skulls
+This model is equipped with: gorestorm cannon;  
+Hades gatling cannon; great cleaver of Khorne.
+
+KEYWORDS:  Vehicle, Titanic, Towering, Chaos, Khorne, Daemon, 
+
+Lord of Skulls
+
+FACTION KEYWORDS:  
+World Eaters
+
+

@@ -1,0 +1,4905 @@
+DEATH GUARD
+ARMY RULE
+
+The Death Guard are carriers of countless infections 
+and contagions, each a gift from Nurgle. Whenever 
+they march to war, they contaminate all around them, 
+overwhelming their victims’ immune systems and 
+undoing metallic bonds, alien psychic materials and all 
+manner of other components, rendering even armoured 
+vehicles vulnerable.
+
+NURGLE’S GIFT (AURA)
+If your Army Faction is Death Guard, while an enemy 
+unit is within Contagion Range of this unit, subtract 
+1 from the Toughness characteristic of models in that 
+enemy unit. Contagion Range changes over the course of 
+the battle, as shown below.
+
+CONTAGION RANGE
+
+1st Battle Round: Contagion Range = 3"
+
+3"
+
+2nd Battle Round: Contagion Range = 6"
+
+6"
+
+3rd Battle Round Onwards: Contagion Range = 9"
+
+9"
+
+DEATH GUARD – PLAGUE COMPANY
+DETACHMENT RULE
+
+If your Army Faction is Death Guard, you can use this 
+Plague Company Detachment rule.
+
+SPREAD THE SICKNESS
+To the Death Guard, spreading Nurgle’s gifts goes 
+beyond the beings they fight – even the landscapes 
+they tread upon they seek to corrupt, cultivating 
+Nurgle’s garden as widely as possible.
+
+If you control an objective marker at the end of your 
+Command phase and a Death Guard unit from your 
+army is within range of that objective marker, that 
+objective marker is said to be Infected and remains 
+under your control even if you have no models within 
+range of it, until your opponent controls it at the start 
+or end of any turn. In addition, while an objective 
+marker is Infected and under your control, it has the 
+Nurgle’s Gift ability as if it were a unit from your army 
+(so enemy units within Contagion Range of it will have 
+their Toughness characteristic modified).
+
+DEATH GUARD – PLAGUE COMPANY
+STRATAGEMS
+
+If you are using the Plague Company Detachment rule, you can use these Plague Company Stratagems.
+DISGUSTINGLY RESILIENT
+PLAGUE COMPANY – BATTLE TACTIC STRATAGEM
+
+FERRIC BLIGHT
+PLAGUE COMPANY – BATTLE TACTIC STRATAGEM
+
+1CP2CP
+
+Those favoured by Nurgle are inured to 
+pain, their rotting bodies shrugging off all 
+but the most traumatic damage with ease.
+
+1CP
+
+The spreading rust of the Ferric Blight can 
+reduce armour of all kinds to nothing.
+
+WHEN: Your Shooting phase or the 
+Fight phase.
+TARGET: One Death Guard unit from your 
+army that has not been selected to shoot 
+or fight this phase.
+EFFECT: Until the end of the phase, each 
+time a model in your unit makes an 
+attack, improve the Armour Penetration 
+characteristic of that attack by 1. If the 
+target of that attack is within Contagion 
+Range of an Infected objective marker 
+you control and a Critical Wound is scored 
+for that attack, improve the Armour 
+Penetration characteristic of that attack 
+by 2 instead. 
+
+SANGUOUS FLUX
+PLAGUE COMPANY – BATTLE TACTIC STRATAGEM
+
+1CP
+
+1CP1CP1CP
+
+Bleeding sores erupt all over enemies 
+afflicted by the Sanguous Flux, the wounds 
+never clotting or healing.
+
+WHEN: Fight phase.
+TARGET: One Death Guard unit from your 
+army that has not been selected to fight 
+this phase.
+EFFECT: Until the end of the phase, 
+weapons equipped by models in your unit 
+have the [SUSTAINED HITS 1] ability. While 
+your unit is within range of an Infected 
+objective marker you control, those 
+weapons have the [SUSTAINED HITS 2] 
+ability instead.
+
+WHEN: Fight phase, just after an enemy 
+unit has selected its targets.
+TARGET: One Death Guard unit from your 
+army that was selected as the target of 
+one or more of that enemy unit’s attacks.
+EFFECT: Until the end of the phase, each 
+time an attack is allocated to a model in 
+your unit, subtract 1 from the Damage 
+characteristic of that attack.
+
+GIFTS OF DECAY
+PLAGUE COMPANY – EPIC DEED STRATAGEM
+
+Nurgle is a generous god, and through 
+worship and devotion his followers can 
+gain mighty rewards as they spread 
+sickness in his name.
+
+WHEN: Your Command phase.
+TARGET: One Death Guard model from 
+your army.
+EFFECT: Your model regains up to D3 lost 
+wounds. If your model’s unit is within 
+Contagion Range of an Infected objective 
+marker you control, your model regains 
+up to 3 lost wounds instead. 
+
+DEATH GUARD – PLAGUE COMPANY
+STRATAGEMS
+
+If you are using the Plague Company Detachment rule, you can use these Plague Company Stratagems.
+
+1CP1CP
+
+BOILBLIGHT
+PLAGUE COMPANY – STRATEGIC PLOY STRATAGEM
+
+The strange lumps that form on victims 
+of Boilblight – also known as Nurgle’s 
+Fruit, Lumpen Splatter or the Crawling 
+Pustulence – are easy to spot at a 
+distance for the Death Guard.
+
+WHEN: Your Shooting phase.
+TARGET: One Death Guard unit from 
+your army, and one enemy unit within 
+Contagion Range of that unit.
+EFFECT: Until the end of the phase, each 
+time a weapon equipped by a Death 
+Guard model from your army targets that 
+enemy unit, that weapon has the [HEAVY] 
+and [IGNORES COVER] abilities.
+
+CLOUD OF FLIES
+PLAGUE COMPANY – STRATEGIC PLOY STRATAGEM
+
+1CP1CP
+
+With a thrumming roar, a thick cloud of 
+daemon flies whirls around the Death Guard 
+and obscures them from the enemy’s sight.
+
+WHEN: Your opponent’s Shooting phase, 
+just after an enemy unit has selected 
+its targets.
+TARGET: One Death Guard unit from your 
+army that was selected as the target of 
+one or more of that enemy unit’s attacks.
+EFFECT: Until the end of the phase, your 
+unit has the Stealth ability.
+
+DEATH GUARD – PLAGUE COMPANY
+ENHANCEMENTS
+
+If you are using the Plague Company Detachment rule, you can use these Plague Company Enhancements.
+LIVING PLAGUE
+Saturated as he is with Nurgle’s contagious blessings, 
+merely to stand before this warlord is to be assailed 
+by an oppressive aura of plague.
+
+DEADLY PATHOGEN
+When this pathogen finds a victim – whether organic 
+or machine – it rapidly replicates, causing horrific 
+damage before burning out.
+
+Death Guard model only. Add 3" to the range of the 
+bearer’s Aura abilities (including Nurgle’s Gift).
+THE DRONING (AURA)
+This warrior is surrounded by a cloud of dreaded 
+plague flies that harass the Death Guard’s enemies 
+and feed on their sanity.
+
+Death Guard model only. While an enemy unit is 
+within Contagion Range of the bearer, each time that 
+unit fails a Battle-shock test, roll one D6: on a 2-5, that 
+unit suffers 1 mortal wound; on a 6, that unit suffers 
+D3 mortal wounds.
+
+Death Guard model only. Add 1 to the Strength 
+and Attacks characteristics of the bearer’s melee 
+weapons. While the bearer is within range of an 
+Infected objective marker you control, add 2 to the 
+Strength and Attacks characteristics of the bearer’s 
+melee weapons instead.
+SHAMBLEROT
+The strains of the zombie virus carried by the Death 
+Guard slowly but surely break mortals around 
+them, sapping their strength and dexterity before 
+consuming them utterly.
+
+Death Guard model only. Each time the bearer’s unit 
+is selected as a target of an enemy unit’s charge, until 
+the end of the phase, subtract 2 from Charge rolls 
+made for that enemy unit.
+
+DEATH GUARD DAEMON PRINCE
+
+M
+
+7"
+
+T
+
+11
+
+SV
+
+2+
+
+W
+
+10
+
+LD
+
+6+
+
+OC
+
+3
+
+RANGED WEAPONS
+Plague spewer [ANTI-INFANTRY 2+, IGNORES COVER, TORRENT]
+
+MELEE WEAPONS
+Hellforged weapons – strike 
+Hellforged weapons – sweep 
+
+RANGE
+
+12"
+
+RANGE
+Melee
+Melee
+
+A
+D6
+
+A
+6
+14
+
+BS
+N/A
+
+WS
+2+
+2+
+
+S
+5
+
+S
+8
+6
+
+AP
+-1
+
+AP
+-2
+0
+
+D
+1
+
+D
+3
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Nurgle’s Gift (Aura)
+
+Grandfather’s Blessing (Aura, Psychic): While a friendly 
+Death Guard Infantry unit is within Contagion Range of this 
+model, models in that unit have the Feel No Pain 6+ ability.
+
+INVULNERABLE SAVE
+
+4+
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Monster, Character, Chaos, Nurgle, Psyker, Daemon,  
+
+Daemon Prince
+
+FACTION KEYWORDS: 
+Death Guard
+
+DEATH GUARD DAEMON PRINCE
+Daemonhood is the ultimate goal for a great many Heretic Astartes. 
+Those Nurgle worshippers who succeed are lumbering monstrosities 
+with formidable resilience, corroded armour and bloated flesh. They 
+command sepsis cohorts and vectoriums, having retained all their 
+tactical acumen and martial skill.
+
+WARGEAR OPTIONS
+
+ ■  None
+
+UNIT COMPOSITION
+
+ ■ 1 Death Guard Daemon Prince
+This model is equipped with: plague spewer; 
+hellforged weapons.
+
+KEYWORDS:  Monster, Character, Chaos, Nurgle, Psyker, Daemon,  
+
+Daemon Prince
+
+FACTION KEYWORDS: 
+Death Guard
+
+DEATH GUARD DAEMON PRINCE WITH WINGS
+
+M
+
+T
+
+11" 10
+
+SV
+
+2+
+
+W
+
+10
+
+LD
+
+6+
+
+OC
+
+3
+
+RANGED WEAPONS
+Plague spewer [ANTI-INFANTRY 2+, IGNORES COVER, TORRENT]
+
+MELEE WEAPONS
+Hellforged weapons – strike 
+Hellforged weapons – sweep 
+
+RANGE
+
+12"
+
+RANGE
+Melee
+Melee
+
+A
+D6
+
+A
+6
+14
+
+BS
+N/A
+
+WS
+2+
+2+
+
+S
+5
+
+S
+8
+6
+
+AP
+-1
+
+AP
+-2
+0
+
+D
+1
+
+D
+3
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Nurgle’s Gift (Aura)
+
+Warp Horror (Psychic): Each time this model ends a Charge 
+move, select one enemy unit within Engagement Range of it. 
+That unit must take a Battle-shock test.
+Devastating Assault: Each time this model ends a Charge 
+move, until the end of the turn, its hellforged weapons have 
+the [DEVASTATING WOUNDS] ability.
+
+INVULNERABLE SAVE
+
+4+
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Monster, Character, Fly, Chaos, Nurgle, Psyker, Daemon,  
+
+Daemon Prince with Wings
+
+FACTION KEYWORDS: 
+Death Guard
+
+DEATH GUARD DAEMON PRINCE WITH WINGS
+The wings that sprout from the backs of chosen Death Guard may resemble the 
+buzzing appendages of bloated flies, or take a pocked and diseased chiropteran 
+form. Regardless of their shape, they bear the Daemon Prince aloft, allowing him to 
+descend upon his luckless foes from above and spread fearsome maladies over the 
+battlefield with ease.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Death Guard Daemon Prince with Wings
+This model is equipped with: plague spewer; 
+hellforged weapons.
+
+KEYWORDS:  Monster, Character, Fly, Chaos, Nurgle, Psyker, Daemon,  
+
+Daemon Prince with Wings
+
+FACTION KEYWORDS: 
+Death Guard
+
+TYPHUS
+
+M
+
+5"
+
+T
+
+6
+
+SV
+
+2+
+
+W
+
+6
+
+LD
+
+6+
+
+OC
+
+1
+
+MELEE WEAPONS
+Master-crafted manreaper – strike [LETHAL HITS]
+Master-crafted manreaper – sweep [LETHAL HITS]
+
+RANGE
+Melee
+Melee
+
+A
+5
+10
+
+WS
+2+
+2+
+
+S
+9
+6
+
+AP
+-2
+-1
+
+D
+3
+1
+
+ABILITIES
+
+CORE: Deep Strike, Leader
+
+FACTION: Nurgle’s Gift (Aura)
+
+The Destroyer Hive: While this model is leading a unit, each 
+time a melee attack targets that unit, subtract 1 from the 
+Hit roll.
+The Eater Plague (Psychic): In your Shooting phase, you can 
+select one enemy unit within 18" of and visible to this Psyker 
+and roll one D6: on a 1, this Psyker’s unit suffers D3 mortal 
+wounds; on a 2-5, that enemy unit suffers D6 mortal wounds; 
+on a 6, that enemy unit suffers D3+3 mortal wounds.
+
+INVULNERABLE SAVE
+
+4+
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Infantry, Character, Epic Hero, Chaos, Nurgle, Psyker, 
+
+Terminator, Typhus
+
+FACTION KEYWORDS: 
+Death Guard
+
+TYPHUS
+Host of the Destroyer Hive, for millennia Typhus has travelled the 
+galaxy, spreading Nurgle’s Rot and killing billions. When he takes to 
+the field, he slices apart countless foes with his filth-encrusted power 
+scythe and unleashes the swarming horror of his Destroyer Hive to 
+engulf them in murderous plague-flies.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Typhus – Epic Hero
+This model is equipped with: master-crafted manreaper.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Blightlord Terminators
+ ■ Deathshroud Terminators
+ ■ Poxwalkers
+
+KEYWORDS:  Infantry, Character, Epic Hero, Chaos, Nurgle, Psyker, 
+
+Terminator, Typhus
+
+FACTION KEYWORDS: 
+Death Guard
+
+DEATH GUARD CHAOS LORD
+
+M
+
+5"
+
+T
+
+5
+
+SV
+
+3+
+
+W
+
+5
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Combi-weapon  
+[ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]
+Plague bolt pistol [LETHAL HITS]
+Plague combi-bolter [LETHAL HITS, RAPID FIRE 2]
+Plasma pistol – standard [PISTOL]
+Plasma pistol – supercharge [HAZARDOUS, PISTOL]
+
+MELEE WEAPONS
+Astartes chainsword 
+Plague fist [LETHAL HITS]
+Plague-encrusted exalted weapon [LETHAL HITS]
+Twin lightning claws [TWIN-LINKED]
+
+RANGE
+
+24"
+
+12"
+24"
+12"
+12"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+
+A
+
+1
+
+1
+2
+1
+1
+
+A
+7
+5
+6
+7
+
+BS
+
+2+
+
+2+
+2+
+2+
+2+
+
+WS
+2+
+3+
+2+
+2+
+
+S
+
+4
+
+4
+4
+7
+8
+
+S
+4
+8
+5
+5
+
+AP
+
+0
+
+0
+0
+-2
+-3
+
+AP
+-1
+-2
+-2
+-2
+
+D
+
+1
+
+1
+1
+1
+2
+
+D
+1
+2
+1
+1
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Nurgle’s Gift (Aura)
+
+Chaos Lord: While this model is leading a unit, each time a 
+model in that unit makes an attack, re-roll a Hit roll of 1.
+Desiccation Conduit (Aura): While an enemy unit is within 
+Contagion Range of this model, at the end of the turn, roll one 
+D6: on a 4+, that enemy unit suffers D3 mortal wounds.
+
+INVULNERABLE SAVE
+
+4+
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Infantry, Character, Chaos, Nurgle, Grenades, Chaos Lord
+
+FACTION KEYWORDS: 
+Death Guard
+
+DEATH GUARD CHAOS LORD
+Death Guard Lords hold positions of command throughout the Legion’s 
+structure. All are powerful warriors, proving their right to rule through 
+acts of destruction, corruption and endurance. They combine all the 
+tactical nous of a Space Marine champion with a deep-seated desire to 
+spread Grandfather Nurgle’s blessings.
+
+WARGEAR OPTIONS
+
+ ■   This model’s plague bolt pistol can be replaced with one of the following: 
+
+ ◦ 1 combi-weapon
+ ◦ 1 plague combi-bolter
+ ◦ 1 plague fist
+ ◦ 1 plague-encrusted exalted weapon
+ ◦ 1 plasma pistol
+
+ ■  This model’s Astartes chainsword can be replaced with one of the following: 
+
+ ◦ 1 plague fist
+ ◦ 1 plague-encrusted exalted weapon
+
+ ■  This model’s plague bolt pistol and Astartes chainsword can be replaced with 1 twin lighting claws.
+
+UNIT COMPOSITION
+
+ ■ 1 Death Guard Chaos Lord
+This model is equipped with: plague bolt pistol; 
+Astartes chainsword.
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Plague Marines
+
+KEYWORDS: Infantry, Character, Chaos, Nurgle, Grenades, Chaos Lord
+
+FACTION KEYWORDS: 
+Death Guard
+
+DEATH GUARD CHAOS LORD IN TERMINATOR ARMOUR
+
+M
+
+4"
+
+T
+
+6
+
+SV
+
+2+
+
+W
+
+6
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Combi-weapon  
+[ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]
+Plague combi-bolter [LETHAL HITS, RAPID FIRE 2]
+
+MELEE WEAPONS
+Chainfist [ANTI-VEHICLE 3+]
+Plague fist [LETHAL HITS]
+Plague-encrusted exalted weapon [LETHAL HITS]
+Twin lightning claws [TWIN-LINKED]
+
+RANGE
+
+24"
+
+24"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+
+A
+
+1
+
+2
+
+A
+5
+5
+6
+7
+
+BS
+
+3+
+
+2+
+
+WS
+3+
+2+
+2+
+2+
+
+S
+
+4
+
+4
+
+S
+8
+8
+5
+5
+
+AP
+
+0
+
+0
+
+AP
+-2
+-2
+-2
+-2
+
+D
+
+1
+
+1
+
+D
+2
+2
+1
+1
+
+ABILITIES
+
+CORE: Deep Strike, Leader
+
+FACTION: Nurgle’s Gift (Aura)
+
+Chaos Lord: While this model is leading a unit, each time a 
+model in that unit makes an attack, re-roll a Hit roll of 1.
+Desiccation Conduit (Aura): While an enemy unit is within 
+Contagion Range of this model, at the end of the turn, roll one 
+D6: on a 4+, that enemy unit suffers D3 mortal wounds.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS: Infantry, Character, Chaos, Nurgle, Terminator, Chaos Lord
+
+FACTION KEYWORDS: 
+Death Guard
+
+DEATH GUARD CHAOS LORD IN TERMINATOR ARMOUR
+Every Death Guard lord is a formidable opponent, dripping with infectious 
+disease and armed to the teeth with toxin-smeared weaponry. Those clad in 
+diseased Terminator armour are yet more deadly. Their nigh on impregnable 
+plate is fused with their flesh, bulging and hardened thanks to Nurgle’s 
+blessings, making them even more durable.
+
+WARGEAR OPTIONS
+
+ ■   This model’s plague combi-bolter can be replaced with one of the following: 
+
+ ◦ 1 combi-weapon
+ ◦ 1 plague-encrusted exalted weapon
+
+ ■  This model’s plague-encrusted exalted weapon can be replaced with one of the following: 
+
+ ◦ 1 chainfist
+ ◦ 1 plague fist
+
+ ■  This model’s plague combi-bolter and plague-encrusted exalted weapon can be replaced with 1 twin 
+
+lighting claws.
+
+UNIT COMPOSITION
+
+ ■ 1 Death Guard Chaos Lord in Terminator Armour
+This model is equipped with: plague combi-bolter; 
+plague-encrusted exalted weapon.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Blightlord Terminators
+ ■ Deathshroud Terminators
+
+KEYWORDS: Infantry, Character, Chaos, Nurgle, Terminator, Chaos Lord
+
+FACTION KEYWORDS: 
+Death Guard
+
+LORD OF VIRULENCE
+
+M
+
+4"
+
+T
+
+6
+
+SV
+
+2+
+
+W
+
+6
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Twin plague spewer  
+[ANTI-INFANTRY 2+, IGNORES COVER, TORRENT, TWIN-LINKED]
+
+MELEE WEAPONS
+Heavy plague fist [LETHAL HITS]
+
+RANGE
+
+12"
+
+RANGE
+Melee
+
+A
+
+D6
+
+A
+5
+
+BS
+
+N/A
+
+WS
+3+
+
+S
+
+5
+
+S
+8
+
+AP
+
+-1
+
+AP
+-2
+
+D
+
+1
+
+D
+2
+
+ABILITIES
+
+CORE: Deep Strike, Leader
+
+FACTION: Nurgle’s Gift (Aura)
+
+Master of Destruction: While this model is leading a unit, 
+each time a model in that unit makes a ranged attack, you can 
+re-roll the Wound roll.
+Blight Bombardment: Each time a friendly Death Guard 
+model makes an attack with a Blast weapon that targets a 
+unit that is visible to this model, add 1 to the Hit roll and that 
+attack has the [IGNORES COVER] ability.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Infantry, Character, Chaos, Nurgle, Terminator,  
+
+Lord of Virulence
+
+FACTION KEYWORDS: 
+Death Guard
+
+LORD OF VIRULENCE
+Tubes and pipes erupt in profusion from the Lord of Virulence’s armour. 
+From these gout noxious fumes, putrid eruptions whose hue and 
+stench guide the fire of artillery engines behind the lines. Behind them 
+their flensefrond cloaks leave a trail of sickening mucosal slime for 
+hungry Daemon Engines to follow.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Lord of Virulence
+This model is equipped with: twin plague spewer; heavy 
+plague fist.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Blightlord Terminators
+ ■ Deathshroud Terminators
+
+KEYWORDS:  Infantry, Character, Chaos, Nurgle, Terminator,  
+
+Lord of Virulence
+
+FACTION KEYWORDS: 
+Death Guard
+
+LORD OF CONTAGION
+
+M
+
+4"
+
+T
+
+6
+
+SV
+
+2+
+
+W
+
+6
+
+LD
+
+6+
+
+OC
+
+1
+
+MELEE WEAPONS
+Plagueblade – strike [LETHAL HITS]
+Plagueblade – sweep [LETHAL HITS]
+
+RANGE
+Melee
+Melee
+
+A
+5
+10
+
+WS
+2+
+2+
+
+S
+8
+5
+
+AP
+-2
+0
+
+D
+3
+1
+
+ABILITIES
+
+CORE: Deep Strike, Leader
+
+FACTION: Nurgle’s Gift (Aura)
+
+Vector of Disease: While this model is leading a unit, each 
+time a model in that unit makes a melee attack, you can 
+re-roll the Hit roll.
+Abundance of Sickness: In the Fight phase, each time 
+this model loses a wound, roll one D6: on a 4+, the closest 
+enemy unit within Engagement Range of this model suffers 1 
+mortal wound.
+
+INVULNERABLE SAVE
+
+4+
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Infantry, Character, Chaos, Nurgle, Terminator, Grenades,  
+
+Lord of Contagion
+
+FACTION KEYWORDS: 
+Death Guard
+
+LORD OF CONTAGION
+Lords of Contagion are the most aggressive Death Guard lords. 
+Their tactics are as brutal and blunt as they are effective. Striding 
+unharmed through torrents of enemy fire in their nigh impregnable 
+Cataphractii Terminator plate, they sweep aside foes in violent bursts 
+of gore with their snarl-toothed and corroded blades.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Lord of Contagion
+This model is equipped with: plagueblade.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Blightlord Terminators
+ ■ Deathshroud Terminators
+
+KEYWORDS:  Infantry, Character, Chaos, Nurgle, Terminator, Grenades,  
+
+Lord of Contagion
+
+FACTION KEYWORDS: 
+Death Guard
+
+DEATH GUARD SORCERER IN TERMINATOR ARMOUR
+
+M
+
+4"
+
+T
+
+6
+
+SV
+
+2+
+
+W
+
+5
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Combi-weapon  
+[ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]
+Curse of the Leper – witchfire  
+[PSYCHIC]
+Curse of the Leper – focused witchfire  
+[HAZARDOUS, PSYCHIC]
+Plague combi-bolter [LETHAL HITS, RAPID FIRE 2]
+
+MELEE WEAPONS
+Chainfist [ANTI-VEHICLE 3+]
+Force weapon [PSYCHIC]
+Plague fist [LETHAL HITS]
+Plague-encrusted exalted weapon [LETHAL HITS]
+Twin lightning claws [TWIN-LINKED]
+
+RANGE
+
+24"
+
+24"
+
+24"
+
+24"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+Melee
+
+A
+
+1
+
+D6
+
+2D6
+
+2
+
+A
+3
+4
+3
+4
+5
+
+BS
+
+4+
+
+3+
+
+3+
+
+3+
+
+WS
+4+
+3+
+3+
+3+
+3+
+
+S
+
+4
+
+6
+
+6
+
+4
+
+S
+8
+6
+8
+5
+5
+
+AP
+
+0
+
+-1
+
+-2
+
+0
+
+AP
+-2
+-1
+-2
+-2
+-2
+
+D
+
+1
+
+1
+
+1
+
+1
+
+D
+2
+D3
+2
+1
+1
+
+ABILITIES
+
+CORE: Deep Strike, Leader
+
+FACTION: Nurgle’s Gift (Aura)
+
+Putrescent Vitality (Psychic): At the start of the Fight phase, 
+you can select one enemy unit within 18" of and visible to 
+this Psyker and roll one D6: on a 1, this Psyker’s unit suffers 
+D3 mortal wounds; on a 2+, until the end of the phase, each 
+time an attack is allocated to a model in this Psyker’s unit, 
+subtract 1 from the Damage characteristic of that attack.
+Pestilent Familiar (Psychic): Once per battle, after selecting 
+targets for a Psychic weapon equipped by this model, until 
+the end of the phase, improve the Strength and Damage 
+characteristics of that weapon by 2. 
+Designer’s Note: Place a Pestilent Familiar token next to this 
+model, removing it once this ability has been used.
+
+INVULNERABLE SAVE
+
+4+
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Infantry, Character, Psyker, Chaos, Nurgle, Terminator, 
+
+Sorcerer
+
+FACTION KEYWORDS: 
+Death Guard
+
+DEATH GUARD SORCERER IN TERMINATOR ARMOUR
+Powerful Sorcerers are able to equip themselves with highly durable, 
+diseased Terminator armour. Able to teleport strike alongside Blightlord or 
+Deathshroud Terminators, these Sorcerers curse their foes immediately 
+upon arrival on the battlefield, weakening and draining them of life 
+within seconds.
+
+WARGEAR OPTIONS
+
+ ■     This model’s plague combi-bolter can be replaced with one of the following: 
+
+ ◦ 1 combi-weapon
+ ◦ 1 plague-encrusted exalted weapon
+
+ ■  This model’s force weapon can be replaced with one of the following: 
+
+ ◦ 1 chainfist
+ ◦ 1 plague fist
+ ◦ 1 plague-encrusted exalted weapon
+
+ ■  This model’s plague combi-bolter and force weapon can be replaced with 1 twin lighting claws.
+
+UNIT COMPOSITION
+
+ ■ 1 Death Guard Sorcerer in Terminator Armour
+This model is equipped with: Curse of the Leper; 
+plague combi-bolter; force weapon.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Blightlord Terminators
+ ■ Deathshroud Terminators
+
+KEYWORDS:  Infantry, Character, Psyker, Chaos, Nurgle, Terminator, 
+
+Sorcerer
+
+FACTION KEYWORDS: 
+Death Guard
+
+MALIGNANT PLAGUECASTER
+
+M
+
+5"
+
+T
+
+5
+
+SV
+
+3+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Plague bolt pistol [LETHAL HITS]
+Plague Wind – witchfire [PSYCHIC, TORRENT]
+Plague Wind – focused witchfire  
+[HAZARDOUS, PSYCHIC, TORRENT]
+
+MELEE WEAPONS
+Corrupted staff [LETHAL HITS, PSYCHIC]
+
+RANGE
+
+12"
+12"
+
+12"
+
+A
+1
+D6
+
+D6+3
+
+RANGE
+Melee
+
+A
+4
+
+BS
+3+
+N/A
+
+N/A
+
+WS
+3+
+
+S
+4
+4
+
+6
+
+S
+6
+
+AP
+0
+-1
+
+-2
+
+AP
+-1
+
+D
+1
+D3
+
+D3
+
+D
+D3
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Nurgle’s Gift (Aura)
+
+Gift of Contagion (Psychic): In your Shooting phase, you can 
+select one enemy unit within 18" of and visible to this Psyker 
+and roll one D6: on a 1, this Psyker’s unit suffers D3 mortal 
+wounds; on a 2+, until the start of your next Shooting phase, 
+each time a model in that enemy unit makes a melee attack, 
+subtract 1 from the Wound roll.
+Pestilent Fallout (Psychic): In your Shooting phase, after this 
+model has shot, if one or more of those attacks made with its 
+Plague Wind scored a wound against an enemy Infantry unit, 
+until the start of your next turn, subtract 2 from that unit’s 
+Move characteristic and subtract 2 from Advance and Charge 
+rolls made for that unit.
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Infantry, Character, Chaos, Nurgle, Psyker,  
+
+Malignant Plaguecaster
+
+FACTION KEYWORDS: 
+Death Guard
+
+MALIGNANT PLAGUECASTER
+Every foetid fibre of a Malignant Plaguecaster’s body is rotted and 
+decayed. They are living conduits for the Garden of Nurgle’s miasmas 
+and maladies. Foul blights reside within their roiling, bloated frames, 
+and when they are unleashed in an eruption of vomit and gases they 
+liquefy metal, stone and flesh.
+
+WARGEAR OPTIONS
+
+ ■ None
+
+UNIT COMPOSITION
+
+ ■ 1 Malignant Plaguecaster
+This model is equipped with: plague bolt pistol; Plague Wind;  
+corrupted staff.
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Plague Marines
+
+KEYWORDS:  Infantry, Character, Chaos, Nurgle, Psyker,  
+
+Malignant Plaguecaster
+
+FACTION KEYWORDS: 
+Death Guard
+
+PLAGUE MARINES
+
+M
+
+5"
+
+T
+
+5
+
+SV
+
+3+
+
+W
+
+2
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Blight launcher [LETHAL HITS]
+Meltagun [MELTA 2]
+Plague belcher [ANTI-INFANTRY 4+, IGNORES COVER, TORRENT]
+Plague bolt pistol [LETHAL HITS]
+Plague boltgun [LETHAL HITS]
+Plague spewer [ANTI-INFANTRY 2+, IGNORES COVER, TORRENT]
+Plasma gun – standard [RAPID FIRE 1]
+Plasma gun – supercharge [HAZARDOUS, RAPID FIRE 1]
+Plasma pistol – standard [PISTOL]
+Plasma pistol – supercharge [HAZARDOUS, PISTOL]
+
+MELEE WEAPONS
+Bubotic weapons [LETHAL HITS]
+Heavy plague weapon [LETHAL HITS]
+Plague knives [LETHAL HITS]
+
+RANGE
+
+24"
+12"
+12"
+12"
+24"
+12"
+24"
+24"
+12"
+12"
+
+RANGE
+Melee
+Melee
+Melee
+
+A
+2
+1
+D6
+1
+2
+D6
+1
+1
+1
+1
+
+A
+4
+3
+3
+
+BS
+3+
+3+
+N/A
+2+
+3+
+N/A
+3+
+3+
+3+
+3+
+
+WS
+3+
+4+
+3+
+
+S
+6
+9
+4
+4
+4
+5
+7
+8
+7
+8
+
+S
+5
+8
+4
+
+AP
+-1
+-4
+0
+0
+0
+-1
+-2
+-3
+-2
+-3
+
+AP
+-2
+-2
+0
+
+D
+2
+D6
+1
+1
+1
+1
+1
+2
+1
+2
+
+D
+1
+2
+1
+
+ABILITIES
+
+FACTION: Nurgle’s Gift (Aura)
+
+Remorseless: While this unit is within range of an objective 
+marker you control, each time you take a Battle-shock test for 
+this unit, add 1 to that test.
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Infantry, Chaos, Nurgle, Grenades, Battleline, Plague Marines
+
+FACTION KEYWORDS: 
+Death Guard
+
+PLAGUE MARINES
+The mainstay of Death Guard vectoriums, Plague Marines excel in 
+short-ranged firefights and relentless assaults that grind the enemy 
+down. They are tactically astute, deploying plague spewers to drown 
+hordes of enemies in noxious slime, and blight launchers to release 
+crippling ironblight into armoured vehicles.
+
+WARGEAR OPTIONS
+
+ ■  The Plague Champion’s plague boltgun can be 
+
+replaced with one of the following: 
+ ◦ 1 plague bolt pistol
+ ◦ 1 plasma gun
+ ◦ 1 plasma pistol
+
+ ■  The Plague Champion’s plague knives can be 
+
+replaced with one of the following: 
+ ◦ 1 bubotic weapons
+ ◦ 1 heavy plague weapon
+
+ ■   For every 5 models in this unit, 1 Plague 
+
+Marine’s plague boltgun can be replaced with 1 
+blight launcher. 
+
+ ■   For every 5 models in this unit, 1 Plague 
+
+Marine’s plague boltgun can be replaced with 1 
+plague spewer. 
+
+ ■  For every 5 models in this unit, 1 Plague 
+
+Marine’s plague boltgun can be replaced with 
+one of the following: 
+ ◦ 1 meltagun
+ ◦ 1 plague belcher
+ ◦ 1 plasma gun
+
+ ■  For every 5 models in this unit, up to 2 Plague 
+
+Marines can each have their plague boltgun 
+replaced with 1 bubotic weapons.
+
+ ■  For every 5 models in this unit, up to 2 Plague 
+
+Marines can each have their plague boltgun 
+replaced with 1 heavy plague weapon.
+
+UNIT COMPOSITION
+
+ ■ 1 Plague Champion
+ ■ 4-9 Plague Marines
+Every model is equipped with: plague boltgun; plague knives.
+
+KEYWORDS:  Infantry, Chaos, Nurgle, Grenades, Battleline, Plague Marines
+
+FACTION KEYWORDS: 
+Death Guard
+
+DEATH GUARD CULTISTS
+
+M
+
+6"
+
+T
+
+3
+
+SV
+
+6+
+
+W
+
+1
+
+LD
+
+7+
+
+OC
+
+1
+
+RANGED WEAPONS
+Cultist firearm
+Flamer [IGNORES COVER, TORRENT]
+Grenade launcher – frag [BLAST]
+Grenade launcher – krak
+Heavy stubber [RAPID FIRE 3]
+
+MELEE WEAPONS
+Brutal assault weapon 
+
+RANGE
+
+24"
+12"
+24"
+24"
+36"
+
+RANGE
+Melee
+
+A
+1
+D6
+D3
+1
+3
+
+A
+2
+
+BS
+4+
+N/A
+4+
+4+
+4+
+
+WS
+4+
+
+S
+3
+4
+4
+9
+4
+
+S
+3
+
+AP
+0
+0
+0
+-2
+0
+
+AP
+0
+
+D
+1
+1
+1
+D3
+1
+
+D
+1
+
+ABILITIES
+
+CORE: Scouts 6"
+
+FACTION: Nurgle’s Gift (Aura)
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Infantry, Chaos, Nurgle, Cultists
+
+FACTION KEYWORDS: 
+Death Guard
+
+DEATH GUARD CULTISTS
+On every Human world there is disease. Therefore the potential for 
+cults of Nurgle to arise is ever present, the worshippers taking a 
+perverse pride in their maladies and disfigurements. When these 
+Cultists strike their enemies, they do so in massed numbers, inured to 
+pain and deranged by their fevered minds.
+
+WARGEAR OPTIONS
+
+ ■  For every 10 models in the unit, 1 Death Guard Cultist’s Cultist firearm can be replaced with 1 flamer.
+ ■  For every 10 models in the unit, 1 Death Guard Cultist’s Cultist firearm can be replaced with 
+
+1 heavy stubber.
+
+ ■  For every 10 models in the unit, 1 Death Guard Cultist’s Cultist firearm can be replaced with 
+
+1 grenade launcher.
+
+UNIT COMPOSITION
+
+ ■ 1 Death Guard Cultist Champion
+ ■ 9-19 Death Guard Cultists
+Every model is equipped with: Cultist firearm; 
+brutal assault weapon.
+
+KEYWORDS: Infantry, Chaos, Nurgle, Cultists
+
+FACTION KEYWORDS: 
+Death Guard
+
+POXWALKERS
+
+M
+
+4"
+
+T
+
+4
+
+SV
+
+7+
+
+W
+
+1
+
+LD
+
+8+
+
+OC
+
+1
+
+MELEE WEAPONS
+Improvised weapon [LETHAL HITS]
+
+RANGE
+Melee
+
+A
+2
+
+WS
+5+
+
+S
+3
+
+AP
+0
+
+D
+1
+
+ABILITIES
+
+CORE: Feel No Pain 5+
+
+FACTION: Nurgle’s Gift (Aura)
+
+Curse of the Walking Pox: Each time a model in this unit 
+makes an attack that destroys an enemy model (excluding 
+Monster and Vehicle models), you can return one destroyed 
+Poxwalker model to this unit. 
+While Typhus is leading this unit, enemy models destroyed 
+as a result of Typhus’ The Eater Plague ability count as enemy 
+models destroyed by an attack made by a model in this unit 
+for the purposes of this ability.
+
+KEYWORDS: Infantry, Chaos, Nurgle, Poxwalkers
+
+FACTION KEYWORDS: 
+Death Guard
+
+POXWALKERS
+Poxwalkers are victims of the Walking Pox, a cruel virulence that rots 
+the infected to death while keeping them conscious. They are terror 
+troops, their ceaseless groaning the vector by which they infect 
+the living. In battle they drown their foes in a sea of decaying flesh, 
+clawing hands and gnashing teeth.
+
+WARGEAR OPTIONS
+
+ ■ None
+
+UNIT COMPOSITION
+
+ ■ 10-20 Poxwalkers
+Every model is equipped with: improvised weapon.
+
+KEYWORDS: Infantry, Chaos, Nurgle, Poxwalkers
+
+FACTION KEYWORDS: 
+Death Guard
+
+NOXIOUS BLIGHTBRINGER
+
+M
+
+5"
+
+T
+
+5
+
+SV
+
+3+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Plasma pistol – standard [PISTOL]
+Plasma pistol – supercharge [PISTOL, HAZARDOUS]
+
+MELEE WEAPONS
+Cursed plague bell [LETHAL HITS]
+
+RANGE
+
+12"
+12"
+
+RANGE
+Melee
+
+A
+1
+1
+
+A
+5
+
+BS
+3+
+3+
+
+WS
+3+
+
+S
+7
+8
+
+S
+4
+
+AP
+-2
+-3
+
+AP
+0
+
+D
+1
+2
+
+D
+2
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Nurgle’s Gift (Aura)
+
+Sickening Vitality: While this model is leading a unit, you can 
+re-roll Advance and Charge rolls made for that unit.
+The Bell Tolls (Aura): While an enemy unit is within Contagion 
+Range of this model, each time a Battle-shock or Leadership 
+test is taken for that enemy unit, subtract 2 from that test.
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Infantry, Character, Chaos, Nurgle, Noxious Blightbringer
+
+FACTION KEYWORDS: 
+Death Guard
+
+NOXIOUS BLIGHTBRINGER
+Cursed plague bells tolling, Noxious Blightbringers sow weakness 
+among the enemy. Each rippling sound wave erodes the enemy’s will 
+to fight and spawns maggots in the minds of psykers. To the Death 
+Guard the sound is beautiful, and upon hearing it they surge eagerly 
+into the fray.
+
+WARGEAR OPTIONS
+
+ ■ None
+
+UNIT COMPOSITION
+
+ ■ 1 Noxious Blightbringer
+This model is equipped with: plasma pistol; cursed 
+plague bell.
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Plague Marines
+You can attach this model to a Plague Marines unit, even if 
+one other Leader unit has already been attached to it (you 
+cannot attach more than one of the same Leader to the same 
+unit). If you do, and that Bodyguard unit is destroyed, the 
+Leader units attached to it become separate units, with their 
+original Starting Strengths.
+
+KEYWORDS:  Infantry, Character, Chaos, Nurgle, Noxious Blightbringer
+
+FACTION KEYWORDS: 
+Death Guard
+
+FOUL BLIGHTSPAWN
+
+M
+
+5"
+
+T
+
+5
+
+SV
+
+3+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Plague sprayer [ANTI-INFANTRY 2+, IGNORES COVER, TORRENT]
+
+MELEE WEAPONS
+Close combat weapon 
+
+RANGE
+
+12"
+
+RANGE
+Melee
+
+A
+D6
+
+A
+4
+
+BS
+N/A
+
+WS
+3+
+
+S
+7
+
+S
+4
+
+AP
+-2
+
+AP
+0
+
+D
+2
+
+D
+1
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Nurgle’s Gift (Aura)
+
+Putrefying Stink: While this model is leading a unit, models in 
+that unit have the Fights First ability.
+
+KEYWORDS:  Infantry, Character, Chaos, Nurgle, Grenades, Foul Blightspawn
+
+FACTION KEYWORDS: 
+ Death Guard
+
+FOUL BLIGHTSPAWN
+Upon a Foul Blightspawn’s back is a malignant churn. As he cranks its 
+rusted handle, he mixes a foul concoction of bubbling diseases and 
+pollutants. Once satisfied his burbling blend of choking stew is ready, 
+he levels his plague sprayer at the foe. Out his mixture surges like 
+projectile vomit, melting whatever it touches.
+
+WARGEAR OPTIONS
+
+ ■ None
+
+UNIT COMPOSITION
+
+ ■ 1 Foul Blightspawn
+This model is equipped with: plague sprayer; close 
+combat weapon.
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Plague Marines
+You can attach this model to a Plague Marines unit, even if 
+one other Leader unit has already been attached to it (you 
+cannot attach more than one of the same leader to the same 
+unit). If you do, and that Bodyguard unit is destroyed, the 
+Leader units attached to it become separate units, with their 
+original Starting Strengths.
+
+KEYWORDS:  Infantry, Character, Chaos, Nurgle, Grenades, Foul Blightspawn
+
+FACTION KEYWORDS: 
+ Death Guard
+
+BIOLOGUS PUTRIFIER
+
+M
+
+5"
+
+T
+
+5
+
+SV
+
+3+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Hyper blight grenades [ASSAULT, BLAST, LETHAL HITS]
+Injector pistol [PISTOL]
+
+MELEE WEAPONS
+Plague knives [LETHAL HITS]
+
+RANGE
+
+12"
+3"
+
+RANGE
+Melee
+
+A
+D6
+1
+
+A
+4
+
+BS
+3+
+3+
+
+WS
+3+
+
+S
+5
+4
+
+S
+4
+
+AP
+-1
+-1
+
+AP
+0
+
+D
+2
+3
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise 1, Leader 
+
+FACTION: Nurgle’s Gift (Aura) 
+
+Foul Infusion: While this model is leading a unit, weapons 
+equipped by models in that unit have the [LETHAL HITS] 
+ability. In addition, each time a model in that unit makes an 
+attack, a Critical Hit is scored on an unmodified Hit roll of 5+, 
+instead of only a 6.
+Explosive Maladies: Once per battle, in your Shooting phase, 
+you can target this model with the Grenade Stratagem for 0CP, 
+and can do so even if you have already targeted a different 
+unit with that Stratagem this phase.
+
+KEYWORDS:  Infantry, Character, Chaos, Nurgle, Grenades,  
+
+Biologus Putrifier
+
+FACTION KEYWORDS: 
+Death Guard
+
+BIOLOGUS PUTRIFIER
+Biologus Putrifiers take obscene delight in developing myriad plagues 
+to spread in battle. They carry all manner of blight grenades, bloated 
+with the latest strains of blossoming contagions. With their injector 
+pistols, Biologus Putrifiers implant killing maladies into the enemy 
+before extracting samples of their ruined flesh.
+
+WARGEAR OPTIONS
+
+ ■ None
+
+UNIT COMPOSITION
+
+ ■ 1 Biologus Putrifier
+This model is equipped with: hyper blight grenades; injector 
+pistol; plague knives.
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Plague Marines
+You can attach this model to a Plague Marines unit, even if 
+one other Leader unit has already been attached to it (you 
+cannot attach more than one of the same leader to the same 
+unit). If you do, and that Bodyguard unit is destroyed, the 
+Leader units attached to it become separate units, with their 
+original Starting Strengths.
+
+KEYWORDS:  Infantry, Character, Chaos, Nurgle, Grenades,  
+
+Biologus Putrifier
+
+FACTION KEYWORDS: 
+Death Guard
+
+TALLYMAN
+
+M
+
+5"
+
+T
+
+5
+
+SV
+
+3+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Infected plasma pistol – standard  
+[PISTOL, SUSTAINED HITS D3]
+Infected plasma pistol – supercharge  
+[HAZARDOUS, PISTOL, SUSTAINED HITS D3]
+
+MELEE WEAPONS
+Close combat weapon 
+
+RANGE
+
+12"
+
+12"
+
+RANGE
+Melee
+
+A
+
+1
+
+1
+
+A
+4
+
+BS
+
+3+
+
+3+
+
+WS
+3+
+
+S
+
+7
+
+8
+
+S
+4
+
+AP
+
+-2
+
+-3
+
+AP
+0
+
+D
+
+1
+
+2
+
+D
+1
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Nurgle’s Gift (Aura)
+
+Malicious Calculations: While this model is leading a unit, 
+each time a model in that unit makes an attack, add 1 to the 
+Hit roll. 
+The Seven-fold Chant: In your Command phase, if this model 
+is on the battlefield, roll 2D6: on a 7+, you gain 1CP. 
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Infantry, Character, Chaos, Nurgle, Tallyman
+
+FACTION KEYWORDS: 
+Death Guard
+
+TALLYMAN
+The Tallymen are the preachers of Nurgle’s sevenfold doctrine. 
+They are bedecked with rotten scrolls covered in frenzied scrawls 
+and tallies. Nurglings crawl around them, bearing more tomes 
+and parchments. Through gigantic vox speakers Tallymen bellow 
+incantations, spurring on the Death Guard.
+
+WARGEAR OPTIONS
+
+ ■ None
+
+UNIT COMPOSITION
+
+ ■ 1 Tallyman
+This model is equipped with: infected plasma pistol; close 
+combat weapon.
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Plague Marines
+You can attach this model to a Plague Marines unit, even if 
+one other Leader unit has already been attached to it (you 
+cannot attach more than one of the same leader to the same 
+unit). If you do, and that Bodyguard unit is destroyed, the 
+Leader units attached to it become separate units, with their 
+original Starting Strengths.
+
+KEYWORDS:  Infantry, Character, Chaos, Nurgle, Tallyman
+
+FACTION KEYWORDS: 
+Death Guard
+
+PLAGUE SURGEON
+
+M
+
+5"
+
+T
+
+5
+
+SV
+
+3+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Plague bolt pistol [LETHAL HITS]
+
+MELEE WEAPONS
+Balesword [LETHAL HITS]
+
+RANGE
+
+12"
+
+RANGE
+Melee
+
+A
+1
+
+A
+4
+
+BS
+3+
+
+WS
+3+
+
+S
+4
+
+S
+5
+
+AP
+0
+
+AP
+-2
+
+D
+1
+
+D
+2
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Nurgle’s Gift (Aura)
+
+Tainted Narthecium: While this model is leading a unit, in 
+your Command phase, you can return 1 destroyed Bodyguard 
+model to that unit.
+Diseased Healing: At the end of your Movement phase, you 
+can select one friendly Death Guard Infantry Character 
+model within 3" of this model. That model regains up to 3 lost 
+wounds. Each model can only be selected for this ability once 
+per turn.
+
+KEYWORDS:  Infantry, Character, Chaos, Nurgle, Plague Surgeon
+
+FACTION KEYWORDS: 
+Death Guard
+
+PLAGUE SURGEON
+Equipped with narthecium-like instruments around which form filthy 
+miasmas, Plague Surgeons carry vials and alembics full of boosters 
+and macro-stimulants for countless plagues. By such means do they 
+give the Death Guard renewed strength and resilience while inflaming 
+the enemy’s infections to agonising degrees.
+
+WARGEAR OPTIONS
+
+ ■ None
+
+UNIT COMPOSITION
+
+ ■ 1 Plague Surgeon
+This model is equipped with: plague bolt pistol; balesword.
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Plague Marines
+You can attach this model to a Plague Marines unit, even 
+if one other Leader unit has already been attached to it. If 
+you do, and that Bodyguard unit is destroyed, the Leader 
+units attached to it become separate units, with their original 
+Starting Strengths.
+
+KEYWORDS:  Infantry, Character, Chaos, Nurgle, Plague Surgeon
+
+FACTION KEYWORDS: 
+Death Guard
+
+BLIGHTLORD TERMINATORS
+
+M
+
+4"
+
+T
+
+6
+
+SV
+
+2+
+
+W
+
+3
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Blight launcher [LETHAL HITS]
+Combi-weapon  
+[ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]
+Plague combi-bolter [LETHAL HITS, RAPID FIRE 2]
+Plague spewer [ANTI-INFANTRY 2+, IGNORES COVER, TORRENT]
+Reaper autocannon  
+[DEVASTATING WOUNDS, SUSTAINED HITS 1]
+
+MELEE WEAPONS
+Bubotic blade [LETHAL HITS]
+Flail of corruption [LETHAL HITS]
+
+RANGE
+
+24"
+
+24"
+
+24"
+12"
+
+36"
+
+RANGE
+Melee
+Melee
+
+A
+2
+
+1
+
+2
+D6
+
+4
+
+A
+4
+6
+
+BS
+3+
+
+4+
+
+3+
+N/A
+
+3+
+
+WS
+3+
+3+
+
+S
+6
+
+4
+
+4
+5
+
+7
+
+S
+5
+5
+
+AP
+-1
+
+0
+
+0
+-1
+
+-1
+
+AP
+-2
+-1
+
+D
+2
+
+1
+
+1
+1
+
+1
+
+D
+1
+2
+
+ABILITIES
+
+CORE: Deep Strike
+
+FACTION: Nurgle’s Gift (Aura)
+
+Blistering Fusillade: Each time a model in this unit makes 
+a ranged attack, if it targets the closest eligible enemy unit, 
+re-roll a Wound roll of 1.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Infantry, Chaos, Nurgle, Terminator, Blightlord Terminators
+
+FACTION KEYWORDS: 
+Death Guard
+
+BLIGHTLORD TERMINATORS
+Blightlord Terminators are formidably tough thanks to their 
+Cataphractii plate and Nurgle’s gifts, and are experts in breach 
+assaults, boarding actions and sudden teleport strikes. Due to long 
+periods spent aboard pox-ridden warships, they are saturated with 
+foulness, which pours off them to rot flesh and corrode metal.
+
+WARGEAR OPTIONS
+
+ ■   For every 5 models in this unit: 
+
+ ◦  Up to 3 models’ plague combi-bolters can each be replaced with 1 combi-weapon.
+ ◦  1 Blightlord Terminator’s plague combi-bolter can be replaced with one of the following: 
+
+1 blight launcher; 1 reaper autocannon.
+
+ ◦  1 Blightlord Terminator’s plague combi-bolter can be replaced with 1 plague spewer.
+ ◦  1 Blightlord Terminator’s plague combi-bolter and bubotic blade can be replaced with 1 flail 
+
+of corruption.
+
+UNIT COMPOSITION
+
+ ■ 1 Blightlord Champion
+ ■ 4-9 Blightlord Terminators
+Every model is equipped with: plague combi-bolter; 
+bubotic blade.
+
+KEYWORDS:  Infantry, Chaos, Nurgle, Terminator, Blightlord Terminators
+
+FACTION KEYWORDS: 
+Death Guard
+
+DEATHSHROUD TERMINATORS
+
+M
+
+4"
+
+T
+
+6
+
+SV
+
+2+
+
+W
+
+3
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Plaguespurt gauntlet  
+[ANTI-INFANTRY 4+, IGNORES COVER, PISTOL, TORRENT]
+
+MELEE WEAPONS
+Manreaper – strike [LETHAL HITS]
+Manreaper – sweep [LETHAL HITS]
+
+RANGE
+
+12"
+
+RANGE
+Melee
+Melee
+
+A
+
+D6
+
+A
+4
+6
+
+BS
+
+N/A
+
+WS
+2+
+2+
+
+S
+
+3
+
+S
+8
+5
+
+AP
+
+0
+
+AP
+-2
+0
+
+D
+
+1
+
+D
+2
+1
+
+ABILITIES
+
+CORE: Deep Strike
+
+FACTION: Nurgle’s Gift (Aura)
+
+Silent Bodyguard: While a Character model is leading this 
+unit, each time an attack targets this unit, if the Strength 
+characteristic of that attack is greater than this unit’s 
+Toughness characteristic, subtract 1 from the Wound roll.
+
+INVULNERABLE SAVE
+
+4+
+
+Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Infantry, Chaos, Nurgle, Terminator, Deathshroud Terminators
+
+FACTION KEYWORDS: 
+Death Guard
+
+DEATHSHROUD TERMINATORS
+Deathshroud Terminators are swollen with the fell powers of their 
+diseased patron. With every swing of their huge scythes they 
+decapitate and disembowel their foes, their speed belied by their 
+bloated mass. They fight in ominous silence, embodying the inevitable 
+onset of their enemies’ death.
+
+WARGEAR OPTIONS
+
+ ■   The Deathshroud Champion can be equipped with 1 additional plaguespurt gauntlet.
+
+UNIT COMPOSITION
+
+ ■ 1 Deathshroud Champion
+ ■ 2-5 Deathshroud Terminators
+Every model is equipped with: plaguespurt gauntlet;  
+manreaper.
+
+KEYWORDS:  Infantry, Chaos, Nurgle, Terminator, Deathshroud Terminators
+
+FACTION KEYWORDS: 
+Death Guard
+
+DEATH GUARD HELBRUTE
+
+M
+
+6"
+
+T
+
+9
+
+SV
+
+2+
+
+W
+
+8
+
+LD
+
+6+
+
+OC
+
+3
+
+RANGED WEAPONS
+Heavy flamer [IGNORES COVER, TORRENT]
+Helbrute plasma cannon [BLAST, HAZARDOUS]
+Missile launcher – frag [BLAST]
+Missile launcher – krak
+Multi-melta [MELTA 2]
+Plague combi-bolter [LETHAL HITS, RAPID FIRE 2]
+Twin autocannon [TWIN-LINKED]
+Twin lascannon [TWIN-LINKED]
+Twin plague heavy bolter  
+[LETHAL HITS, SUSTAINED HITS 1, TWIN-LINKED]
+
+MELEE WEAPONS
+Close combat weapon 
+Helbrute fist 
+Helbrute hammer 
+Power scourge 
+
+RANGE
+
+12"
+36"
+48"
+48"
+18"
+24"
+48"
+48"
+
+36"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+
+A
+D6
+D3
+D6
+1
+2
+2
+2
+1
+
+3
+
+A
+5
+5
+5
+8
+
+BS
+N/A
+3+
+3+
+3+
+3+
+3+
+3+
+3+
+
+3+
+
+WS
+3+
+3+
+4+
+3+
+
+S
+5
+8
+4
+9
+9
+4
+9
+12
+
+5
+
+S
+6
+12
+14
+7
+
+AP
+-1
+-3
+0
+-2
+-4
+0
+-1
+-3
+
+-1
+
+AP
+0
+-2
+-3
+-1
+
+D
+1
+3
+1
+D6
+D6
+1
+3
+
+D6+1
+
+2
+
+D
+1
+3
+
+D6+1
+
+2
+
+ABILITIES
+
+CORE: Deadly Demise 1
+
+FACTION: Nurgle’s Gift (Aura) 
+
+Infused with the Blessings of Nurgle: Each time this model 
+is selected to shoot or fight, after it has finished making its 
+attacks, select one enemy unit that was hit by one or more 
+of those attacks. Until the start of your next turn, that enemy 
+unit is always considered to be within Contagion Range of a 
+unit from your army.
+Enraged Impact: Each time this model ends a Charge move, 
+select one enemy unit within Engagement Range of it and roll 
+one D6: on a 2+, that enemy unit suffers D3 mortal wounds.
+Helbrute Fists: If this model is equipped with two Helbrute 
+fists, those weapons have the [TWIN-LINKED] ability.
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Vehicle, Walker, Chaos, Nurgle, Helbrute
+
+FACTION KEYWORDS: 
+Death Guard
+
+DEATH GUARD HELBRUTE
+The most terribly wounded Death Guard are interred within 
+the armoured sarcophagus of a Helbrute. Plague Surgeons 
+take deep pleasure in sealing rivals and superiors inside these 
+madness-inducing and agony-inflicting shells. In battle they are living, 
+enraged battering rams, flushed with the blessings of Nurgle.
+
+WARGEAR OPTIONS
+
+ ■     This model’s multi-melta can be replaced with one of the following: 
+
+ ◦ 1 Helbrute plasma cannon
+ ◦ 1 twin autocannon
+ ◦ 1 twin lascannon
+ ◦ 1 twin plague heavy bolter
+ ◦ 1 Helbrute fist
+
+ ■ This model’s missile launcher can be replaced with one of the following: 
+
+ ◦ 1 Helbrute fist
+ ◦ 1 Helbrute hammer
+ ◦ 1 power scourge
+
+ ■  For each Helbrute fist this model is equipped with, it can be equipped with one of the following:
+
+ ◦ 1 plague combi-bolter
+ ◦ 1 heavy flamer
+
+UNIT COMPOSITION
+
+ ■ 1 Death Guard Helbrute
+This model is equipped with: multi-melta; missile launcher; 
+close combat weapon.
+
+KEYWORDS: Vehicle, Walker, Chaos, Nurgle, Helbrute
+
+FACTION KEYWORDS: 
+Death Guard
+
+DEATH GUARD CHAOS SPAWN
+
+M
+
+8"
+
+T
+
+5
+
+SV
+
+4+
+
+W
+
+4
+
+LD
+
+7+
+
+OC
+
+1
+
+MELEE WEAPONS
+Hideous mutations 
+
+RANGE
+Melee
+
+A
+
+D6+2
+
+WS
+4+
+
+S
+5
+
+AP
+-1
+
+D
+2
+
+ABILITIES
+
+CORE: Feel No Pain 5+
+
+FACTION: Nurgle’s Gift (Aura)
+
+Regenerating Monstrosities: At the start of each player’s 
+Command phase, one model in this unit regains up to D3 
+lost wounds.
+
+KEYWORDS: Beast, Chaos, Nurgle, Spawn
+
+FACTION KEYWORDS: 
+Death Guard
+
+DEATH GUARD CHAOS SPAWN
+Many of Nurgle’s gifts take the form of metaphysical maladies, 
+parasitic infestations or physical mutations. Some become so 
+overburdened by them that they suddenly and horrifically change in 
+a rupture of bulged armour and skin. All that is left of them is a Chaos 
+Spawn, a crazed monstrosity that lives only to kill and feed.
+
+WARGEAR OPTIONS
+
+ ■ None
+
+UNIT COMPOSITION
+
+ ■ 2 Chaos Spawn
+Every model is equipped with: hideous mutations.
+
+KEYWORDS: Beast, Chaos, Nurgle, Spawn
+
+FACTION KEYWORDS: 
+Death Guard
+
+MYPHITIC BLIGHT-HAULERS
+
+M
+
+10"
+
+T
+
+9
+
+SV
+
+3+
+
+W
+
+10
+
+LD
+
+6+
+
+OC
+
+3
+
+RANGED WEAPONS
+Bile spurt [LETHAL HITS]
+Missile launcher – frag [BLAST]
+Missile launcher – krak
+Multi-melta [MELTA 2]
+
+MELEE WEAPONS
+Gnashing maw [LETHAL HITS]
+
+RANGE
+
+12"
+48"
+48"
+18"
+
+RANGE
+Melee
+
+A
+3
+D6
+1
+2
+
+A
+4
+
+BS
+3+
+3+
+3+
+3+
+
+WS
+3+
+
+S
+5
+4
+9
+9
+
+S
+6
+
+AP
+0
+0
+-2
+-4
+
+AP
+-1
+
+D
+1
+1
+D6
+D6
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise 1
+
+FACTION: Nurgle’s Gift (Aura) 
+
+Tank Hunters: Each time a model in this unit makes a ranged 
+attack that targets a Vehicle unit, add 1 to the Wound roll.
+
+INVULNERABLE SAVE
+
+5+
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Vehicle, Chaos, Nurgle, Daemon, Smoke, Myphitic Blight-haulers
+
+FACTION KEYWORDS: 
+Death Guard
+
+MYPHITIC BLIGHT-HAULERS
+Belching stinking gases that hang thick in the air, Myphitic 
+Blight-haulers use their all-terrain mobility and heavy armaments to 
+hunt down the enemy’s tanks and provide fire support even in the 
+most dangerous environments. Should the enemy get too close, these 
+Daemon Engines pounce with fanged maws and sprays of bile.
+
+WARGEAR OPTIONS
+
+ ■ None
+
+UNIT COMPOSITION
+
+ ■ 1-3 Myphitic Blight-hulers
+Every model is equipped with: bile spurt; missile launcher; 
+multi-melta; gnashing maw.
+
+KEYWORDS:  Vehicle, Chaos, Nurgle, Daemon, Smoke, Myphitic Blight-haulers
+
+FACTION KEYWORDS: 
+Death Guard
+
+FOETID BLOAT-DRONE
+
+M
+
+10"
+
+T
+
+9
+
+SV
+
+3+
+
+W
+
+10
+
+LD
+
+6+
+
+OC
+
+3
+
+RANGED WEAPONS
+Heavy blight launcher [LETHAL HITS]
+Plaguespitter [ANTI-INFANTRY 2+, IGNORES COVER, TORRENT]
+
+MELEE WEAPONS
+Fleshmower [LETHAL HITS]
+Plague probe [LETHAL HITS]
+
+RANGE
+
+36"
+12"
+
+RANGE
+Melee
+Melee
+
+A
+6
+D6
+
+A
+10
+3
+
+BS
+3+
+N/A
+
+WS
+3+
+3+
+
+S
+8
+6
+
+S
+7
+6
+
+AP
+-2
+-1
+
+AP
+-1
+-1
+
+D
+2
+1
+
+D
+2
+1
+
+ABILITIES
+
+CORE: Deadly Demise 1
+
+FACTION: Nurgle’s Gift (Aura) 
+
+Hovering Death: This model is eligible to shoot and declare a 
+charge in a turn in which it Fell Back.
+
+INVULNERABLE SAVE
+
+5+
+
+KEYWORDS:  Vehicle, Fly, Chaos, Nurgle, Daemon, Foetid Bloat-drone
+
+FACTION KEYWORDS: 
+Death Guard
+
+FOETID BLOAT-DRONE
+The Foetid Bloat-drones’ trailing tubules suckle filth from the ground 
+they hover over. They churn this substance before squirting the thick 
+concoction over the enemy with plaguespitters, inflicting terrible 
+maladies. Those with heavy blight launchers bombard foes with 
+disease-ridden shells that can even rot heavy tanks.
+
+WARGEAR OPTIONS
+
+ ■  This model’s fleshmower can be replaced with one of the following: 
+
+ ◦ 1 heavy blight launcher
+ ◦ 2 plaguespitters
+
+UNIT COMPOSITION
+
+ ■ 1 Foetid Bloat-drone
+This model is equipped with: fleshmower; plague probe.
+
+KEYWORDS:  Vehicle, Fly, Chaos, Nurgle, Daemon, Foetid Bloat-drone
+
+FACTION KEYWORDS: 
+Death Guard
+
+PLAGUEBURST CRAWLER
+
+M
+
+T
+
+10" 10
+
+SV
+
+2+
+
+W
+
+12
+
+LD
+
+6+
+
+OC
+
+4
+
+RANGED WEAPONS
+Entropy cannon [LETHAL HITS]
+Heavy slugger 
+Plagueburst mortar [BLAST, INDIRECT FIRE, LETHAL HITS]
+Plaguespitter [ANTI-INFANTRY 2+, IGNORES COVER, TORRENT]
+Rothail volley gun [LETHAL HITS, RAPID FIRE 3]
+
+MELEE WEAPONS
+Armoured tracks 
+
+RANGE
+
+24"
+36"
+48"
+12"
+24"
+
+RANGE
+Melee
+
+A
+1
+4
+
+D6+3
+D6
+3
+
+A
+3
+
+BS
+3+
+3+
+3+
+N/A
+3+
+
+WS
+4+
+
+S
+10
+5
+8
+6
+5
+
+S
+6
+
+AP
+-3
+-1
+-1
+-1
+0
+
+AP
+0
+
+D
+D6+1
+
+1
+2
+1
+1
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Nurgle’s Gift (Aura) 
+
+Spore-laced Shock Waves: In your Shooting phase, after this 
+model has shot, if one or more of those attacks made with its 
+Plagueburst mortar scored a hit against an enemy Infantry 
+unit, that Infantry unit must take a Battle-shock test.
+
+DAMAGED: 1-4 WOUNDS REMAINING
+
+While this model has 1-4 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE
+
+5+
+
+KEYWORDS:  Vehicle, Chaos, Nurgle, Daemon, Plagueburst Crawler
+
+FACTION KEYWORDS: 
+Death Guard
+
+PLAGUEBURST CRAWLER
+The brainchild of Mortarion himself, the Plagueburst Crawler is a 
+hulking Daemon Engine possessed of huge ram-blades and thick 
+armour plating that renders it incredibly resilient. Equipped with 
+Plagueburst mortars, they launch hideously powerful explosive shells 
+that unleash clouds of corrosive spores upon detonation.
+
+WARGEAR OPTIONS
+
+ ■  This model’s 2 entropy cannons can be replaced with 2 plaguespitters.
+ ■  This model’s heavy slugger can be replaced with 1 rothail volley gun.
+
+UNIT COMPOSITION
+
+ ■ 1 Plagueburst Crawler
+This model is equipped with: 2 entropy cannons; heavy 
+slugger; Plagueburst mortar; armoured tracks.
+
+KEYWORDS:  Vehicle, Chaos, Nurgle, Daemon, Plagueburst Crawler
+
+FACTION KEYWORDS: 
+Death Guard
+
+DEATH GUARD LAND RAIDER
+
+M
+
+T
+
+10" 12
+
+SV
+
+2+
+
+W
+
+16
+
+LD
+
+6+
+
+OC
+
+5
+
+RANGED WEAPONS
+Combi-weapon  
+[ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]
+Havoc launcher [BLAST]
+Plague combi-bolter [LETHAL HITS, RAPID FIRE 2]
+Soulshatter lascannon 
+Twin plague heavy bolter 
+[LETHAL HITS, SUSTAINED HITS 1, TWIN-LINKED]
+
+MELEE WEAPONS
+Armoured tracks 
+
+RANGE
+
+24"
+
+48"
+24"
+48"
+
+36"
+
+RANGE
+Melee
+
+A
+
+1
+
+D6
+2
+2
+
+3
+
+A
+6
+
+BS
+
+4+
+
+3+
+3+
+3+
+
+3+
+
+WS
+4+
+
+S
+
+4
+
+5
+4
+12
+
+5
+
+S
+8
+
+AP
+
+0
+
+0
+0
+-3
+
+-1
+
+AP
+0
+
+D
+
+1
+
+1
+1
+
+D6+1
+
+2
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D6
+
+FACTION: Nurgle’s Gift (Aura) 
+
+Assault Ramp: Each time a unit disembarks from this model 
+after it has made a Normal move, that unit is still eligible to 
+declare a charge this turn.
+
+DAMAGED: 1-5 WOUNDS REMAINING
+
+While this model has 1-5 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+KEYWORDS:  Vehicle, Chaos, Nurgle, Transport, Smoke, Land Raider
+
+FACTION KEYWORDS: 
+Death Guard
+
+DEATH GUARD LAND RAIDER
+Equipped with a fearsome arsenal of weapons and large transport 
+capacity, Land Raiders are destructive and versatile vehicles. 
+Drenched in thick, stinking slime, Death Guard Land Raiders are 
+host to scores of varieties of scratching, biting parasites, and sprout 
+throbbing growths that emit fogs of foetid gas.
+
+WARGEAR OPTIONS
+
+ ■   This model can be equipped with one of the following: 
+
+ ◦ 1 combi-weapon
+ ◦ 1 plague combi-bolter
+
+ ■  This model can be equipped with 1 havoc launcher.
+
+UNIT COMPOSITION
+
+ ■ 1 Death Guard Land Raider
+This model is equipped with: 2 soulshatter lascannons; twin 
+plague heavy bolter; armoured tracks.
+
+TRANSPORT
+
+This model has a transport capacity of 12 Death Guard 
+Infantry models (excluding Cultist and Poxwalker 
+models). Each Terminator model takes up the space of 
+2 models.
+
+KEYWORDS:  Vehicle, Chaos, Nurgle, Transport, Smoke, Land Raider
+
+FACTION KEYWORDS: 
+Death Guard
+
+DEATH GUARD PREDATOR ANNIHILATOR
+
+M
+
+T
+
+10" 10
+
+SV
+
+3+
+
+W
+
+11
+
+LD
+
+6+
+
+OC
+
+4
+
+RANGED WEAPONS
+Combi-weapon  
+[ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]
+Havoc launcher [BLAST]
+Lascannon 
+Plague combi-bolter [LETHAL HITS, RAPID FIRE 2]
+Plague heavy bolter [LETHAL HITS, SUSTAINED HITS 1]
+Predator twin lascannon [TWIN-LINKED]
+
+MELEE WEAPONS
+Armoured tracks 
+
+RANGE
+
+24"
+
+48"
+48"
+24"
+36"
+48"
+
+RANGE
+Melee
+
+A
+
+1
+
+D6
+1
+2
+3
+1
+
+A
+3
+
+BS
+
+4+
+
+3+
+3+
+3+
+3+
+3+
+
+WS
+4+
+
+S
+
+4
+
+5
+12
+4
+5
+14
+
+S
+6
+
+AP
+
+0
+
+0
+-3
+0
+-1
+-3
+
+AP
+0
+
+D
+
+1
+
+1
+
+D6+1
+
+1
+2
+
+D6+1
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Nurgle’s Gift (Aura) 
+
+Annihilator: Each time this model makes a ranged attack that 
+targets a Monster or Vehicle unit, re-roll a Damage roll of 1.
+
+DAMAGED: 1-4 WOUNDS REMAINING
+
+While this model has 1-4 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+KEYWORDS:  Vehicle, Chaos, Nurgle, Smoke, Predator Annihilator
+
+FACTION KEYWORDS: 
+Death Guard
+
+DEATH GUARD PREDATOR ANNIHILATOR
+Capable of firing with pinpoint accuracy, Predator Annihilators are precision tools 
+that can eliminate key threats. In so doing they allow the Legion’s infantry to 
+advance into the fray and spread Nurgle’s gifts.
+
+WARGEAR OPTIONS
+
+ ■    This model can be equipped with one of the following: 
+
+ ◦ 2 lascannons
+ ◦ 2 plague heavy bolters
+
+ ■  This model can be equipped with one of the following: 
+
+ ◦ 1 combi-weapon
+ ◦ 1 plague combi-bolter
+
+ ■  This model can be equipped with 1 havoc launcher.
+
+UNIT COMPOSITION
+
+ ■ 1 Death Guard Predator Annihilator
+This model is equipped with: Predator twin lascannon; 
+armoured tracks.
+
+KEYWORDS:  Vehicle, Chaos, Nurgle, Smoke, Predator Annihilator
+
+FACTION KEYWORDS: 
+Death Guard
+
+DEATH GUARD PREDATOR DESTRUCTOR
+
+M
+
+T
+
+10" 10
+
+SV
+
+3+
+
+W
+
+11
+
+LD
+
+6+
+
+OC
+
+4
+
+RANGED WEAPONS
+Combi-weapon  
+[ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]
+Havoc launcher [BLAST]
+Lascannon 
+Plague combi-bolter [LETHAL HITS, RAPID FIRE 2]
+Plague heavy bolter [LETHAL HITS, SUSTAINED HITS 1]
+Predator autocannon [RAPID FIRE 2]
+
+MELEE WEAPONS
+Armoured tracks 
+
+RANGE
+
+24"
+
+48"
+48"
+24"
+36"
+48"
+
+RANGE
+Melee
+
+A
+
+1
+
+D6
+1
+2
+3
+4
+
+A
+3
+
+BS
+
+4+
+
+3+
+3+
+3+
+3+
+3+
+
+WS
+4+
+
+S
+
+4
+
+5
+12
+4
+5
+9
+
+S
+6
+
+AP
+
+0
+
+0
+-3
+0
+-1
+-1
+
+AP
+0
+
+D
+
+1
+
+1
+
+D6+1
+
+1
+2
+3
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Nurgle’s Gift (Aura) 
+
+Destructor: Each time this model makes a ranged attack that 
+targets an Infantry unit, improve the Armour Penetration 
+characteristic of that attack by 1.
+
+DAMAGED: 1-4 WOUNDS REMAINING
+
+While this model has 1-4 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+KEYWORDS:  Vehicle, Chaos, Nurgle, Smoke, Predator Destructor
+
+FACTION KEYWORDS: 
+Death Guard
+
+DEATH GUARD PREDATOR DESTRUCTOR
+These pustule-covered battle tanks provide mobile fire support for advancing 
+infantry. They can shatter infantry formations and cripple enemy armour, all whilst 
+shrugging off storms of return fire.
+
+WARGEAR OPTIONS
+
+ ■    This model can be equipped with one of the following: 
+
+ ◦ 2 lascannons
+ ◦ 2 plague heavy bolters
+
+ ■  This model can be equipped with one of the following: 
+
+ ◦ 1 combi-weapon
+ ◦ 1 plague combi-bolter
+
+ ■  This model can be equipped with 1 havoc launcher.
+
+UNIT COMPOSITION
+
+ ■ 1 Death Guard Predator Destructor
+This model is equipped with: predator autocannon; 
+armoured tracks.
+
+KEYWORDS:  Vehicle, Chaos, Nurgle, Smoke, Predator Destructor
+
+FACTION KEYWORDS: 
+Death Guard
+
+DEATH GUARD DEFILER
+
+M
+
+8"
+
+T
+
+10
+
+SV
+
+3+
+
+W
+
+14
+
+LD
+
+6+
+
+OC
+
+5
+
+RANGED WEAPONS
+Combi-weapon  
+[ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]
+Defiler cannon [BLAST]
+Havoc launcher [BLAST]
+Plague combi-bolter [LETHAL HITS, RAPID FIRE 2]
+Reaper autocannon 
+[DEVASTATING WOUNDS, SUSTAINED HITS 1]
+Twin heavy flamer [TORRENT, IGNORES COVER, TWIN-LINKED]
+Twin lascannon [TWIN-LINKED]
+Twin plague heavy bolter  
+[LETHAL HITS, SUSTAINED HITS 1, TWIN-LINKED]
+
+MELEE WEAPONS
+Defiler claws 
+Defiler scourge [EXTRA ATTACKS]
+
+RANGE
+
+24"
+
+48"
+48"
+24"
+
+36"
+
+12"
+48"
+
+36"
+
+RANGE
+Melee
+Melee
+
+A
+
+1
+
+D6+3
+D6
+2
+
+4
+
+D6
+1
+
+3
+
+A
+5
+3
+
+BS
+
+4+
+
+3+
+3+
+3+
+
+3+
+
+N/A
+3+
+
+3+
+
+WS
+3+
+3+
+
+S
+
+4
+
+10
+5
+4
+
+7
+
+5
+12
+
+5
+
+S
+16
+12
+
+AP
+
+0
+
+-1
+0
+0
+
+-1
+
+-1
+-3
+
+-1
+
+AP
+-3
+-1
+
+D
+
+1
+
+3
+1
+1
+
+1
+
+1
+
+D6+1
+
+2
+
+D
+D6+1
+
+2
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Nurgle’s Gift (Aura) 
+
+Scuttling Walker: Each time this model makes a Normal, 
+Advance or Fall Back move, it can move over friendly Monster 
+and Vehicle models and terrain features that are 4" or less in 
+height as if they were not there.
+
+DAMAGED: 1-5 WOUNDS REMAINING
+
+While this model has 1-5 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE
+
+5+
+
+KEYWORDS: Vehicle, Walker, Chaos, Nurgle, Daemon, Smoke, Defiler
+
+FACTION KEYWORDS: 
+Death Guard
+
+DEATH GUARD DEFILER
+The Nurgle Daemons trapped within Defilers adapt unusually well to 
+their metallic prisons. Many gleefully realise the terrible mayhem they 
+can inflict as they stomp on piston-driven legs, ripping open tanks 
+with their massive claws or blowing apart enemy formations with 
+volleys from their Defiler cannons.
+
+WARGEAR OPTIONS
+
+ ■     This model’s twin heavy flamer can be replaced with one of the following: 
+
+ ◦ 1 Defiler scourge
+ ◦ 1 havoc launcher
+
+ ■  This model’s reaper autocannon can be replaced with one of the following:
+
+ ◦ 1 twin lascannon
+ ◦ 1 twin plague heavy bolter
+
+ ■  This model can be equipped with one of the following: 
+
+ ◦ 1 combi-weapon
+ ◦ 1 plague combi-bolter
+
+UNIT COMPOSITION
+
+ ■ 1 Death Guard Defiler
+This model is equipped with: Defiler cannon; 
+reaper autocannon; twin heavy flamer; Defiler claws.
+
+KEYWORDS: Vehicle, Walker, Chaos, Nurgle, Daemon, Smoke, Defiler
+
+FACTION KEYWORDS: 
+Death Guard
+
+DEATH GUARD RHINO
+
+M
+
+12"
+
+T
+
+9
+
+SV
+
+3+
+
+W
+
+10
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Combi-weapon  
+[ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]
+Havoc launcher [BLAST]
+Plague combi-bolter [LETHAL HITS, RAPID FIRE 2]
+
+MELEE WEAPONS
+Armoured tracks 
+
+RANGE
+
+24"
+
+48"
+24"
+
+RANGE
+Melee
+
+A
+
+1
+
+D6
+2
+
+A
+3
+
+BS
+
+4+
+
+3+
+3+
+
+WS
+4+
+
+S
+
+4
+
+5
+4
+
+S
+6
+
+AP
+
+0
+
+0
+0
+
+AP
+0
+
+D
+
+1
+
+1
+1
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3, Firing Deck 2
+
+FACTION: Nurgle’s Gift (Aura) 
+
+Self Repair: At the start of your Command phase, this model 
+regains 1 lost wound.
+
+KEYWORDS:  Vehicle, Chaos, Nurgle, Transport, Dedicated Transport,  
+
+Smoke, Rhino
+
+FACTION KEYWORDS: 
+Death Guard
+
+DEATH GUARD RHINO
+Clad in a cocoon of slime-smeared armour plating, Death Guard Rhinos 
+are ubiquitous and versatile armoured transports. They can move 
+Death Guard squads rapidly across the battlefield in their festering 
+holds, to take them to new battlefronts, bear them through hostile 
+terrain or support armoured offensives.
+
+WARGEAR OPTIONS
+
+ ■  This model can be equipped with one of the following: 
+
+ ◦ 1 combi-weapon
+ ◦ 1 additional plague combi-bolter
+
+ ■  This model can be equipped with 1 havoc launcher.
+
+UNIT COMPOSITION
+
+ ■ 1 Death Guard Rhino
+This model is equipped with: plague combi-bolter; 
+armoured tracks.
+
+TRANSPORT
+
+This model has a transport capacity of 12 Death Guard 
+Infantry models. It cannot transport Terminator, Cultist or 
+Poxwalker models.
+
+KEYWORDS:  Vehicle, Chaos, Nurgle, Transport, Dedicated Transport,  
+
+Smoke, Rhino
+
+FACTION KEYWORDS: 
+Death Guard
+
+MORTARION
+
+M
+
+T
+
+10" 12
+
+SV
+
+2+
+
+W
+
+16
+
+LD
+
+5+
+
+OC
+
+6
+
+RANGED WEAPONS
+Rotwind  
+[BLAST, DEVASTATING WOUNDS, LETHAL HITS, PSYCHIC]
+The Lantern [PISTOL, SUSTAINED HITS D3]
+
+MELEE WEAPONS
+Silence – strike [LETHAL HITS]
+Silence – sweep [LETHAL HITS]
+
+HOST OF PLAGUES
+
+RANGE
+
+A
+
+18"
+
+18"
+
+RANGE
+Melee
+Melee
+
+D6+3
+
+1
+
+A
+5
+15
+
+BS
+
+2+
+
+2+
+
+WS
+2+
+2+
+
+S
+
+7
+
+9
+
+S
+14
+7
+
+AP
+
+-2
+
+-3
+
+AP
+-3
+-1
+
+D
+
+1
+
+3
+
+D
+4
+1
+
+Miasma of Pestilence (Aura): While a friendly Death Guard unit is within 6" of this model, each time a 
+ranged attack targets that unit, models in that unit have the Benefit of Cover against that attack.
+
+Diseased Influence (Aura): While a friendly Death Guard unit is within 6" of this model, each time a 
+model in that unit makes an attack, re-roll a Wound roll of 1.
+
+Toxic Presence (Aura): While a friendly Death Guard unit is within 12" of this model, add 3" to the 
+Contagion Range of that unit.
+
+ABILITIES
+
+CORE: Deadly Demise D6, Feel No Pain 5+ 
+
+FACTION: Nurgle’s Gift (Aura) 
+
+Host of Plagues: At the start of the battle round, select one of 
+the abilities in the Host of Plagues section (see left). Until the 
+start of the next battle round, this model has that ability.
+Lord of the Death Guard (Aura): While a friendly Death 
+Guard unit is within 6" of this model, that unit can ignore any 
+or all modifiers to its characteristics and to any roll or test 
+made for it (excluding modifiers to saving throws).
+
+DAMAGED: 1-6 WOUNDS REMAINING
+
+While this model has 1-6 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE
+
+4+
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Monster, Psyker, Fly, Character, Epic Hero, Daemon, Grenades, 
+
+Chaos, Nurgle, Primarch, Mortarion
+
+FACTION KEYWORDS: 
+Death Guard
+
+MORTARION
+To stand in Mortarion’s presence is lethal, such is the pestilential aura 
+that surrounds him. Wielding his gigantic scythe, Silence, he cuts 
+apart entire enemy squads in seconds. With furious blasts of Lantern, 
+his devastating sidearm of unknown provenance, he disintegrates 
+heavy infantry and armour alike.
+
+WARGEAR OPTIONS
+
+ ■ None
+
+UNIT COMPOSITION
+
+ ■ 1 Mortarion – Epic Hero
+This model is equipped with: Rotwind; the Lantern; Silence.
+
+SUPREME COMMANDER
+
+If this model is in your army, it must be your Warlord.
+
+KEYWORDS:  Monster, Psyker, Fly, Character, Epic Hero, Daemon, Grenades, 
+
+Chaos, Nurgle, Primarch, Mortarion
+
+FACTION KEYWORDS: 
+Death Guard
+
+DEATH GUARD ICON BEARER
+
+M
+
+5"
+
+T
+
+5
+
+SV
+
+3+
+
+W
+
+4
+
+LD
+
+5+
+
+OC
+
+1
+
+RANGED WEAPONS
+Plague boltgun [LETHAL HITS]
+
+MELEE WEAPONS
+Plague knife [LETHAL HITS]
+
+RANGE
+
+24"
+
+RANGE
+Melee
+
+A
+2
+
+A
+4
+
+BS
+3+
+
+WS
+3+
+
+S
+4
+
+S
+4
+
+AP
+0
+
+AP
+0
+
+D
+1
+
+D
+1
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Nurgle’s Gift (Aura)
+
+Unclean Icon: While this model is leading a unit, add 1 to the 
+Objective Control characteristic of models in that unit.
+Seed the Disease: Once per battle, at the end of your 
+Movement phase, this model can use this ability. If it does, 
+until the start of your next Command phase, this model’s unit 
+is treated as having a Contagion Range of 12".
+
+KEYWORDS:  Infantry, Character, Chaos, Nurgle, Grenades,  
+
+Death Guard Icon Bearer
+
+FACTION KEYWORDS: 
+Death Guard
+
+DEATH GUARD ICON BEARER
+The icons borne by the Death Guard are rusted and corrupted 
+dedications to Nurgle, forged into the shape of the Grandfather’s 
+symbol. So wreathed in disease are these banners that nearby 
+enemies are rapidly afflicted, dying agonising deaths as their 
+convulsing bodies are reduced to slop.
+
+WARGEAR OPTIONS
+
+ ■ None
+
+UNIT COMPOSITION
+
+ ■ 1 Death Guard Icon Bearer
+This model is equipped with: plague boltgun; plague knife.
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Plague Marines
+You can attach this model to a Plague Marines unit, even 
+if one other Leader unit has already been attached to it. If 
+you do, and that Bodyguard unit is destroyed, the Leader 
+units attached to it become separate units, with their original 
+Starting Strengths.
+
+KEYWORDS:  Infantry, Character, Chaos, Nurgle, Grenades,  
+
+Death Guard Icon Bearer
+
+FACTION KEYWORDS: 
+Death Guard
+
+MIASMIC MALIGNIFIER
+
+M
+
+-
+
+T
+
+10
+
+SV
+
+3+
+
+W
+
+12
+
+LD
+
+6+
+
+OC
+
+0
+
+RANGED WEAPONS
+Noxious stink [IGNORES COVER, TORRENT]
+
+RANGE
+
+6"
+
+A
+2D6
+
+BS
+N/A
+
+S
+3
+
+AP
+0
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3, Infiltrators
+
+FACTION: Nurgle’s Gift (Aura) 
+
+Putrescent Fog (Aura): While a friendly Death Guard unit is 
+wholly within 6" of this Fortification, each time an attack 
+targets that unit, subtract 1 from the Hit roll.
+Diseased Cover: Each time a ranged attack is allocated to a 
+model, if that model is not fully visible to every model in the 
+attacking unit because of this Fortification, that model has 
+the Benefit of Cover against that attack.
+Fortification: While an enemy unit is only within Engagement 
+Range of one or more Fortifications from your army:
+ ■  That unit can still be selected as the target of ranged 
+
+attacks, but each time such an attack is made, unless it is 
+made with a Pistol, subtract 1 from the Hit roll.
+
+ ■  Models in that unit do not need to take Desperate Escape 
+tests due to Falling Back while Battle-shocked, except for 
+those that will move over enemy models when doing so.
+
+KEYWORDS: Fortification, Chaos, Nurgle, Miasmic Malignifier
+
+FACTION KEYWORDS: 
+Death Guard
+
+MIASMIC MALIGNIFIER
+Festooned with swaying plague censers and tainted bells, Miasmic 
+Malignifiers belch thick clouds of fumes from their rusted chimneys. 
+Sown like spores across target worlds, they are parasites that suck 
+filth from the ground and latch themselves on to local infrastructure, 
+polluting the world on every level.
+
+WARGEAR OPTIONS
+
+ ■ None
+
+UNIT COMPOSITION
+
+ ■ 1 Miasmic Malignifier
+This model is equipped with: noxious stink.
+
+KEYWORDS: Fortification, Chaos, Nurgle, Miasmic Malignifier
+
+FACTION KEYWORDS: 
+Death Guard
+
+

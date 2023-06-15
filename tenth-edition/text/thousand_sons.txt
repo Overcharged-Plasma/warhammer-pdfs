@@ -1,0 +1,4471 @@
+THOUSAND SONS
+ARMY RULE
+
+The Thousand Sons channel their arcane power through battlefield ritual, beseeching the Changer of the Ways to 
+gift them forbidden knowledge or ravage their foes with warpfire and mutation.
+
+CABAL OF SORCERERS
+If your Army Faction is Thousand Sons, at the end of your Command phase, each model from your army with 
+this ability that is on the battlefield (excluding Battle-shocked models) generates you a number of Cabal points 
+equal to the number shown in its ability (e.g. a model with the Cabal of Sorcerers 2 ability would generate you 
+2 Cabal points). The combined total of these is your Cabal points pool. During the battle round, you can use 
+Rituals from the list below, deducting the Cabal points cost of each one from your Cabal points pool. If you do 
+not have enough Cabal points for a Ritual, you cannot use it. Each Ritual can only be used once per phase. At the 
+start of your next Command phase, your Cabal points pool resets to zero. Each time you use a Ritual, select one 
+Thousand Sons Psyker model from your army, then apply that Ritual’s effect using that Psyker.
+
+WEAVER OF FATES (PSYCHIC)
+2 CABAL POINTS
+Use this Ritual at the start of any phase. Once during 
+that phase, when a saving throw is failed for a friendly 
+Thousand Sons model whose unit is within 18" of 
+this Psyker, you can re-roll that saving throw.
+
+ECHOES FROM THE WARP (PSYCHIC)
+6 CABAL POINTS
+Use this Ritual at the start of any phase. Once this 
+phase, you can select this Psyker’s unit as the target 
+of a Stratagem for 0CP, even if you have already used 
+that Stratagem this phase.
+
+TEMPORAL SURGE (PSYCHIC)
+5 CABAL POINTS
+Use this Ritual at the start of your Shooting phase. 
+Select one friendly Thousand Sons unit within 18" 
+of this Psyker; unless that unit is within Engagement 
+Range of one or more enemy units, it can make a 
+Normal move. If it does, that unit is not eligible to 
+declare a charge this turn.
+
+DOOMBOLT (PSYCHIC)
+7 CABAL POINTS
+Use this Ritual at the start of your Shooting phase. 
+Select one enemy unit within 18" of and visible to 
+this Psyker and roll one D6: on a 1, that enemy unit 
+suffers D3 mortal wounds; on a 2-5, it suffers D3+3 
+mortal wounds; on a 6, it suffers D3+6 mortal wounds. 
+
+TWIST OF FATE (PSYCHIC)
+9 CABAL POINTS
+Use this Ritual at the start of any phase. Select one 
+enemy unit within 18" of and visible to this Psyker; 
+until the end of the phase, armour saving throws 
+cannot be made for models in that unit.
+
+THOUSAND SONS – CULT OF MAGIC
+DETACHMENT RULE
+
+If your Army Faction is Thousand Sons, you can use 
+this Cult of Magic Detachment rule.
+
+KINDRED SORCERY
+For an instant, the chanting voices of the Thousand 
+Sons achieve perfect synchronisation, words of 
+malign incantation rolling out like the peal of 
+some cursed bell amidst the empyrean.
+
+In your Command phase, you can select 
+one of the abilities listed below to 
+take effect until the start of your next 
+Command phase.
+
+MALEVOLENT CHARGE
+Psychic weapons equipped by 
+Thousand Sons models from your army 
+have the [LETHAL HITS] ability.
+
+PSYCHIC MAELSTROM
+Psychic weapons equipped by Thousand 
+Sons models from your army have the 
+[SUSTAINED HITS 1] ability.
+
+WRATH OF THE IMMATERIUM
+Psychic weapons equipped by Thousand 
+Sons models from your army have the 
+[DEVASTATING WOUNDS] ability. 
+
+THOUSAND SONS – CULT OF MAGIC
+STRATAGEMS
+
+If you are using the Cult of Magic Detachment rule, you can use these Cult of Magic Stratagems.
+
+PSYCHIC DOMINION
+CULT OF MAGIC – EPIC DEED STRATAGEM
+
+1CP
+
+To pit one’s own psychic prowess against 
+the sorcerous might of the Thousand Sons 
+is to be trapped, helpless and screaming, 
+within one’s own mind.
+
+1CP
+
+WHEN: Any phase, just after an enemy 
+unit has selected its targets.
+TARGET: One Thousand Sons unit from 
+your army that was selected as the 
+target of one or more of the attacking 
+unit’s attacks.
+EFFECT: Until the end of the phase, all 
+attacks made against your unit with 
+Psychic weapons have the [HAZARDOUS] 
+ability and all models in your unit have 
+the Feel No Pain 4+ ability against 
+Psychic Attacks.
+
+DESTINED BY FATE
+CULT OF MAGIC – EPIC DEED STRATAGEM
+
+1CP
+
+The Architect of Fate has great designs 
+for his pawns, which do not include their 
+untimely demise just yet…
+
+WHEN: Any phase, when a saving throw is 
+failed for a Thousand Sons Psyker model 
+from your army.
+TARGET: That Psyker model.
+EFFECT: Change the Damage 
+characteristic of that attack to 0.
+
+1CP
+
+DEVASTATING SORCERY
+CULT OF MAGIC – BATTLE TACTIC STRATAGEM
+
+This warrior’s veins burn with raw 
+sorcery. The sheer unstoppable might 
+of their conjurations is such that, when 
+unleashed with destructive intent, there 
+is little that can prevent them from 
+devastating manifestation.
+
+WHEN: Your Shooting phase.
+TARGET: One Thousand Sons Psyker 
+unit from your army that has not been 
+selected to shoot this phase.
+EFFECT: Until the end of the phase, each 
+time a model in your unit makes a Psychic 
+Attack, you can re-roll the Hit roll and you 
+can re-roll the Wound roll.
+
+ENSORCELLED INFUSION
+
+CULT OF MAGIC – STRATEGIC PLOY STRATAGEM
+
+Utilising the fell powers of the warp, 
+Thousand Sons Sorcerers infuse their 
+minions’ bolter rounds with empyric 
+energies to render them even deadlier.
+
+WHEN: Your Shooting phase.
+TARGET: One Thousand Sons Psyker 
+unit from your army that has not been 
+selected to shoot this phase.
+EFFECT: Until the end of the phase, all 
+inferno bolt pistols, inferno boltguns, 
+inferno combi-bolters and inferno 
+combi-weapons equipped by models in 
+your unit have the [PSYCHIC] ability and a 
+Strength characteristic of 5. 
+
+THOUSAND SONS – CULT OF MAGIC
+STRATAGEMS
+
+If you are using the Cult of Magic Detachment rule, you can use these Cult of Magic Stratagems.
+
+1CP
+
+SORCEROUS MIGHT
+CULT OF MAGIC – EPIC DEED STRATAGEM
+
+The most powerful sorcerers of the 
+Thousand Sons are battle-psykers who 
+can, if the need is dire enough, siphon a 
+sliver of their corrupted souls into their 
+eldritch assaults to temporarily boost 
+their potency.
+
+WHEN: Your Shooting phase.
+TARGET: One Thousand Sons Psyker 
+unit from your army that has not been 
+selected to shoot this phase.
+EFFECT: Until the end of the phase, add 9" 
+to the range of Psychic weapons equipped 
+by your unit.
+
+2CP
+
+WARP SIGHT
+CULT OF MAGIC – STRATEGIC PLOY STRATAGEM
+
+With their tainted souls melded as one in 
+the warp, what one champion of the cabal 
+sees, all their fellows see also.
+
+WHEN: Your Shooting phase.
+TARGET: One Thousand Sons Psyker unit 
+from your army and one enemy unit that 
+is visible to that unit.
+EFFECT: Until the end of the phase, each 
+time a friendly Thousand Sons Psyker 
+model makes an attack with a Psychic 
+weapon that targets that enemy unit, 
+that attack has the [INDIRECT FIRE] and 
+[IGNORES COVER] abilities. 
+
+THOUSAND SONS – CULT OF MAGIC
+ENHANCEMENTS
+
+If you are using the Cult of Magic Detachment rule, you can use these Cult of Magic Enhancements.
+LORD OF FORBIDDEN LORE
+This sorcerer has committed many a grimoire and 
+unholy tome to memory, giving him unparalleled 
+knowledge of hexes, curses and destructive rites.
+
+UMBRALEFIC CRYSTAL
+By siphoning the perpetual gloom from the location 
+where the cursed planet Mangel III once existed in 
+realspace, a cabal of sorcerers from the Cult of Magic 
+created the Umbralefic Crystal. One in command of 
+this powerful relic can use its energies to temporarily 
+fold space, creating a gate of sorcerous translocation 
+through which he or his allies can step.
+
+Thousand Sons Psyker model only. The bearer can 
+be selected to use a Ritual even if another Psyker 
+from your army has already been selected to use that 
+Ritual this phase.
+ATHENAEAN SCROLLS
+Ahriman consumed the knowledge contained in 
+the Athenaeum of Kallimakus long ago, but not all 
+of the Athenaeum’s founders were slain when their 
+repository of knowledge was destroyed. Some of their 
+lore has since been transcribed to keep an echo of 
+that great library in existence. One who possesses 
+these texts has access to techniques that make his 
+spells exceptionally potent.
+
+Thousand Sons Psyker model only. In your 
+Command phase, if the bearer is on the battlefield and 
+is not Battle-shocked, it generates you 1 additional 
+Cabal point this phase. 
+
+Thousand Sons model only. Once per battle, in your 
+Command phase, you can remove the bearer’s unit 
+from the battlefield. If you do, in the Reinforcements 
+step of your next Movement phase, set that unit back 
+up anywhere on the battlefield that is more than 9" 
+horizontally away from all enemy models. 
+ARCANE VORTEX
+This ritualistic locus is formed from the matter of 
+arcane objects, their substance broken down at 
+a molecular level and added to a nexus of energy 
+surrounding the creator. When battle is joined, the 
+sorcerer draws upon this power, all the better to 
+unleash warp-fuelled destruction upon the enemy.
+
+Thousand Sons model only. Add 1 to the Strength 
+and Damage characteristics of Psychic weapons 
+equipped by the bearer. 
+
+AHRIMAN
+
+M
+
+6"
+
+T
+
+4
+
+SV
+
+3+
+
+W
+
+5
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Inferno bolt pistol [PISTOL]
+Psychic Stalk [PRECISION, PSYCHIC]
+
+MELEE WEAPONS
+Black Staff of Ahriman [PSYCHIC]
+
+RANGE
+
+12"
+18"
+
+RANGE
+Melee
+
+A
+1
+1
+
+A
+5
+
+BS
+2+
+2+
+
+WS
+2+
+
+S
+4
+6
+
+S
+7
+
+AP
+-1
+-1
+
+AP
+-1
+
+D
+1
+D6
+
+D
+3
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Cabal of Sorcerers 3
+
+Rubric Lord: While this model is leading a unit, each time a 
+model in that unit makes an attack, add 1 to the Wound roll.
+Arch-Sorcerer of Tzeentch (Psychic): Once per battle, you 
+can select this model to use a Ritual for 0 Cabal points (see 
+Cabal of Sorcerers). If you do, all the other rules for using 
+Rituals still apply.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Infantry, Character, Epic Hero, Psyker, Chaos, Tzeentch, Ahriman
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+AHRIMAN
+Amongst his cursed Legion, Ahriman is second only to his gene-sire in 
+the potent warp magicks he unleashes in battle. He is a dread sorcerer 
+and master manipulator, weaving schemes and plots that he enforces 
+through his cabal of subservient psykers and the ranks of Rubricae 
+who march at his command.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Ahriman – Epic Hero
+This model is equipped with: inferno bolt pistol; Psychic Stalk; 
+Black Staff of Ahriman.
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Rubric Marines
+
+AHRIMAN
+
+Your army cannot contain both Ahriman and Ahriman on 
+Disc of Tzeentch.
+
+KEYWORDS:  Infantry, Character, Epic Hero, Psyker, Chaos, Tzeentch, Ahriman
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+AHRIMAN ON DISC OF TZEENTCH
+
+M
+
+10"
+
+T
+
+4
+
+SV
+
+3+
+
+W
+
+6
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Inferno bolt pistol [PISTOL]
+Psychic Stalk [PRECISION, PSYCHIC]
+
+MELEE WEAPONS
+Black Staff of Ahriman [PSYCHIC]
+
+RANGE
+
+12"
+18"
+
+RANGE
+Melee
+
+A
+1
+1
+
+A
+5
+
+BS
+2+
+2+
+
+WS
+2+
+
+S
+4
+6
+
+S
+7
+
+AP
+-1
+-1
+
+AP
+-1
+
+D
+1
+D6
+
+D
+3
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Cabal of Sorcerers 3
+
+Rubric Lord: While this model is leading a unit, each time a 
+model in that unit makes an attack, add 1 to the Wound roll.
+Arch-Sorcerer of Tzeentch (Psychic): Once per battle, you 
+can select this model to use a Ritual for 0 Cabal points (see 
+Cabal of Sorcerers). If you do, all the other rules for using 
+Rituals still apply.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Infantry, Character, Epic Hero, Psyker, Fly, Chaos, Tzeentch, 
+
+Ahriman on Disc of Tzeentch
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+AHRIMAN ON DISC OF TZEENTCH
+Ahriman fights with singular focus and frightening determination. At 
+range he unleashes storms of psychic fury that transmogrify, mutate 
+and erase from existence all who stand before him. Swooping low upon 
+his Disc of Tzeentch, the Arch-Sorcerer strikes down any who survive 
+with his terrifying Black Staff.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Ahriman – Epic Hero
+This model is equipped with: Psychic Stalk; inferno bolt pistol; 
+Black Staff of Ahriman.
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Rubric Marines
+
+AHRIMAN
+
+Your army cannot contain both Ahriman and Ahriman on 
+Disc of Tzeentch.
+
+KEYWORDS:  Infantry, Character, Epic Hero, Psyker, Fly, Chaos, Tzeentch, 
+
+Ahriman on Disc of Tzeentch
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+THOUSAND SONS LAND RAIDER
+
+M
+
+T
+
+10" 12
+
+SV
+
+2+
+
+W
+
+16
+
+LD
+
+6+
+
+OC
+
+5
+
+RANGED WEAPONS
+Havoc launcher [BLAST]
+Inferno combi-bolter [RAPID FIRE 2]
+Inferno combi-weapon 
+[ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]
+Soulshatter lascannon 
+Twin inferno heavy bolter 
+[SUSTAINED HITS 1, TWIN-LINKED]
+
+MELEE WEAPONS
+Armoured tracks 
+
+RANGE
+
+48"
+24"
+
+24"
+
+48"
+
+24"
+
+RANGE
+Melee
+
+A
+D6
+2
+
+1
+
+2
+
+3
+
+A
+6
+
+BS
+3+
+3+
+
+4+
+
+3+
+
+3+
+
+WS
+4+
+
+S
+5
+4
+
+4
+
+12
+
+5
+
+S
+8
+
+AP
+0
+-1
+
+-1
+
+-3
+
+-2
+
+AP
+0
+
+D
+1
+1
+
+1
+
+D6+1
+
+1
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D6
+
+Assault Ramp: Each time a unit disembarks from this 
+Transport after it has made a Normal move, that unit is still 
+eligible to declare a charge this turn.
+
+DAMAGED: 1-5 WOUNDS REMAINING
+
+While this model has 1-5 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+KEYWORDS: Vehicle, Transport, Smoke, Chaos, Tzeentch, Land Raider
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+THOUSAND SONS LAND RAIDER
+Chaos Land Raiders employed by the Thousand Sons are slab-sided 
+armoured monsters commonly employed to bear Scarab Occult 
+Terminators into battle. Their hulls dance with warpflame or writhe 
+in constant mutagenic peristalsis, even as their arsenal of heavy 
+weapons blazes without cease.
+
+WARGEAR OPTIONS
+
+ ■ This model can be equipped with one of the following: 
+
+ ◦ 1 inferno combi-bolter
+ ◦ 1 inferno combi-weapon
+
+ ■  This model can be equipped with 1 havoc launcher.
+
+UNIT COMPOSITION
+
+ ■ 1 Thousand Sons Land Raider
+This model is equipped with: 2 soulshatter lascannons; 
+twin inferno heavy bolter; armoured tracks.
+
+TRANSPORT
+
+This model has a transport capacity of 12 Thousand Sons 
+Infantry models (excluding Cultist and Tzaangor models). 
+Each Terminator model takes up the space of 2 models.
+
+KEYWORDS: Vehicle, Transport, Smoke, Chaos, Tzeentch, Land Raider
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+THOUSAND SONS PREDATOR ANNIHILATOR
+
+M
+
+T
+
+10" 10
+
+SV
+
+3+
+
+W
+
+11
+
+LD
+
+6+
+
+OC
+
+4
+
+RANGED WEAPONS
+Havoc launcher [BLAST]
+Inferno combi-bolter [RAPID FIRE 2]
+Inferno combi-weapon 
+[ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]
+Inferno heavy bolter [SUSTAINED HITS 1]
+Lascannon 
+Predator twin lascannon [TWIN-LINKED]
+
+MELEE WEAPONS
+Armoured tracks 
+
+RANGE
+
+48"
+24"
+
+24"
+
+36"
+48"
+48"
+
+RANGE
+Melee
+
+A
+D6
+2
+
+1
+
+3
+1
+1
+
+A
+3
+
+BS
+3+
+3+
+
+4+
+
+3+
+3+
+3+
+
+WS
+4+
+
+S
+5
+4
+
+4
+
+5
+12
+14
+
+S
+6
+
+AP
+0
+-1
+
+-1
+
+-2
+-3
+-3
+
+AP
+0
+
+D
+1
+1
+
+1
+
+2
+
+D6+1
+D6+1
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+Annihilator: Each time this model makes a ranged attack that 
+targets a Monster or Vehicle unit, re-roll a Damage roll of 1.
+
+DAMAGED: 1-4 WOUNDS REMAINING
+
+While this model has 1-4 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+KEYWORDS: Vehicle, Smoke, Chaos, Tzeentch, Predator Annihilator
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+THOUSAND SONS PREDATOR ANNIHILATOR
+Each blast of searing laser energy these vehicles unleash is guided 
+by the precognitive whispers of unnatural entities, while the fires 
+of their engines are stoked by the undying hatred of their crews.
+
+WARGEAR OPTIONS
+
+ ■  This model can be equipped with one of the following: 
+
+ ◦ 2 lascannons
+ ◦ 2 inferno heavy bolters
+
+ ■ This model can be equipped with one of the following: 
+
+ ◦ 1 inferno combi-bolter
+ ◦ 1 inferno combi-weapon
+
+ ■  This model can be equipped with 1 havoc launcher.
+
+UNIT COMPOSITION
+
+ ■ 1 Thousand Sons Predator Annihilator
+This model is equipped with: Predator twin lascannon; 
+armoured tracks.
+
+KEYWORDS: Vehicle, Smoke, Chaos, Tzeentch, Predator Annihilator
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+THOUSAND SONS PREDATOR DESTRUCTOR
+
+M
+
+T
+
+10" 10
+
+SV
+
+3+
+
+W
+
+11
+
+LD
+
+6+
+
+OC
+
+4
+
+RANGED WEAPONS
+Havoc launcher [BLAST]
+Inferno combi-bolter [RAPID FIRE 2]
+Inferno combi-weapon 
+[ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]
+Inferno heavy bolter [SUSTAINED HITS 1]
+Lascannon 
+Predator autocannon [RAPID FIRE 2]
+
+MELEE WEAPONS
+Armoured tracks 
+
+RANGE
+
+48"
+24"
+
+24"
+
+36"
+48"
+48"
+
+RANGE
+Melee
+
+A
+D6
+2
+
+1
+
+3
+1
+4
+
+A
+3
+
+BS
+3+
+3+
+
+4+
+
+3+
+3+
+3+
+
+WS
+4+
+
+S
+5
+4
+
+4
+
+5
+12
+9
+
+S
+6
+
+AP
+0
+-1
+
+-1
+
+-2
+-3
+-1
+
+AP
+0
+
+D
+1
+1
+
+1
+
+2
+
+D6+1
+
+3
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+Destructor: Each time this model makes a ranged attack that 
+targets an Infantry unit, improve the Armour Penetration 
+characteristic of that attack by 1.
+
+DAMAGED: 1-4 WOUNDS REMAINING
+
+While this model has 1-4 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+KEYWORDS: Vehicle, Smoke, Chaos, Tzeentch, Predator Destructor
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+THOUSAND SONS PREDATOR DESTRUCTOR
+These Predator Destructors rapidly fire streams of shells that dance 
+with unnatural energies, the cackle of their possessor cacodaemons 
+mingling with the chatter of their guns and the screams of 
+their victims.
+
+WARGEAR OPTIONS
+
+ ■  This model can be equipped with one of the following: 
+
+ ◦ 2 lascannons
+ ◦ 2 inferno heavy bolters
+
+ ■   This model can be equipped with one of the following: 
+
+ ◦ 1 inferno combi-bolter
+ ◦ 1 inferno combi-weapon
+
+ ■ This model can be equipped with 1 havoc launcher.
+
+UNIT COMPOSITION
+
+ ■ 1 Thousand Sons Predator Destructor
+This model is equipped with: Predator autocannon; 
+armoured tracks.
+
+KEYWORDS: Vehicle, Smoke, Chaos, Tzeentch, Predator Destructor
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+THOUSAND SONS RHINO
+
+M
+
+12"
+
+T
+
+9
+
+SV
+
+3+
+
+W
+
+10
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Havoc launcher [BLAST]
+Inferno combi-bolter [RAPID FIRE 2]
+Inferno combi-weapon 
+[ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]
+
+MELEE WEAPONS
+Armoured tracks 
+
+RANGE
+
+48"
+24"
+
+24"
+
+RANGE
+Melee
+
+A
+D6
+2
+
+1
+
+A
+3
+
+BS
+3+
+3+
+
+4+
+
+WS
+4+
+
+S
+5
+4
+
+4
+
+S
+6
+
+AP
+0
+-1
+
+-1
+
+AP
+0
+
+D
+1
+1
+
+1
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+Self Repair: At the start of your Command phase, this model 
+regains 1 lost wound.
+
+KEYWORDS:  Vehicle, Transport, Smoke, Chaos, Tzeentch, Rhino
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+THOUSAND SONS RHINO
+Many of the Rhino APCs employed by the Thousand Sons are ancient 
+vehicles, their once-noble machine spirits saturated by the malice 
+of the warp, their hulls mutated and discoloured by the energies of 
+unfettered change. Still they bear the foot soldiers of Tzeentch swiftly 
+into battle, guns hammering as they go.
+
+WARGEAR OPTIONS
+
+ ■     This model can be equipped with one of the following: 
+
+ ◦ 1 additional inferno combi-bolter
+ ◦ 1 inferno combi-weapon
+
+ ■  This model can be equipped with 1 havoc launcher.
+
+UNIT COMPOSITION
+
+ ■ 1 Thousand Sons Rhino
+This model is equipped with: inferno combi-bolter; 
+armoured tracks.
+
+TRANSPORT
+
+This model has a transport capacity of 12 Thousand 
+Sons Infantry models (excluding Cultist, Tzaangor and 
+Terminator models). 
+
+KEYWORDS:  Vehicle, Transport, Smoke, Chaos, Tzeentch, Rhino
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+THOUSAND SONS CHAOS SPAWN
+
+M
+
+8"
+
+T
+
+5
+
+SV
+
+4+
+
+W
+
+4
+
+LD
+
+7+
+
+OC
+
+1
+
+MELEE WEAPONS
+Hideous mutations 
+
+RANGE
+Melee
+
+A
+
+D6+2
+
+WS
+4+
+
+S
+5
+
+AP
+-1
+
+D
+2
+
+ABILITIES
+
+CORE: Feel No Pain 5+
+
+Regenerating Monstrosities: At the start of each player’s 
+Command phase, one model in this unit regains up to D3 
+lost wounds.
+
+INVULNERABLE SAVE
+
+5+
+
+KEYWORDS: Beast, Chaos, Tzeentch, Spawn
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+THOUSAND SONS CHAOS SPAWN
+Chaos Spawn are roiling masses of mutating flesh and bone that 
+lurch towards the foe with mindless ferocity. They wail and slobber 
+from fanged maws as they lash wildly about themselves with barbed 
+pseudopods, snapping claws and clubbing limbs, tearing and crushing 
+all who do not flee in horror.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 2 Chaos Spawn
+Every model is equipped with: hideous mutations.
+
+KEYWORDS: Beast, Chaos, Tzeentch, Spawn
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+THOUSAND SONS VINDICATOR
+
+M
+
+T
+
+10" 11
+
+SV
+
+2+
+
+W
+
+11
+
+LD
+
+6+
+
+OC
+
+3
+
+RANGED WEAPONS
+Demolisher cannon [BLAST]
+Havoc launcher [BLAST]
+Inferno combi-bolter [RAPID FIRE 2]
+Inferno combi-weapon 
+[ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]
+
+MELEE WEAPONS
+Armoured tracks 
+
+RANGE
+
+24"
+48"
+24"
+
+24"
+
+RANGE
+Melee
+
+A
+
+D6+3
+D6
+2
+
+1
+
+A
+3
+
+BS
+3+
+3+
+3+
+
+4+
+
+WS
+4+
+
+S
+14
+5
+4
+
+4
+
+S
+6
+
+AP
+-3
+0
+-1
+
+-1
+
+AP
+0
+
+D
+D6
+1
+1
+
+1
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+Siege Shield: When making ranged attacks with its 
+demolisher cannon, this model can target enemy units within 
+Engagement Range of it (provided no other friendly units 
+are also within Engagement Range of that enemy unit). In 
+addition, when making ranged attacks, this model does not 
+suffer the penalty to its Hit rolls for being within Engagement 
+Range of one or more enemy units.
+
+DAMAGED: 1-4 WOUNDS REMAINING
+
+While this model has 1-4 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+KEYWORDS: Vehicle, Smoke, Chaos, Tzeentch, Vindicator
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+THOUSAND SONS VINDICATOR
+The Chaos Vindicator is a brutish siege tank whose demolisher cannon 
+fires devastatingly destructive shells that can flatten bunkers, breach 
+fortress walls or vaporise entire squads of foes in a single hit. The 
+Thousand Sons delight in fielding these vehicles, which effect sudden 
+and catastrophic change with every shot.
+
+WARGEAR OPTIONS
+
+ ■   This model can be equipped with one of the following: 
+
+ ◦ 1 inferno combi-bolter
+ ◦ 1 inferno combi-weapon
+
+ ■  This model can be equipped with 1 havoc launcher.
+
+UNIT COMPOSITION
+
+ ■ 1 Thousand Sons Vindicator
+This model is equipped with: demolisher cannon; 
+armoured tracks.
+
+KEYWORDS: Vehicle, Smoke, Chaos, Tzeentch, Vindicator
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+THOUSAND SONS DEFILER
+
+M
+
+8"
+
+T
+
+10
+
+SV
+
+3+
+
+W
+
+14
+
+LD
+
+6+
+
+OC
+
+5
+
+RANGED WEAPONS
+Defiler cannon [BLAST]
+Havoc launcher [BLAST]
+Inferno combi-bolter [RAPID FIRE 2]
+Inferno combi-weapon 
+[ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]
+Reaper autocannon 
+[DEVASTATING WOUNDS, SUSTAINED HITS 1]
+Twin heavy flamer 
+[IGNORES COVER, TORRENT, TWIN-LINKED]
+Twin inferno heavy bolter 
+[SUSTAINED HITS 1, TWIN-LINKED]
+Twin lascannon [TWIN-LINKED]
+
+MELEE WEAPONS
+Defiler claws 
+Defiler scourge [EXTRA ATTACKS]
+
+RANGE
+
+48"
+48"
+24"
+
+24"
+
+36"
+
+12"
+
+36"
+
+48"
+
+RANGE
+Melee
+Melee
+
+A
+
+D6+3
+D6
+2
+
+1
+
+4
+
+D6
+
+3
+
+1
+
+A
+5
+3
+
+BS
+3+
+3+
+3+
+
+4+
+
+3+
+
+N/A
+
+3+
+
+3+
+
+WS
+3+
+3+
+
+S
+10
+5
+4
+
+4
+
+7
+
+5
+
+5
+
+9
+
+S
+16
+12
+
+AP
+-1
+0
+-1
+
+-1
+
+-1
+
+-1
+
+-2
+
+-3
+
+AP
+-3
+-1
+
+D
+3
+1
+1
+
+1
+
+1
+
+1
+
+2
+
+D6+1
+
+D
+D6+1
+
+2
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+Scuttling Walker: Each time this model makes a Normal, 
+Advance or Fall Back move, it can move over friendly Monster 
+and Vehicle models and terrain features that are 4" or less in 
+height as if they were not there.
+
+DAMAGED: 1-5 WOUNDS REMAINING
+
+While this model has 1-5 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE
+
+5+
+
+KEYWORDS: Vehicle, Walker, Daemon, Smoke, Chaos, Tzeentch, Defiler
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+THOUSAND SONS DEFILER
+These towering war engines advance upon iron-bound arachnid limbs 
+that crush and rend even as their array of heavy guns rain fire on the 
+foe. Wreathed in infernal warpflame, they shrug off enemy fire by 
+transmuting incoming projectiles, or flow like reknitting flesh to repair 
+damage as swiftly as it is inflicted.
+
+WARGEAR OPTIONS
+
+ ■  This model’s twin heavy flamer can be replaced with one of the following: 
+
+ ◦ 1 Defiler scourge
+ ◦ 1 havoc launcher
+
+ ■  This model’s reaper autocannon can be replaced with one of the following: 
+
+ ◦ 1 twin lascannon
+ ◦ 1 twin inferno heavy bolter
+
+ ■   This model can be equipped with 1 inferno combi-weapon.
+
+UNIT COMPOSITION
+
+ ■ 1 Thousand Sons Defiler
+This model is equipped with: Defiler cannon; reaper 
+autocannon; twin heavy flamer; Defiler claws.
+
+KEYWORDS: Vehicle, Walker, Daemon, Smoke, Chaos, Tzeentch, Defiler
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+EXALTED SORCERER
+
+M
+
+6"
+
+T
+
+4
+
+SV
+
+3+
+
+W
+
+5
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Astral Blast [BLAST, DEVASTATING WOUNDS, PSYCHIC]
+Inferno bolt pistol [PISTOL]
+Plasma pistol – standard [PISTOL]
+Plasma pistol – supercharge [HAZARDOUS, PISTOL]
+Warpflame pistol [IGNORES COVER, PISTOL, TORRENT]
+
+MELEE WEAPONS
+Force weapon [PSYCHIC]
+Prosperine khopesh 
+
+RANGE
+
+18"
+12"
+12"
+12"
+12"
+
+RANGE
+Melee
+Melee
+
+A
+D6
+1
+1
+1
+D6
+
+A
+5
+4
+
+BS
+2+
+2+
+2+
+2+
+N/A
+
+WS
+2+
+3+
+
+S
+6
+4
+7
+8
+3
+
+S
+6
+5
+
+AP
+-2
+-1
+-2
+-3
+-1
+
+AP
+-1
+-2
+
+D
+D3
+1
+1
+2
+1
+
+D
+D3
+2
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Cabal of Sorcerers 2
+
+Arcane Shield (Psychic): While this model is leading a unit, 
+models in that unit have a 4+ invulnerable save.
+Rebind Rubricae (Psychic): In your Command phase, if 
+this model is leading a unit, you can roll one D6: on a 1, that 
+unit suffers D3 mortal wounds; on a 2-5, you can return 1 
+destroyed Bodyguard model to that unit; on a 6, you can 
+return up to 2 destroyed Bodyguard models to that unit.
+
+INVULNERABLE SAVE
+
+4+
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Infantry, Character, Grenades, Psyker, Chaos, Tzeentch, 
+
+Exalted Sorcerer
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+EXALTED SORCERER
+Greatest amongst Magnus’ lieutenants, each Exalted Sorcerer is an 
+embodiment of forbidden power and monstrous ambition. From the 
+soul-burning gouts of their warpflame pistols to the unfettered might 
+of their sorcery and the shimmering shields cast by their corrupt sigils 
+of Tzeentch, they are terrifyingly potent warriors.
+
+WARGEAR OPTIONS
+
+ ■  This model’s inferno bolt pistol can be replaced with one of the following: 
+
+ ◦ 1 plasma pistol
+ ◦ 1 warpflame pistol
+
+ ■   This model can be equipped with 1 Prosperine khopesh.
+
+UNIT COMPOSITION
+
+ ■ 1 Exalted Sorcerer
+This model is equipped with: Astral Blast; inferno bolt pistol; 
+force weapon.
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Rubric Marines
+
+KEYWORDS:  Infantry, Character, Grenades, Psyker, Chaos, Tzeentch, 
+
+Exalted Sorcerer
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+EXALTED SORCERER ON DISC OF TZEENTCH
+
+M
+
+12"
+
+T
+
+4
+
+SV
+
+3+
+
+W
+
+6
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Arcane Fire [IGNORES COVER, PSYCHIC, TORRENT]
+Inferno bolt pistol [PISTOL]
+Plasma pistol – standard [PISTOL]
+Plasma pistol – supercharge [HAZARDOUS, PISTOL]
+Warpflame pistol [IGNORES COVER, PISTOL, TORRENT]
+
+MELEE WEAPONS
+Force weapon [PSYCHIC]
+Prosperine khopesh 
+
+RANGE
+
+18"
+12"
+12"
+12"
+12"
+
+RANGE
+Melee
+Melee
+
+A
+D6
+1
+1
+1
+D6
+
+A
+5
+4
+
+BS
+N/A
+2+
+2+
+2+
+N/A
+
+WS
+2+
+3+
+
+S
+6
+4
+7
+8
+3
+
+S
+6
+5
+
+AP
+-2
+-1
+-2
+-3
+-1
+
+AP
+-1
+-2
+
+D
+D3
+1
+1
+2
+1
+
+D
+D3
+2
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Cabal of Sorcerers 2
+
+Arcane Shield (Psychic): While this model is leading a unit, 
+models in that unit a 4+ invulnerable save.
+Binding Tendrils (Psychic): At the end of your Movement 
+phase, you can select one enemy unit within 18" of and 
+visible to this Psyker and roll one D6: on a 1, this Psyker’s 
+unit suffers D3 mortal wounds; on a 2+, until the start of 
+your next Movement phase, halve the Move characteristic of 
+models in that unit and halve Advance and Charge rolls made 
+for that unit.
+
+INVULNERABLE SAVE
+
+4+
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Infantry, Character, Fly, Psyker, Chaos, Tzeentch, 
+
+Exalted Sorcerer
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+EXALTED SORCERER ON DISC OF TZEENTCH
+Only the greatest wielders of esoteric power are said to be granted one 
+of Tzeentch’s daemonic steeds. Exalted Sorcerers ride these soaring 
+Discs on plumes of arcane flame while they manipulate coruscating 
+energy in twisting firestorms.
+
+WARGEAR OPTIONS
+
+ ■  This model’s inferno bolt pistol can be replaced with one of the following: 
+
+ ◦ 1 plasma pistol
+ ◦ 1 warpflame pistol
+
+ ■   This model can be equipped with 1 Prosperine khopesh.
+
+UNIT COMPOSITION
+
+ ■ 1 Exalted Sorcerer
+This model is equipped with: Arcane Fire; inferno bolt pistol; 
+force weapon.
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Rubric Marines
+
+KEYWORDS:  Infantry, Character, Fly, Psyker, Chaos, Tzeentch, 
+
+Exalted Sorcerer
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+THOUSAND SONS FORGEFIEND
+
+M
+
+8"
+
+T
+
+10
+
+SV
+
+3+
+
+W
+
+12
+
+LD
+
+6+
+
+OC
+
+3
+
+RANGED WEAPONS
+Ectoplasma cannon [BLAST]
+Hades autocannon 
+
+MELEE WEAPONS
+Forgefiend claws
+Forgefiend jaws 
+
+RANGE
+
+36"
+36"
+
+RANGE
+Melee
+Melee
+
+A
+D3
+6
+
+A
+3
+5
+
+BS
+3+
+3+
+
+WS
+3+
+3+
+
+S
+10
+8
+
+S
+6
+7
+
+AP
+-3
+-1
+
+AP
+0
+0
+
+D
+3
+2
+
+D
+1
+2
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+Blazing Salvoes: In your Shooting phase, after this model 
+has shot, select one enemy unit that was hit by one or more 
+of those attacks. Until the start of your next turn, that enemy 
+unit is suppressed. While a unit is suppressed, each time 
+a model in that unit makes an attack, subtract 1 from the 
+Hit roll.
+
+DAMAGED: 1-4 WOUNDS REMAINING
+
+While this model has 1-4 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE
+
+5+
+
+KEYWORDS: Vehicle, Walker, Daemon, Chaos, Tzeentch, Forgefiend
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+THOUSAND SONS FORGEFIEND
+The ectoplasma cannons and Hades autocannons of the Forgefiends 
+draw their furious energies direct from the blazing daemon forges 
+at the heart of each murderous artillery engine. So do they unleash 
+salvoes of blazing weaponised hatred that eradicate the Thousand 
+Sons’ enemies in droves.
+
+WARGEAR OPTIONS
+
+ ■   This model’s 2 Hades autocannons can be replaced with 2 ectoplasma cannons.
+ ■  This model’s Forgefiend jaws can be replaced with 1 ectoplasma cannon and 1 Forgefiend claws.
+
+UNIT COMPOSITION
+
+ ■ 1 Thousand Sons Forgefiend
+This model is equipped with: 2 Hades autocannons; 
+1 Forgefiend jaws.
+
+KEYWORDS: Vehicle, Walker, Daemon, Chaos, Tzeentch, Forgefiend
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+THOUSAND SONS HELBRUTE
+
+M
+
+6"
+
+T
+
+9
+
+SV
+
+2+
+
+W
+
+8
+
+LD
+
+6+
+
+OC
+
+3
+
+RANGED WEAPONS
+Heavy flamer [IGNORES COVER, TORRENT]
+Helbrute plasma cannon [BLAST, HAZARDOUS]
+Inferno combi-bolter [RAPID FIRE 2]
+Missile launcher – frag [BLAST]
+Missile launcher – krak 
+Multi-melta [MELTA 2]
+Twin autocannon [TWIN-LINKED]
+Twin inferno heavy bolter 
+[SUSTAINED HITS 1, TWIN-LINKED]
+Twin lascannon [TWIN-LINKED]
+
+MELEE WEAPONS
+Close combat weapon 
+Helbrute fist 
+Helbrute hammer 
+Power scourge 
+
+RANGE
+
+12"
+36"
+24"
+48"
+48"
+18"
+48"
+
+36"
+
+48"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+
+A
+D6
+D3
+2
+D6
+1
+2
+2
+
+3
+
+1
+
+A
+5
+5
+5
+8
+
+BS
+N/A
+3+
+3+
+3+
+3+
+3+
+3+
+
+3+
+
+3+
+
+WS
+3+
+3+
+4+
+3+
+
+S
+5
+8
+4
+4
+9
+9
+9
+
+5
+
+12
+
+S
+6
+12
+14
+7
+
+AP
+-1
+-3
+-1
+0
+-2
+-4
+-1
+
+-2
+
+-3
+
+AP
+0
+-2
+-3
+-1
+
+D
+1
+3
+1
+1
+D6
+D6
+3
+
+2
+
+D6+1
+
+D
+1
+3
+
+D6+1
+
+2
+
+ABILITIES
+
+CORE: Deadly Demise 1
+
+Arcane Knowledge Amidst Babbling Insanity (Aura): Each 
+time a friendly Thousand Sons Psyker model within 9" of 
+this model is selected to use a Ritual, you gain 1 Cabal point.
+Helbrute Fists: If this model is equipped with two Helbrute 
+fists, those weapons have the [TWIN-LINKED] ability.
+
+INVULNERABLE SAVE
+
+5+
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Vehicle, Walker, Chaos, Tzeentch, Helbrute
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+THOUSAND SONS HELBRUTE
+Each Thousand Sons Helbrute is a walking torture chamber, piloted 
+by a mutilated Chaos Space Marine lured and bound by the Legion’s 
+Sorcerers into volunteering for this hideous pact. Blending martial 
+might and armoured resilience with murderous insanity, these vile 
+machines are deadly indeed.
+
+WARGEAR OPTIONS
+
+ ■  This model’s multi-melta can be replaced with one of the following:
+
+ ◦ 1 Helbrute plasma cannon
+ ◦ 1 twin autocannon
+ ◦ 1 twin inferno heavy bolter
+ ◦ 1 twin lascannon
+ ◦ 1 Helbrute fist
+
+ ■ This model’s missile launcher can be replaced with one of the following:
+
+ ◦ 1 Helbrute fist
+ ◦ 1 Helbrute hammer
+ ◦ 1 power scourge
+
+ ■  For each Helbrute fist this model is equipped with, it can be equipped with one of the following:
+
+ ◦ 1 inferno combi-bolter
+ ◦ 1 heavy flamer
+
+UNIT COMPOSITION
+
+ ■ 1 Thousand Sons Helbrute
+This model is equipped with: missile launcher; multi-melta; 
+close combat weapon.
+
+KEYWORDS: Vehicle, Walker, Chaos, Tzeentch, Helbrute
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+THOUSAND SONS HELDRAKE
+
+M
+
+20+"
+
+T
+
+9
+
+SV
+
+3+
+
+W
+
+12
+
+LD
+
+6+
+
+OC
+
+0
+
+RANGED WEAPONS
+Baleflamer [IGNORES COVER, TORRENT]
+Hades autocannon 
+
+MELEE WEAPONS
+Heldrake claws [ANTI-FLY 2+, DEVASTATING WOUNDS]
+
+RANGE
+
+12"
+36"
+
+RANGE
+Melee
+
+A
+
+D6+3
+
+6
+
+A
+5
+
+BS
+N/A
+3+
+
+WS
+3+
+
+S
+6
+8
+
+S
+7
+
+AP
+-1
+-1
+
+AP
+-1
+
+D
+2
+2
+
+D
+2
+
+ABILITIES
+
+CORE: Deadly Demise D3, Hover
+
+Flame-wreathed: Each time this model ends a Normal move, 
+you can select one enemy unit it moved over during that 
+move. Until the end of the turn, models in that unit cannot 
+have the Benefit of Cover.
+
+DAMAGED: 1-4 WOUNDS REMAINING
+
+While this model has 1-4 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE
+
+5+
+
+KEYWORDS: Vehicle, Aircraft, Fly, Daemon, Chaos, Tzeentch, Heldrake
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+THOUSAND SONS HELDRAKE
+Swooping low over the battlefield upon flame-wreathed wings, 
+Heldrakes send their enemies diving for cover. Weaving and jinking 
+like living beasts, they unleash torrents of fire from their blazing 
+jaw-guns, tear enemy aircraft from the skies with their vicious 
+talons, and honour Tzeentch with every sacrificial kill.
+
+WARGEAR OPTIONS
+
+ ■   This model’s Hades autocannon can be replaced with 1 baleflamer.
+
+UNIT COMPOSITION
+
+ ■ 1 Thousand Sons Heldrake
+This model is equipped with: Hades autocannon; 
+Heldrake claws.
+
+KEYWORDS: Vehicle, Aircraft, Fly, Daemon, Chaos, Tzeentch, Heldrake
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+INFERNAL MASTER
+
+M
+
+6"
+
+T
+
+4
+
+SV
+
+3+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Inferno bolt pistol [PISTOL]
+Screamer Invocation – witchfire [PSYCHIC, TORRENT]
+Screamer Invocation – focused witchfire 
+[HAZARDOUS, PSYCHIC, TORRENT]
+
+MELEE WEAPONS
+Force weapon [PSYCHIC]
+
+RANGE
+
+12"
+18"
+
+18"
+
+RANGE
+Melee
+
+A
+1
+2D3
+
+2D6
+
+A
+4
+
+BS
+2+
+N/A
+
+N/A
+
+WS
+3+
+
+S
+4
+6
+
+6
+
+S
+6
+
+AP
+-1
+-2
+
+-2
+
+AP
+-1
+
+D
+1
+1
+
+1
+
+D
+D3
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Cabal of Sorcerers 2
+
+Malefic Maelstrom (Psychic): While this model is leading 
+a unit, weapons equipped by models in that unit have the 
+[SUSTAINED HITS 1] ability. 
+Glimpse of Eternity (Psychic): Once per turn, you can change 
+the result of one Hit roll, one Wound roll, one Damage roll or 
+one saving throw made for this model to an unmodified 6.
+
+INVULNERABLE SAVE
+
+5+
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Infantry, Character, Grenades, Psyker, Chaos, Tzeentch, 
+
+Infernal Master
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+INFERNAL MASTER
+Infernal Masters forge pacts with daemonic entities, euphemistically 
+called tutelaries. Upon the battlefield they can unleash the powers of 
+these malign familiars to engulf their foes in swarms of momentarily 
+corporeal terrors, to divine whispers of the future or to master the 
+currents of the empyrean itself.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Infernal Master
+This model is equipped with: inferno bolt pistol; Screamer 
+Invocation; force weapon.
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Rubric Marines
+
+KEYWORDS:  Infantry, Character, Grenades, Psyker, Chaos, Tzeentch, 
+
+Infernal Master
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+MAGNUS THE RED
+
+M
+
+T
+
+14" 11
+
+SV
+
+2+
+
+W
+
+16
+
+LD
+
+5+
+
+OC
+
+6
+
+RANGED WEAPONS
+Gaze of Magnus [DEVASTATING WOUNDS, PSYCHIC]
+Tzeentch’s Firestorm [BLAST, PSYCHIC]
+
+MELEE WEAPONS
+Blade of Magnus – strike 
+[DEVASTATING WOUNDS, PSYCHIC]
+Blade of Magnus – sweep [PSYCHIC]
+
+CRIMSON KING
+
+RANGE
+
+24"
+24"
+
+RANGE
+
+Melee
+
+Melee
+
+A
+3D3
+D6+3
+
+A
+
+7
+
+14
+
+BS
+2+
+2+
+
+WS
+
+2+
+
+2+
+
+S
+9
+5
+
+S
+
+16
+
+8
+
+AP
+-2
+-1
+
+AP
+
+-3
+
+-1
+
+D
+3
+2
+
+D
+
+3
+
+1
+
+Impossible Form (Psychic): Each time an attack is made against this Psyker (excluding Psychic 
+Attacks), subtract 1 from that attack’s Damage characteristic.
+
+Treason of Tzeentch (Psychic): At the start of your opponent’s Shooting phase, you can select one 
+enemy unit within 24" of and visible to this Psyker. Until the end of the phase, ranged weapons 
+equipped by models in that unit have the [HAZARDOUS] ability.
+
+ABILITIES
+
+CORE: Deadly Demise D6, Deep Strike
+
+FACTION: Cabal of Sorcerers 4
+
+Unearthly Power: At the start of the battle round, select one 
+of the abilities in the Crimson King section (see left). Until the 
+start of the next battle round, this model has that ability.
+Lord of the Planet of the Sorcerers (Aura): While a friendly 
+Thousand Sons Psyker unit is within 6" of this model, each 
+time a model in that unit makes a Psychic Attack, add 1 to the 
+Hit roll and add 1 to the Wound roll.
+
+DAMAGED: 1-6 WOUNDS REMAINING
+
+While this model has 1-6 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+Time Flux (Aura, Psychic): While a friendly Thousand Sons unit is within 6" of this Psyker, add 2" to the 
+Move characteristic of models in that unit.
+
+INVULNERABLE SAVE
+
+4+
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Monster, Psyker, Fly, Character, Epic Hero, Daemon, Chaos, 
+
+Tzeentch, Primarch, Magnus the Red
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+MAGNUS THE RED
+None dare meet the one-eyed gaze of the Crimson King. He is a 
+nexus of sorcerous energies, a sentient confluence of fate and magic 
+bound within the shimmering flesh of a daemonic demigod. Magnus 
+unleashes his magicks in an unstoppable tempest, and the luckiest of 
+his victims are those who die swiftly…
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Magnus the Red – Epic Hero
+This model is equipped with: Gaze of Magnus; Tzeentch’s 
+Firestorm; Blade of Magnus.
+
+SUPREME COMMANDER
+
+If this model is in your army, it must be your Warlord.
+
+KEYWORDS:  Monster, Psyker, Fly, Character, Epic Hero, Daemon, Chaos, 
+
+Tzeentch, Primarch, Magnus the Red
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+THOUSAND SONS MAULERFIEND
+
+M
+
+T
+
+10" 10
+
+SV
+
+3+
+
+W
+
+12
+
+LD
+
+6+
+
+OC
+
+3
+
+RANGED WEAPONS
+Magma cutter [MELTA 2]
+
+MELEE WEAPONS
+Lasher tendrils [EXTRA ATTACKS]
+Maulerfiend fists 
+
+RANGE
+
+6"
+
+RANGE
+Melee
+Melee
+
+A
+2
+
+A
+6
+6
+
+BS
+3+
+
+WS
+3+
+3+
+
+S
+9
+
+S
+7
+14
+
+AP
+-4
+
+AP
+-1
+-2
+
+D
+D6
+
+D
+1
+
+D6+1
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+Prophetic Hunters: You can target this unit with the Heroic 
+Intervention Stratagem for 0CP, and can do so even if 
+you have already used that Stratagem on a different unit 
+this phase.
+
+DAMAGED: 1-4 WOUNDS REMAINING
+
+While this model has 1-4 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE
+
+5+
+
+KEYWORDS: Vehicle, Walker, Daemon, Chaos, Tzeentch, Maulerfiend
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+THOUSAND SONS MAULERFIEND
+Maulerfiends are ferocious Daemon Engines capable of scaling even 
+sheer fortress walls with their wicked metal talons. Those employed 
+by the Thousand Sons are inescapable, for the daemons within them 
+hunt as much by tracking their prey’s future choices as by the lights of 
+their soulspoor.
+
+WARGEAR OPTIONS
+
+ ■     This model’s lasher tendrils can be replaced with 2 magma cutters.
+
+UNIT COMPOSITION
+
+ ■ 1 Thousand Sons Maulerfiend
+This model is equipped with: lasher tendrils; 
+Maulerfiend fists.
+
+KEYWORDS: Vehicle, Walker, Daemon, Chaos, Tzeentch, Maulerfiend
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+MUTALITH VORTEX BEAST
+
+M
+
+T
+
+10" 10
+
+SV
+
+4+
+
+W
+
+13
+
+LD
+
+6+
+
+OC
+
+4
+
+RANGED WEAPONS
+Warp vortex – blast [BLAST]
+Warp vortex – beam [DEVASTATING WOUNDS]
+Warp vortex – torrent [IGNORES COVER, TORRENT]
+
+MELEE WEAPONS
+Betentacled maw 
+Mutalith claws 
+
+RANGE
+
+24"
+24"
+12"
+
+RANGE
+Melee
+Melee
+
+A
+
+D6+3
+
+1
+2D6
+
+A
+15
+5
+
+BS
+3+
+3+
+N/A
+
+WS
+3+
+3+
+
+S
+9
+18
+6
+
+S
+7
+9
+
+AP
+-2
+-4
+-1
+
+AP
+0
+-2
+
+D
+2
+
+D6+6
+
+1
+
+D
+1
+4
+
+ABILITIES
+
+CORE: Deadly Demise D6, Feel No Pain 5+
+
+Mutating Vortex (Aura): At the end of your Movement phase, 
+roll one D6 for each enemy unit within 6" of this model: on 
+a 2-3, that unit suffers 1 mortal wound; on a 4-5, that unit 
+suffers D3 mortal wounds; on a 6, that unit suffers D6 mortal 
+wounds. Each enemy unit within range of this ability must 
+then take a Battle-shock test.
+Immaterial Flare (Aura): While a friendly Thousand Sons 
+Psyker unit is within 6" of this model, each time that unit 
+uses a Ritual that specifies a range, you can double that range 
+while resolving that Ritual. 
+
+DAMAGED: 1-4 WOUNDS REMAINING
+
+While this model has 1-4 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE
+
+5+
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Monster, Daemon, Chaos, Tzeentch, Mutalith Vortex Beast
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+MUTALITH VORTEX BEAST
+This foul beast is an offence against sanity and all natural order. Its 
+constantly mutating form drags in and expels empyric energy in a wild 
+tempest that twists all about it ever further out of true. Those foes not 
+driven insane by the monster’s mere presence are soon warped into 
+fresh horrors by its foul energies.
+
+WARGEAR OPTIONS
+
+ ■     None
+
+UNIT COMPOSITION
+
+ ■ 1 Mutalith Vortex Beast
+This model is equipped with: warp vortex; betentacled maw; 
+Mutalith claws.
+
+KEYWORDS: Monster, Daemon, Chaos, Tzeentch, Mutalith Vortex Beast
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+RUBRIC MARINES
+
+M
+
+5"
+
+T
+
+4
+
+SV
+
+3+
+
+W
+
+2
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Inferno bolt pistol [PISTOL]
+Inferno boltgun 
+Plasma pistol – standard [PISTOL]
+Plasma pistol – supercharge [HAZARDOUS, PISTOL]
+Soulreaper cannon [DEVASTATING WOUNDS]
+Warpsmite 
+[ANTI-INFANTRY 4+, DEVASTATING WOUNDS, PISTOL, PSYCHIC]
+Warpflame pistol [PISTOL, IGNORES COVER, TORRENT]
+Warpflamer [IGNORES COVER, TORRENT]
+
+MELEE WEAPONS
+Close combat weapon 
+Force weapon [PSYCHIC]
+
+RANGE
+
+12"
+24"
+12"
+12"
+24"
+
+18"
+
+12"
+12"
+
+RANGE
+Melee
+Melee
+
+A
+1
+2
+1
+1
+6
+
+2
+
+D6
+D6
+
+A
+2
+3
+
+BS
+3+
+3+
+3+
+3+
+3+
+
+3+
+
+N/A
+N/A
+
+WS
+3+
+3+
+
+S
+4
+4
+7
+8
+6
+
+4
+
+3
+4
+
+S
+4
+6
+
+AP
+-1
+-1
+-2
+-3
+-1
+
+-3
+
+-1
+-1
+
+AP
+0
+-1
+
+D
+1
+1
+1
+2
+1
+
+1
+
+1
+1
+
+D
+1
+D3
+
+ABILITIES
+
+FACTION: Cabal of Sorcerers 1*
+*Aspiring Sorcerer model only
+
+Bringers of Change: Each time a model in this unit makes 
+a ranged attack, re-roll a Wound roll of 1. If the target of that 
+attack is within range of an objective marker you do not 
+control, you can re-roll the Wound roll instead.
+
+WARGEAR ABILITIES
+
+Icon of Flame: Each time a model in the bearer’s unit makes 
+a ranged attack, if a Critical Wound is scored, improve the 
+Armour Penetration characteristic of that attack by 1.
+
+INVULNERABLE SAVE
+
+5+
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS – ALL MODELS: Infantry, Battleline, Chaos, Tzeentch, 
+Rubric Marines | ASPIRING SORCERER: Psyker
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+RUBRIC MARINES
+Advancing relentlessly, the Rubric Marines lay down withering hails 
+of fire. Sorcerous shells from their inferno weapons and soulreaper 
+cannons blast the enemy apart with ruinous force, while gouts of 
+mutagenic fire from their warpflamers burn and twist flesh and soul 
+alike. Against such an onslaught none can stand for long.
+
+WARGEAR OPTIONS
+
+ ■   The Aspiring Sorcerer’s inferno bolt pistol can be replaced with one of the following: 
+
+ ◦ 1 plasma pistol
+ ◦ 1 warpflame pistol
+
+ ■  Any number of Rubric Marines can each have their inferno boltgun replaced with 1 warpflamer.
+ ■  1 Rubric Marine’s inferno boltgun can be replaced with 1 soulreaper cannon.
+ ■  1 Rubric Marine can be equipped with 1 icon of flame.
+
+UNIT COMPOSITION
+
+ ■ 1 Aspiring Sorcerer
+ ■ 4-9 Rubric Marines
+The Aspiring Sorcerer is equipped with: inferno bolt pistol; 
+Warpsmite; force weapon.
+Every Rubric Marine is equipped with: inferno boltgun; 
+close combat weapon.
+
+KEYWORDS – ALL MODELS: Infantry, Battleline, Chaos, Tzeentch, 
+Rubric Marines | ASPIRING SORCERER: Psyker
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+SCARAB OCCULT TERMINATORS
+
+M
+
+5"
+
+T
+
+5
+
+SV
+
+2+
+
+W
+
+3
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Heavy warpflamer [IGNORES COVER, TORRENT]
+Hellfyre missile rack 
+Inferno combi-bolter [RAPID FIRE 2]
+Soulreaper cannon [DEVASTATING WOUNDS] 
+Warpsmite 
+[ANTI-INFANTRY 4+, DEVASTATING WOUNDS, PISTOL, PSYCHIC]
+
+MELEE WEAPONS
+Force weapon [PSYCHIC]
+Prosperine khopesh 
+
+RANGE
+
+12"
+36"
+24"
+24"
+
+18"
+
+RANGE
+Melee
+Melee
+
+A
+D6
+2
+2
+6
+
+3
+
+A
+4
+3
+
+BS
+N/A
+3+
+3+
+3+
+
+3+
+
+WS
+3+
+3+
+
+S
+5
+10
+4
+6
+
+4
+
+S
+6
+5
+
+AP
+-2
+-2
+-1
+-1
+
+-3
+
+AP
+-1
+-2
+
+D
+1
+3
+1
+1
+
+1
+
+D
+D3
+2
+
+ABILITIES
+
+CORE: Deep Strike
+
+FACTION: Cabal of Sorcerers 1*
+*Scarab Occult Sorcerer model only
+
+Implacable Guardians: While this unit contains one or more 
+Psyker models, each time an attack is made against this 
+unit, if the Strength characteristic of that attack is greater 
+than this unit’s Toughness characteristic, subtract 1 from the 
+Wound roll.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS – ALL MODELS: Infantry, Terminator, Chaos, Tzeentch, 
+Scarab Occult Terminators | SCARAB OCCULT SORCERER: Psyker
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+SCARAB OCCULT TERMINATORS
+The Scarab Occult fight with all the merciless skill they did when they 
+were Magnus’ living bodyguards, often striking into the heart of the 
+foe via sorcerous teleportation. Wielding vicious ritual blades based on 
+the ancient Prosperine khopesh, they cleave through those victims not 
+laid low by their salvoes of lethal firepower.
+
+WARGEAR OPTIONS
+
+ ■   The Scarab Occult Sorcerer’s inferno combi-bolter can be replaced with 1 Prosperine khopesh.
+ ■  For every 5 models in this unit, 1 Scarab Occult Terminator’s inferno combi-bolter can be replaced 
+
+with one of the following:
+ ◦ 1 heavy warpflamer
+ ◦ 1 soulreaper cannon
+
+ ■  For every 5 models in this unit, 1 Scarab Occult Terminator can be equipped with 1 hellfyre 
+
+missile rack.
+
+UNIT COMPOSITION
+
+ ■ 1 Scarab Occult Sorcerer
+ ■ 4-9 Scarab Occult Terminators
+The Scarab Occult Sorcerer is equipped with: inferno 
+combi-bolter; Warpsmite; force weapon.
+Every Scarab Occult Terminator is equipped with: inferno 
+combi-bolter; Prosperine khopesh.
+
+KEYWORDS – ALL MODELS: Infantry, Terminator, Chaos, Tzeentch, 
+Scarab Occult Terminators | SCARAB OCCULT SORCERER: Psyker
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+THOUSAND SONS SORCERER
+
+M
+
+6"
+
+T
+
+4
+
+SV
+
+3+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Fires of the Abyss [PISTOL, PSYCHIC, SUSTAINED HITS 3]
+Inferno bolt pistol [PISTOL]
+Plasma pistol – standard [PISTOL]
+Plasma pistol – supercharge [HAZARDOUS, PISTOL]
+Warpflame pistol [IGNORES COVER, PISTOL, TORRENT]
+
+MELEE WEAPONS
+Force weapon [PSYCHIC]
+
+RANGE
+
+12"
+12"
+12"
+12"
+12"
+
+RANGE
+Melee
+
+A
+2D6
+1
+1
+1
+D6
+
+A
+4
+
+BS
+2+
+2+
+2+
+2+
+N/A
+
+WS
+3+
+
+S
+5
+4
+7
+8
+3
+
+S
+6
+
+AP
+-1
+-1
+-2
+-3
+-1
+
+AP
+-1
+
+D
+1
+1
+1
+2
+1
+
+D
+D3
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Cabal of Sorcerers 1
+
+Empyric Guidance (Psychic): While this model is leading 
+a unit, weapons equipped by models in that unit have the 
+[LETHAL HITS] ability.
+Illusions of Tzeentch (Psychic): While this model is leading 
+a unit, that unit can only be selected as the target of a ranged 
+attack if the attacking model is within 18".
+
+INVULNERABLE SAVE
+
+5+
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Infantry, Character, Psyker, Grenades, Chaos, Tzeentch, 
+
+Sorcerer
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+THOUSAND SONS SORCERER
+The Sorcerers of the Thousand Sons direct the ranks of Rubricae in 
+battle. All the while they wield their twisted sorceries to wrack the 
+foe with rampant mutation, unleash unnatural firestorms upon the 
+enemy or veil their own warriors behind flickering illusions, protected 
+throughout by the fickle favour of Tzeentch.
+
+WARGEAR OPTIONS
+
+ ■       This model’s inferno bolt pistol can be replaced with one of the following: 
+
+ ◦ 1 plasma pistol
+ ◦ 1 warpflame pistol
+
+UNIT COMPOSITION
+
+ ■ 1 Thousand Sons Sorcerer
+This model is equipped with: Fires of the Abyss; inferno bolt 
+pistol; force weapon.
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Rubric Marines
+
+KEYWORDS:  Infantry, Character, Psyker, Grenades, Chaos, Tzeentch, 
+
+Sorcerer
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+THOUSAND SONS SORCERER IN TERMINATOR ARMOUR
+
+M
+
+5"
+
+T
+
+5
+
+SV
+
+2+
+
+W
+
+5
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Coruscating Flames  
+[ANTI-MONSTER 4+, ANTI-VEHICLE 4+, DEVASTATING WOUNDS, PSYCHIC]
+Inferno combi-bolter [RAPID FIRE 2]
+Inferno combi-weapon 
+[ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]
+
+MELEE WEAPONS
+Force weapon [PSYCHIC]
+Prosperine khopesh 
+
+RANGE
+
+18"
+
+24"
+
+24"
+
+RANGE
+Melee
+Melee
+
+A
+
+3
+
+2
+
+1
+
+A
+5
+4
+
+BS
+
+3+
+
+3+
+
+4+
+
+WS
+3+
+3+
+
+S
+
+4
+
+4
+
+4
+
+S
+6
+5
+
+AP
+
+-3
+
+-1
+
+-1
+
+AP
+-1
+-2
+
+D
+
+2
+
+1
+
+1
+
+D
+D3
+2
+
+ABILITIES
+
+CORE: Deep Strike, Leader
+
+FACTION: Cabal of Sorcerers 2
+
+Empyric Guidance (Psychic): While this model is leading 
+a unit, weapons equipped by models in that unit have the 
+[LETHAL HITS] ability.
+Marked by Fate (Psychic): In your Shooting phase, you can 
+select one enemy unit within 18" of and visible to this model. 
+Until the end of the turn, each time a friendly Thousand Sons 
+model makes an attack that targets that unit, re-roll a Hit roll 
+of 1.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Infantry, Character, Psyker, Terminator, Chaos, Tzeentch, 
+
+Sorcerer
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+THOUSAND SONS SORCERER IN TERMINATOR ARMOUR
+Clad in hulking Terminator plate, a Sorcerer of the Thousand Sons can shrug off even 
+the punishing fire of anti-tank weaponry. So protected, they are free to unleash their 
+mutative magicks with impunity, leading offensives into even the most heavily 
+defended enemy strongpoints and laying low any who bar their path.
+
+WARGEAR OPTIONS
+
+ ■         This model’s inferno combi-bolter can be replaced with one of the following: 
+
+ ◦ 1 inferno combi-weapon
+ ◦ 1 Prosperine khopesh
+
+UNIT COMPOSITION
+
+ ■ 1 Thousand Sons Sorcerer in Terminator Armour
+This model is equipped with: Coruscating Flames; 
+inferno combi-bolter; force weapon.
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Scarab Occult Terminators
+
+KEYWORDS:  Infantry, Character, Psyker, Terminator, Chaos, Tzeentch, 
+
+Sorcerer
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+THOUSAND SONS CULTISTS
+
+M
+
+6"
+
+T
+
+3
+
+SV
+
+6+
+
+W
+
+1
+
+LD
+
+7+
+
+OC
+
+1
+
+RANGED WEAPONS
+Cultist firearm
+Flamer [IGNORES COVER, TORRENT]
+Grenade launcher – frag [BLAST]
+Grenade launcher – krak
+Heavy stubber [RAPID FIRE 3]
+
+MELEE WEAPONS
+Brutal assault weapon 
+
+RANGE
+
+24"
+12"
+24"
+24"
+36"
+
+RANGE
+Melee
+
+A
+1
+D6
+D3
+1
+3
+
+A
+2
+
+BS
+4+
+N/A
+4+
+4+
+4+
+
+WS
+4+
+
+S
+3
+4
+4
+9
+4
+
+S
+3
+
+AP
+0
+0
+0
+-2
+0
+
+AP
+0
+
+D
+1
+1
+1
+D3
+1
+
+D
+1
+
+ABILITIES
+
+CORE: Scouts 6"
+
+Pawns of Fate: Each time this unit destroys an enemy unit, 
+roll one D6: on a 2+, you gain 1CP. When this unit is destroyed, 
+roll one D6: on a 2+, you gain 1CP.
+
+INVULNERABLE SAVE
+
+6+
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Infantry, Chaos, Tzeentch, Cultists
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+THOUSAND SONS CULTISTS
+Countless mortals offer up their souls to Tzeentch in the hopes of 
+reward. For most, this comes in the unenviable form of desperate 
+battle against their former oppressors, being hurled into the enemy’s 
+ranks as fodder – sacrificed en masse upon the altar of the battlefield 
+by their uncaring Thousand Sons masters.
+
+WARGEAR OPTIONS
+
+ ■  For every 10 models in this unit, 1 Thousand Sons Cultist’s Cultist firearm can be replaced with 
+
+1 flamer.
+
+ ■  For every 10 models in this unit, 1 Thousand Sons Cultist’s Cultist firearm can be replaced with 
+
+1 heavy stubber.
+
+ ■  For every 10 models in this unit, 1 Thousand Sons Cultist’s Cultist Firearm can be replaced with 
+
+1 grenade launcher.
+
+UNIT COMPOSITION
+
+ ■ 1 Thousand Sons Cultist Champion
+ ■ 9-19 Thousand Sons Cultists
+Every model is equipped with: Cultist firearm; brutal 
+assault weapon.
+
+KEYWORDS: Infantry, Chaos, Tzeentch, Cultists
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+THOUSAND SONS DAEMON PRINCE
+
+M
+
+7"
+
+T
+
+10
+
+SV
+
+2+
+
+W
+
+10
+
+LD
+
+6+
+
+OC
+
+3
+
+RANGED WEAPONS
+Infernal cannon
+
+MELEE WEAPONS
+Hellforged weapons – strike [PSYCHIC]
+Hellforged weapons – sweep [PSYCHIC]
+
+RANGE
+
+24"
+
+RANGE
+Melee
+Melee
+
+A
+6
+
+A
+6
+14
+
+BS
+2+
+
+WS
+2+
+2+
+
+S
+5
+
+S
+8
+6
+
+AP
+-1
+
+AP
+-2
+0
+
+D
+2
+
+D
+3
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Cabal of Sorcerers 2
+
+The Weave of Fate (Psychic): Once per battle, at the start of 
+any phase, you can select one friendly Rubric Marines or 
+Scarab Occult Terminators unit within 6" of this model. 
+Until the end of the phase, weapons equipped by models in 
+that unit have the [PRECISION] ability.
+Glamour of Tzeentch (Aura, Psychic): While a friendly 
+Thousand Sons unit is within 6" of this model, models in that 
+unit have the Stealth ability.
+
+INVULNERABLE SAVE
+
+4+
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Monster, Character, Daemon, Psyker, Chaos, Tzeentch, 
+
+Daemon Prince
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+THOUSAND SONS DAEMON PRINCE
+The Daemon Princes of the Thousand Sons are potent sorcerers and 
+monstrous warriors both, terrifying in their martial might. Moreover, 
+their mere presence bends the weave of fate into forms more fortuitous 
+for their designs, ensuring that the warriors they lead to battle strike 
+their enemies down with unnatural precision.
+
+WARGEAR OPTIONS
+
+ ■     None
+
+UNIT COMPOSITION
+
+ ■ 1 Thousand Sons Daemon Prince
+This model is equipped with: infernal cannon; 
+hellforged weapons.
+
+KEYWORDS:  Monster, Character, Daemon, Psyker, Chaos, Tzeentch, 
+
+Daemon Prince
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+THOUSAND SONS DAEMON PRINCE WITH WINGS
+
+M
+
+11"
+
+T
+
+9
+
+SV
+
+2+
+
+W
+
+10
+
+LD
+
+6+
+
+OC
+
+3
+
+RANGED WEAPONS
+Infernal cannon
+
+MELEE WEAPONS
+Hellforged weapons – strike [PSYCHIC]
+Hellforged weapons – sweep [PSYCHIC] 
+
+RANGE
+
+24"
+
+RANGE
+Melee
+Melee
+
+A
+6
+
+A
+6
+14
+
+BS
+2+
+
+WS
+2+
+2+
+
+S
+5
+
+S
+8
+6
+
+AP
+-1
+
+AP
+-2
+0
+
+D
+2
+
+D
+3
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Cabal of Sorcerers 2
+
+Sorcerous Fire (Psychic): Each time this model ends a 
+Normal move, you can select one enemy unit it moved over 
+this phase and roll nine D6: for each 6, that unit suffers 1 
+mortal wound.
+Aetherstride (Psychic): At the end of your opponent’s turn, 
+if this model is not within Engagement Range of any enemy 
+units, you can remove it from the battlefield and then, in the 
+Reinforcements step of your next Movement phase, set it up 
+anywhere on the battlefield that is more than 9" horizontally 
+away from all enemy models. If the battle ends and this 
+model is not on the battlefield, it is destroyed.
+
+INVULNERABLE SAVE
+
+4+
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Monster, Character, Daemon, Psyker, Fly, Chaos, Tzeentch, 
+
+Daemon Prince
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+THOUSAND SONS DAEMON PRINCE WITH WINGS
+Buoyed upon sorcerous zephyrs or borne aloft by wings of mutated 
+flesh, these Daemon Princes revel in hurling arcane fire from on 
+high, reinforcing their megalomaniacal superiority over their foes.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Thousand Sons Daemon Prince with Wings
+This model is equipped with: infernal cannon; 
+hellforged weapons.
+
+KEYWORDS:  Monster, Character, Daemon, Psyker, Fly, Chaos, Tzeentch, 
+
+Daemon Prince
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+TZAANGOR ENLIGHTENED
+
+M
+
+10"
+
+T
+
+4
+
+SV
+
+5+
+
+W
+
+2
+
+LD
+
+7+
+
+OC
+
+2
+
+RANGED WEAPONS
+Autopistol [PISTOL]
+Fatecaster greatbow [LETHAL HITS, PRECISION]
+
+MELEE WEAPONS
+Chainsword 
+Close combat weapon 
+Divining spear [LANCE, PRECISION]
+
+RANGE
+
+12"
+30"
+
+RANGE
+Melee
+Melee
+Melee
+
+A
+1
+2
+
+A
+4
+2
+3
+
+BS
+4+
+4+
+
+WS
+4+
+4+
+4+
+
+S
+3
+5
+
+S
+4
+4
+5
+
+AP
+0
+-1
+
+AP
+0
+0
+-2
+
+D
+1
+2
+
+D
+1
+1
+1
+
+ABILITIES
+
+Malign Trickery: Once per turn, when an enemy unit ends a 
+Normal, Advance or Fall Back move within 9" of this unit, if 
+this unit is not within Engagement Range of any enemy units, 
+it can make a Normal move of up to D6" as if it were your 
+Movement phase.
+
+INVULNERABLE SAVE
+
+6+
+
+KEYWORDS: Mounted, Fly, Chaos, Tzeentch, Tzaangor Enlightened
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+TZAANGOR ENLIGHTENED
+Most blessed of all their kind, the Enlightened see the skeins of 
+fate through communion with Tzeentch. They surge to battle atop 
+daemonic Discs, their divining spears humming as they sense their 
+predestined prey, their fatecaster greatbows launching ensorcelled 
+arrows from ectoplasmic strings with lethal effect.
+
+WARGEAR OPTIONS
+
+ ■   Any number of models can each have their divining spear replaced with one of the following: 
+
+ ◦ 1 autopistol and 1 chainsword
+ ◦  1 fatecaster greatbow and 1 close combat weapon
+
+UNIT COMPOSITION
+
+ ■ 1 Aviarch
+ ■ 2-5 Enlightened
+Every model is equipped with: divining spear.
+
+KEYWORDS: Mounted, Fly, Chaos, Tzeentch, Tzaangor Enlightened
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+TZAANGOR SHAMAN
+
+M
+
+10"
+
+T
+
+4
+
+SV
+
+5+
+
+W
+
+4
+
+LD
+
+7+
+
+OC
+
+1
+
+RANGED WEAPONS
+Mutating orbs [BLAST, DEVASTATING WOUNDS, PSYCHIC]
+
+MELEE WEAPONS
+Shaman’s stave [PSYCHIC]
+
+RANGE
+
+18"
+
+RANGE
+Melee
+
+A
+D6
+
+A
+3
+
+BS
+3+
+
+WS
+3+
+
+S
+9
+
+S
+5
+
+AP
+0
+
+AP
+-1
+
+D
+1
+
+D
+D3
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Cabal of Sorcerers 1
+
+Dark Blessing (Psychic): While this model is leading a unit, 
+models in that unit have the Feel No Pain 5+ ability.
+Bestial Prophet: While this model is leading a unit, each time 
+a model in that unit makes an attack, add 1 to the Hit roll.
+
+INVULNERABLE SAVE
+
+6+
+
+KEYWORDS:  Mounted, Character, Fly, Psyker, Chaos, Tzeentch, 
+
+Tzaangor Shaman
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+TZAANGOR SHAMAN
+Tzaangor Shamans possess prodigious sorcerous abilities that stem 
+from their faith in Tzeentch, and can unleash ferocious psychic 
+bombardments against the foe as they soar high upon their daemonic 
+Discs. The mere presence of these bestial champions inspires the 
+herds they lead to ever greater heights of violence.
+
+WARGEAR OPTIONS
+
+ ■ None
+
+UNIT COMPOSITION
+
+ ■ 1 Tzaangor Shaman
+This model is equipped with: mutating orbs; Shaman’s stave.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Tzaangor Enlightened
+ ■ Tzaangors
+
+KEYWORDS:  Mounted, Character, Fly, Psyker, Chaos, Tzeentch, 
+
+Tzaangor Shaman
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+TZAANGORS
+
+M
+
+6"
+
+T
+
+4
+
+SV
+
+6+
+
+W
+
+1
+
+LD
+
+7+
+
+OC
+
+2
+
+RANGED WEAPONS
+Autopistol [PISTOL]
+
+MELEE WEAPONS
+Chainsword 
+Tzaangor blades 
+
+RANGE
+
+12"
+
+RANGE
+Melee
+Melee
+
+A
+1
+
+A
+3
+2
+
+BS
+4+
+
+WS
+4+
+4+
+
+S
+3
+
+S
+4
+5
+
+AP
+0
+
+AP
+0
+-1
+
+D
+1
+
+D
+1
+1
+
+ABILITIES
+
+Relic Hunters: At the end of your Command phase, roll one 
+D6 for each objective marker you control that has one or more 
+units from your army with this ability within range of it: for 
+each 4+, you gain 1 Cabal point.
+
+WARGEAR ABILITIES
+
+Herd Banner: You can re-roll Battle-shock tests taken for the 
+bearer’s unit.
+
+Brayhorn: You can re-roll Advance and Charge rolls made for 
+the bearer’s unit.
+
+INVULNERABLE SAVE
+
+6+
+
+KEYWORDS: Infantry, Battleline, Chaos, Tzeentch, Tzaangors
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+TZAANGORS
+Brayhorn blasts and avian shrieks herald the onset of the Tzaangors. 
+These mutated shock troops surge into battle wielding baroque blades 
+or roaring chainswords with vicious skill. Return shots and blows 
+are deflected by whirling skeins of dark sorcery, for these creatures 
+belong to Tzeentch body and soul.
+
+WARGEAR OPTIONS
+
+ ■  Any number of models can each have their Tzaangor blades replaced with:
+
+ ◦ 1 autopistol and 1 chainsword
+
+ ■  1 Tzaangor not equipped with a herd banner can be equipped with 1 brayhorn.
+ ■   1 Tzaangor not equipped with a brayhorn can be equipped with 1 herd banner.
+
+UNIT COMPOSITION
+
+ ■ 1 Twistbray
+ ■ 9-19 Tzaangors
+Every model is equipped with: Tzaangor blades.
+
+KEYWORDS: Infantry, Battleline, Chaos, Tzeentch, Tzaangors
+
+FACTION KEYWORDS:  
+Thousand Sons
+
+

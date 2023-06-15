@@ -1,0 +1,6343 @@
+NECRONS
+ARMY RULE
+
+The scattered dynasties of the Necrons pursue many 
+different paths to dominance, embracing their own 
+traditions and martial doctrines. All dynasties also benefit 
+from the nigh-supernatural technologies that once saw 
+them dominate the galaxy, perhaps the most unsettling 
+of which are their reanimation protocols. Should a Necron 
+be slain, its body becomes wreathed in an eerie glow. 
+Crawling limbs reattach, sundered torsos and smashed 
+skulls reform and the Necron rises again, shambling back 
+into battle.
+
+REANIMATION PROTOCOLS
+If your Army Faction is Necrons, at the end of your 
+Command phase, each unit from your army with this 
+ability activates its Reanimation Protocols and reanimates 
+D3 wounds. Each time such a unit reanimates a wound:
+
+ ■  If that unit contains one or more models with fewer 
+
+than their starting number of wounds remaining, 
+select one of those models; that model regains one 
+lost wound. 
+
+ ■  If all models in that unit have their starting number of 
+
+wounds, but that unit is not at its Starting Strength, 
+one destroyed model is returned to that unit with one 
+wound remaining. 
+
+Once such a unit is at its Starting Strength and all of its 
+models have their starting number of wounds, nothing 
+further happens.
+
+Example: A unit of Lokhust Destroyers (which have a 
+Wounds characteristic of 3) activates its Reanimation 
+Protocols. The unit had a Starting Strength of 3, but 
+currently contains 2 models, and one of those models 
+has lost 1 wound. A 3 is rolled to see how many 
+wounds are reanimated. The first of these reanimated 
+wounds restores the wounded Lokhust Destroyer 
+back to 3 wounds. The second of these reanimated 
+wounds returns the destroyed Lokhust Destroyer to the 
+battlefield with 1 wound remaining. The third of these 
+reanimated wounds restores one of the remaining lost 
+wounds to the same Lokhust Destroyer that was just 
+returned. The unit now contains 3 models, two 
+of which have 3 wounds remaining and one of 
+which has 2 wounds remaining.
+
+NECRONS – AWAKENED DYNASTY
+DETACHMENT RULE
+
+If your Army Faction is Necrons, you can use this 
+Awakened Dynasty Detachment rule.
+
+COMMAND PROTOCOLS
+The Necron nobility make war in a codified and relentless 
+fashion. Their command protocols crackle out across 
+multi-dimensional spectra from carrier-wave projectors, 
+compelling their semi-sentient soldiery into battle one 
+overriding directive at a time.
+
+While a Necrons Character model is leading this unit, 
+each time a model in this unit makes an attack, add 1 to 
+the Hit roll.
+
+NECRONS – AWAKENED DYNASTY
+STRATAGEMS
+
+If you are using the Awakened Dynasty Detachment rule, you can use these Awakened 
+Dynasty Stratagems.
+
+PROTOCOL OF THE ETERNAL GUARDIAN 
+
+PROTOCOL OF THE HUNGRY VOID
+
+AWAKENED DYNASTY – EPIC DEED STRATAGEM
+
+AWAKENED DYNASTY – BATTLE TACTIC STRATAGEM
+
+1CP
+
+Necron rulers possess sophisticated 
+self-repair systems that can reknit their 
+corporeal forms so they can once more 
+command their legions.
+
+WHEN: Any phase.
+TARGET: One Necrons Infantry 
+Character model from your army that 
+was just destroyed.
+EFFECT: Set your model back up on the 
+battlefield as close as possible to where 
+it was destroyed and more than 1" away 
+from all enemy models, with half of its 
+starting number of wounds remaining.  
+RESTRICTIONS: Each model can only 
+be targeted with this Stratagem once 
+per battle.
+
+1CP
+
+The Necrons strike with data-augmented 
+accuracy, their murderous attacks as 
+inescapable as the killing cold of space.
+
+WHEN: Fight phase.
+TARGET: One Necrons unit from your 
+army that has not been selected to fight 
+this phase.
+EFFECT: Until the end of the phase, add 
+1 to the Strength characteristic of melee 
+weapons equipped by models in your 
+unit. In addition, If a Necrons Character 
+is leading your unit, until the end of the 
+phase, improve the Armour Penetration 
+characteristic of melee weapons 
+equipped by models in your unit by 1.
+
+PROTOCOL OF THE CONQUERING TYRANT
+
+AWAKENED DYNASTY – BATTLE TACTIC STRATAGEM
+
+1CP
+
+The legions employ the strategies of their 
+masters in perfect synchronicity, laying 
+down hails of mechanically coordinated fire.
+
+WHEN: Your Shooting phase.
+TARGET: One Necrons unit from your 
+army that has not been selected to shoot 
+this phase.
+EFFECT: Until the end of the phase, each 
+time a model in your unit makes an attack 
+that targets a unit within half of the firing 
+weapon’s range, you can re-roll the Wound 
+roll. If a Necrons Character is leading 
+your unit, until the end of the phase, this 
+effect applies at the firing weapon’s full 
+range instead.
+
+NECRONS – AWAKENED DYNASTY
+STRATAGEMS
+
+If you are using the Awakened Dynasty Detachment rule, you can use these Awakened 
+Dynasty Stratagems.
+
+PROTOCOL OF THE UNDYING LEGIONS
+
+PROTOCOL OF THE VENGEFUL STARS
+
+AWAKENED DYNASTY – STRATEGIC PLOY STRATAGEM
+
+AWAKENED DYNASTY – STRATEGIC PLOY STRATAGEM
+
+1CP
+
+In response to enemy attack, criss-cross 
+fire leaps from the Necron ranks, forming 
+a blazing corona of deadly energy from 
+which there can be no escape. 
+
+WHEN: Your opponent’s Shooting phase, 
+just after an enemy unit has resolved 
+its attacks.
+TARGET: One Necrons unit from your 
+army that had one or more of its models 
+destroyed as a result of the attacking 
+unit’s attacks.
+EFFECT: Your unit can shoot as if it were 
+your Shooting phase, but it must target 
+the enemy unit that just attacked it, and 
+can only do so if that enemy unit is an 
+eligible target. In addition, if a Necrons 
+Character is leading your unit, until 
+the end of the phase, ranged weapons 
+equipped by models in your unit have the 
+[IGNORES COVER] ability. 
+
+1CP
+
+1CP
+
+At a hissing static signal, nanoscarabs 
+are released in boiling black clouds 
+that whirl about the legions and effect 
+constant repairs.
+
+WHEN: Your opponent’s Shooting phase or 
+the Fight phase, just after an enemy unit 
+has resolved its attacks.
+TARGET: One Necrons unit from your 
+army that had one or more of its models 
+destroyed as a result of the attacking 
+unit’s attacks.
+EFFECT: Your unit activates its 
+Reanimation Protocols and reanimates 
+D3 wounds. When doing so, if a Necrons 
+Character is leading your unit, your unit 
+reanimates D3+1 wounds instead.
+
+PROTOCOL OF THE SUDDEN STORM
+
+AWAKENED DYNASTY – STRATEGIC PLOY STRATAGEM
+
+Arcing energies leap from one Necron unit 
+to the next, lending speed to their limbs 
+and causing their eye lenses to blaze.
+
+WHEN: Your Movement phase.
+TARGET: One Necrons unit from 
+your army.
+EFFECT: Until the end of the turn, ranged 
+weapons equipped by models in your unit 
+have the [ASSAULT] ability. In addition, if a 
+Necrons Character is leading your unit, 
+until the end of the phase, you can re-roll 
+Advance rolls made for your unit.
+
+NECRONS – AWAKENED DYNASTY
+ENHANCEMENTS
+
+If you are using the Awakened Dynasty Detachment rule, you can use these Awakened Dynasty Enhancements.
+THE SOVEREIGN CORONAL (AURA)
+VEIL OF DARKNESS
+A band of living quicksilver, this strange artefact is 
+This device was fashioned from transpositanium, 
+shot through with artificial networks of command-
+a substance so rare that it can only be found in a 
+handful of places in the galaxy. It is highly sought 
+wave nano-circuitry. This strange pseudo-animate 
+crown is gifted to especially prominent nobles. 
+after by the Necrons, and wars have been waged to 
+As it is donned it sinks through the metallic 
+secure it. Activated with a thought, the Veil causes 
+skin of its wearer’s brow and meshes with their 
+space and time to warp around its user and those 
+synthetic cortex, enhancing and projecting their 
+near them, enfolding them in a swirling darkness. 
+dominating will through multiple spectra across a 
+As the darkness fades, the user and their comrades 
+appear elsewhere on the battlefield, transported 
+substantial distance.
+through a miracle of arcane science.
+
+Necrons model only. Once per battle, at the end of 
+your opponent’s turn, if the bearer’s unit is not within 
+Engagement Range of any enemy units, the bearer 
+can use this Enhancement. If it does, remove that 
+unit from the battlefield. Then, in the Reinforcements 
+step of your next Movement phase, set up that unit 
+anywhere on the battlefield that is more than 9" 
+horizontally away from all enemy models.
+HYPERMATERIAL ABLATOR
+By simply pointing and activating this slender 
+quasinium rod, the bearer shrouds their allies in a 
+whirling field of accumulated hypermatter.
+
+Necrons model only. While the bearer is leading 
+a unit, models in that unit have the Stealth ability. 
+In addition, each time a ranged attack targets the 
+bearer’s unit, if the attacker is not within 12", models 
+in that unit have the Benefit of Cover.
+
+Necrons model only. While a friendly Necrons unit 
+is within 6" of the bearer, that unit counts as being led 
+by a Necrons Character model.
+
+Designer’s Note: This means that units within range 
+of this Aura ability will benefit from the Command 
+Protocols ability and will count as containing a 
+Character for the purposes of any Awakened 
+Dynasty Stratagems.
+SEMPITERNAL WEAVE
+Only the finest Cryptek artificers know the secret of 
+crafting a Sempiternal Weave. These gossamer-thin 
+plates are formed from phase-hardened amarathine 
+and threads of adamantine. They are then layered 
+over the bearer’s carapace of living metal, stiffening 
+and contracting when struck to turn aside energy 
+blades, bolt shells and even the searing heat of a 
+plasma burst.
+
+Necrons model only. The bearer has the 
+Feel No Pain 4+ ability.
+
+IMOTEKH THE STORMLORD
+
+M
+
+5"
+
+T
+
+5
+
+SV
+
+2+
+
+W
+
+5
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Gauntlet of Fire [IGNORES COVER, TORRENT]
+Staff of the Destroyer 
+
+MELEE WEAPONS
+Staff of the Destroyer [DEVASTATING WOUNDS]
+
+RANGE
+
+12"
+18"
+
+RANGE
+Melee
+
+A
+D6
+3
+
+A
+4
+
+BS
+N/A
+2+
+
+WS
+2+
+
+S
+5
+6
+
+S
+6
+
+AP
+-1
+-3
+
+AP
+-3
+
+D
+1
+2
+
+D
+2
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Reanimation Protocols
+
+Grand Strategist: At the start of your Command phase, if this 
+model is on the battlefield, you gain 1CP.
+Lord of the Storm: Once per battle, at the end of your 
+Command phase, this model can use this ability. If it does, roll 
+one D6 for each enemy unit within 12" of this model: on a 2-5, 
+that enemy unit suffers D3 mortal wounds; on a 6, that enemy 
+unit suffers D3+3 mortal wounds. 
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Infantry, Character, Epic Hero, Noble, Imotekh the Stormlord
+
+FACTION KEYWORDS:  
+Necrons
+
+IMOTEKH THE STORMLORD
+Imotekh is a sublimely skilled strategist, wielding his armies with 
+hyperlogical skill and unleashing deadly strategic ploys. In battle 
+he incinerates enemies with his Gauntlet of Fire, blasts them with 
+pan-dimensional energies from his Staff of the Destroyer or humbles 
+them in punishing one-on-one duels.
+
+WARGEAR OPTIONS
+ ■   None
+
+UNIT COMPOSITION
+ ■ 1 Imotekh the Stormlord – Epic Hero
+This model is equipped with: Gauntlet of Fire; Staff of 
+the Destroyer.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Immortals
+ ■ Lychguard
+ ■ Necron Warriors
+
+KEYWORDS:  Infantry, Character, Epic Hero, Noble, Imotekh the Stormlord
+
+FACTION KEYWORDS:  
+Necrons
+
+ORIKAN THE DIVINER
+
+M
+
+5"
+
+T
+
+4
+
+SV
+
+4+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+1
+
+MELEE WEAPONS
+Staff of Tomorrow [DEVASTATING WOUNDS]
+
+RANGE
+Melee
+
+A
+2
+
+WS
+3+
+
+S
+4
+
+AP
+-3
+
+D
+D3
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Reanimation Protocols
+
+Master Chronomancer: While this model is leading a unit, 
+models in that unit have a 4+ invulnerable save.
+The Stars Are Right: Once per battle, at the start of the Fight 
+phase, this model can use this ability. If it does, until the end 
+of the phase, triple the Attacks and Strength characteristics of 
+this model’s Staff of Tomorrow and every successful Wound 
+roll made for this model’s attacks scores a Critical Wound.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:   Infantry, Character, Epic Hero, Cryptek, Chronomancer, 
+
+Orikan the Diviner
+
+FACTION KEYWORDS:  
+Necrons
+
+ORIKAN THE DIVINER
+Orikan is a master astromancer, using his knowledge of astral 
+conjunctions to predict the tides of battle and empower himself with 
+cosmic energies. He supplements these skills with chronomantic 
+abilities that allow him to see events before they happen and know 
+just where to aim his blows.
+
+WARGEAR OPTIONS
+ ■   None
+
+UNIT COMPOSITION
+ ■ 1 Orikan the Diviner – Epic Hero
+This model is equipped with: Staff of Tomorrow.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Immortals
+ ■ Lychguard
+ ■ Necron Warriors
+You can attach this model to one of the above units even 
+if one Royal Warden or Noble model has already been 
+attached to it. If you do, and that Bodyguard unit is destroyed, 
+the Leader units attached to it become separate units, with 
+their original Starting Strengths.
+
+KEYWORDS:   Infantry, Character, Epic Hero, Cryptek, Chronomancer, 
+
+Orikan the Diviner
+
+FACTION KEYWORDS:  
+Necrons
+
+ANRAKYR THE TRAVELLER
+
+M
+
+5"
+
+T
+
+5
+
+SV
+
+2+
+
+W
+
+6
+
+LD
+
+6+
+
+OC
+
+1
+
+A
+RANGED WEAPONS
+Tachyon arrow [ONE SHOT]
+1
+One Shot: The bearer can only shoot with this weapon once per battle.
+
+RANGE
+
+72"
+
+MELEE WEAPONS
+Warscythe [DEVASTATING WOUNDS]
+
+RANGE
+Melee
+
+A
+4
+
+BS
+2+
+
+WS
+2+
+
+S
+16
+
+S
+8
+
+AP
+-5
+
+AP
+-3
+
+D
+D6+2
+
+ABILITIES
+
+CORE: Leader
+
+D
+2
+
+FACTION: Reanimation Protocols
+
+Lord of the Pyrrhian Eternals: While this model is leading a 
+unit, each time a model in that unit makes an attack, add 1 to 
+the Wound roll.
+Mind in the Machine: At the start of your opponent’s Shooting 
+phase, select one enemy Vehicle unit within 12" of and 
+visible to this model. That unit must take a Leadership test. 
+If that test is passed, until the end of the phase, each time 
+a model in that unit makes an attack, subtract 1 from the 
+Hit roll; if that test is failed, that unit is not eligible to shoot 
+this phase.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Infantry, Character, Epic Hero, Noble, Anrakyr the Traveller
+
+FACTION KEYWORDS:  
+Necrons
+
+ANRAKYR THE TRAVELLER
+Anrakyr voyages from one tomb world to the next at the head of 
+his veteran Pyrrhian Eternals. His tachyon arrow can unleash an 
+unstoppable thunderbolt of energy, capable of shattering mountains, 
+and his will is so great that he can even seize temporary control of his 
+enemies’ engines of war.
+
+WARGEAR OPTIONS
+ ■   None
+
+UNIT COMPOSITION
+ ■ 1 Anrakyr the Traveller – Epic Hero
+This model is equipped with: tachyon arrow; warscythe.
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Immortals
+
+KEYWORDS:  Infantry, Character, Epic Hero, Noble, Anrakyr the Traveller
+
+FACTION KEYWORDS:  
+Necrons
+
+VARGARD OBYRON
+
+M
+
+5"
+
+T
+
+5
+
+SV
+
+2+
+
+W
+
+5
+
+LD
+
+6+
+
+OC
+
+1
+
+MELEE WEAPONS
+Warscythe [DEVASTATING WOUNDS, PRECISION] 
+
+RANGE
+Melee
+
+A
+4
+
+WS
+2+
+
+S
+8
+
+AP
+-3
+
+D
+2
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Reanimation Protocols
+
+Ghostwalk Mantle: While this model is leading a unit, models 
+in that unit have the Fights First ability.
+The Vargard’s Duty: While this model is in the same unit as 
+Nemesor Zahndrekh, Character models in that unit have 
+the Feel No Pain 4+ ability.
+
+KEYWORDS: Infantry, Character, Epic Hero, Vargard Obyron
+
+FACTION KEYWORDS:  
+Necrons
+
+VARGARD OBYRON
+Obyron is Nemesor Zahndrekh’s devoted bodyguard. He is a 
+tremendously skilled close-quarters combatant. Moreover, thanks 
+to his ghostwalk mantle, he is always ready to teleport back to 
+his master’s side and place his resilient living metal form between 
+Zahndrekh and harm, striking the foe down before they can react. 
+
+WARGEAR OPTIONS
+ ■   None
+
+UNIT COMPOSITION
+ ■ 1 Vargard Obyron – Epic Hero
+This model is equipped with: warscythe.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Immortals
+ ■ Lychguard
+ ■ Necron Warriors
+This model can be attached to a unit even if Nemesor 
+Zahndrekh has already been attached to it. If it is, and that 
+Bodyguard unit is destroyed, the Leader units attached to it 
+become separate units, with their original Starting Strengths.
+
+KEYWORDS: Infantry, Character, Epic Hero, Vargard Obyron
+
+FACTION KEYWORDS:  
+Necrons
+
+ILLUMINOR SZERAS
+
+M
+
+7"
+
+T
+
+8
+
+SV
+
+2+
+
+W
+
+9
+
+LD
+
+6+
+
+OC
+
+3
+
+RANGED WEAPONS
+Eldritch lance 
+
+MELEE WEAPONS
+Eldritch lance 
+Impaling legs [EXTRA ATTACKS]
+
+RANGE
+
+36"
+
+RANGE
+Melee
+Melee
+
+A
+3
+
+A
+4
+4
+
+BS
+3+
+
+WS
+3+
+3+
+
+S
+9
+
+S
+9
+6
+
+AP
+-3
+
+AP
+-3
+-1
+
+D
+3
+
+D
+3
+1
+
+ABILITIES
+
+CORE: Feel No Pain 4+
+
+FACTION: Reanimation Protocols
+
+Illuminor: While this model is within 3" of one or more 
+other friendly Necrons units, this model has the Lone 
+Operative ability.
+Mechanical Augmentation (Aura): While a friendly Necrons 
+Battleline unit is within 6" of this model, each time a model 
+in that unit makes an attack, improve the Armour Penetration 
+characteristic of that attack by 1, and each time an attack 
+targets that unit, worsen the Armour Penetration characteristic 
+of that attack by 1.
+Atomic Energy Manipulator: At the end of the Fight phase, if 
+this model destroyed one of more models this phase, until 
+the end of the battle, add 3" to the range of its Mechanical 
+Augmentation ability.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Infantry, Character, Epic Hero, Cryptek, Illuminor Szeras
+
+FACTION KEYWORDS:  
+Necrons
+
+ILLUMINOR SZERAS
+Illuminor Szeras is a ghoulish bio-scientist who haunts the battlefield 
+to gather luckless living specimens. He is a master of technomantic 
+lore and android augmentation, employing horrible arcanoscientific 
+instruments to disassemble his enemies, even as he fortifies the 
+living metal forms of his allies.
+
+WARGEAR OPTIONS
+ ■   None
+
+UNIT COMPOSITION
+ ■ 1 Illuminor Szeras – Epic Hero
+This model is equipped with: eldritch lance; impaling legs.
+
+KEYWORDS:  Infantry, Character, Epic Hero, Cryptek, Illuminor Szeras
+
+FACTION KEYWORDS:  
+Necrons
+
+NEMESOR ZAHNDREKH
+
+M
+
+5"
+
+T
+
+5
+
+SV
+
+2+
+
+W
+
+6
+
+LD
+
+7+
+
+OC
+
+1
+
+RANGED WEAPONS
+Staff of light 
+
+MELEE WEAPONS
+Staff of light 
+
+RANGE
+
+18"
+
+RANGE
+Melee
+
+A
+3
+
+A
+4
+
+BS
+3+
+
+WS
+3+
+
+S
+5
+
+S
+5
+
+AP
+-2
+
+AP
+-2
+
+D
+1
+
+D
+1
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Reanimation Protocols
+
+Transient Madness: While this model is leading a unit, at the 
+start of your Command phase, roll one D6: until the start of 
+your next Command phase, weapons equipped by models in 
+that unit gain the ability below that corresponds with that roll:
+ ■ 1-2: [SUSTAINED HITS 1]
+ ■ 3-4: [LETHAL HITS]
+ ■ 5-6: [DEVASTATING WOUNDS]
+Counter-tactics: Once per battle, after your opponent uses 
+a Stratagem, if this model is on the battlefield, it can use this 
+ability. If it does, until the end of the battle, the CP cost your 
+opponent must pay to use that Stratagem again is increased 
+by 1CP.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Infantry, Character, Epic Hero, Noble, Nemesor Zahndrekh
+
+FACTION KEYWORDS:  
+Necrons
+
+NEMESOR ZAHNDREKH
+Nemesor Zahndrekh is one of the finest generals in the Sautekh 
+Dynasty, expertly directing his own warriors while neutralising his 
+enemies’ every gambit. This is especially impressive considering his 
+degraded engrammatic state, which has left him convinced he still 
+lives and breathes during the time of the Necrontyr.
+
+WARGEAR OPTIONS
+ ■   None
+
+UNIT COMPOSITION
+ ■ 1 Nemesor Zahndrekh – Epic Hero
+This model is equipped with: staff of light.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Immortals
+ ■ Lychguard
+ ■ Necron Warriors
+
+KEYWORDS:  Infantry, Character, Epic Hero, Noble, Nemesor Zahndrekh
+
+FACTION KEYWORDS:  
+Necrons
+
+TRAZYN THE INFINITE
+
+M
+
+5"
+
+T
+
+5
+
+SV
+
+2+
+
+W
+
+6
+
+LD
+
+6+
+
+OC
+
+1
+
+MELEE WEAPONS
+Empathic Obliterator [SUSTAINED HITS D3]
+
+RANGE
+Melee
+
+A
+4
+
+WS
+2+
+
+S
+7
+
+AP
+0
+
+D
+D3
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Reanimation Protocols
+
+Ancient Collector: While this model is leading a unit, at the 
+end of your Command phase, if that unit is within range of an 
+objective marker you control, it remains under your control, 
+even if you have no models within range of it, until your 
+opponent controls it at start or end of any turn.
+Surrogate Hosts: At the start of your Command phase, if this 
+model is on the battlefield, you can select one other friendly 
+Necrons Infantry Character model on the battlefield 
+(excluding Skorpekh Lord or Epic Hero models). The 
+selected model is destroyed (ignoring any rules that are 
+triggered when a model is destroyed) and this model is put 
+in its place, with all of its wounds remaining (if the selected 
+model was leading a unit, this model now attaches to that unit 
+as its Leader).
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Infantry, Character, Epic Hero, Noble, Trazyn the Infinite
+
+FACTION KEYWORDS:  
+Necrons
+
+TRAZYN THE INFINITE
+A thief of moments in history, Trazyn takes to the battlefield to acquire 
+that which cunning cannot secure. His Empathic Obliterator triggers 
+psionic shock waves that kill not only his immediate victim, but those 
+of a like mind nearby, while his ability to leap from one surrogate body 
+to the next ensures he is hard to slay indeed.
+
+WARGEAR OPTIONS
+ ■   None
+
+UNIT COMPOSITION
+ ■ 1 Trazyn the Infinite – Epic Hero
+This model is equipped with: Empathic Obliterator.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Immortals
+ ■ Lychguard
+ ■ Necron Warriors
+
+KEYWORDS:  Infantry, Character, Epic Hero, Noble, Trazyn the Infinite
+
+FACTION KEYWORDS:  
+Necrons
+
+ROYAL WARDEN
+
+M
+
+5"
+
+T
+
+5
+
+SV
+
+3+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Relic gauss blaster [LETHAL HITS, RAPID FIRE 2]
+
+MELEE WEAPONS
+Close combat weapon 
+
+RANGE
+
+24"
+
+RANGE
+Melee
+
+A
+2
+
+A
+4
+
+BS
+3+
+
+WS
+3+
+
+S
+5
+
+S
+5
+
+AP
+-1
+
+AP
+0
+
+D
+2
+
+D
+1
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Reanimation Protocols
+
+Adaptive Strategy: While this model is leading a unit, ranged 
+weapons equipped by models in that unit have the [HEAVY] 
+and [ASSAULT] abilities.
+Engrammatic Logic: Once per battle, at the start of any 
+phase, you can select one friendly Necrons unit that is 
+Battle-shocked and within 12" of this model. That unit is no 
+longer Battle-shocked.
+
+KEYWORDS: Infantry, Character, Royal Warden
+
+FACTION KEYWORDS:  
+Necrons
+
+ROYAL WARDEN
+Royal Wardens ensure their lord’s will is carried out by the dynasty’s 
+vast armies. They possess the initiative to adapt the strategies of the 
+phalanxes under their command with engrammatic logic. While they 
+retain independence of thought, protocols buried deep within their 
+living metal cortices render them unquestioningly loyal.
+
+WARGEAR OPTIONS
+ ■   None
+
+UNIT COMPOSITION
+ ■ 1 Royal Warden
+This model is equipped with: relic gauss blaster; close 
+combat weapon.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Immortals
+ ■ Necron Warriors
+
+KEYWORDS: Infantry, Character, Royal Warden
+
+FACTION KEYWORDS:  
+Necrons
+
+SKORPEKH LORD
+
+M
+
+7"
+
+T
+
+7
+
+SV
+
+3+
+
+W
+
+6
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Enmitic annihilator [RAPID FIRE 2]
+
+MELEE WEAPONS
+Flensing claw 
+Hyperphase harvester 
+
+RANGE
+
+18"
+
+RANGE
+Melee
+Melee
+
+A
+2
+
+A
+8
+4
+
+BS
+2+
+
+WS
+2+
+2+
+
+S
+6
+
+S
+6
+10
+
+AP
+-1
+
+AP
+-1
+-3
+
+D
+1
+
+D
+1
+3
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Reanimation Protocols
+
+United In Destruction: While this model is leading a unit, 
+melee weapons equipped by models in that unit have the 
+[LETHAL HITS] ability.
+Crimson Harvest: Each time this model ends a Charge move, 
+select one enemy unit within Engagement Range of this 
+model and roll one D6: on a 2-5, that unit suffers D3 mortal 
+wounds; on a 6, that unit suffers D3+3 mortal wounds.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS: Infantry, Character, Skorpekh Lord
+
+FACTION KEYWORDS:  
+Necrons
+
+SKORPEKH LORD
+Skorpekh Lords have fallen far from their noble beginnings, allowing 
+an obsession with slaughter to twist their bodies and minds. Lurching 
+forward on tripod bodies, their enmitic annihilators blast victims 
+messily apart as their claws and blades lash out to reap a crimson 
+harvest across the battlefield.
+
+WARGEAR OPTIONS
+ ■   None
+
+UNIT COMPOSITION
+ ■ 1 Skorpekh Lord
+This model is equipped with: enmitic annihilator; flensing 
+claw; hyperphase harvester.
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Skorpekh Destroyers
+
+KEYWORDS: Infantry, Character, Skorpekh Lord
+
+FACTION KEYWORDS:  
+Necrons
+
+LOKHUST LORD
+
+M
+
+7"
+
+T
+
+6
+
+SV
+
+3+
+
+W
+
+6
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Staff of light 
+
+MELEE WEAPONS
+Lord’s blade [DEVASTATING WOUNDS]
+Staff of light 
+
+RANGE
+
+18"
+
+RANGE
+Melee
+Melee
+
+A
+3
+
+A
+4
+4
+
+BS
+2+
+
+WS
+2+
+2+
+
+S
+5
+
+S
+8
+5
+
+AP
+-2
+
+AP
+-3
+-2
+
+D
+1
+
+D
+2
+1
+
+KEYWORDS: Mounted, Character, Fly, Lokhust Lord
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Reanimation Protocols
+
+Destroyer Cult: While this model is leading a unit, each time 
+a model in that unit makes a ranged attack, a successful 
+unmodifed Hit roll of 5+ scores a Critical Hit.
+Driven by Hatred: Each time this model makes an attack that 
+targets an enemy unit that is Below Half-strength, you can 
+re-roll the Hit roll and you can re-roll the Wound roll. 
+
+WARGEAR ABILITIES
+
+Phylactery: The bearer has the Feel No Pain 5+ ability.
+
+Resurrection Orb: While the bearer is leading a unit, that unit’s 
+Reanimation Protocols activate at the end of your opponent’s 
+Command phase in addition to at the end of yours.
+
+INVULNERABLE SAVE
+
+4+
+
+FACTION KEYWORDS:  
+Necrons
+
+LOKHUST LORD
+Lokhust Lords skim into battle on swift grav-sled bodies. Driven by 
+nihilistic hatred, their every optimised strike slaughters swathes of 
+the foe. Meanwhile, should the enemy wound a Lokhust Lord, in return 
+they must watch in despair as minute repair-scarabs spill from his 
+phylactery in a silvery tide to repair his rent form.
+
+WARGEAR OPTIONS
+ ■     This model’s staff of light can be replaced with 1 Lord’s blade.
+ ■  This model can be equipped with one of the following: 
+
+ ◦ 1 phylactery
+ ◦ 1 resurrection orb
+
+UNIT COMPOSITION
+ ■ 1 Lokhust Lord
+This model is equipped with: staff of light.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Lokhust Destroyers
+ ■ Lokhust Heavy Destroyers
+
+KEYWORDS: Mounted, Character, Fly, Lokhust Lord
+
+FACTION KEYWORDS:  
+Necrons
+
+LORD
+
+M
+
+5"
+
+T
+
+5
+
+SV
+
+3+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Staff of light 
+
+MELEE WEAPONS
+Staff of light 
+Lord’s blade [DEVASTATING WOUNDS]
+
+RANGE
+
+18"
+
+RANGE
+Melee
+Melee
+
+A
+3
+
+A
+3
+3
+
+BS
+3+
+
+WS
+3+
+3+
+
+S
+5
+
+S
+5
+8
+
+AP
+-2
+
+AP
+-2
+-3
+
+D
+1
+
+D
+1
+2
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Reanimation Protocols
+
+Relentless March: While this model is leading a unit, add 1" to 
+the Move characteristic of models in that unit.
+The Lord’s Will: While this model is leading a unit, 
+you can target that unit with Stratagems even when it 
+is Battle-shocked. 
+
+WARGEAR ABILITIES
+
+Resurrection Orb: While the bearer is leading a unit, that unit’s 
+Reanimation Protocols activate at the end of your opponent’s 
+Command phase in addition to at the end of yours.
+
+KEYWORDS: Infantry, Character, Noble, Lord
+
+FACTION KEYWORDS:  
+Necrons
+
+LORD
+The Royal Courts of Necron dynasties include many lesser lords 
+amongst their number, while fringeworld forces may be led by such 
+beings. They are possessed of formidable cunning and martial 
+strength, and the resurrection orbs they carry to war can overcharge 
+the self-repair systems of nearby Necrons.
+
+WARGEAR OPTIONS
+ ■   This model’s staff of light can be replaced with 1 Lord’s blade.
+ ■  This model can be equipped with 1 resurrection orb.
+
+UNIT COMPOSITION
+ ■ 1 Lord
+This model is equipped with: staff of light.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Immortals
+ ■ Lychguard
+ ■ Necron Warriors
+
+KEYWORDS: Infantry, Character, Noble, Lord
+
+FACTION KEYWORDS:  
+Necrons
+
+CATACOMB COMMAND BARGE
+
+M
+
+9"
+
+T
+
+8
+
+SV
+
+3+
+
+W
+
+9
+
+LD
+
+6+
+
+OC
+
+3
+
+RANGED WEAPONS
+Gauss cannon [LETHAL HITS]
+Staff of light 
+Tesla cannon [SUSTAINED HITS 2]
+
+MELEE WEAPONS
+Overlord’s blade [DEVASTATING WOUNDS]
+Staff of light 
+
+RANGE
+
+24"
+18"
+24"
+
+RANGE
+Melee
+Melee
+
+A
+3
+3
+4
+
+A
+4
+4
+
+BS
+3+
+2+
+3+
+
+WS
+2+
+3+
+
+S
+5
+5
+6
+
+S
+8
+5
+
+AP
+-2
+-2
+0
+
+AP
+-3
+-2
+
+D
+2
+1
+1
+
+D
+2
+1
+
+ABILITIES
+
+CORE: Deadly Demise 1
+
+FACTION: Reanimation Protocols
+
+Carrier Wave (Aura): While a friendly Necrons unit is within 
+6" of this model, add 1 to the Objective Control characteristic 
+of models in that unit.
+Advanced Quantum Shielding: Each time an attack targets 
+this model, if the Strength characteristic of that attack is 
+greater than this model’s Toughness characteristic, subtract 1 
+from the Wound roll.
+
+WARGEAR ABILITIES
+
+Resurrection Orb: At the end of your opponent’s Command 
+phase, select one friendly Necrons Infantry or Necrons 
+Mounted unit within 6" of this model; that unit’s Reanimation 
+Protocols activate.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS: Vehicle, Character, Fly, Catacomb Command Barge
+
+FACTION KEYWORDS:  
+Necrons
+
+CATACOMB COMMAND BARGE
+Some Necron nobles ride to battle enthroned on Catacomb Command 
+Barges. These armoured skimmers beam out carrier waves that 
+bear a noble’s orders directly to the dynasty’s legions, while also 
+providing them with quantum shielding, heavy gauss firepower and a 
+fast-moving platform from which to fight.
+
+WARGEAR OPTIONS
+ ■  This model’s gauss cannon can be replaced with 1 tesla cannon.
+ ■   This model’s staff of light can be replaced with 1 Overlord’s blade.
+ ■  This model can be equipped with 1 resurrection orb.
+
+UNIT COMPOSITION
+ ■ 1 Catacomb Command Barge
+This model is equipped with: gauss cannon; staff of light.
+
+KEYWORDS: Vehicle, Character, Fly, Catacomb Command Barge
+
+FACTION KEYWORDS:  
+Necrons
+
+OVERLORD
+
+M
+
+5"
+
+T
+
+5
+
+SV
+
+2+
+
+W
+
+6
+
+LD
+
+6+
+
+OC
+
+1
+
+A
+RANGED WEAPONS
+3
+Staff of light 
+1
+Tachyon arrow [ONE SHOT]
+One Shot: The bearer can only shoot with this weapon once per battle.
+
+RANGE
+
+18"
+72"
+
+MELEE WEAPONS
+Overlord’s blade [DEVASTATING WOUNDS]
+Staff of light 
+Voidscythe [DEVASTATING WOUNDS]
+
+RANGE
+Melee
+Melee
+Melee
+
+A
+4
+4
+3
+
+BS
+2+
+2+
+
+WS
+2+
+2+
+3+
+
+S
+5
+16
+
+S
+8
+5
+12
+
+AP
+-2
+-5
+
+AP
+-3
+-2
+-3
+
+D
+1
+
+D6+2
+
+D
+2
+1
+3
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Reanimation Protocols
+
+My Will Be Done: Once per battle round, one unit from your 
+army with this ability can be targeted with a Stratagem for 
+0CP, even if you have already targeted a different unit with 
+that Stratagem this phase.
+Implacable Resilience: Each time an attack is allocated to this 
+model, subtract 1 from that attack’s Damage characteristic.
+
+WARGEAR ABILITIES
+
+Resurrection Orb: While the bearer is leading a unit, that unit’s 
+Reanimation Protocols activate at the end of your opponent’s 
+Command phase in addition to at the end of yours.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS: Infantry, Character, Noble, Overlord
+
+FACTION KEYWORDS:  
+Necrons
+
+OVERLORD
+Overlords lead the Necron dynasties in battle. Their android minds 
+are tremendously swift, their bodies implacably resilient and 
+their weapons eldritch, ancient and lethal. Yet it is the Overlords’ 
+indomitable wills that are perhaps their most fearsome assets, for 
+with these they drive entire armies to war.
+
+WARGEAR OPTIONS
+ ■   This model’s tachyon arrow and Overlord’s blade can be replaced with one of the following: 
+
+ ◦ 1 Overlord’s blade
+ ◦ 1 staff of light
+ ◦ 1 voidscythe
+
+ ■  If this model is not equipped with a tachyon arrow, it can be equipped with 1 resurrection orb. 
+
+UNIT COMPOSITION
+ ■ 1 Overlord
+This model is equipped with: tachyon arrow; Overlord’s blade.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Immortals
+ ■ Lychguard
+ ■ Necron Warriors
+
+KEYWORDS: Infantry, Character, Noble, Overlord
+
+FACTION KEYWORDS:  
+Necrons
+
+TECHNOMANCER
+
+M
+
+5"
+
+T
+
+4
+
+SV
+
+4+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Staff of light 
+
+MELEE WEAPONS
+Staff of light 
+
+RANGE
+
+18"
+
+RANGE
+Melee
+
+A
+3
+
+A
+2
+
+BS
+4+
+
+WS
+4+
+
+S
+5
+
+S
+5
+
+AP
+-2
+
+AP
+-2
+
+D
+1
+
+D
+1
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Reanimation Protocols
+
+Rites of Reanimation: While this model is leading a unit, 
+models in that unit have the Feel No Pain 5+ ability. 
+Technomancer: At the end of your Movement phase, you can 
+select one friendly Necrons model within 3" of the bearer. 
+That model regains up to D3 lost wounds. Each model can 
+only be selected for this ability once per turn.
+
+WARGEAR ABILITIES
+
+Canoptek Cloak: The bearer has the Fly keyword, the Lone 
+Operative ability and a Move characteristic of 10". 
+Canoptek Control Node (Aura): While a friendly Canoptek 
+unit is within 6" of the bearer, each time a Canoptek model in 
+that unit makes an attack, add 1 to the Hit roll.
+
+KEYWORDS: Infantry, Character, Cryptek, Technomancer
+
+FACTION KEYWORDS:  
+Necrons
+
+TECHNOMANCER
+Technomancers possess the power to augment and swiftly repair 
+Necron units in the field. Some Technomancers use Canoptek cloaks 
+to flit swiftly to wherever they are needed most, while others employ 
+the nanoscarab beams of their Canoptek control nodes to augment 
+from afar.
+
+WARGEAR OPTIONS
+ ■ This model’s Canoptek cloak can be replaced with 1 Canoptek control node.
+
+UNIT COMPOSITION
+ ■ 1 Technomancer
+This model is equipped with: staff of light; Canoptek cloak.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Immortals
+ ■ Lychguard
+ ■ Necron Warriors
+You can attach this model to one of the above units even 
+if one Royal Warden or Noble model has already been 
+attached to it. If you do, and that Bodyguard unit is destroyed, 
+the Leader units attached to it become separate units, with 
+their original Starting Strengths.
+
+KEYWORDS: Infantry, Character, Cryptek, Technomancer
+
+FACTION KEYWORDS:  
+Necrons
+
+PSYCHOMANCER
+
+M
+
+5"
+
+T
+
+4
+
+SV
+
+4+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Abyssal lance 
+
+MELEE WEAPONS
+Abyssal lance 
+
+RANGE
+
+18"
+
+RANGE
+Melee
+
+A
+1
+
+A
+1
+
+BS
+4+
+
+WS
+4+
+
+S
+6
+
+S
+6
+
+AP
+-3
+
+AP
+-3
+
+D
+3
+
+D
+3
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Reanimation Protocols
+
+Nightmare Shroud (Aura): While an enemy unit is within 9" of 
+this model, subtract 1 from the Leadership characteristic of 
+models in that unit.
+Harbinger of Despair: At the start of your Shooting phase, 
+select one enemy unit within 18" of this unit. That unit must 
+take a Battle-shock test.
+
+KEYWORDS: Infantry, Character, Cryptek, Psychomancer
+
+FACTION KEYWORDS:  
+Necrons
+
+PSYCHOMANCER
+Psychomancers study the science of fear. They are expert 
+manipulators, conjuring phantasms and temporary hard-light 
+constructs that trigger primal survival instincts in their victims’ minds, 
+or overload even the most advanced sensoria. No being is safe from 
+the creeping tendrils of the Psychomancer’s art.
+
+WARGEAR OPTIONS
+ ■   None
+
+UNIT COMPOSITION
+ ■ 1 Psychomancer
+This model is equipped with: abyssal lance.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Immortals
+ ■ Lychguard
+ ■ Necron Warriors
+You can attach this model to one of the above units even 
+if one Royal Warden or Noble model has already been 
+attached to it. If you do, and that Bodyguard unit is destroyed, 
+the Leader units attached to it become separate units, with 
+their original Starting Strengths.
+
+KEYWORDS: Infantry, Character, Cryptek, Psychomancer
+
+FACTION KEYWORDS:  
+Necrons
+
+CHRONOMANCER
+
+M
+
+5"
+
+T
+
+4
+
+SV
+
+4+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Aeonstave [BLAST]
+
+MELEE WEAPONS
+Aeonstave 
+
+RANGE
+
+18"
+
+RANGE
+Melee
+
+A
+D6
+
+A
+3
+
+BS
+4+
+
+WS
+4+
+
+S
+5
+
+S
+5
+
+AP
+-1
+
+AP
+-1
+
+D
+1
+
+D
+1
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Reanimation Protocols
+
+Timesplinter Mantle: While this model is leading a unit, each 
+time an attack targets that unit, subtract 1 from the Hit roll.
+Chronometron: In your Shooting phase, after this model’s unit 
+has shot, if it is not within Engagement Range of any enemy 
+units, that unit can make a Normal move of up to 5" as if it 
+were your Movement phase. If it does, until the end of the 
+turn, that unit is not eligible to declare a charge.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS: Infantry, Character, Cryptek, Chronomancer
+
+FACTION KEYWORDS:  
+Necrons
+
+CHRONOMANCER
+Chronomancers are Crypteks who harness temporal energies, their 
+aeonstaves slowing down or speeding up weaponised time. Their 
+timesplinter mantles use crystallised moments to confound enemy 
+blows, while their chronometrons hasten allies through time itself.
+
+WARGEAR OPTIONS
+ ■   None
+
+UNIT COMPOSITION
+ ■ 1 Chronomancer
+This model is equipped with: aeonstave.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Lychguard
+ ■ Immortals
+ ■ Necron Warriors
+You can attach this model to one of the above units even 
+if one Royal Warden or Noble model has already been 
+attached to it. If you do, and that Bodyguard unit is destroyed, 
+the Leader units attached to it become separate units, with 
+their original Starting Strengths.
+
+KEYWORDS: Infantry, Character, Cryptek, Chronomancer
+
+FACTION KEYWORDS:  
+Necrons
+
+PLASMANCER
+
+M
+
+5"
+
+T
+
+4
+
+SV
+
+4+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Plasmic lance 
+
+MELEE WEAPONS
+Plasmic lance 
+
+RANGE
+
+18"
+
+RANGE
+Melee
+
+A
+3
+
+A
+2
+
+BS
+4+
+
+WS
+4+
+
+S
+7
+
+S
+7
+
+AP
+-3
+
+AP
+-3
+
+D
+2
+
+D
+2
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Reanimation Protocols
+
+Harbinger of Destruction: While this model is leading a unit, 
+each time a model in that unit makes a ranged attack, a 
+successful unmodifed Hit roll of 5+ scores a Critical Hit. 
+Living Lightning: In your Shooting phase, select one enemy 
+unit within 18" of and visible to this model and roll one D6 for 
+each model in that enemy unit: for each 6, that unit suffers 1 
+mortal wound.
+
+KEYWORDS: Infantry, Character, Cryptek, Plasmancer
+
+FACTION KEYWORDS:  
+Necrons
+
+PLASMANCER
+Plasmancers are unsubtle annihilators. They are capable of wielding 
+energy as a weapon itself rather than needing to bind it to other forms. 
+Arcs of unstable lightning leap from their forms to wrack nearby foes, 
+and with a gesture these Crypteks can channel those same energies 
+into searing ranged blasts.
+
+WARGEAR OPTIONS
+ ■     None
+
+UNIT COMPOSITION
+ ■ 1 Plasmancer
+This model is equipped with: plasmic lance.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Immortals
+ ■ Lychguard
+ ■ Necron Warriors
+You can attach this model to one of the above units even 
+if one Royal Warden or Noble model has already been 
+attached to it. If you do, and that Bodyguard unit is destroyed, 
+the Leader units attached to it become separate units, with 
+their original Starting Strengths.
+
+KEYWORDS: Infantry, Character, Cryptek, Plasmancer
+
+FACTION KEYWORDS:  
+Necrons
+
+NECRON WARRIORS
+
+M
+
+5"
+
+T
+
+4
+
+SV
+
+4+
+
+W
+
+1
+
+LD
+
+7+
+
+OC
+
+2
+
+RANGED WEAPONS
+Gauss flayer [LETHAL HITS, RAPID FIRE 1]
+Gauss reaper [LETHAL HITS]
+
+MELEE WEAPONS
+Close combat weapon 
+
+RANGE
+
+24"
+12"
+
+RANGE
+Melee
+
+A
+1
+2
+
+A
+1
+
+BS
+4+
+4+
+
+WS
+4+
+
+S
+4
+5
+
+S
+4
+
+AP
+0
+-1
+
+AP
+0
+
+D
+1
+1
+
+D
+1
+
+ABILITIES
+
+FACTION: Reanimation Protocols 
+
+Their Number is Legion: Each time this unit’s Reanimation 
+Protocols activate, it reanimates D6 wounds instead of D3 
+wounds, unless it is within range of an objective marker you 
+control, in which case it reanimates D3+3 wounds instead.
+
+KEYWORDS: Infantry, Battleline, Necron Warriors
+
+FACTION KEYWORDS:  
+Necrons
+
+NECRON WARRIORS
+Necron Warriors attack in rank upon shambling rank. Individually little 
+more than mindless automata, they are relentless and deadly when 
+commanded en masse. The Warriors’ metallic bodies can self-repair 
+from even the most hideous damage, while their unceasing volleys of 
+fire butcher the foe with mechanical efficiency.
+
+WARGEAR OPTIONS
+ ■  Any number of models can each have their gauss flayer replaced with 1 gauss reaper. 
+
+UNIT COMPOSITION
+ ■ 10-20 Necron Warriors
+Every model is equipped with: gauss flayer; close 
+combat weapon.
+
+KEYWORDS: Infantry, Battleline, Necron Warriors
+
+FACTION KEYWORDS:  
+Necrons
+
+IMMORTALS
+
+M
+
+5"
+
+T
+
+5
+
+SV
+
+3+
+
+W
+
+1
+
+LD
+
+7+
+
+OC
+
+2
+
+RANGED WEAPONS
+Gauss blaster [LETHAL HITS]
+Tesla carbine [ASSAULT, SUSTAINED HITS 2]
+
+MELEE WEAPONS
+Close combat weapon 
+
+RANGE
+
+24"
+18"
+
+RANGE
+Melee
+
+A
+2
+2
+
+A
+2
+
+BS
+3+
+3+
+
+WS
+3+
+
+S
+5
+5
+
+S
+4
+
+AP
+-1
+0
+
+AP
+0
+
+D
+1
+1
+
+D
+1
+
+ABILITIES
+
+FACTION: Reanimation Protocols 
+
+Implacable Eradication: Each time a model in this unit makes 
+an attack, re-roll a Wound roll of 1. If the target of that attack 
+is an enemy unit within range of an objective marker, you can 
+re-roll the Wound roll instead.
+
+KEYWORDS: Infantry, Battleline, Immortals
+
+FACTION KEYWORDS:  
+Necrons
+
+IMMORTALS
+Once the shook troops of the Necrontyr, Immortals still provide 
+their masters with a powerful core of skilled soldiery millennia later. 
+More advanced than Necron Warriors, they can employ a number of 
+strategies even without command, and their firepower makes them 
+deadly in close or midrange engagements.
+
+WARGEAR OPTIONS
+ ■   All models in this unit can each have their gauss blaster replaced with 1 tesla carbine. 
+
+UNIT COMPOSITION
+ ■ 5-10 Immortals
+Every model is equipped with: gauss blaster; close 
+combat weapon.
+
+KEYWORDS: Infantry, Battleline, Immortals
+
+FACTION KEYWORDS:  
+Necrons
+
+CANOPTEK REANIMATOR
+
+M
+
+7"
+
+T
+
+6
+
+SV
+
+3+
+
+W
+
+6
+
+LD
+
+7+
+
+OC
+
+3
+
+RANGED WEAPONS
+Atomiser beam 
+
+MELEE WEAPONS
+Reanimator’s claws 
+
+RANGE
+
+12"
+
+RANGE
+Melee
+
+A
+3
+
+A
+4
+
+BS
+4+
+
+WS
+4+
+
+S
+6
+
+S
+5
+
+AP
+-2
+
+AP
+0
+
+D
+1
+
+D
+1
+
+ABILITIES
+
+CORE: Feel No Pain 4+ 
+
+FACTION: Reanimation Protocols 
+
+Nanoscarab Reanimation Beam (Aura): While a friendly 
+Necrons unit is within 12" of this model, each time that 
+unit’s Reanimation Protocols activate, that unit reanimates an 
+additional D3 wounds.
+
+KEYWORDS: Vehicle, Walker, Canoptek, Reanimator
+
+FACTION KEYWORDS:  
+Necrons
+
+CANOPTEK REANIMATOR
+Canoptek Reanimators prowl the Necron lines, shooting out ethereal 
+beams swarming with nanoscarabs. Necrons touched by these eerie 
+lights stagger to their feet, resurrected, repaired and ready to fight 
+again. Foes are less fortunate, wailing in agony as their atoms are torn 
+apart and recombined in a hideous, gory fashion.
+
+WARGEAR OPTIONS
+ ■ None
+
+UNIT COMPOSITION
+ ■ 1 Canoptek Reanimator
+This model is equipped with: 2 atomiser beams; 
+Reanimator’s claws.
+
+KEYWORDS: Vehicle, Walker, Canoptek, Reanimator
+
+FACTION KEYWORDS:  
+Necrons
+
+HEXMARK DESTROYER
+
+M
+
+7"
+
+T
+
+5
+
+SV
+
+3+
+
+W
+
+5
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Enmitic disintegrator pistols [PISTOL, PRECISION]
+
+MELEE WEAPONS
+Close combat weapon 
+
+RANGE
+
+18"
+
+RANGE
+Melee
+
+A
+6
+
+A
+4
+
+BS
+2+
+
+WS
+3+
+
+S
+6
+
+S
+5
+
+AP
+-2
+
+AP
+0
+
+D
+1
+
+D
+1
+
+ABILITIES
+
+CORE: Deep Strike, Lone Operative
+
+FACTION: Reanimation Protocols
+
+Inescapable Death: Once per turn, one unit from your army 
+with this ability can be targeted with the Fire Overwatch 
+Stratagem for 0CP, even if you have already used that 
+Stratagem on a different unit this phase. In addition, each 
+time you target this unit with the Fire Overwatch Stratagem, 
+while resolving that Stratagem, hits are scored on unmodified 
+Hit rolls of 2+.
+Multi-threat Eliminator: Each time an enemy unit targets a 
+friendly Necrons unit within 3" of this model with ranged 
+attacks, after that enemy unit has shot, this model can shoot 
+as if it were your Shooting phase.
+
+KEYWORDS: Infantry, Character, Hexmark Destroyer
+
+FACTION KEYWORDS:  
+Necrons
+
+HEXMARK DESTROYER
+Hexmark Destroyers were once Deathmarks. Bursting from their 
+dimensional oubliettes like ambush predators, these hunchbacked 
+monsters unleash inescapable hails of enmitic fire. Independent 
+ocular targeting and optimised firing patterns leave their prey with 
+no escape.
+
+WARGEAR OPTIONS
+ ■ None
+
+UNIT COMPOSITION
+ ■ 1 Hexmark Destroyer
+Every model is equipped with: enmitic disintegrator pistols; 
+close combat weapon.
+
+KEYWORDS: Infantry, Character, Hexmark Destroyer
+
+FACTION KEYWORDS:  
+Necrons
+
+LYCHGUARD
+
+M
+
+5"
+
+T
+
+5
+
+SV
+
+3+
+
+W
+
+2
+
+LD
+
+7+
+
+OC
+
+1
+
+MELEE WEAPONS
+Hyperphase sword 
+Warscythe [DEVASTATING WOUNDS]
+
+RANGE
+Melee
+Melee
+
+A
+3
+2
+
+WS
+3+
+3+
+
+S
+6
+8
+
+AP
+-2
+-3
+
+D
+1
+2
+
+ABILITIES
+
+FACTION: Reanimation Protocols 
+
+Guardian Protocols: While a Noble model is leading this 
+unit, each time an attack targets this unit, subtract 1 from the 
+Wound roll.
+
+WARGEAR ABILITIES
+
+Dispersion Shield: The bearer has a 4+ invulnerable save.
+
+KEYWORDS: Infantry, Lychguard
+
+FACTION KEYWORDS:  
+Necrons
+
+LYCHGUARD
+Incapable of disloyalty and clad in forms as resilient and resplendent 
+as their masters’, Lychguard are the ultimate protectors. Whether 
+reaping the foe with warscythes or advancing with dispersion shields 
+locked and hyperphase swords thrumming, at close quarters these 
+bodyguards are nigh on unstoppable.
+
+WARGEAR OPTIONS
+ ■   All models in this unit can each have their warscythe replaced with 1 hyperphase sword and 1 
+
+dispersion shield.
+
+UNIT COMPOSITION
+ ■ 5-10 Lychguard
+Every model is equipped with: warscythe.
+
+KEYWORDS: Infantry, Lychguard
+
+FACTION KEYWORDS:  
+Necrons
+
+DEATHMARKS
+
+M
+
+5"
+
+T
+
+5
+
+SV
+
+3+
+
+W
+
+1
+
+LD
+
+7+
+
+OC
+
+1
+
+RANGED WEAPONS
+Synaptic disintegrator [HEAVY, PRECISION]
+
+MELEE WEAPONS
+Close combat weapon 
+
+RANGE
+
+36"
+
+RANGE
+Melee
+
+A
+1
+
+A
+2
+
+BS
+3+
+
+WS
+3+
+
+S
+5
+
+S
+4
+
+AP
+-2
+
+AP
+0
+
+D
+2
+
+D
+1
+
+ABILITIES
+
+CORE: Deep Strike
+
+FACTION: Reanimation Protocols
+
+Hyperspace Hunters: Once per turn, in the Reinforcements 
+step of your opponent’s Movement phase, when an enemy 
+unit is set up on the battlefield from Reserves within 18" 
+of and visible to this unit, this unit can shoot as if it were 
+your Shooting phase, but must only target that enemy unit 
+when doing so, and can only do so if that enemy unit is an 
+eligible target.
+
+KEYWORDS: Infantry, Deathmarks
+
+FACTION KEYWORDS:  
+Necrons
+
+DEATHMARKS
+No target can evade the Deathmarks. Watching from dimensional 
+oubliettes, these expert snipers track enemy movements, 
+communications and even teleport signatures before striking. They do 
+so in a blaze of synaptic disintegrator fire that shreds not only their 
+victims’ bodies, but also their very minds. 
+
+WARGEAR OPTIONS
+ ■ None
+
+UNIT COMPOSITION
+ ■ 5-10 Deathmarks
+Every model is equipped with: synaptic disintegrator; close 
+combat weapon.
+
+KEYWORDS: Infantry, Deathmarks
+
+FACTION KEYWORDS:  
+Necrons
+
+FLAYED ONES
+
+M
+
+5"
+
+T
+
+4
+
+SV
+
+4+
+
+W
+
+1
+
+LD
+
+7+
+
+OC
+
+1
+
+MELEE WEAPONS
+Flayer claws [SUSTAINED HITS 1, TWIN-LINKED]
+
+RANGE
+Melee
+
+A
+4
+
+WS
+3+
+
+S
+4
+
+AP
+-1
+
+D
+1
+
+ABILITIES
+
+CORE: Infiltrators, Stealth
+
+FACTION: Reanimation Protocols 
+
+Flesh Hunger: Each time a model in this unit makes a melee 
+attack, if the target of that attack is Below Half-strength, a 
+successful Hit roll scores a Critical Hit.
+
+KEYWORDS: Infantry, Flayed Ones
+
+FACTION KEYWORDS:  
+Necrons
+
+FLAYED ONES
+Flayed Ones keen shrill hunting cries as they fall upon the foe, 
+talons flashing. Infected with the gruesome flayer virus, the Flayed 
+Ones attempt to gorge themselves upon the flesh and blood of their 
+butchered foes, gore drizzling through their mechanical forms as they 
+seek to slake a thirst they can never quench.
+
+WARGEAR OPTIONS
+ ■ None
+
+UNIT COMPOSITION
+ ■ 5-10 Flayed Ones
+Every model is equipped with: flayer claws.
+
+KEYWORDS: Infantry, Flayed Ones
+
+FACTION KEYWORDS:  
+Necrons
+
+CRYPTOTHRALLS
+
+M
+
+5"
+
+T
+
+4
+
+SV
+
+3+
+
+W
+
+2
+
+LD
+
+8+
+
+OC
+
+1
+
+RANGED WEAPONS
+Scouring eye 
+
+MELEE WEAPONS
+Scythed limbs 
+
+RANGE
+
+6"
+
+RANGE
+Melee
+
+A
+2
+
+A
+4
+
+BS
+4+
+
+WS
+4+
+
+S
+5
+
+S
+5
+
+AP
+-1
+
+AP
+-1
+
+D
+1
+
+D
+1
+
+ABILITIES
+
+CORE: Feel No Pain 4+
+
+FACTION: Reanimation Protocols
+
+Bound Creation: While this unit is in the same unit as a 
+Cryptek model, that Cryptek model has the Feel No Pain 
+4+ ability.
+Systematic Vigour: Each time a model in this unit is 
+destroyed by a melee attack, if that model has not fought this 
+phase, roll one D6: on a 3+, do not remove it from play. The 
+destroyed model can fight after the attacking model’s unit has 
+finished making its attacks, and it is then removed from play.
+
+KEYWORDS: Infantry, Cryptothralls
+
+FACTION KEYWORDS:  
+Necrons
+
+CRYPTOTHRALLS
+Some Crypteks are accompanied by bound Cryptothralls that act 
+as slaves and bodyguards. These hunched and sinister beings are 
+not truly sentient, but are rather construct creatures enslaved to the 
+Cryptek’s will and engrammatically compelled to protect their master 
+with their living metal bodies and fierce, short-ranged weaponry.
+
+WARGEAR OPTIONS
+ ■ None
+
+UNIT COMPOSITION
+ ■ 2 Cryptothralls
+Every model is equipped with: scouring eye; scythed limbs.
+
+CRYPTEK RETINUE
+
+At the start of the Declare Battle Formations step, this unit 
+can join one other unit from your army that is being led by a 
+Cryptek Infantry model (a unit cannot have more than one 
+Cryptothralls unit joined to it). If it does, until the end of the 
+battle, every model in this unit counts as being part of that 
+Bodyguard unit, and that Bodyguard unit’s Starting Strength is 
+increased accordingly.
+
+KEYWORDS: Infantry, Cryptothralls
+
+FACTION KEYWORDS:  
+Necrons
+
+SKORPEKH DESTROYERS
+
+M
+
+7"
+
+T
+
+6
+
+SV
+
+3+
+
+W
+
+3
+
+LD
+
+7+
+
+OC
+
+2
+
+MELEE WEAPONS
+Skorpekh hyperphase weapons
+
+RANGE
+Melee
+
+A
+4
+
+WS
+3+
+
+S
+7
+
+AP
+-2
+
+D
+2
+
+ABILITIES
+
+FACTION: Reanimation Protocols 
+
+Whirling Onslaught: Each time a model in this unit makes 
+a melee attack, you can ignore any or all modifiers to that 
+attack’s Weapon Skill characteristic and/or that attack’s 
+Hit roll.
+
+WARGEAR ABILITIES
+
+Plasmacyte: Once per battle for each Plasmacyte this 
+unit has, when this unit is selected to fight, you can use 
+this ability. If you do, until the end of the phase, melee 
+weapons equipped by models in this unit have the 
+[DEVASTATING WOUNDS] ability.
+Designer’s Note: Place the relevant number of Plasmacyte tokens next to the 
+unit, removing one each time this unit uses this ability.
+
+KEYWORDS: Infantry, Skorpekh Destroyers
+
+FACTION KEYWORDS:  
+Necrons
+
+SKORPEKH DESTROYERS
+Skorpekh Destroyers favour overwhelming close-quarters violence to 
+slaughter their victims. Though ungainly off the battlefield, in combat 
+their tripod limbs allow them to pass through enemy lines in a madcap 
+pirouette of slashing hyperphase blades, nigh on impossible to evade 
+or parry.
+
+WARGEAR OPTIONS
+
+ ■    For every 3 models in this unit, this unit can have 1 Plasmacyte.
+
+UNIT COMPOSITION
+
+ ■ 3-6 Skorpekh Destroyers
+Every model is equipped with: Skorpekh 
+hyperphase weapons.
+
+KEYWORDS: Infantry, Skorpekh Destroyers
+
+FACTION KEYWORDS:  
+Necrons
+
+TRIARCH STALKER
+
+M
+
+9"
+
+T
+
+8
+
+SV
+
+3+
+
+W
+
+12
+
+LD
+
+7+
+
+OC
+
+4
+
+RANGED WEAPONS
+Heat ray – dispersed [IGNORES COVER, TORRENT]
+Heat ray – focused [MELTA 4]
+Particle shredder [BLAST, DEVASTATING WOUNDS]
+Twin heavy gauss cannon [LETHAL HITS, TWIN-LINKED]
+
+MELEE WEAPONS
+Stalker’s forelimbs 
+
+RANGE
+
+12"
+18"
+18"
+24"
+
+RANGE
+Melee
+
+A
+2D6
+2
+
+D6+6
+
+3
+
+A
+4
+
+BS
+N/A
+3+
+2+
+3+
+
+WS
+3+
+
+S
+5
+9
+7
+8
+
+S
+7
+
+AP
+-1
+-4
+0
+-2
+
+AP
+-1
+
+D
+1
+D6
+1
+2
+
+D
+3
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Reanimation Protocols 
+
+Targeting Relay: In your Shooting phase, each time this 
+model is selected to shoot, after resolving its attacks, select 
+one enemy unit that was hit by one or more of those attacks. 
+Until the end of the phase, that unit cannot have the Benefit 
+of Cover.
+
+INVULNERABLE SAVE
+
+4+
+
+Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Vehicle, Walker, Triarch Stalker
+
+FACTION KEYWORDS:  
+Necrons
+
+TRIARCH STALKER
+Triarch Stalkers are agile combat walkers whose heavy firepower 
+makes them excellent tank-hunters and anti-infantry assault units 
+both. As though their focused blasts of energy and flame were not 
+enough, they can also augment the targeting of nearby Necron forces 
+to further punish the foe.
+
+WARGEAR OPTIONS
+
+ ■     This model’s heat ray can be replaced with one of the following: 
+
+ ◦ 1 particle shredder
+ ◦ 1 twin heavy gauss cannon
+
+UNIT COMPOSITION
+
+ ■ 1 Triarch Stalker
+This model is equipped with: heat ray; Stalker’s forelimbs.
+
+KEYWORDS: Vehicle, Walker, Triarch Stalker
+
+FACTION KEYWORDS:  
+Necrons
+
+C’TAN SHARD OF THE DECEIVER
+
+M
+
+7"
+
+T
+
+11
+
+SV
+
+4+
+
+W
+
+12
+
+LD
+
+6+
+
+OC
+
+6
+
+RANGED WEAPONS
+Cosmic insanity 
+[ANTI-CHARACTER 4+, DEVASTATING WOUNDS, PRECISION]
+
+MELEE WEAPONS
+Golden fists 
+
+RANGE
+
+18"
+
+RANGE
+Melee
+
+A
+
+6
+
+A
+8
+
+BS
+
+2+
+
+WS
+2+
+
+S
+
+6
+
+S
+8
+
+AP
+
+-2
+
+AP
+-3
+
+D
+
+1
+
+D
+3
+
+ABILITIES
+
+CORE: Deadly Demise D6, Stealth
+
+FACTION: Reanimation Protocols
+
+Grand Illusion: If your army includes this model, after both 
+players have deployed their armies, select up to three 
+Necrons units from your army and redeploy them. When 
+doing so, you can set those units up in Strategic Reserves 
+if you wish, regardless of how many units are already in 
+Strategic Reserves. 
+Necrodermis: Each time an attack is allocated to this model, 
+halve the Damage characteristic of that attack.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Monster, Character, Epic Hero, Fly, C’tan Shard of the Deceiver
+
+FACTION KEYWORDS:  
+Necrons
+
+C’TAN SHARD OF THE DECEIVER
+Mephet’ran the Deceiver was ever the most duplicitous of his 
+monstrous brood. Even shattered and bound within a restraining 
+necrodermis, each shard of the Deceiver still radiates a potent blend of 
+deadly truths and bewildering lies against which the fallible senses of 
+mortal beings possess no defence.
+
+WARGEAR OPTIONS
+
+ ■      None
+
+UNIT COMPOSITION
+
+ ■ 1 C’tan Shard of the Deceiver – Epic Hero
+This model is equipped with: cosmic insanity; golden fists.
+
+ENSLAVED STAR GOD
+
+This model cannot be your Warlord.
+
+KEYWORDS:  Monster, Character, Epic Hero, Fly, C’tan Shard of the Deceiver
+
+FACTION KEYWORDS:  
+Necrons
+
+C’TAN SHARD OF THE NIGHTBRINGER
+
+M
+
+7"
+
+T
+
+11
+
+SV
+
+4+
+
+W
+
+12
+
+LD
+
+6+
+
+OC
+
+4
+
+RANGED WEAPONS
+Gaze of death [BLAST]
+
+MELEE WEAPONS
+Scythe of the Nightbringer – strike 
+[DEVASTATING WOUNDS]
+Scythe of the Nightbringer – sweep 
+
+RANGE
+
+18"
+
+RANGE
+
+Melee
+
+Melee
+
+A
+D3
+
+A
+
+6
+
+14
+
+BS
+2+
+
+WS
+
+2+
+
+2+
+
+S
+12
+
+S
+
+14
+
+8
+
+AP
+-2
+
+AP
+
+-4
+
+-2
+
+D
+D6+3
+
+D
+
+D6
+
+2
+
+ABILITIES
+
+CORE: Deadly Demise D6
+
+FACTION: Reanimation Protocols
+
+Drain Life: At the end of the Fight phase, roll one D6 for each 
+enemy unit within 6" of this model: on a 4+, that enemy unit 
+suffers D3 mortal wounds.
+Necrodermis: Each time an attack is allocated to this model, 
+halve the Damage characteristic of that attack.
+
+INVULNERABLE SAVE
+
+4+
+
+Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Monster, Character, Epic Hero, Fly, 
+
+C’tan Shard of the Nightbringer
+
+FACTION KEYWORDS:  
+Necrons
+
+C’TAN SHARD OF THE NIGHTBRINGER
+The very essence of life bleeds away when exposed to a Shard of the C’tan known 
+as the Nightbringer. Aza’gorod he was, the Inevitable Blade; his spectral form, cowl 
+of shadows and flashing scythe are said to have spawned countless avatars of 
+death in the legends of primitive cultures the entire galaxy over.
+
+WARGEAR OPTIONS
+
+ ■      None
+
+UNIT COMPOSITION
+
+ ■ 1 C’tan Shard of the Nightbringer – Epic Hero
+This model is equipped with: gaze of death; Scythe of 
+the Nightbringer.
+
+ENSLAVED STAR GOD
+
+This model cannot be your Warlord.
+
+KEYWORDS:  Monster, Character, Epic Hero, Fly, 
+
+C’tan Shard of the Nightbringer
+
+FACTION KEYWORDS:  
+Necrons
+
+C’TAN SHARD OF THE VOID DRAGON
+
+M
+
+7"
+
+T
+
+11
+
+SV
+
+4+
+
+W
+
+12
+
+LD
+
+6+
+
+OC
+
+4
+
+RANGED WEAPONS
+Spear of the Void Dragon [ANTI-VEHICLE 2+]
+Voltaic storm [BLAST, SUSTAINED HITS 2]
+
+MELEE WEAPONS
+Spear of the Void Dragon – strike [ANTI-VEHICLE 2+]
+Spear of the Void Dragon – sweep 
+Canoptek tail blades [EXTRA ATTACKS] 
+
+RANGE
+
+12"
+18"
+
+RANGE
+Melee
+Melee
+Melee
+
+A
+1
+
+D6+3
+
+A
+5
+10
+6
+
+BS
+2+
+2+
+
+WS
+2+
+2+
+2+
+
+S
+4
+7
+
+S
+12
+8
+6
+
+AP
+-3
+-1
+
+AP
+-3
+-1
+-1
+
+D
+D6+2
+
+2
+
+D
+D6+2
+
+2
+1
+
+ABILITIES
+
+CORE: Deadly Demise D6
+
+FACTION: Reanimation Protocols
+
+Matter Absorption: At the start of your Shooting phase, select 
+one enemy Vehicle unit within 12" of this model and roll one 
+D6: on a 2+, that enemy unit suffers D3 mortal wounds and 
+this model regains up to that many lost wounds.
+Necrodermis: Each time an attack is allocated to this model, 
+halve the Damage characteristic of that attack.
+
+INVULNERABLE SAVE
+
+4+
+
+Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Monster, Character, Fly, Epic Hero, 
+
+C’tan Shard of the Void Dragon
+
+FACTION KEYWORDS:  
+Necrons
+
+C’TAN SHARD OF THE VOID DRAGON
+Shards of the Void Dragon fill the air around them with a searing 
+scream of distorted static. With a gesture they can unmake the war 
+engines of the lesser races, dragging the resultant disintegrating 
+matter into themselves like the gravity well of a black hole and using it 
+to replenish their own, ever flickering forms.
+
+WARGEAR OPTIONS
+
+ ■      None
+
+UNIT COMPOSITION
+
+ ■ 1 C’tan Shard of the Void Dragon – Epic Hero
+This model is equipped with: Spear of the Void Dragon; voltaic 
+storm; Canoptek tail blades.
+
+ENSLAVED STAR GOD
+
+This model cannot be your Warlord.
+
+KEYWORDS:  Monster, Character, Fly, Epic Hero, 
+
+C’tan Shard of the Void Dragon
+
+FACTION KEYWORDS:  
+Necrons
+
+TRANSCENDENT C’TAN
+
+M
+
+7"
+
+T
+
+11
+
+SV
+
+4+
+
+W
+
+12
+
+LD
+
+6+
+
+OC
+
+4
+
+RANGED WEAPONS
+Seismic assault [ASSAULT, SUSTAINED HITS 1]
+
+MELEE WEAPONS
+Crackling tendrils [SUSTAINED HITS 1]
+
+RANGE
+
+12"
+
+RANGE
+Melee
+
+A
+6
+
+A
+8
+
+BS
+2+
+
+WS
+2+
+
+S
+8
+
+S
+9
+
+AP
+-2
+
+AP
+-3
+
+D
+D3
+
+D
+D6
+
+ABILITIES
+
+CORE: Deadly Demise D6, Deep Strike
+
+Transdimensional Displacement: Each time this model is 
+selected to Advance, you can remove it from the battlefield 
+and set it up again anywhere on the battlefield that is more 
+than 9" horizontally away from all enemy models.
+Necrodermis: Each time an attack is allocated to this model, 
+halve the Damage characteristic of that attack.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Monster, Character, Fly, Transcendent C’tan
+
+FACTION KEYWORDS:  
+Necrons
+
+TRANSCENDENT C’TAN
+Shards of the C’tan serve the Necrons as enslaved living weapons. 
+Greatest amongst them are the Transcendent C’tan, whose fury and 
+power are so terrifying that they must be trammelled using the full 
+might of Necron technology. When their cosmic powers are unleashed, 
+reality itself is torn asunder.
+
+WARGEAR OPTIONS
+
+ ■      None
+
+UNIT COMPOSITION
+
+ ■ 1 Transcendent C’tan
+This model is equipped with: seismic assault; 
+crackling tendrils.
+
+ENSLAVED STAR GOD
+
+This model cannot be your Warlord.
+
+KEYWORDS:  Monster, Character, Fly, Transcendent C’tan
+
+FACTION KEYWORDS:  
+Necrons
+
+CANOPTEK SPYDERS
+
+M
+
+5"
+
+T
+
+7
+
+SV
+
+3+
+
+W
+
+6
+
+LD
+
+8+
+
+OC
+
+2
+
+RANGED WEAPONS
+Particle beamer [BLAST, DEVASTATING WOUNDS]
+
+MELEE WEAPONS
+Automaton claws 
+
+RANGE
+
+18"
+
+RANGE
+Melee
+
+A
+D6
+
+A
+5
+
+BS
+3+
+
+WS
+4+
+
+S
+6
+
+S
+8
+
+AP
+0
+
+AP
+-2
+
+D
+1
+
+D
+2
+
+ABILITIES
+
+CORE: Deadly Demise 1
+
+FACTION: Reanimation Protocols
+
+Canoptek Swarm: In your Command phase, select one 
+friendly Canoptek Scarab Swarm unit within 6" of this unit. 
+One destroyed model is returned to that Canoptek Scarab 
+Swarm unit for each Spyder model in this unit.
+
+WARGEAR ABILITIES
+
+Fabricator Claw Array (Aura): While a friendly Necrons 
+Vehicle unit is within 6" of the bearer, that unit has the 
+Feel No Pain 6+ ability.
+
+Gloom Prism (Aura): While a friendly Necrons unit is within 
+6" of the bearer, models in that unit have the Feel No Pain 4+ 
+ability against Psychic Attacks.
+
+KEYWORDS: Vehicle, Fly, Canoptek, Spyders
+
+FACTION KEYWORDS:  
+Necrons
+
+CANOPTEK SPYDERS
+Canoptek Spyders are formidable control-and-repair constructs, 
+augmented with battlefield support systems. Whether blasting 
+enemies with particle beamers, warding off empyric energies with 
+gloom prisms or fabricating and unleashing fresh waves of Canoptek 
+Scarabs, they are a force to be reckoned with.
+
+WARGEAR OPTIONS
+
+ ■   Any number of models can each be equipped with 2 particle beamers.
+ ■  Any number of models can each be equipped with 1 fabricator claw array. 
+ ■  Any number of models can each be equipped with 1 gloom prism. 
+
+UNIT COMPOSITION
+
+ ■ 1-2 Canoptek Spyders
+Every model is equipped with: automaton claws.
+
+KEYWORDS: Vehicle, Fly, Canoptek, Spyders
+
+FACTION KEYWORDS:  
+Necrons
+
+CANOPTEK SCARAB SWARMS
+
+M
+
+9"
+
+T
+
+2
+
+SV
+
+6+
+
+W
+
+4
+
+LD
+
+8+
+
+OC
+
+0
+
+MELEE WEAPONS
+Feeder mandibles [LETHAL HITS]
+
+RANGE
+Melee
+
+A
+6
+
+WS
+5+
+
+S
+2
+
+AP
+0
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise 1
+
+FACTION: Reanimation Protocols
+
+Self-destruction: At the start of the Fight phase, if this unit is 
+within Engagement Range of one or more enemy units, you 
+can select one model in this unit to destroy. If you do, do not 
+roll for that model’s Deadly Demise ability; instead, select 
+one enemy unit within Engagement Range of that model and 
+roll one D6, adding 1 to the result if that unit is a Vehicle. On 
+a 2-5, that unit suffers D3 mortal wounds; on a 6+, that unit 
+suffers D3+3 mortal wounds.
+Swarm: While an enemy unit is within Engagement Range of 
+this unit, subtract 1 from the Objective Control characteristic 
+of models in that enemy unit (to a minimum of 1).
+
+KEYWORDS: Swarm, Fly, Canoptek, Scarab Swarms
+
+FACTION KEYWORDS:  
+Necrons
+
+CANOPTEK SCARAB SWARMS
+Canoptek Scarabs attack in skimming swarms. They descend upon 
+the enemy with high-pitched chitters before breaking down infantry 
+and tanks alike into raw energy with their feeder mandibles. Often 
+attacking as the first wave of a Necron assault, these mechanical 
+insectoids spread fear and destruction.
+
+WARGEAR OPTIONS
+
+ ■      None
+
+UNIT COMPOSITION
+
+ ■ 3-6 Canoptek Scarab Swarms
+Every model is equipped with: feeder mandibles.
+
+KEYWORDS: Swarm, Fly, Canoptek, Scarab Swarms
+
+FACTION KEYWORDS:  
+Necrons
+
+OPHYDIAN DESTROYERS
+
+M
+
+9"
+
+T
+
+5
+
+SV
+
+4+
+
+W
+
+3
+
+LD
+
+7+
+
+OC
+
+2
+
+MELEE WEAPONS
+Ophydian hyperphase weapons
+
+RANGE
+Melee
+
+A
+5
+
+WS
+3+
+
+S
+4
+
+AP
+-2
+
+D
+2
+
+ABILITIES
+
+CORE: Deep Strike
+
+FACTION: Reanimation Protocols 
+
+Tunnelling Horrors: At the end of your opponent’s turn, if this 
+unit is not within Engagement Range of one or more enemy 
+units, you can remove this unit from the battlefield. In the 
+Reinforcements step of your next Movement phase, set it up 
+anywhere on the battlefield that is more than 9" horizontally 
+away from all enemy models.
+
+WARGEAR ABILITIES
+
+Plasmacyte: Once per battle for each Plasmacyte this 
+unit has, when this unit is selected to fight, you can use 
+this ability. If you do, until the end of the phase, melee 
+weapons equipped by models in this unit have the 
+[DEVASTATING WOUNDS] ability.
+Designer’s Note: Place the relevant number of Plasmacyte tokens next to the 
+unit, removing one each time this unit uses this ability.
+
+KEYWORDS: Infantry, Ophydian Destroyers
+
+FACTION KEYWORDS:  
+Necrons
+
+OPHYDIAN DESTROYERS
+Repugnant to other Necrons, Ophydian Destroyers echo 
+elements of servile Canoptek Wraiths and reviled Flayed Ones 
+in their murder-optimised bodies. Tunnelling through solid ferrocrete 
+with frenzied violence and flickers of dimensional displacement, they 
+burst into view to ambush, hack and rend their prey apart.
+
+WARGEAR OPTIONS
+
+ ■   For every 3 models in this unit, this unit can have 1 Plasmacyte.
+
+UNIT COMPOSITION
+
+ ■ 3-6 Ophydian Destroyers
+Every model is equipped with:  
+Ophydian hyperphase weapons.
+
+KEYWORDS: Infantry, Ophydian Destroyers
+
+FACTION KEYWORDS:  
+Necrons
+
+TOMB BLADES
+
+M
+
+12"
+
+T
+
+5
+
+SV
+
+4+
+
+W
+
+2
+
+LD
+
+7+
+
+OC
+
+2
+
+RANGED WEAPONS
+Particle beamer [BLAST, DEVASTATING WOUNDS]
+Twin gauss blaster [LETHAL HITS, TWIN-LINKED]
+Twin tesla carbine  
+[ASSAULT, SUSTAINED HITS 2, TWIN-LINKED]
+
+MELEE WEAPONS
+Close combat weapon 
+
+RANGE
+
+18"
+24"
+
+18"
+
+RANGE
+Melee
+
+A
+D6
+2
+
+2
+
+A
+1
+
+BS
+2+
+3+
+
+3+
+
+WS
+4+
+
+S
+6
+5
+
+5
+
+S
+4
+
+AP
+0
+-1
+
+0
+
+AP
+0
+
+D
+1
+1
+
+1
+
+D
+1
+
+ABILITIES
+
+CORE: Scouts 9"
+
+FACTION: Reanimation Protocols 
+
+Evasion Engrams: Each time an attack targets this unit, 
+subtract 1 from the Hit roll.
+
+WARGEAR ABILITIES
+
+Nebuloscope: Ranged weapons equipped by the bearer have 
+the [IGNORES COVER] ability.
+
+Shadowloom: The bearer has a 5+ invulnerable save.
+
+Shieldvanes: The bearer has a 3+ Save characteristic.
+
+KEYWORDS: Mounted, Fly, Tomb Blades
+
+FACTION KEYWORDS:  
+Necrons
+
+TOMB BLADES
+Tomb Blades are fast assault skimmers whose spiralling attack 
+patterns are based on fractal hyperlogic. They are well armed, often 
+afforded extra protection by the addition of darkness-generating 
+shadowlooms or armoured shieldvanes. Others employ nebuloscopes 
+to target the foe through even solid fortifications.
+
+WARGEAR OPTIONS
+
+ ■    Any number of models can each have their twin gauss blaster replaced with one of the following: 
+
+ ◦ 1 particle beamer
+ ◦ 1 twin tesla carbine
+
+UNIT COMPOSITION
+
+ ■ 3-6 Tomb Blades
+Every model is equipped with: twin gauss blaster; close 
+combat weapon.
+
+ ■  Any number of models can each be equipped with 1 shieldvanes. 
+ ■  Any number of models can each be equipped with one of the following: 
+
+ ◦ 1 nebuloscope
+ ◦ 1 shadowloom
+
+KEYWORDS: Mounted, Fly, Tomb Blades
+
+FACTION KEYWORDS:  
+Necrons
+
+TRIARCH PRAETORIANS
+
+M
+
+9"
+
+T
+
+5
+
+SV
+
+3+
+
+W
+
+2
+
+LD
+
+7+
+
+OC
+
+1
+
+RANGED WEAPONS
+Particle caster [DEVASTATING WOUNDS, PISTOL]
+Rod of covenant 
+
+MELEE WEAPONS
+Rod of covenant 
+Voidblade 
+
+RANGE
+
+12"
+12"
+
+RANGE
+Melee
+Melee
+
+A
+3
+1
+
+A
+3
+4
+
+BS
+2+
+3+
+
+WS
+3+
+3+
+
+S
+5
+5
+
+S
+5
+5
+
+AP
+0
+-2
+
+AP
+-2
+-2
+
+D
+1
+2
+
+D
+2
+1
+
+ABILITIES
+
+CORE: Deep Strike
+
+FACTION: Reanimation Protocols 
+
+Relentless Combatants: You can re-roll Charge rolls made for 
+this unit, and this unit is eligible to declare a charge in a turn 
+in which it Fell Back.
+
+KEYWORDS: Infantry, Fly, Triarch Praetorians
+
+FACTION KEYWORDS:  
+Necrons
+
+TRIARCH PRAETORIANS
+Triarch Praetorians fight tirelessly to uphold the ancient dynastic 
+codes of their race. Whether blasting the foe with antimatter particles, 
+impaling them on their flickering voidblades or immolating them with 
+their rods of covenant, the Praetorians’ gravity displacement packs 
+and combat prowess make them truly deadly.
+
+WARGEAR OPTIONS
+
+ ■     All models in this unit can each have their rod of covenant replaced with 1 particle caster and 
+
+1 voidblade.
+
+UNIT COMPOSITION
+
+ ■ 5-10 Triarch Praetorians
+Every model is equipped with: rod of covenant.
+
+KEYWORDS: Infantry, Fly, Triarch Praetorians
+
+FACTION KEYWORDS:  
+Necrons
+
+CANOPTEK WRAITHS
+
+M
+
+9"
+
+T
+
+6
+
+SV
+
+3+
+
+W
+
+3
+
+LD
+
+8+
+
+OC
+
+2
+
+RANGED WEAPONS
+Particle caster [DEVASTATING WOUNDS, PISTOL]
+Transdimensional beamer 
+
+MELEE WEAPONS
+Vicious claws 
+Whip coils 
+
+RANGE
+
+12"
+12"
+
+RANGE
+Melee
+Melee
+
+A
+3
+1
+
+A
+4
+8
+
+BS
+2+
+4+
+
+WS
+4+
+4+
+
+S
+5
+4
+
+S
+6
+4
+
+AP
+0
+-2
+
+AP
+-1
+0
+
+D
+1
+3
+
+D
+2
+1
+
+ABILITIES
+
+FACTION: Reanimation Protocols
+
+Wraith Form: Each time this unit ends a Normal move, you can 
+select one enemy unit it moved over during that move and roll 
+one D6 for each model in this unit: for each 4+, that enemy 
+unit suffers 1 mortal wound.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS: Beasts, Fly, Canoptek, Wraiths
+
+FACTION KEYWORDS:  
+Necrons
+
+CANOPTEK WRAITHS
+These constructs serve as the eyes and ears of their masters while 
+tomb worlds slumber, and as spectral assassins once their armies 
+march out to war. Their dimensional destabilisation matrices allow 
+them to phase in and out of reality, passing through solid objects and 
+sliding their talons through armour, flesh and bone.
+
+WARGEAR OPTIONS
+
+ ■   Any number of models can each be equipped with one of the following: 
+
+ ◦ 1 particle caster
+ ◦ 1 transdimensional beamer
+
+ ■  Any number of models can each have their vicious claws replaced with whip coils. 
+
+UNIT COMPOSITION
+
+ ■ 3-6 Canoptek Wraiths
+Every model is equipped with: vicious claws.
+
+KEYWORDS: Beasts, Fly, Canoptek, Wraiths
+
+FACTION KEYWORDS:  
+Necrons
+
+ANNIHILATION BARGE
+
+M
+
+9"
+
+T
+
+8
+
+SV
+
+3+
+
+W
+
+9
+
+LD
+
+7+
+
+OC
+
+3
+
+RANGED WEAPONS
+Gauss cannon [LETHAL HITS]
+Tesla cannon [SUSTAINED HITS 2]
+Twin tesla destructor [SUSTAINED HITS 2, TWIN-LINKED]
+
+MELEE WEAPONS
+Armoured bulk 
+
+RANGE
+
+24"
+24"
+36"
+
+RANGE
+Melee
+
+A
+3
+4
+6
+
+A
+3
+
+BS
+3+
+3+
+3+
+
+WS
+4+
+
+S
+5
+6
+8
+
+S
+6
+
+AP
+-2
+0
+0
+
+AP
+0
+
+D
+2
+1
+2
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise 1
+
+FACTION: Reanimation Protocols 
+
+Malevolent Arcing: In your Shooting phase, each time you 
+select a target for this model’s twin tesla destructor, roll one 
+D6 for the target unit and one D6 for every other enemy unit 
+within 3" of the target unit. On a 5+, the unit being rolled for 
+is struck by arcing energies; after resolving all of this model’s 
+attacks against the target unit, each unit struck by arcing 
+energies suffers D3 mortal wounds.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS: Vehicle, Fly, Annihilation Barge
+
+FACTION KEYWORDS:  
+Necrons
+
+ANNIHILATION BARGE
+Slow-moving but deadly, Annihilation Barges serve as anti-infantry 
+fire support platforms. They are often deployed to watch over 
+important strategic locations, gliding serenely into position upon a 
+cushion of repulsion energies before unleashing furious storms of 
+eldritch lightning from their massive cannons.
+
+WARGEAR OPTIONS
+
+ ■       This model’s gauss cannon can be replaced with 1 tesla cannon.
+
+UNIT COMPOSITION
+
+ ■ 1 Annihilation Barge
+This model is equipped with: gauss cannon; twin tesla 
+destructor; armoured bulk.
+
+KEYWORDS: Vehicle, Fly, Annihilation Barge
+
+FACTION KEYWORDS:  
+Necrons
+
+DOOMSDAY ARK
+
+M
+
+9"
+
+T
+
+9
+
+SV
+
+3+
+
+W
+
+14
+
+LD
+
+6+
+
+OC
+
+5
+
+RANGED WEAPONS
+Doomsday cannon [BLAST, HEAVY]
+Gauss flayer array [LETHAL HITS, RAPID FIRE 5]
+
+MELEE WEAPONS
+Armoured bulk 
+
+RANGE
+
+72"
+24"
+
+RANGE
+Melee
+
+A
+
+D6+1
+
+5
+
+A
+3
+
+BS
+3+
+3+
+
+WS
+4+
+
+S
+15
+4
+
+S
+6
+
+AP
+-4
+0
+
+AP
+0
+
+D
+4
+1
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Reanimation Protocols 
+
+Overwhelming Obliteration: In your Movement phase, if 
+this model Remains Stationary, until the end of the turn, its 
+doomsday cannon has the [DEVASTATING WOUNDS] ability.
+
+DAMAGED: 1-5 WOUNDS REMAINING
+
+While this model has 1-5 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS: Vehicle, Fly, Doomsday Ark
+
+FACTION KEYWORDS:  
+Necrons
+
+DOOMSDAY ARK
+The Doomsday Ark is a direct-fire plasma artillery piece so powerful 
+that it can threaten even the super-heavy war engines of the lesser 
+races. This vehicle is solely dedicated to overwhelming long-ranged 
+firepower, even diverting energy from its motive functions in order to 
+unleash absolute obliteration upon the foe.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Doomsday Ark
+This model is equipped with: doomsday cannon; 2 gauss 
+flayer arrays; armoured bulk.
+
+KEYWORDS: Vehicle, Fly, Doomsday Ark
+
+FACTION KEYWORDS:  
+Necrons
+
+LOKHUST DESTROYERS
+
+M
+M
+
+7"
+
+T
+T
+
+6
+
+SV
+SV
+
+3+
+
+W
+W
+
+3
+
+LD
+LD
+
+7+
+
+OC
+OC
+
+2
+
+RANGED WEAPONS
+Gauss cannon [LETHAL HITS]
+
+MELEE WEAPONS
+Close combat weapon 
+
+RANGE
+
+24"
+
+RANGE
+Melee
+
+A
+3
+
+A
+2
+
+BS
+3+
+
+WS
+3+
+
+S
+5
+
+S
+4
+
+AP
+-2
+
+AP
+0
+
+D
+2
+
+D
+1
+
+ABILITIES
+
+FACTION: Reanimation Protocols
+
+Hard-wired for Destruction: Each time a model in this unit 
+makes an attack that targets the closest eligible enemy unit, 
+re-roll a Hit roll of 1.
+
+KEYWORDS: Mounted, Fly, Lokhust Destroyers
+
+FACTION KEYWORDS:  
+Necrons
+
+LOKHUST DESTROYERS
+Lokhust Destroyers rely on speed and firepower to annihilate any life 
+they encounter. Their repulsor-sled bodies and augmented kinetic 
+compensators ensure they can fire on the move without reduction in 
+efficiency, and their speed allows them to run even the swiftest prey 
+to ground.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1-6 Lokhust Destroyers
+Every model is equipped with: gauss cannon; close 
+combat weapon.
+
+KEYWORDS: Mounted, Fly, Lokhust Destroyers
+
+FACTION KEYWORDS:  
+Necrons
+
+LOKHUST HEAVY DESTROYERS
+
+M
+
+7"
+
+T
+
+6
+
+SV
+
+3+
+
+W
+
+4
+
+LD
+
+7+
+
+OC
+
+2
+
+RANGED WEAPONS
+Enmitic exterminator 
+[HEAVY, RAPID FIRE 6, SUSTAINED HITS 1]
+Gauss destructor [HEAVY, LETHAL HITS]
+
+MELEE WEAPONS
+Close combat weapon 
+
+RANGE
+
+36"
+
+48"
+
+RANGE
+Melee
+
+A
+
+6
+
+1
+
+A
+2
+
+BS
+
+3+
+
+3+
+
+WS
+3+
+
+S
+
+6
+
+14
+
+S
+4
+
+AP
+
+-1
+
+-4
+
+AP
+0
+
+D
+
+1
+
+6
+
+D
+1
+
+ABILITIES
+
+FACTION: Reanimation Protocols
+
+Optimised for Slaughter: Each time a model in this unit 
+makes an attack with an enmitic exterminator against an 
+Infantry unit, re-roll a Wound roll of 1. Each time a model in 
+this unit makes an attack with a gauss destructor against a 
+Monster or Vehicle unit, re-roll a Wound roll of 1. 
+
+KEYWORDS: Mounted, Fly, Lokhust Heavy Destroyers
+
+FACTION KEYWORDS:  
+Necrons
+
+LOKHUST HEAVY DESTROYERS
+The Destroyer Cults think nothing of sacrificing their physical forms to 
+optimise themselves for slaughter. Lokhust Heavy Destroyers skim to 
+battle upon repulsor-sled bodies, their upper limbs bound into gauss 
+destructors or enmitic exterminators with which they decimate their 
+foes with devastating blasts from afar.
+
+WARGEAR OPTIONS
+
+ ■   Any number of models can each have their gauss destructor replaced with 1 enmitic exterminator.
+
+UNIT COMPOSITION
+
+ ■ 1-3 Lokhust Heavy Destroyers
+Every model is equipped with: gauss destructor; close 
+combat weapon.
+
+KEYWORDS: Mounted, Fly, Lokhust Heavy Destroyers
+
+FACTION KEYWORDS:  
+Necrons
+
+CANOPTEK DOOMSTALKER
+
+M
+
+7"
+
+T
+
+8
+
+SV
+
+3+
+
+W
+
+12
+
+LD
+
+8+
+
+OC
+
+4
+
+RANGED WEAPONS
+Doomsday blaster [BLAST, HEAVY]
+Twin gauss flayer 
+[LETHAL HITS, RAPID FIRE 1, TWIN-LINKED]
+
+MELEE WEAPONS
+Doomstalker limbs 
+
+RANGE
+
+48"
+
+24"
+
+RANGE
+Melee
+
+A
+
+D6+1
+
+1
+
+A
+3
+
+BS
+4+
+
+4+
+
+WS
+4+
+
+S
+14
+
+4
+
+S
+6
+
+AP
+-3
+
+0
+
+AP
+0
+
+D
+3
+
+1
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Reanimation Protocols 
+
+Sentinel Construct: Each time you target this unit with the 
+Fire Overwatch Stratagem, while resolving that Stratagem, hits 
+are scored on unmodified Hit rolls of 5+.
+
+DAMAGED: 1-4 WOUNDS REMAINING
+
+While this model has 1-4 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS: Vehicle, Walker, Canoptek, Doomstalker
+
+FACTION KEYWORDS:  
+Necrons
+
+CANOPTEK DOOMSTALKER
+Canoptek Doomstalkers stride with eerie grace. Whether prowling 
+their masters’ armouries as tireless sentinels or providing mobile 
+fire support to the Necron legions, the Doomstalkers annihilate all 
+those who dare stand against them with searing salvoes from their 
+doomsday blasters.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Canoptek Doomstalker
+This model is equipped with: doomsday blaster; twin gauss 
+flayer; Doomstalker limbs.
+
+KEYWORDS: Vehicle, Walker, Canoptek, Doomstalker
+
+FACTION KEYWORDS:  
+Necrons
+
+GHOST ARK
+
+M
+
+10"
+
+T
+
+9
+
+SV
+
+3+
+
+W
+
+14
+
+LD
+
+7+
+
+OC
+
+3
+
+RANGED WEAPONS
+Gauss flayer array [LETHAL HITS, RAPID FIRE 5]
+
+MELEE WEAPONS
+Armoured bulk 
+
+RANGE
+
+24"
+
+RANGE
+Melee
+
+A
+5
+
+A
+3
+
+BS
+3+
+
+WS
+4+
+
+S
+4
+
+S
+6
+
+AP
+0
+
+AP
+0
+
+D
+1
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Reanimation Protocols 
+
+Repair Barge: Once per phase, just after an enemy unit 
+finishes making its attacks, if one or more friendly Necron 
+Warriors units within 3" of this model lost one or more 
+wounds as a result of those attacks, this model can use this 
+ability. If it does, select one of those Necron Warriors units; 
+that unit’s Reanimation Protocols activate. The same Necron 
+Warriors unit cannot be selected for this ability more than 
+once per phase.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS: Vehicle, Fly, Transport, Dedicated Transport, Ghost Ark
+
+FACTION KEYWORDS:  
+Necrons
+
+GHOST ARK
+Ghost Arks are repair barges that glide amidst the ranks of the Necron 
+legions, gathering up and repairing those androids too wrecked to 
+reconstruct themselves and keep fighting. These vehicles are often 
+pressed into service as armoured transports, advancing to disgorge 
+fresh waves of fully repaired Necrons directly into the fight.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Ghost Ark
+This model is equipped with: 2 gauss flayer arrays; 
+armoured bulk.
+
+TRANSPORT
+
+This model has a transport capacity of 10 Necron Warrior 
+models and 1 Necrons Infantry Character model.
+
+KEYWORDS: Vehicle, Fly, Transport, Dedicated Transport, Ghost Ark
+
+FACTION KEYWORDS:  
+Necrons
+
+DOOM SCYTHE
+
+M
+
+20+"
+
+T
+
+9
+
+SV
+
+3+
+
+W
+
+12
+
+LD
+
+7+
+
+OC
+
+0
+
+RANGED WEAPONS
+Heavy death ray [SUSTAINED HITS D3]
+Twin tesla destructor [SUSTAINED HITS 2, TWIN-LINKED]
+
+MELEE WEAPONS
+Armoured bulk 
+
+RANGE
+
+36"
+36"
+
+RANGE
+Melee
+
+A
+3
+6
+
+A
+3
+
+BS
+3+
+3+
+
+WS
+4+
+
+S
+16
+7
+
+S
+6
+
+AP
+-4
+0
+
+AP
+0
+
+D
+D6+1
+
+2
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Reanimation Protocols 
+
+Atavistic Instigation: Each time this model targets an enemy 
+Infantry unit with its heavy death ray, your opponent must 
+declare if that unit will stand firm or duck for cover:
+ ■  If it stands firm, when resolving attacks against that unit 
+with that weapon this phase, a successful unmodified Hit 
+roll of 5+ scores a Critical Hit. 
+
+ ■  If it ducks for cover, until the start of your next Shooting 
+phase, each time a model in that unit makes an attack, 
+subtract 1 from the Hit roll.
+
+DAMAGED: 1-4 WOUNDS REMAINING
+
+While this model has 1-4 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+KEYWORDS: Vehicle, Aircraft, Fly, Doom Scythe
+
+FACTION KEYWORDS:  
+Necrons
+
+DOOM SCYTHE
+The Doom Scythe is a terror weapon whose wailing engines evoke 
+atavistic horror in the luckless foe. Their primary armament, the heavy 
+death ray, is more frightening still, for wherever its searing energy 
+beam carves through the enemy’s ranks, it leaves nothing but blasted 
+wreckage in its wake.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Doom Scythe
+This model is equipped with: heavy death ray; twin tesla 
+destructor; armoured bulk.
+
+KEYWORDS: Vehicle, Aircraft, Fly, Doom Scythe
+
+FACTION KEYWORDS:  
+Necrons
+
+NIGHT SCYTHE
+
+M
+
+20+"
+
+T
+
+9
+
+SV
+
+3+
+
+W
+
+12
+
+LD
+
+7+
+
+OC
+
+0
+
+RANGED WEAPONS
+Twin tesla destructor [SUSTAINED HITS 2, TWIN-LINKED]
+
+MELEE WEAPONS
+Armoured bulk 
+
+RANGE
+
+36"
+
+RANGE
+Melee
+
+A
+6
+
+A
+3
+
+BS
+3+
+
+WS
+4+
+
+S
+7
+
+S
+6
+
+AP
+0
+
+AP
+0
+
+D
+2
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Reanimation Protocols
+
+Translocation Beams: At the end of the Fight phase, if there 
+are no models currently embarked within this Transport, you 
+can select one friendly Necrons Infantry unit wholly within 
+6" of this Transport. Unless that unit is within Engagement 
+Range of one or more enemy units, it can embark within 
+this Transport.
+
+DAMAGED: 1-4 WOUNDS REMAINING
+
+While this model has 1-4 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+KEYWORDS: Vehicle, Aircraft, Fly, Transport, Night Scythe
+
+FACTION KEYWORDS:  
+Necrons
+
+NIGHT SCYTHE
+Many Necron invasions begin with Night Scythes flitting through a 
+world’s void defences. Potent aerial fighters in their own right, Night 
+Scythes also employ invasion beams to generate captive wormholes 
+through which invading infantry can march direct from distant Necron 
+tomb worlds to begin their conquests anew.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Night Scythe
+This model is equipped with: twin tesla destructor; 
+armoured bulk.
+
+TRANSPORT
+
+This model has a transport capacity of 1 Necrons 
+Infantry unit.
+
+KEYWORDS: Vehicle, Aircraft, Fly, Transport, Night Scythe
+
+FACTION KEYWORDS:  
+Necrons
+
+OBELISK
+
+M
+
+7"
+
+T
+
+14
+
+SV
+
+2+
+
+W
+
+22
+
+LD
+
+7+
+
+OC
+
+8
+
+RANGED WEAPONS
+Tesla sphere [ANTI-FLY 4+, SUSTAINED HITS 2]
+
+MELEE WEAPONS
+Armoured bulk 
+
+RANGE
+
+24"
+
+RANGE
+Melee
+
+A
+6
+
+A
+6
+
+BS
+3+
+
+WS
+4+
+
+S
+7
+
+S
+8
+
+AP
+0
+
+AP
+0
+
+D
+1
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D6, Deep Strike
+
+FACTION: Reanimation Protocols
+
+Gravitic Pulse: At the start of your opponent’s Movement 
+phase, you can select one enemy unit within 18" of and 
+visible to this model. Until the end of the phase, subtract 
+2" from the Move characteristic of models in that unit and 
+subtract 2 from Advance and Charge rolls made for that unit. 
+In addition, if that unit can Fly, until the start of your next 
+Movement phase, roll one D6 each time that unit ends any 
+type of move: on a 4+, that unit suffers D3 mortal wounds.
+
+DAMAGED: 1-8 WOUNDS REMAINING
+
+While this model has 1-8 wounds remaining, subtract 4 from 
+its Objective Control characteristic and each time this model 
+makes an attack, subtract 1 from the Hit roll.
+
+KEYWORDS: Vehicle, Titanic, Fly, Towering, Obelisk
+
+FACTION KEYWORDS:  
+Necrons
+
+OBELISK
+The Necron Obelisk is a slab-sided war engine designed to ensure air 
+superiority. When enemy aircraft draw near, the Obelisk unleashes 
+a powerful gravitic pulse that races out through the skies over the 
+battlefield and swats the foe’s fighters and airborne troops to the 
+ground like luckless insects.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Obelisk
+This model is equipped with: 4 tesla spheres; armoured bulk.
+
+KEYWORDS: Vehicle, Titanic, Fly, Towering, Obelisk
+
+FACTION KEYWORDS:  
+Necrons
+
+TESSERACT VAULT
+
+M
+
+7"
+
+T
+
+12
+
+SV
+
+2+
+
+W
+
+24
+
+LD
+
+7+
+
+OC
+
+8
+
+RANGED WEAPONS
+Tesla spheres [SUSTAINED HITS 2]
+
+C’TAN POWERS
+Antimatter Meteor 
+[BLAST, DEVASTATING WOUNDS, INDIRECT FIRE]
+Cosmic Fire 
+[IGNORES COVER, DEVASTATING WOUNDS, TORRENT]
+Time’s Arrow 
+[ANTI-CHARACTER 4+, DEVASTATING WOUNDS, PRECISION]
+
+MELEE WEAPONS
+Armoured bulk 
+
+RANGE
+
+24"
+
+RANGE
+
+24"
+
+18"
+
+24"
+
+RANGE
+Melee
+
+A
+6
+
+A
+
+D6+3
+
+BS
+3+
+
+BS
+
+3+
+
+3D6
+
+N/A
+
+1
+
+A
+6
+
+2+
+
+WS
+4+
+
+S
+7
+
+S
+
+10
+
+6
+
+3
+
+S
+8
+
+AP
+0
+
+AP
+
+-3
+
+-2
+
+-2
+
+AP
+0
+
+D
+1
+
+D
+
+3
+
+1
+
+6
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D6+3
+
+FACTION: Reanimation Protocols 
+
+Powers of the C’tan: In your Shooting phase, when this model 
+is selected to shoot, first select one of the C’tan Powers 
+weapons (see left). Until the end of the phase, this model is 
+equipped with that weapon in addition to its other weapons 
+(this model cannot make attacks with any other C’tan Powers 
+weapons you did not select in this way this phase).
+
+DAMAGED: 1-8 WOUNDS REMAINING
+
+While this model has 1-8 wounds remaining, subtract 4 from 
+its Objective Control characteristic and each time this model 
+makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS: Vehicle, Titanic, Fly, Towering, Tesseract Vault
+
+FACTION KEYWORDS:  
+Necrons
+
+TESSERACT VAULT
+These super-heavy war engines channel the furious might of 
+imprisoned Transcendent C’tan Shards, unleashing one unnatural 
+phenomenon after another upon the foe. Yet should they ever be 
+destroyed and the C’tan inside freed, the god-shard’s wrath will be 
+great indeed, and all should fear its rampage.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Tesseract Vault
+This model is equipped with: 4 tesla spheres; armoured bulk.
+
+KEYWORDS: Vehicle, Titanic, Fly, Towering, Tesseract Vault
+
+FACTION KEYWORDS:  
+Necrons
+
+MONOLITH
+
+M
+
+7"
+
+T
+
+14
+
+SV
+
+2+
+
+W
+
+20
+
+LD
+
+7+
+
+OC
+
+8
+
+RANGED WEAPONS
+Death ray [SUSTAINED HITS D3]
+Gauss flux arc [LETHAL HITS, RAPID FIRE 3]
+Particle whip [BLAST, DEVASTATING WOUNDS]
+
+MELEE WEAPONS
+Portal of exile 
+
+RANGE
+
+24"
+24"
+24"
+
+RANGE
+Melee
+
+A
+1
+3
+3D6
+
+A
+6
+
+BS
+3+
+3+
+3+
+
+WS
+2+
+
+S
+12
+6
+8
+
+S
+8
+
+AP
+-4
+-1
+-1
+
+AP
+-2
+
+D
+D6+1
+
+1
+2
+
+D
+3
+
+ABILITIES
+
+CORE: Deadly Demise D6, Deep Strike
+
+FACTION: Reanimation Protocols
+
+Eternity Gate: In the Reinforcements step of your Movement 
+phase, you can select one Necrons Infantry unit from your 
+army that is either in Reserves or on the battlefield (if you 
+select the latter, remove that unit from the battlefield and 
+place it into Reserves). That unit is then set up anywhere on 
+the battlefield that is wholly within 6" of this model and not 
+within Engagement Range of any enemy models. That unit 
+cannot declare a charge this turn.
+
+DAMAGED: 1-7 WOUNDS REMAINING
+
+While this model has 1-7 wounds remaining, subtract 4 from 
+its Objective Control characteristic and each time this model 
+makes an attack, subtract 1 from the Hit roll.
+
+KEYWORDS: Vehicle, Titanic, Fly, Towering, Monolith
+
+FACTION KEYWORDS:  
+Necrons
+
+MONOLITH
+A Monolith is capable of skimming across the battlefield, or even 
+descending from space. It can slaughter foes with its array of potent 
+weapons, heal damage with the living metal of its hull and even 
+teleport Necron reinforcements into battle through its shimmering 
+eternity gate.
+
+WARGEAR OPTIONS
+
+ ■   This model’s 4 gauss flux arcs can be replaced with 4 death rays.
+
+UNIT COMPOSITION
+
+ ■ 1 Monolith
+This model is equipped with: 4 gauss flux arcs; particle whip; 
+portal of exile.
+
+KEYWORDS: Vehicle, Titanic, Fly, Towering, Monolith
+
+FACTION KEYWORDS:  
+Necrons
+
+THE SILENT KING
+
+M
+
+7"
+
+7"
+
+T
+
+10
+
+10
+
+SV
+
+2+
+
+2+
+
+W
+
+16
+
+5
+
+LD
+
+5+
+
+5+
+
+OC
+
+6
+
+SZAREKH
+
+1 TRIARCHAL MENHIR
+
+RANGED WEAPONS
+Annihilator beam 
+Sceptre of Eternal Glory [DEVASTATING WOUNDS]
+Staff of Stars [INDIRECT FIRE]
+
+MELEE WEAPONS
+Close combat weapon
+Scythe of Dust [LETHAL HITS]
+
+TRIARCH ABILITIES
+
+RANGE
+
+24"
+24"
+24"
+
+RANGE
+Melee
+Melee
+
+A
+1
+2
+12
+
+A
+1
+12
+
+BS
+2+
+2+
+2+
+
+WS
+4+
+2+
+
+S
+14
+10
+6
+
+S
+4
+8
+
+AP
+-4
+-3
+-1
+
+AP
+0
+-3
+
+D
+6
+3
+1
+
+D
+1
+2
+
+Phaeron of the Stars (Aura): While a friendly Necrons unit is within 6" of this unit’s Szarekh model, 
+each time a model in that unit makes a ranged attack, re-roll a Hit roll of 1 and re-roll a Wound roll of 1.
+
+Phaeron of the Blades (Aura): While a friendly Necrons unit is within 6" of this unit’s Szarekh model, 
+you can re-roll Charge rolls made for that unit.
+
+Bringer of Unity (Aura): While a friendly Necrons unit is within 6" of this unit’s Szarekh model, you 
+can ignore any or all modifiers to the characteristics of models in that unit and to any roll or test 
+made for models in that unit (excluding modifiers to saving throws).
+
+ABILITIES
+
+CORE: Deadly Demise D6+3
+
+FACTION: Reanimation Protocols
+
+Voice of the Triarch: At the start of the battle round, select one 
+Triarch ability (see left). Until the start of the next battle round, 
+this unit has that ability.
+The Silent King: Once per turn, at the end of your Command 
+phase, you can select one friendly Battle-shocked Necrons 
+unit within 12" of this unit’s Szarekh model. That unit is no 
+longer Battle-shocked.
+
+DAMAGED: 1-6 WOUNDS REMAINING
+
+While this unit’s Szarekh model has 1-6 wounds remaining, 
+halve the Attacks characteristic of that model’s weapons, 
+and each time this unit makes an attack, subtract 1 from the 
+Hit roll.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Vehicle, Character, Epic Hero, Fly, The Silent King
+
+FACTION KEYWORDS:  
+Necrons
+
+THE SILENT KING
+The Silent King rides to war aboard his dais of dominion, flanked by 
+the phaerons of his Triarch and orbited by crackling noctilith menhirs. 
+He unleashes god-like powers of annihilation upon his dismayed foes, 
+even as his absolute authority radiates out to empower the Necron 
+legions and drive them to inevitable victory.
+
+WARGEAR OPTIONS
+
+ ■     None
+
+UNIT COMPOSITION
+
+ ■ 1 Szarekh – Epic Hero
+ ■ 2 Triarchal Menhirs
+Szarekh is equipped with: Sceptre of Eternal Glory; Staff of 
+Stars; Scythe of Dust.
+Every Triarchal Menhir is equipped with: annihilator beam; 
+close combat weapon.
+
+SUPREME COMMANDER
+
+If this unit is in your army, it must be your Warlord.
+
+TRIARCHAL MENHIRS
+
+If this unit’s Szarekh model is destroyed, all of this unit’s 
+remaining Triarchal Menhir models are also destroyed.
+
+KEYWORDS:  Vehicle, Character, Epic Hero, Fly, The Silent King
+
+FACTION KEYWORDS:  
+Necrons
+
+CONVERGENCE OF DOMINION
+
+M
+
+-
+
+T
+
+11
+
+SV
+
+2+
+
+W
+
+10
+
+LD
+
+7+
+
+OC
+
+0
+
+RANGED WEAPONS
+Transdimensional abductor 
+
+RANGE
+
+18"
+
+A
+3
+
+BS
+4+
+
+S
+6
+
+AP
+-2
+
+D
+3
+
+ABILITIES
+
+FACTION: Reanimation Protocols
+
+Reanimation Nodes (Aura): While a friendly Necrons unit 
+is within 6” of this Fortification, each time that unit’s 
+Reanimation Protocols activate, you can re-roll the dice rolled 
+to determine how many wounds are reanimated.
+Ancient Cover: Each time a ranged attack is allocated to a 
+model, if that model is not fully visible to every model in the 
+attacking unit because of this Fortification, that model has 
+the Benefit of Cover against that attack.
+Fortification: While an enemy unit is only within Engagement 
+Range of one or more Fortifications from your army:
+ ■  That unit can still be selected as the target of ranged 
+
+attacks, but each time such an attack is made, unless it is 
+made with a Pistol, subtract 1 from the Hit roll.
+
+ ■  Models in that unit do not need to take Desperate Escape 
+tests due to Falling Back while Battle-shocked, except for 
+those that will move over enemy models when doing so.
+
+KEYWORDS: Fortification, Vehicle, Convergence of Dominion
+
+FACTION KEYWORDS:  
+Necrons
+
+CONVERGENCE OF DOMINION
+Starsteles were placed upon worlds as territorial markers and 
+silent guardians by jealous Necron nobles. Over the millennia they 
+have become forgotten archaeological curios, or feared sources of 
+superstitious rumour about vanishments and strange lights. Now they 
+awaken again as their masters do.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 3 Convergence of Dominion Starsteles
+Every model is equipped with: transdimensional abductor.
+
+DEPLOYMENT
+
+When this unit is first set up on the battlefield, its models do 
+not have to be set up in Unit Coherency. Instead, each model 
+must be set up wholly within 12" of one other model from its 
+unit. From that point on, each model in this unit is treated as 
+a separate unit.
+
+KEYWORDS: Fortification, Vehicle, Convergence of Dominion
+
+FACTION KEYWORDS:  
+Necrons
+
+

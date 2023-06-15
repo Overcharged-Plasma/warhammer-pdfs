@@ -1,0 +1,4603 @@
+GREY KNIGHTS
+ARMY RULE
+
+The soul of the Grey Knights is sacrosanct, and their purity is incorruptible. The silvered armour of this 
+Chapter’s warriors is bound with incantations, engraved with sigils of warding. Their blades shine with the inner 
+light of their sanctity, for each of these Space Marines is a psychic warrior, in empyric communion with his 
+battle-brothers. Empowered by minds constantly on guard, they can cut steel with bare hands, their eyes blaze 
+with fire and even the power of their words flays the otherworldly skin of daemons. They are the Imperium’s 
+foremost sword and shield against the daemonic. Guided by the foresight and prophecies of the Chapter’s 
+Prognosticars, a Grey Knight can adapt to the most irrational of foes and, in a flare of teleportation energies, 
+emerge at exactly the right location to unleash their devastating power.
+
+TELEPORT ASSAULT
+If your Army Faction is Grey Knights, at the end of 
+your opponent’s turn, you can select a number of 
+Grey Knights units from your army with this ability 
+(excluding units that are within Engagement Range 
+of one or more enemy units). The maximum number 
+of units you can select depends on the battle size, 
+as follows:
+
+COMBAT PATROL
+
+INCURSION
+
+STRIKE FORCE
+
+ONSLAUGHT
+
+UP TO 1 UNIT
+
+UP TO 2 UNITS
+
+UP TO 3 UNITS
+
+UP TO 4 UNITS
+
+Once you have made your selections, 
+remove those units from the battlefield. In 
+the Reinforcements step of your next 
+Movement phase, set each of those 
+units up anywhere on the battlefield 
+that is more than 9" horizontally 
+away from all enemy models. 
+Any units that are not on 
+the battlefield at the 
+end of the battle count 
+as destroyed.
+
+GREY KNIGHTS – TELEPORT STRIKE FORCE
+DETACHMENT RULE
+
+If your Army Faction is Grey Knights, you can use 
+this Teleport Strike Force Detachment rule.
+
+TELEPORT SHUNT
+Hardened against the corrupting touch of Chaos, 
+protected by silver sigils and the warriors’ own purity 
+of spirit, Grey Knights are capable of enduring rapid 
+and repeated submersions in the warp. When a 
+lightning-fast purgation is required, orbiting strike 
+cruisers maintain a constant spiritual lock on their 
+battle-brothers, enabling Grey Knights to perform 
+short-ranged teleportations. Flickering in and out 
+of reality, this exceptional mobility allows them to 
+outmanoeuvre the most otherworldly of enemies.
+
+Each time a Grey Knights unit with the Deep Strike 
+ability Advances, do not make an Advance roll. 
+Instead, until the end of the phase, add 6" to that 
+unit’s Move characteristic and that unit can Fly.
+
+GREY KNIGHTS – TELEPORT STRIKE FORCE
+STRATAGEMS
+
+If you are using the Teleport Strike Force Detachment rule, you can use these Teleport Strike Force Stratagems. 
+DEATH FROM THE WARP
+
+RADIANT STRIKE
+
+TELEPORT STRIKE FORCE – BATTLE TACTIC STRATAGEM
+
+TELEPORT STRIKE FORCE – BATTLE TACTIC STRATAGEM
+
+2CP
+
+1CP1CP
+
+Psychic fire rimes the blades of the Grey 
+Knights as they charge at the foe, fanned 
+by their battle fury. At the moment of 
+contact, the empyric charge is unleashed 
+in a blast of azure light.
+
+WHEN: Fight phase.
+TARGET: One Grey Knights Psyker unit 
+from your army.
+EFFECT: Until the end of the phase, melee 
+weapons equipped by models in your unit 
+with the [PSYCHIC] ability also have the 
+[DEVASTATING WOUNDS] ability.
+
+PROGNISTICATED ARRIVAL
+
+TELEPORT STRIKE FORCE – EPIC DEED STRATAGEM
+
+Accessing a vision granted by the 
+Chapter’s Prognosticars, the Grey 
+Knights perceive the hidden ways of the 
+battlefield and a sliver of the enemy’s 
+intentions, granting them a prophetic 
+situational awareness that aids their 
+strategic disposition.
+
+WHEN: Your Movement phase.
+TARGET: One Grey Knights Psyker unit 
+from your army that is arriving using the 
+Deep Strike or Teleport Assault abilities 
+this phase.
+EFFECT: Your unit can be set up anywhere 
+on the battlefield that is more than 3" 
+horizontally away from all enemy models.
+RESTRICTIONS: A unit targeted by this 
+Stratagem is not eligible to declare a 
+charge in the same turn.
+
+1CP
+
+2CP
+
+Utilising their warp-attuned senses during 
+the timeless instant of teleportation, Grey 
+Knights know exactly where the enemy 
+are before they arrive. They emerge 
+from the blinding flare of warp energies 
+already firing.
+
+WHEN: Your Movement phase.
+TARGET:  One Grey Knights Psyker unit 
+from your army that either Advanced this 
+turn or arrived using the Deep Strike or 
+Teleport Assault abilities this turn.
+EFFECT: Until the end of the phase, ranged 
+weapons equipped by models in your unit 
+have the [ASSAULT] ability and each time 
+a model in your unit makes an attack, add 
+1 to the Hit roll. 
+
+HALOED IN SOULFIRE
+
+TELEPORT STRIKE FORCE – BATTLE TACTIC STRATAGEM
+
+The blazing glare of ancient technology 
+and the shrouding coils of the 
+immaterium often linger, obscuring the 
+Grey Knights’ presence.
+
+WHEN: Your Movement phase.
+TARGET:  One Grey Knights Psyker unit 
+from your army that is arriving using the 
+Deep Strike or Teleport Assault abilities 
+this phase.
+EFFECT: Until the start of your next 
+Movement phase, your unit cannot be 
+targeted by ranged attacks unless the 
+attacking model is within 12". 
+
+GREY KNIGHTS – TELEPORT STRIKE FORCE
+STRATAGEMS
+
+If you are using the Teleport Strike Force Detachment rule, you can use these Teleport Strike Force Stratagems. 
+
+MISTS OF DEIMOS
+
+TRUESILVER ARMOUR
+
+TELEPORT STRIKE FORCE – STRATEGIC PLOY STRATAGEM
+
+TELEPORT STRIKE FORCE – WARGEAR STRATAGEM
+
+1CP
+
+When the enemy closes in, the Grey 
+Knights wreathe themselves in psychic 
+mists to confound the foe while they 
+reposition until the time is ready to launch 
+a counter-blow.
+
+WHEN: Your opponent’s Movement phase, 
+just after an enemy unit ends a Normal, 
+Advance or Fall Back move.
+TARGET: One Grey Knights Psyker unit 
+from your army that is within 9" of that 
+enemy unit.
+EFFECT: Your unit can make a Normal 
+move of up to 6" as if it were your 
+Movement phase or, if it has the Deep 
+Strike ability, it can be placed into 
+Strategic Reserves.
+RESTRICTIONS: You cannot select a unit 
+that is within Engagement Range of one or 
+more enemy units.
+
+1CP
+
+Grey Knights battle plate incorporates 
+litanies of purity, strands of sanctified 
+silver and other sacred wards, whose 
+defences can be further empowered by 
+ritual mantras.
+
+WHEN: Your opponent’s Shooting phase or 
+the Fight phase, just after an enemy unit 
+has selected its targets.
+TARGET: One Grey Knights unit from your 
+army that was selected as the target of 
+one or more of that enemy unit’s attacks.
+EFFECT: Until the end of the phase, each 
+time an attack targets your unit, worsen 
+the Armour Penetration characteristic of 
+that attack by 1.
+
+GREY KNIGHTS – TELEPORT STRIKE FORCE
+ENHANCEMENTS
+
+If you are using the Teleport Strike Force Detachment rule, you can use these Teleport Strike 
+Force Enhancements.
+FIRST TO THE FRAY
+Whether braving premature teleportation assaults 
+or leaping from the hatch of a transport still aglow 
+from atmospheric entry, this sanctified commander 
+frequently makes the first strike in battle, and ever 
+from an unexpected quarter. Inspired by such zealous 
+bravery, his battle-brothers are never far behind.
+
+SIGIL OF EXIGENCE
+Forged by the Techmarine Dorvel urThann, this 
+small chor-bronze icon contains a powerful teleport 
+matrix and a trio of vigilant machine spirits. Their 
+pre-cogitative psyroutines guard against attacks 
+from afar, spiriting their host and his allies away from 
+danger in a blaze of light.
+
+Grey Knights model with the Deep Strike ability only. 
+The bearer’s unit must start the battle in Reserves, but 
+neither it, nor any Transport it is embarked within, 
+is counted towards any limits the mission places on 
+the number of Strategic Reserves units you can have. 
+That unit can be set up using its Deep Strike ability in 
+the Reinforcements step of your first, second or third 
+Movement phase, regardless of any mission rules.
+DOMINA LIBER DAEMONICA
+This tome is said to be a relic of Supreme Grand 
+Master Janus, he who mastered all six hundred 
+and sixty-six words of banishment, each one 
+painstakingly recorded on its pages. In times of need 
+a hero of the Chapter will carry this book into battle, 
+its bindings crackling with arcane energy as the 
+words repel warp entities and send daemons howling 
+back into the warp.
+
+Grey Knights model only. Each time the bearer 
+makes a melee attack add 1 to the Wound roll and, 
+if that attack targets a Daemon unit, add 1 to the 
+Damage characteristic of that attack as well.
+
+Grey Knights model only. Once per battle, in your 
+opponent’s Shooting phase, when the bearer’s unit 
+is selected as the target of a ranged attack, you can 
+remove the bearer’s unit from the battlefield and then 
+set it back up again anywhere on the battlefield that 
+is more than 9" horizontally away from all enemy 
+models. If the bearer is no longer an eligible target, 
+your opponent can then select new targets for any 
+attacks that had targeted the bearer’s unit.
+INESCAPABLE WRATH
+When this warrior leads his battle-brothers into 
+the foe, they strike like silver lances of lightning. 
+By focusing his powers upon a pivotal moment, he 
+connects himself via a tether of inevitability to his 
+enemies. Drawn by the tether, he bears down upon 
+them with incredible speed, ensuring none escape his 
+and his warriors’ wrath.
+
+Grey Knights model only. Add 1 to Charge rolls made 
+for the bearer’s unit.
+
+KALDOR DRAIGO
+
+M
+
+5"
+
+T
+
+5
+
+SV
+
+2+
+
+W
+
+7
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Scourging [ANTI-DAEMON 2+, IGNORES COVER, PSYCHIC]
+Storm bolter [RAPID FIRE 2]
+
+MELEE WEAPONS
+The Titansword [ANTI-DAEMON 2+, PSYCHIC]
+
+RANGE
+
+18"
+24"
+
+RANGE
+Melee
+
+A
+3
+2
+
+A
+6
+
+BS
+2+
+2+
+
+WS
+2+
+
+S
+6
+4
+
+S
+8
+
+AP
+-2
+0
+
+AP
+-4
+
+D
+2
+1
+
+D
+3
+
+ABILITIES
+
+CORE: Deep Strike, Leader
+
+FACTION: Teleport Assault
+
+Untouchable Purity: While this model is leading a unit, 
+models in that unit have the Feel No Pain 4+ ability against 
+mortal wounds. 
+One With the Warp (Psychic): Once per battle, when this 
+model’s unit declares a charge in the same turn it was set up 
+as Reinforcements using the Deep Strike ability, add 3 to the 
+Charge roll. 
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Infantry, Character, Epic Hero, Psyker, Terminator, Grenades, 
+
+Imperium, Kaldor Draigo
+
+FACTION KEYWORDS:  
+Grey Knights
+
+KALDOR DRAIGO
+The Supreme Grand Master of the Grey Knights, Lord Kaldor Draigo 
+enters battle directly from the warp itself and his resolute spirit 
+inspires his warriors to acts of high valour. He hunts down and slays 
+the spawn of Chaos with psychic fire and blows from the legendary 
+Titansword, its blade reforged with a purified daemon weapon.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Kaldor Draigo – Epic Hero
+This model is equipped with: Scourging; storm bolter; 
+the Titansword.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Brotherhood Terminator Squad
+ ■ Paladin Squad
+
+SUPREME COMMANDER
+
+If this model is in your army, it must be your Warlord.
+
+KEYWORDS:  Infantry, Character, Epic Hero, Psyker, Terminator, Grenades, 
+
+Imperium, Kaldor Draigo
+
+FACTION KEYWORDS:  
+Grey Knights
+
+GRAND MASTER VOLDUS
+
+M
+
+5"
+
+T
+
+5
+
+SV
+
+2+
+
+W
+
+6
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Storm bolter [RAPID FIRE 2]
+
+MELEE WEAPONS
+Malleus Argyrum [PSYCHIC]
+
+RANGE
+
+24"
+
+RANGE
+Melee
+
+A
+2
+
+A
+5
+
+BS
+2+
+
+WS
+2+
+
+S
+4
+
+S
+10
+
+AP
+0
+
+AP
+-2
+
+D
+1
+
+D
+3
+
+ABILITIES
+
+CORE: Deep Strike, Leader
+
+FACTION: Teleport Assault
+
+Sanctuary (Psychic): While this model is leading a unit, each 
+time an attack targets that unit, subtract 1 from the Hit roll. 
+Hammer Aflame (Psychic): Each time this model’s unit 
+is selected to fight, you can select one enemy unit within 
+Engagement Range of this model’s unit and roll one D6, 
+adding 2 to the result if that unit has the Daemon keyword: on 
+a 4-5, that enemy unit suffers D3 mortal wounds; on a 6+, that 
+enemy unit suffers D3+3 mortal wounds. 
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Infantry, Character, Epic Hero, Psyker, Terminator, Imperium, 
+
+Grand Master Voldus
+
+FACTION KEYWORDS:  
+Grey Knights
+
+GRAND MASTER VOLDUS
+Grand Master of the 3rd Brotherhood, Aldrik Voldus wields immense 
+psychic might with a humble purity. Daemons burn and scatter before 
+the purifying fire that pours from his huge daemon hammer, the 
+Malleus Argyrum, before he deftly swings it and crushes those that 
+remain with a thunderous crash of pure empyric energies.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Grand Master Voldus – Epic Hero
+This model is equipped with: storm bolter; Malleus Argyrum.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Brotherhood Terminator Squad
+ ■ Paladin Squad
+
+KEYWORDS:  Infantry, Character, Epic Hero, Psyker, Terminator, Imperium, 
+
+Grand Master Voldus
+
+FACTION KEYWORDS:  
+Grey Knights
+
+GRAND MASTER
+
+M
+
+5"
+
+T
+
+5
+
+SV
+
+2+
+
+W
+
+7
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Incinerator [IGNORES COVER, TORRENT]
+Psilencer [PSYCHIC, SUSTAINED HITS 1]
+Psycannon [PSYCHIC]
+Storm bolter [RAPID FIRE 2]
+
+MELEE WEAPONS
+Nemesis force weapon [PSYCHIC]
+
+RANGE
+
+12"
+24"
+24"
+24"
+
+RANGE
+Melee
+
+A
+D6
+6
+3
+2
+
+A
+5
+
+BS
+N/A
+2+
+2+
+2+
+
+WS
+2+
+
+S
+6
+5
+8
+4
+
+S
+6
+
+AP
+-1
+0
+-1
+0
+
+AP
+-2
+
+D
+1
+1
+2
+1
+
+D
+2
+
+ABILITIES
+
+CORE: Deep Strike, Leader
+
+FACTION: Teleport Assault
+
+Might of Purity (Psychic): While this model is leading a unit, 
+you can ignore any or all modifiers to the characteristics of 
+models in that unit and to any roll or test made for models in 
+that unit (excluding modifiers to saving throws). 
+Master Strategist: Once per battle, one unit from your army 
+with this ability can be targeted by a Stratagem for 0CP, even 
+if another unit from your army has already been targeted by 
+that Stratagem this phase.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Infantry, Character, Psyker, Grenades, Terminator, Imperium, 
+
+Grand Master
+
+FACTION KEYWORDS:  
+Grey Knights
+
+GRAND MASTER
+Grand Masters lead the Grey Knights brotherhoods. Each is a master 
+strategist, a deadly warrior and a terrifying battle-psyker possessed 
+of unhallowed knowledge. Under a Grand Master’s guiding will are the 
+unending wars against their daemonic adversaries prosecuted, their 
+stainless souls a beacon of purity.
+
+WARGEAR OPTIONS
+
+ ■  This model’s storm bolter can be replaced with one of the following: 
+
+ ◦ 1 incinerator
+ ◦ 1 psilencer
+ ◦ 1 psycannon
+
+UNIT COMPOSITION
+
+ ■ 1 Grand Master
+This model is equipped with: storm bolter;  
+Nemesis force weapon.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Brotherhood Terminator Squad
+ ■ Paladin Squad
+
+KEYWORDS:  Infantry, Character, Psyker, Grenades, Terminator, Imperium, 
+
+Grand Master
+
+FACTION KEYWORDS:  
+Grey Knights
+
+GRAND MASTER IN NEMESIS DREADKNIGHT
+
+M
+
+8"
+
+T
+
+8
+
+SV
+
+2+
+
+W
+
+13
+
+LD
+
+6+
+
+OC
+
+4
+
+RANGED WEAPONS
+Gatling psilencer [PSYCHIC, SUSTAINED HITS 1]
+Heavy incinerator [IGNORES COVER, TORRENT]
+Heavy psycannon [PSYCHIC]
+
+MELEE WEAPONS
+Dreadfists 
+Nemesis daemon greathammer [PSYCHIC]
+Nemesis greatsword – strike [PSYCHIC]
+Nemesis greatsword – sweep [PSYCHIC]
+
+RANGE
+
+24"
+18"
+24"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+
+A
+12
+2D6
+6
+
+A
+6
+5
+5
+10
+
+BS
+3+
+N/A
+3+
+
+WS
+3+
+4+
+3+
+3+
+
+S
+6
+6
+10
+
+S
+6
+14
+10
+5
+
+AP
+0
+-1
+-1
+
+AP
+-1
+-3
+-2
+-1
+
+D
+1
+1
+3
+
+D
+1
+
+D6+1
+D6
+1
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Vehicle, Character, Walker, Psyker, Imperium,  
+
+Grand Master in Nemesis Dreadknight
+
+ABILITIES
+
+CORE: Deadly Demise D3, Deep Strike
+
+FACTION: Teleport Assault
+
+Surge of Wrath (Psychic): Once per battle round, in the Fight 
+phase, one model from your army with this ability can use 
+it before resolving its attacks. If it does, until the end of the 
+phase, each time that model makes an attack that targets a 
+Monster or Vehicle unit, you can re-roll the Hit roll, you can 
+re-roll the Wound roll and you can re-roll the Damage roll.
+Heroism’s Favour: Each time you target this model with 
+a Stratagem, it only costs 1CP to use, even if the CP cost 
+is higher.
+
+DAMAGED: 1-4 WOUNDS REMAINING
+
+While this model has 1-4 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE
+
+4+
+
+FACTION KEYWORDS:  
+Grey Knights
+
+GRAND MASTER IN NEMESIS DREADKNIGHT
+When they deploy to battle clad in the raiment of a Nemesis 
+Dreadknight, Grand Masters are capable of duelling the greatest 
+daemon lords on an equal footing. Thus girded, their psychic prowess 
+and tactical acumen are wielded alongside the exceptional physical 
+might of a towering and warded Dreadknight suit.
+
+WARGEAR OPTIONS
+
+ ■ This model’s dreadfists can be replaced with one of the following: 
+
+ ◦ 1 Nemesis daemon greathammer
+ ◦ 1 Nemesis greatsword
+
+ ■  This model can be equipped with up to two of the following, but cannot take duplicates: 
+
+ ◦ 1 gatling psilencer
+ ◦ 1 heavy incinerator
+ ◦ 1 heavy psycannon
+
+UNIT COMPOSITION
+
+ ■ 1 Grand Master in Nemesis Dreadknight
+This model is equipped with: dreadfists.
+
+KEYWORDS:  Vehicle, Character, Walker, Psyker, Imperium,  
+
+Grand Master in Nemesis Dreadknight
+
+FACTION KEYWORDS:  
+Grey Knights
+
+CASTELLAN CROWE
+
+M
+
+6"
+
+T
+
+4
+
+SV
+
+2+
+
+W
+
+5
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Purifying Flame  
+[ANTI-INFANTRY 2+, IGNORES COVER, PSYCHIC]
+Storm bolter [RAPID FIRE 2]
+
+RANGE
+
+18"
+
+24"
+
+MELEE WEAPONS
+Black Blade of Antwyr [DEVASTATING WOUNDS, PRECISION]
+
+RANGE
+Melee
+
+A
+
+3
+
+2
+
+A
+5
+
+BS
+
+2+
+
+2+
+
+WS
+2+
+
+S
+
+4
+
+4
+
+S
+6
+
+AP
+
+-1
+
+0
+
+AP
+-2
+
+D
+
+1
+
+1
+
+D
+2
+
+ABILITIES
+
+CORE: Deep Strike, Leader
+
+FACTION: Teleport Assault
+
+Champion of the Order of Purifiers (Psychic): While this 
+model is leading a unit, add 1 to the Attacks characteristic of 
+that unit’s Purifying Flame.
+Foresight of the Prognosticars (Psychic): Once per turn, the 
+first time a saving throw is failed for this model, change the 
+Damage characteristic of that attack to 0.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Infantry, Character, Epic Hero, Psyker, Imperium,  
+
+Castellan Crowe
+
+FACTION KEYWORDS:  
+Grey Knights
+
+CASTELLAN CROWE
+Castellan Garran Crowe is the Champion of the Order of Purifiers, and 
+his flawless soul radiates outward in a searing, psychic aura. He is the 
+keeper of the Black Blade of Antwyr, a daemon sword that whispers  
+promises and threats. Crowe rejects the blade’s vileness, trusting to 
+his masterful combat prowess.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Castellan Crowe – Epic Hero
+This model is equipped with: Purifying Flame; storm bolter; 
+Black Blade of Antwyr.
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Purifier Squad
+
+KEYWORDS:  Infantry, Character, Epic Hero, Psyker, Imperium,  
+
+Castellan Crowe
+
+FACTION KEYWORDS:  
+Grey Knights
+
+BROTHER-CAPTAIN STERN
+
+M
+
+5"
+
+T
+
+5
+
+SV
+
+2+
+
+W
+
+6
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Storm bolter [RAPID FIRE 2]
+
+MELEE WEAPONS
+Nemesis force sword [PSYCHIC]
+
+RANGE
+
+24"
+
+RANGE
+Melee
+
+A
+2
+
+A
+5
+
+BS
+2+
+
+WS
+2+
+
+S
+4
+
+S
+6
+
+AP
+0
+
+AP
+-2
+
+D
+1
+
+D
+2
+
+ABILITIES
+
+CORE: Deep Strike, Leader
+
+FACTION: Teleport Assault
+
+Exemplar of the Silvered Host: While this model is leading a 
+unit, each time a model in that unit makes a melee attack, on 
+a Critical Wound, the target suffers 1 mortal wound in addition 
+to any normal damage. 
+Strands of Fate (Psychic): The first time this model is 
+destroyed, roll one D6 at the end of the phase. On a 2+, set 
+this model back up on the battlefield as close as possible to 
+where it was destroyed and not within Engagement Range of 
+any enemy units, with its full wounds remaining.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Infantry, Character, Epic Hero, Psyker, Imperium, Terminator, 
+
+Brother-Captain Stern
+
+FACTION KEYWORDS:  
+Grey Knights
+
+BROTHER-CAPTAIN STERN
+A valorous and duty-bound leader, Brother-Captain Arvann Stern 
+has survived battles so brutal often he and his nemesis are the 
+last standing. His growing understanding of the weaknesses of 
+warp-spawn makes his presence anathema to daemonkind and he 
+wields his Nemesis blade with a furious skill that few can match.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Brother-Captain Stern – Epic Hero
+This model is equipped with: storm bolter;  
+Nemesis force sword.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Brotherhood Terminator Squad
+ ■ Paladin Squad
+
+KEYWORDS:  Infantry, Character, Epic Hero, Psyker, Imperium, Terminator, 
+
+Brother-Captain Stern
+
+FACTION KEYWORDS:  
+Grey Knights
+
+BROTHER-CAPTAIN
+
+M
+
+5"
+
+T
+
+5
+
+SV
+
+2+
+
+W
+
+6
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Incinerator [IGNORES COVER, TORRENT]
+Psilencer [PSYCHIC, SUSTAINED HITS 1]
+Psycannon [PSYCHIC]
+Storm bolter [RAPID FIRE 2]
+
+MELEE WEAPONS
+Nemesis force weapon [PSYCHIC]
+
+RANGE
+
+12"
+24"
+24"
+24"
+
+RANGE
+Melee
+
+A
+D6
+6
+3
+2
+
+A
+4
+
+BS
+N/A
+2+
+2+
+2+
+
+WS
+2+
+
+S
+6
+5
+8
+4
+
+S
+6
+
+AP
+-1
+0
+-1
+0
+
+AP
+-2
+
+D
+1
+1
+2
+1
+
+D
+2
+
+ABILITIES
+
+CORE: Deep Strike, Leader
+
+FACTION: Teleport Assault
+
+Empyric Amplification (Psychic): While this model is leading 
+a unit, Psychic weapons equipped by models in that unit have 
+the [SUSTAINED HITS 1] ability.
+Focused Mind (Psychic): Each time this model makes an 
+attack with a Psychic weapon, you can re-roll the Wound roll.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Infantry, Character, Psyker, Terminator, Imperium, 
+
+Brother-Captain
+
+FACTION KEYWORDS:  
+Grey Knights
+
+BROTHER-CAPTAIN
+Amongst the Chapter’s foremost combatants, a Brother-Captain 
+has proven his worth as a leader of great warriors and a martial 
+exemplar. His place is at the heart of the fight, standing beside 
+his battle-brothers and focusing their blows by means of psychic 
+communion even amidst the din of hellish war.
+
+WARGEAR OPTIONS
+
+ ■      This model’s storm bolter can be replaced with one of the following: 
+
+ ◦ 1 incinerator
+ ◦ 1 psilencer
+ ◦ 1 psycannon
+
+UNIT COMPOSITION
+
+ ■ 1 Brother-Captain
+This model is equipped with: storm bolter;  
+Nemesis force weapon.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Brotherhood Terminator Squad
+ ■ Paladin Squad
+
+KEYWORDS:  Infantry, Character, Psyker, Terminator, Imperium, 
+
+Brother-Captain
+
+FACTION KEYWORDS:  
+Grey Knights
+
+BROTHERHOOD CHAMPION
+
+M
+
+6"
+
+T
+
+4
+
+SV
+
+2+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Storm bolter [RAPID FIRE 2]
+
+MELEE WEAPONS
+Nemesis force weapon [PRECISION, PSYCHIC]
+
+RANGE
+
+24"
+
+RANGE
+Melee
+
+A
+2
+
+A
+5
+
+BS
+2+
+
+WS
+2+
+
+S
+4
+
+S
+6
+
+AP
+0
+
+AP
+-2
+
+D
+1
+
+D
+2
+
+ABILITIES
+
+CORE: Deep Strike, Fights First, Leader
+
+FACTION: Teleport Assault
+
+Ethereal Castigation (Psychic): While this model is leading a 
+unit, models in that unit have the Fights First ability.
+Martial Fury: Each time this model makes a melee attack that 
+targets a Character unit, you can re-roll the Hit roll and you 
+can re-roll the Wound roll. 
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Infantry, Character, Psyker, Imperium, Brotherhood Champion
+
+FACTION KEYWORDS:  
+Grey Knights
+
+BROTHERHOOD CHAMPION
+A Brotherhood Champion acts as an exemplar of martial prowess to 
+which all Grey Knights aspire. He is a warrior of peerless skill who 
+mentors new recruits in the ways of the blade. Upon the battlefield, he 
+defends the lives of others and upholds the honour of his brotherhood 
+with deadly skill. 
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Brotherhood Champion
+This model is equipped with: storm bolter; 
+Nemesis force weapon.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Purgation Squad
+ ■ Strike Squad
+
+KEYWORDS:  Infantry, Character, Psyker, Imperium, Brotherhood Champion
+
+FACTION KEYWORDS:  
+Grey Knights
+
+BROTHERHOOD LIBRARIAN
+
+M
+
+5"
+
+T
+
+5
+
+SV
+
+2+
+
+W
+
+5
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Combi-weapon 
+[ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]
+Purge Soul – witchfire [PSYCHIC]
+Purge Soul – focused witchfire 
+[PRECISION, PSYCHIC, HAZARDOUS]
+Storm bolter [RAPID FIRE 2]
+
+MELEE WEAPONS
+Nemesis force weapon [PSYCHIC]
+
+RANGE
+
+24"
+
+24"
+
+24"
+
+24"
+
+RANGE
+Melee
+
+A
+
+1
+
+1
+
+1
+
+2
+
+A
+4
+
+BS
+
+4+
+
+3+
+
+3+
+
+3+
+
+WS
+2+
+
+S
+
+4
+
+6
+
+6
+
+4
+
+S
+6
+
+AP
+
+0
+
+-2
+
+-2
+
+0
+
+AP
+-1
+
+D
+
+1
+
+3
+
+3
+
+1
+
+D
+2
+
+ABILITIES
+
+CORE: Deep Strike, Leader
+
+FACTION: Teleport Assault
+
+Sanctic Hood: While this model is leading a unit, models 
+in that unit have the Feel No Pain 4+ ability against 
+Psychic Attacks.
+Vortex of Doom (Psychic): In your Shooting phase, you 
+can select one enemy unit within 18" of and visible to this 
+Psyker and roll one D6: on a 1, this Psyker’s unit suffers D6 
+mortal wounds; on a 2-5, that enemy unit suffers 2D3 mortal 
+wounds; on a 6, that enemy unit suffers 2D6 mortal wounds.
+
+INVULNERABLE SAVE
+
+4+
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Infantry, Character, Terminator, Psyker, Imperium 
+
+Brotherhood Librarian
+
+FACTION KEYWORDS:  
+Grey Knights
+
+BROTHERHOOD LIBRARIAN
+Librarians have a strength of mind greater even than many of the 
+powerful battle-psykers with whom they fight. The breadth of their 
+empyric scholarship is vast and they courageously brave the deeper 
+and more dangerous reaches of the warp, using psychic rites to shield 
+their fellows or tear at daemonic forms.
+
+WARGEAR OPTIONS
+
+ ■     This model can be equipped with one of the following: 
+
+ ◦ 1 combi-weapon
+ ◦ 1 storm bolter
+
+ 
+
+UNIT COMPOSITION
+
+ ■ 1 Brotherhood Librarian
+This model is equipped with: Purge Soul;  
+Nemesis force weapon.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Brotherhood Terminator Squad
+ ■ Paladin Squad
+
+KEYWORDS:  Infantry, Character, Terminator, Psyker, Imperium 
+
+Brotherhood Librarian
+
+FACTION KEYWORDS:  
+Grey Knights
+
+BROTHERHOOD TECHMARINE
+
+M
+
+5"
+
+T
+
+4
+
+SV
+
+2+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+Boltgun 
+Flamer [IGNORES COVER, TORRENT]
+
+MELEE WEAPONS
+Omnissian power axe
+Plasma cutter – standard 
+[EXTRA ATTACKS]
+Plasma cutter – supercharge 
+[EXTRA ATTACKS, HAZARDOUS]
+Servo-arms [EXTRA ATTACKS]
+
+RANGE
+
+12"
+24"
+12"
+
+RANGE
+Melee
+
+Melee
+
+Melee
+
+Melee
+
+A
+1
+2
+D6
+
+A
+4
+
+2
+
+2
+
+2
+
+BS
+3+
+3+
+N/A
+
+WS
+3+
+
+3+
+
+3+
+
+3+
+
+S
+4
+4
+4
+
+S
+6
+
+7
+
+8
+
+8
+
+AP
+0
+0
+0
+
+AP
+-2
+
+-2
+
+-3
+
+-2
+
+D
+1
+1
+1
+
+D
+2
+
+1
+
+2
+
+3
+
+ABILITIES
+
+CORE: Deep Strike, Leader
+
+FACTION: Teleport Assault
+
+Awaken the Machine Spirit: In your Command phase, you can 
+select one friendly Grey Knights Vehicle model within 6" of 
+this model. Until the start of your next Command phase, each 
+time that Vehicle model makes an attack, add 1 to the Hit roll.
+Omnissiah’s Blessing: In your Command phase, you can 
+select one friendly Grey Knights Vehicle model within 3" of 
+this model. That Vehicle model regains up to D3 lost wounds.
+Techmarine: While this model is within 3" of one or more 
+friendly Grey Knights Vehicle units, unless it is leading a 
+unit, this model has the Lone Operative ability.
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Infantry, Character, Psyker, Imperium, Brotherhood Techmarine
+
+FACTION KEYWORDS:  
+Grey Knights
+
+BROTHERHOOD TECHMARINE
+Psychic warrior-smiths with esoteric knowledge of machine mysteries, 
+Techmarines maintain and repair the weapons, armour and mighty 
+vehicles used by the Grey Knights. With mechanical servo-arms, and 
+through the rites of the Omnissiah, they fortify the spirits of wounded 
+machines against the claws of daemons.
+
+WARGEAR OPTIONS
+
+ ■   This model’s boltgun can be replaced with 1 bolt pistol.
+
+UNIT COMPOSITION
+
+ ■ 1 Brotherhood Techmarine
+This model is equipped with: boltgun; flamer; plasma cutter; 
+Omnissian power axe; servo-arms.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Servitors
+ ■ Strike Squad
+
+KEYWORDS: Infantry, Character, Psyker, Imperium, Brotherhood Techmarine
+
+FACTION KEYWORDS:  
+Grey Knights
+
+BROTHERHOOD CHAPLAIN
+
+M
+
+5"
+
+T
+
+5
+
+SV
+
+2+
+
+W
+
+5
+
+LD
+
+5+
+
+OC
+
+1
+
+RANGED WEAPONS
+Storm bolter [RAPID FIRE 2]
+
+MELEE WEAPONS
+Crozius arcanum
+
+RANGE
+
+24"
+
+RANGE
+Melee
+
+A
+2
+
+A
+5
+
+BS
+3+
+
+WS
+2+
+
+S
+4
+
+S
+6
+
+AP
+0
+
+AP
+-1
+
+D
+1
+
+D
+2
+
+ABILITIES
+
+CORE: Deep Strike
+
+FACTION: Teleport Assault
+
+Words of Power (Psychic): While this model is leading a unit, 
+each time a model in that unit makes a melee attack, add 1 to 
+the Wound roll. 
+Dread Bearing (Aura): While an enemy unit is within 6" of this 
+model, each time that unit takes a Battle-shock or Leadership 
+test, subtract 1 from that test.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Infantry, Character, Psyker, Terminator, Imperium, 
+
+Brotherhood Chaplain
+
+FACTION KEYWORDS:  
+Grey Knights
+
+BROTHERHOOD CHAPLAIN
+Chaplains intone psychic litanies of sanctity and contempt, speaking 
+the Emperor’s word to their brethren in stentorian tones. They are 
+symbols of brutal mortality and unquestioning zeal. In battle, they 
+lay about the foe with blows from their crozius arcanum and with 
+impassioned canticles ward their brothers’ souls.
+
+WARGEAR OPTIONS
+
+ ■     None
+
+ 
+
+UNIT COMPOSITION
+
+ ■ 1 Brotherhood Chaplain
+This model is equipped with: storm bolter; crozius arcanum.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Brotherhood Terminator Squad
+ ■ Paladin Squad
+
+KEYWORDS:  Infantry, Character, Psyker, Terminator, Imperium, 
+
+Brotherhood Chaplain
+
+FACTION KEYWORDS:  
+Grey Knights
+
+BROTHERHOOD TERMINATOR SQUAD
+
+M
+
+5"
+
+T
+
+5
+
+SV
+
+2+
+
+W
+
+3
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Incinerator [IGNORES COVER, TORRENT]
+Psilencer [PSYCHIC, SUSTAINED HITS 1]
+Psycannon [PSYCHIC]
+Storm bolter [RAPID FIRE 2]
+
+MELEE WEAPONS
+Nemesis force weapon [PSYCHIC]
+
+RANGE
+
+12"
+24"
+24"
+24"
+
+RANGE
+Melee
+
+A
+D6
+6
+3
+2
+
+A
+4
+
+BS
+N/A
+3+
+3+
+3+
+
+WS
+3+
+
+S
+6
+5
+8
+4
+
+S
+6
+
+AP
+-1
+0
+-1
+0
+
+AP
+-2
+
+D
+1
+1
+2
+1
+
+D
+2
+
+ABILITIES
+
+CORE: Deep Strike
+
+FACTION: Teleport Assault
+
+Hammerhand (Psychic): Each time a model in this unit 
+makes a Charge move, until the end of the turn, melee 
+weapons equipped by models in this unit have the 
+[LETHAL HITS] ability.
+
+WARGEAR ABILITIES
+
+Ancient’s Banner: Add 1 to the Objective Control characteristic 
+of models in the bearer’s unit.
+
+Narthecium: In your Command phase, you can return 
+1 destroyed model (excluding Characters) to the 
+bearer’s unit.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Infantry, Battleline, Psyker, Terminator, Grenades, Imperium, 
+
+Brotherhood Terminator Squad
+
+FACTION KEYWORDS:  
+Grey Knights
+
+BROTHERHOOD TERMINATOR SQUAD
+Brotherhood Terminators form the steel heart of many Grey Knights 
+strikes. Shielded by thick armour plates, each is a warrior of immense 
+physical and mental fortitude. They often teleport directly into battle, 
+unleashing sanctified bolts before cleaving apart the spawn of the warp 
+with blazing Nemesis force weapons.
+
+WARGEAR OPTIONS
+
+ ■    For every 5 models in this unit, 1 Brotherhood Terminator’s storm bolter can be replaced with one of 
+
+the following: 
+ ◦ 1 incinerator
+ ◦ 1 psilencer
+ ◦ 1 psycannon
+
+ ■  1 Brotherhood Terminator equipped with a storm bolter can be equipped with 1 Ancient’s banner.*
+ ■ 1 Brotherhood Terminator can have its storm bolter replaced with 1 narthecium.*
+*You cannot select both of these options for the same model.
+
+UNIT COMPOSITION
+
+ ■ 1 Terminator Justicar
+ ■ 4-9 Brotherhood Terminators
+Every model is equipped with: storm bolter; 
+Nemesis force weapon.
+
+KEYWORDS:  Infantry, Battleline, Psyker, Terminator, Grenades, Imperium, 
+
+Brotherhood Terminator Squad
+
+FACTION KEYWORDS:  
+Grey Knights
+
+STRIKE SQUAD
+
+M
+
+6"
+
+T
+
+4
+
+SV
+
+2+
+
+W
+
+2
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Incinerator [IGNORES COVER, TORRENT]
+Psilencer [PSYCHIC, SUSTAINED HITS 1]
+Psycannon [PSYCHIC]
+Storm bolter [RAPID FIRE 2]
+
+MELEE WEAPONS
+Close combat weapon
+Nemesis force weapon [PSYCHIC]
+
+RANGE
+
+12"
+24"
+24"
+24"
+
+RANGE
+Melee
+Melee
+
+A
+D6
+6
+3
+2
+
+A
+3
+3
+
+BS
+N/A
+3+
+3+
+3+
+
+WS
+3+
+3+
+
+S
+6
+5
+8
+4
+
+S
+4
+6
+
+AP
+-1
+0
+-1
+0
+
+AP
+0
+-2
+
+D
+1
+1
+2
+1
+
+D
+1
+2
+
+ABILITIES
+
+CORE: Deep Strike, Scouts 6"
+
+FACTION: Teleport Assault
+
+Sanctifying Ritual (Psychic): If you control an objective 
+marker at the end of your Command phase and this unit is 
+within range of that objective marker, that objective marker 
+remains under you control, even if you have no models within 
+range of it, until your opponent controls it at the start or end 
+of any turn.
+
+KEYWORDS: Infantry, Battleline, Psyker, Grenades, Imperium, Strike Squad
+
+FACTION KEYWORDS:  
+Grey Knights
+
+STRIKE SQUAD
+Strike Squads often form a vanguard, striking swiftly and slipping 
+through gaps in daemonic lines to seal warp portals or prevent 
+summoners escaping. Frequently attacking from fixed teleportariums 
+or rapid transports, they conduct vital reconnaissance, disrupt flanks 
+and blunt incursions with surgical strikes.
+
+WARGEAR OPTIONS
+
+ ■  For every 5 models in this unit, 1 Grey Knight’s storm bolter and Nemesis force weapon can be 
+
+replaced with one of the following: 
+ ◦ 1 incinerator and 1 close combat weapon
+ ◦ 1 psilencer and 1 close combat weapon
+ ◦ 1 psycannon and 1 close combat weapon
+
+ 
+
+UNIT COMPOSITION
+
+ ■ 1 Justicar
+ ■ 4-9 Grey Knights
+Every model is equipped with: storm bolter; 
+Nemesis force weapon.
+
+KEYWORDS: Infantry, Battleline, Psyker, Grenades, Imperium, Strike Squad
+
+FACTION KEYWORDS:  
+Grey Knights
+
+PALADIN SQUAD
+
+M
+
+5"
+
+T
+
+5
+
+SV
+
+2+
+
+W
+
+3
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Incinerator [IGNORES COVER, TORRENT]
+Psilencer [PSYCHIC, SUSTAINED HITS 1]
+Psycannon [PSYCHIC]
+Storm bolter [RAPID FIRE 2]
+
+MELEE WEAPONS
+Nemesis force weapon [PSYCHIC]
+
+RANGE
+
+12"
+24"
+24"
+24"
+
+RANGE
+Melee
+
+A
+D6
+6
+3
+2
+
+A
+4
+
+BS
+N/A
+2+
+2+
+2+
+
+WS
+2+
+
+S
+6
+5
+8
+4
+
+S
+6
+
+AP
+-1
+0
+-1
+0
+
+AP
+-2
+
+D
+1
+1
+2
+1
+
+D
+2
+
+ABILITIES
+
+CORE: Deep Strike
+
+FACTION: Teleport Assault
+
+Inner Fortitude (Psychic): Each time an attack targets this 
+unit, if the Strength characteristic of that attack is greater than 
+the Toughness characteristic of this unit, subtract 1 from the 
+Wound roll.
+
+WARGEAR ABILITIES
+
+Ancient’s Banner: Add 1 to the Objective Control characteristic 
+of models in the bearer’s unit.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Infantry, Psyker, Terminator, Grenades, Imperium, Paladin Squad
+
+FACTION KEYWORDS:  
+Grey Knights
+
+PALADIN SQUAD
+Amongst the greatest warriors in the Imperium, Paladins throw 
+themselves into combat against monstrous daemonic adversaries. 
+They are the staunchest warriors of the Grey Knights and exemplars 
+of martial might; each Paladin has banished one of the most powerful 
+daemons ever to manifest.
+
+WARGEAR OPTIONS
+
+ ■  For every 5 models in this unit, up to 2 Paladins can each have their storm bolter replaced with one of 
+
+the following: 
+ ◦ 1 incinerator
+ ◦ 1 psilencer
+ ◦ 1 psycannon
+
+ ■  1 Paladin equipped with a storm bolter and Nemesis force weapon can be equipped with 1 Ancient’s 
+
+banner. That model’s storm bolter can be replaced with one of the following:
+ ◦ 1 incinerator
+ ◦ 1 psilencer
+ ◦ 1 psycannon
+
+UNIT COMPOSITION
+
+ ■ 1 Paragon
+ ■ 4-9 Paladins
+Every model is equipped with: storm bolter; 
+Nemesis force weapon.
+
+KEYWORDS:  Infantry, Psyker, Terminator, Grenades, Imperium, Paladin Squad
+
+FACTION KEYWORDS:  
+Grey Knights
+
+PURIFIER SQUAD
+
+M
+
+6"
+
+T
+
+4
+
+SV
+
+2+
+
+W
+
+2
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Incinerator [IGNORES COVER, TORRENT]
+Psilencer [PSYCHIC, SUSTAINED HITS 1]
+Psycannon [PSYCHIC]
+Purifying Flame  
+[ANTI-INFANTRY 2+, IGNORES COVER, PSYCHIC]
+Storm bolter [RAPID FIRE 2]
+
+MELEE WEAPONS
+Close combat weapon
+Nemesis force weapon [PSYCHIC]
+
+RANGE
+
+12"
+24"
+24"
+
+18"
+
+24"
+
+RANGE
+Melee
+Melee
+
+A
+D6
+6
+3
+
+1
+
+2
+
+A
+3
+3
+
+BS
+N/A
+3+
+3+
+
+3+
+
+3+
+
+WS
+3+
+3+
+
+S
+6
+5
+8
+
+4
+
+4
+
+S
+4
+6
+
+AP
+-1
+0
+-1
+
+-1
+
+0
+
+AP
+0
+-2
+
+D
+1
+1
+2
+
+1
+
+1
+
+D
+1
+2
+
+ABILITIES
+
+CORE: Deep Strike
+
+FACTION: Teleport Assault
+
+Sanctity of Purpose: Each time a model in this unit makes 
+an attack, add 1 to the Hit roll if this unit is below its Starting 
+Strength, and add 1 to the Wound roll as well if this unit is 
+Below Half-strength.
+
+KEYWORDS: Infantry, Psyker, Grenades, Imperium, Purifier Squad
+
+FACTION KEYWORDS:  
+Grey Knights
+
+PURIFIER SQUAD
+The Order of Purifiers epitomise the Grey Knights’ sanctity of purpose. 
+They are incorruptible and fanatical, possessed of an untarnished 
+spirit. Teleported into the heart of daemonic legions, they often fight 
+as a spearhead from where they unleash a cleansing fire that sears 
+the corrupted to ash.
+
+WARGEAR OPTIONS
+
+ ■  For every 5 models in this unit, up to 2 Purifiers can each have their storm bolter and Nemesis force 
+
+weapon replaced with one of the following: 
+ ◦ 1 incinerator and 1 close combat weapon
+ ◦ 1 psilencer and 1 close combat weapon
+ ◦ 1 psycannon and 1 close combat weapon
+
+UNIT COMPOSITION
+
+ ■ 1 Knight of the Flame
+ ■ 4-9 Purifiers
+Every model is equipped with: Purifying Flame; storm bolter; 
+Nemesis force weapon.
+
+KEYWORDS: Infantry, Psyker, Grenades, Imperium, Purifier Squad
+
+FACTION KEYWORDS:  
+Grey Knights
+
+SERVITORS
+
+M
+
+6"
+
+T
+
+4
+
+SV
+
+4+
+
+W
+
+1
+
+LD
+
+8+
+
+OC
+
+0
+
+RANGED WEAPONS
+Heavy bolter [HEAVY, SUSTAINED HITS 1]
+Multi-melta [HEAVY, MELTA 2]
+Plasma cannon – standard [BLAST, HEAVY]
+Plasma cannon – supercharge 
+[BLAST, HAZARDOUS, HEAVY]
+
+MELEE WEAPONS
+Servitor’s servo-arm
+Servitor’s tools
+
+RANGE
+
+36"
+18"
+36"
+
+36"
+
+RANGE
+Melee
+Melee
+
+A
+3
+2
+D3
+
+D3
+
+A
+1
+1
+
+BS
+4+
+4+
+4+
+
+4+
+
+WS
+5+
+5+
+
+S
+5
+9
+7
+
+8
+
+S
+6
+3
+
+AP
+-1
+-4
+-2
+
+-3
+
+AP
+-2
+0
+
+D
+2
+D6
+1
+
+2
+
+D
+3
+1
+
+ABILITIES
+
+Mindlock: While a Brotherhood Techmarine model is 
+leading this unit, improve the Ballistic Skill and Weapon Skill 
+characteristics of ranged and melee weapons equipped by 
+Servitor models in this unit by 1.
+Retinue: While a Brotherhood Techmarine model is 
+leading this unit, models in this unit have the Deep Strike and 
+Teleport Assault abilities.
+
+INVULNERABLE SAVE
+
+6+
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Infantry, Imperium, Servitors
+
+FACTION KEYWORDS:  
+Grey Knights
+
+SERVITORS
+Some servitors were once serfs, failed aspirants or former allies, now 
+cyborgised with mechanical augmentation. Many have limbs replaced 
+with servo-arms or heavy weapons, employed to defend or aid their 
+Techmarine masters during repairs. The brutal mind-wiping process 
+ensures none ever reveal what they have witnessed.
+
+WARGEAR OPTIONS
+
+ ■   Up to 2 models can each have their Servitor’s servo-arm replaced with one of the following: 
+
+ ◦ 1 heavy bolter and 1 Servitor’s tools
+ ◦ 1 multi-melta and 1 Servitor’s tools
+ ◦ 1 plasma cannon and 1 Servitor’s tools
+
+UNIT COMPOSITION
+
+ ■ 4 Servitors
+Every model is equipped with: Servitor’s servo-arm.
+
+SERVITOR RETINUE
+
+At the start of the Declare Battle Formations step, this unit 
+can join one other unit from your army that is being led by a 
+Brotherhood Techmarine (a unit cannot have more than 
+one Servitors unit joined to it). If it does, until the end of the 
+battle, every model in this unit counts as being part of that 
+Bodyguard unit, and that Bodyguard unit’s Starting Strength is 
+increased accordingly.
+
+KEYWORDS: Infantry, Imperium, Servitors
+
+FACTION KEYWORDS:  
+Grey Knights
+
+GREY KNIGHTS VENERABLE DREADNOUGHT
+
+M
+
+6"
+
+T
+
+9
+
+SV
+
+2+
+
+W
+
+8
+
+LD
+
+6+
+
+OC
+
+3
+
+RANGED WEAPONS
+Assault cannon [DEVASTATIG WOUNDS] 
+Heavy flamer [TORRENT, IGNORES COVER]
+Heavy plasma cannon – standard 
+[BLAST]
+Heavy plasma cannon – supercharge 
+[BLAST, HAZARDOUS]
+Missile launcher – frag [BLAST]
+Missile launcher – krak
+Multi-melta [MELTA 2]
+Storm bolter [RAPID FIRE 2]
+Twin lascannon [TWIN-LINKED]
+
+MELEE WEAPONS
+Armoured feet
+Dreadnought combat weapon 
+
+RANGE
+
+24"
+12"
+
+36"
+
+36"
+
+48"
+48"
+18"
+24"
+48"
+
+RANGE
+Melee
+Melee
+
+A
+6
+D6
+
+D3
+
+D3
+
+D6
+1
+2
+2
+1
+
+A
+5
+5
+
+BS
+3+
+N/A
+
+3+
+
+3+
+
+3+
+3+
+3+
+2+
+3+
+
+WS
+3+
+3+
+
+S
+6
+5
+
+7
+
+8
+
+4
+9
+9
+4
+12
+
+S
+6
+12
+
+AP
+0
+-1
+
+-2
+
+-3
+
+0
+-2
+-4
+0
+-3
+
+AP
+0
+-2
+
+D
+1
+1
+
+2
+
+3
+
+1
+D6
+D6
+1
+
+D6+1
+
+D
+1
+3
+
+ABILITIES
+
+CORE: Deadly Demise 1
+
+Wisdom of the Ancients (Aura): While a friendly Grey 
+Knights Infantry unit is within 6" of this model, each time 
+a model in that unit makes an attack, re-roll a Hit roll of 1 and 
+re-roll a Wound roll of 1.
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:   Vehicle, Walker, Psyker, Smoke, Imperium,  
+
+Venerable Dreadnought
+
+FACTION KEYWORDS:  
+Grey Knights
+
+GREY KNIGHTS VENERABLE DREADNOUGHT
+Venerable Dreadnoughts house truly ancient champions whose 
+revered belligerence endures war after war. Their strategic acumen 
+and wisdom of ancient horrors banished in past battles is respectfully 
+sought, but they still take to the battlefield with a stoic resolve, and to 
+fight alongside these living legends is a high honour.
+
+WARGEAR OPTIONS
+
+ ■     This model’s assault cannon can be replaced with one of the following: 
+
+ ◦ 1 heavy plasma cannon
+ ◦ 1 multi-melta
+ ◦ 1 twin lascannon
+
+ ■  This model’s storm bolter and Dreadnought combat weapon can be replaced with one of the following: 
+
+ ◦  1 missile launcher and 1 armoured feet
+ ◦  1 heavy flamer and 1 Dreadnought combat weapon
+
+UNIT COMPOSITION
+
+ ■ 1 Venerable Dreadnought
+This model is equipped with: assault cannon; storm bolter; 
+Dreadnought combat weapon.
+
+KEYWORDS:   Vehicle, Walker, Psyker, Smoke, Imperium,  
+
+Venerable Dreadnought
+
+FACTION KEYWORDS:  
+Grey Knights
+
+INTERCEPTOR SQUAD
+
+M
+
+12"
+
+T
+
+4
+
+SV
+
+2+
+
+W
+
+2
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Incinerator [IGNORES COVER, TORRENT]
+Psilencer [PSYCHIC, SUSTAINED HITS 1]
+Psycannon [PSYCHIC]
+Storm bolter [RAPID FIRE 2]
+
+MELEE WEAPONS
+Close combat weapon
+Nemesis force weapon [PSYCHIC]
+
+RANGE
+
+12"
+24"
+24"
+24"
+
+RANGE
+Melee
+Melee
+
+A
+D6
+6
+3
+2
+
+A
+3
+3
+
+BS
+N/A
+3+
+3+
+3+
+
+WS
+3+
+3+
+
+S
+6
+5
+8
+4
+
+S
+4
+6
+
+AP
+-1
+0
+-1
+0
+
+AP
+0
+-2
+
+D
+1
+1
+2
+1
+
+D
+1
+2
+
+ABILITIES
+
+CORE: Deep Strike
+
+FACTION: Teleport Assault
+
+Personal Teleporters: In your Shooting phase, after this unit 
+has shot, if it is not within Engagement Range of one or more 
+enemy units, it can make a Normal move of up to 6" as if it 
+were your Movement phase. If it does, until the end of the 
+turn, this unit is not eligible to declare a charge.
+
+KEYWORDS: Infantry, Psyker, Fly, Grenades, Imperium, Interceptor Squad
+
+FACTION KEYWORDS:  
+Grey Knights
+
+INTERCEPTOR SQUAD
+Bearing personal teleporters, Interceptors jump across the battlefield 
+in a series of rapid, site-to-site teleportations, redeploying at speed 
+or hunting down swift foes. Arriving in a blaze of light, they turn their 
+weapons and powers on stunned enemies in a storm of death, before 
+vanishing as swiftly as they arrived.
+
+WARGEAR OPTIONS
+
+ ■  For every 5 models in this unit, 1 Interceptor’s storm bolter and Nemesis force weapon can be 
+
+replaced with one of the following: 
+ ◦ 1 incinerator and 1 close combat weapon
+ ◦ 1 psilencer and 1 close combat weapon
+ ◦ 1 psycannon and 1 close combat weapon
+
+UNIT COMPOSITION
+
+ ■ 1 Interceptor Justicar
+ ■ 4-9 Interceptors
+Every model is equipped with: storm bolter; 
+Nemesis force weapon.
+
+KEYWORDS: Infantry, Psyker, Fly, Grenades, Imperium, Interceptor Squad
+
+FACTION KEYWORDS:  
+Grey Knights
+
+PURGATION SQUAD
+
+M
+
+6"
+
+T
+
+4
+
+SV
+
+2+
+
+W
+
+2
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Incinerator [IGNORES COVER, TORRENT]
+Psilencer [PSYCHIC, SUSTAINED HITS 1]
+Psycannon [PSYCHIC]
+Storm bolter [RAPID FIRE 2]
+
+MELEE WEAPONS
+Close combat weapon
+Nemesis force weapon [PSYCHIC]
+
+RANGE
+
+12"
+24"
+24"
+24"
+
+RANGE
+Melee
+Melee
+
+A
+D6
+6
+3
+2
+
+A
+3
+3
+
+BS
+N/A
+3+
+3+
+3+
+
+WS
+3+
+3+
+
+S
+6
+5
+8
+4
+
+S
+4
+6
+
+AP
+-1
+0
+-1
+0
+
+AP
+0
+-2
+
+D
+1
+1
+2
+1
+
+D
+1
+2
+
+ABILITIES
+
+CORE: Deep Strike
+
+FACTION: Teleport Assault
+
+Astral Aim (Psychic): In your Shooting phase, ranged 
+weapons equipped by models in this unit have the 
+[INDIRECT FIRE] ability, provided the target of that weapon 
+is visible to one or more other friendly Grey Knights 
+Psyker units.
+
+KEYWORDS: Infantry, Psyker, Grenades, Imperium, Purgation Squad
+
+FACTION KEYWORDS:  
+Grey Knights
+
+PURGATION SQUAD
+Purgation Squads keep pace with the main attack, supporting their 
+brother knights with fearsome torrents of arcane weapons fire. Their 
+psychic senses cleave through the warp to discern their foes, enabling 
+seemingly impossible shots that cleanse shadowy lairs and fortified 
+hideaways of daemons.
+
+WARGEAR OPTIONS
+
+ ■  Up to 4 Purgators can each have their storm bolter and Nemesis force weapon replaced with one of 
+
+the following: 
+ ◦ 1 incinerator and 1 close combat weapon
+ ◦ 1 psilencer and 1 close combat weapon
+ ◦ 1 psycannon and 1 close combat weapon
+
+UNIT COMPOSITION
+
+ ■ 1 Purgator Justicar
+ ■ 4-9 Purgators
+Every model is equipped with: storm bolter; 
+Nemesis force weapon.
+
+KEYWORDS: Infantry, Psyker, Grenades, Imperium, Purgation Squad
+
+FACTION KEYWORDS:  
+Grey Knights
+
+NEMESIS DREADKNIGHT
+
+M
+
+8"
+
+T
+
+8
+
+SV
+
+2+
+
+W
+
+13
+
+LD
+
+6+
+
+OC
+
+4
+
+RANGED WEAPONS
+Gatling psilencer [PSYCHIC, SUSTAINED HITS 1]
+Heavy incinerator [IGNORES COVER, TORRENT]
+Heavy psycannon [PSYCHIC]
+
+MELEE WEAPONS
+Dreadfists 
+Nemesis daemon greathammer [PSYCHIC]
+Nemesis greatsword – strike [PSYCHIC]
+Nemesis greatsword – sweep [PSYCHIC]
+
+RANGE
+
+24"
+18"
+24"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+
+A
+12
+2D6
+6
+
+A
+6
+5
+5
+10
+
+BS
+3+
+N/A
+3+
+
+WS
+3+
+4+
+3+
+3+
+
+S
+6
+6
+10
+
+S
+6
+14
+10
+5
+
+AP
+0
+-1
+-1
+
+AP
+-1
+-3
+-2
+-1
+
+D
+1
+1
+3
+
+D
+1
+
+D6+1
+D6
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3, Deep Strike
+
+FACTION: Teleport Assault
+
+Empyric Reprisal (Psychic): This model is eligible to shoot 
+and declare a charge in a turn in which it Advanced or 
+Fell Back.
+
+DAMAGED: 1-4 WOUNDS REMAINING
+
+While this model has 1-4 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE
+
+4+
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Vehicle, Walker, Psyker, Imperium, Nemesis Dreadknight
+
+FACTION KEYWORDS:  
+Grey Knights
+
+NEMESIS DREADKNIGHT
+The pilot of a Nemesis Dreadknight commands a towering exoskeleton 
+armoured in thrice-blessed bonded ceramite. Powered by his psychic 
+might, its heavy weapons scythe through warp-spawned hordes, while 
+with giant fists or enlarged force weapons it smashes daemon-infused 
+vehicles and titanic horrors to ruin.
+
+WARGEAR OPTIONS
+
+ ■   This model’s dreadfists can be replaced with one of the following:
+
+ ◦ 1 Nemesis daemon greathammer
+ ◦ 1 Nemesis greatsword
+
+ ■  This model can be equipped with up to two of the following, but cannot take duplicates: 
+
+ ◦ 1 gatling psilencer
+ ◦ 1 heavy incinerator
+ ◦ 1 heavy psycannon
+
+UNIT COMPOSITION
+
+ ■ 1 Nemesis Dreadknight
+This model is equipped with: dreadfists.
+
+KEYWORDS: Vehicle, Walker, Psyker, Imperium, Nemesis Dreadknight
+
+FACTION KEYWORDS:  
+Grey Knights
+
+GREY KNIGHTS LAND RAIDER
+
+M
+
+T
+
+10" 12
+
+SV
+
+2+
+
+W
+
+16
+
+LD
+
+6+
+
+OC
+
+5
+
+RANGE
+
+A
+RANGED WEAPONS
+2
+Godhammer lascannon 
+1
+Hunter-killer missile [ONE SHOT]
+One Shot: The bearer can only shoot with this weapon once per battle.
+2
+Multi-melta [MELTA 2]
+2
+Storm bolter [RAPID FIRE 2]
+3
+Twin heavy bolter [SUSTAINED HITS 1, TWIN-LINKED]
+
+18"
+24"
+36"
+
+48"
+48"
+
+MELEE WEAPONS
+Armoured tracks 
+
+RANGE
+Melee
+
+A
+6
+
+BS
+3+
+2+
+
+3+
+3+
+3+
+
+WS
+4+
+
+S
+12
+14
+
+9
+4
+5
+
+S
+8
+
+AP
+-3
+-3
+
+-4
+0
+-1
+
+AP
+0
+
+D
+D6+1
+D6
+
+D6
+1
+2
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D6
+
+Assault Ramp: Each time a unit disembarks from this model 
+after it has made a Normal move, that unit is still eligible to 
+declare a charge this turn.
+
+DAMAGED: 1-5 WOUNDS REMAINING
+
+While this model has 1-5 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+KEYWORDS: Vehicle, Transport, Smoke, Imperium, Land Raider
+
+FACTION KEYWORDS:  
+Grey Knights
+
+GREY KNIGHTS LAND RAIDER
+The Land Raider is a near impregnable transport tank. Large enough 
+to carry Grey Knights wearing Terminator armour, it is yet no mere 
+conveyance. From within armoured housings its Godhammer-pattern 
+lascannons emit deadly spears of power and the roar of its heavy 
+bolters is likened by its crew to the growl of its machine spirit.
+
+WARGEAR OPTIONS
+
+ ■   This model can be equipped with 1 hunter-killer missile.
+ ■ This model can be equipped with 1 multi-melta. 
+ ■ This model can be equipped with 1 storm bolter.
+
+UNIT COMPOSITION
+
+ ■ 1 Land Raider
+This model is equipped with: 2 godhammer lascannons; 
+twin heavy bolter; armoured tracks.
+
+TRANSPORT
+
+This model has a transport capacity of 12 Grey Knights 
+Infantry models. Each Terminator model takes up the 
+space of 2 models.
+
+KEYWORDS: Vehicle, Transport, Smoke, Imperium, Land Raider
+
+FACTION KEYWORDS:  
+Grey Knights
+
+GREY KNIGHTS LAND RAIDER CRUSADER
+
+M
+
+T
+
+10" 12
+
+SV
+
+2+
+
+W
+
+16
+
+LD
+
+6+
+
+OC
+
+5
+
+RANGE
+
+A
+RANGED WEAPONS
+Hunter-killer missile [ONE SHOT]
+1
+One Shot: The bearer can only shoot with this weapon once per battle.
+6
+Hurricane bolter [RAPID FIRE 6, TWIN-LINKED]
+2
+Multi-melta [MELTA 2]
+2
+Storm bolter [RAPID FIRE 2]
+Twin assault cannon 
+[DEVASTATING WOUNDS, TWIN-LINKED]
+
+24"
+18"
+24"
+
+48"
+
+24"
+
+6
+
+MELEE WEAPONS
+Armoured tracks 
+
+RANGE
+Melee
+
+A
+6
+
+BS
+2+
+
+3+
+3+
+3+
+
+3+
+
+WS
+4+
+
+S
+14
+
+4
+9
+4
+
+6
+
+S
+8
+
+AP
+-3
+
+0
+-4
+0
+
+0
+
+AP
+0
+
+D
+D6
+
+1
+D6
+1
+
+1
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D6
+
+Assault Ramp: Each time a unit disembarks from this model 
+after it has made a Normal move, that unit is still eligible to 
+declare a charge this turn.
+
+DAMAGED: 1-5 WOUNDS REMAINING
+
+While this model has 1-5 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+KEYWORDS:  Vehicle, Transport, Smoke, Grenades, Imperium,  
+
+Land Raider, Crusader
+
+FACTION KEYWORDS:  
+Grey Knights
+
+GREY KNIGHTS LAND RAIDER CRUSADER
+From its enlarged troop compartment, the Land Raider Crusader 
+delivers a potent cargo of warriors into the presence of the foulest of 
+daemons. All the while, the tank’s hurricane bolters and twin assault 
+cannons tear apart whole swathes of the Chaos Gods’ servants.
+
+WARGEAR OPTIONS
+
+ ■     This model can be equipped with 1 hunter-killer missile.
+ ■ This model can be equipped with 1 multi-melta. 
+ ■ This model can be equipped with 1 storm bolter.
+
+UNIT COMPOSITION
+
+ ■ 1 Land Raider Crusader
+This model is equipped with: 2 hurricane bolters;  
+twin assault cannon; armoured tracks.
+
+TRANSPORT
+
+This model has a transport capacity of 16 Grey Knights 
+Infantry models. Each Terminator model takes up the 
+space of 2 models.
+
+KEYWORDS:  Vehicle, Transport, Smoke, Grenades, Imperium,  
+
+Land Raider, Crusader
+
+FACTION KEYWORDS:  
+Grey Knights
+
+GREY KNIGHTS LAND RAIDER REDEEMER
+
+M
+
+T
+
+10" 12
+
+SV
+
+2+
+
+W
+
+16
+
+LD
+
+6+
+
+OC
+
+5
+
+A
+
+RANGE
+
+RANGED WEAPONS
+Flamestorm cannon [IGNORES COVER, TORRENT]
+1
+Hunter-killer missile [ONE SHOT]
+One Shot: The bearer can only shoot with this weapon once per battle.
+2
+Multi-melta [MELTA 2]
+2
+Storm bolter [RAPID FIRE 2]
+Twin assault cannon 
+[DEVASTATING WOUNDS, TWIN-LINKED]
+
+12"
+48"
+
+18"
+24"
+
+24"
+
+6
+
+D6+3
+
+MELEE WEAPONS
+Armoured tracks 
+
+RANGE
+Melee
+
+A
+6
+
+BS
+N/A
+2+
+
+3+
+3+
+
+3+
+
+WS
+4+
+
+S
+6
+14
+
+9
+4
+
+6
+
+S
+8
+
+AP
+-2
+-3
+
+-4
+0
+
+0
+
+AP
+0
+
+D
+2
+D6
+
+D6
+1
+
+1
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D6
+
+Assault Ramp: Each time a unit disembarks from this model 
+after it has made a Normal move, that unit is still eligible to 
+declare a charge this turn.
+
+DAMAGED: 1-5 WOUNDS REMAINING
+
+While this model has 1-5 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+KEYWORDS:  Vehicle, Transport, Smoke, Grenades, Imperium,  
+
+Land Raider, Redeemer
+
+FACTION KEYWORDS:  
+Grey Knights
+
+GREY KNIGHTS LAND RAIDER REDEEMER
+The Land Raider Redeemer is armed with flamestorm cannons that 
+it uses to burn the stain of the daemonic clean. This brutal assault 
+vehicle dominates urban warfare, spraying promethium from its 
+flamestorm cannons and bursts of shot from assault cannons, 
+before unleashing its payload of Grey Knights to purge the survivors.
+
+WARGEAR OPTIONS
+
+ ■   This model can be equipped with 1 hunter-killer missile.
+ ■ This model can be equipped with 1 multi-melta. 
+ ■ This model can be equipped with 1 storm bolter.
+
+ 
+
+UNIT COMPOSITION
+
+ ■ 1 Land Raider Redeemer
+This model is equipped with: 2 flamestorm cannons; 
+twin assault cannon; armoured tracks.
+
+TRANSPORT
+
+This model has a transport capacity of 14 Grey Knights 
+Infantry models. Each Terminator model takes up the 
+space of 2 models.
+
+KEYWORDS:  Vehicle, Transport, Smoke, Grenades, Imperium,  
+
+Land Raider, Redeemer
+
+FACTION KEYWORDS:  
+Grey Knights
+
+GREY KNIGHTS RHINO
+
+M
+
+12"
+
+T
+
+9
+
+SV
+
+3+
+
+W
+
+10
+
+LD
+
+6+
+
+OC
+
+2
+
+A
+RANGED WEAPONS
+Hunter-killer missile [ONE SHOT]
+1
+One Shot: The bearer can only shoot with this weapon once per battle.
+2
+Storm bolter [RAPID FIRE 2]
+
+RANGE
+
+48"
+
+24"
+
+MELEE WEAPONS
+Armoured tracks 
+
+RANGE
+Melee
+
+A
+3
+
+BS
+2+
+
+3+
+
+WS
+4+
+
+S
+14
+
+4
+
+S
+6
+
+AP
+-3
+
+0
+
+AP
+0
+
+D
+D6
+
+1
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3, Firing Deck 2
+
+Self Repair: At the start of your Command phase, this model 
+regains 1 lost wound.
+
+KEYWORDS:   Vehicle, Transport, Dedicated Transport, Smoke, Imperium, Rhino
+
+FACTION KEYWORDS:  
+Grey Knights
+
+GREY KNIGHTS RHINO
+The Rhino is an ancient design of transport that has supported Space 
+Marines for millennia. Its rugged and reliable systems are vital for 
+surviving the mutating landscapes of daemon worlds the Grey Knights 
+sometimes fight across, while the warriors inside are shielded by thick 
+armour and a warded truesilver mesh.
+
+WARGEAR OPTIONS
+
+ ■     This model can be equipped with 1 hunter-killer missile.
+ ■  This model can be equipped with 1 additional storm bolter. 
+
+UNIT COMPOSITION
+
+ ■ 1 Rhino
+This model is equipped with: storm bolter; armoured tracks.
+
+TRANSPORT
+
+This model has a transport capacity of 12 Grey Knights 
+Infantry models. It cannot transport Terminator models.
+
+KEYWORDS:   Vehicle, Transport, Dedicated Transport, Smoke, Imperium, Rhino
+
+FACTION KEYWORDS:  
+Grey Knights
+
+GREY KNIGHTS RAZORBACK
+
+M
+
+12"
+
+T
+
+9
+
+SV
+
+3+
+
+W
+
+10
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGE
+
+A
+RANGED WEAPONS
+Hunter-killer missile [ONE SHOT]
+1
+One Shot: The bearer can only shoot with this weapon once per battle.
+2
+Storm bolter [RAPID FIRE 2]
+Twin assault cannon 
+[DEVASTATING WOUNDS, TWIN-LINKED]
+Twin heavy bolter [SUSTAINED HITS 1, TWIN-LINKED]
+Twin lascannon [TWIN-LINKED]
+
+36"
+48"
+
+48"
+
+24"
+
+24"
+
+3
+1
+
+6
+
+MELEE WEAPONS
+Armoured tracks 
+
+RANGE
+Melee
+
+A
+3
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+Fire Support: In your Shooting phase, after this model has 
+shot, select one enemy unit it scored one or more hits against 
+this phase. Until the end of the phase, each time a friendly 
+model that disembarked from this Transport this turn makes 
+an attack that targets that enemy unit, you can re-roll the 
+Wound roll.
+
+BS
+2+
+
+3+
+
+3+
+
+3+
+3+
+
+WS
+4+
+
+S
+14
+
+4
+
+6
+
+5
+12
+
+S
+6
+
+AP
+-3
+
+0
+
+0
+
+-1
+-3
+
+AP
+0
+
+D
+D6
+
+1
+
+1
+
+2
+
+D6+1
+
+D
+1
+
+KEYWORDS:   Vehicle, Transport, Dedicated Transport, Smoke, Imperium, 
+
+Razorback
+
+FACTION KEYWORDS:  
+Grey Knights
+
+GREY KNIGHTS RAZORBACK
+Razorbacks are sturdy armoured transports that combine speed with 
+the support of powerful heavy weapons, ideal for surgical strikes and 
+swift feints. Secure within its adamantine-encased hull, a squad of 
+Grey Knights can advance rapidly and strike exposed foes, while the 
+Razorback’s turret engages additional targets.
+
+WARGEAR OPTIONS
+
+ ■ This model can be equipped with 1 hunter-killer missile.
+ ■  This model can be equipped with 1 storm bolter.
+ ■   This model’s twin heavy bolter can be replaced with one of the following:
+
+ ◦ 1 twin assault cannon
+ ◦ 1 twin lascannon
+
+UNIT COMPOSITION
+
+ ■ 1 Razorback
+This model is equipped with: twin heavy bolter; 
+armoured tracks.
+
+TRANSPORT
+
+This model has a transport capacity of 6 Grey Knights 
+Infantry models. It cannot transport Terminator models.
+
+KEYWORDS:   Vehicle, Transport, Dedicated Transport, Smoke, Imperium, 
+
+Razorback
+
+FACTION KEYWORDS:  
+Grey Knights
+
+GREY KNIGHTS STORMHAWK INTERCEPTOR
+
+M
+
+20+"
+
+T
+
+9
+
+SV
+
+3+
+
+W
+
+10
+
+LD
+
+6+
+
+OC
+
+0
+
+RANGED WEAPONS
+Icarus stormcannon [ANTI-FLY 2+]
+Las-talon 
+Skyhammer missile launcher [ANTI-FLY 2+]
+Twin assault cannon 
+[DEVASTATING WOUNDS, TWIN-LINKED]
+Twin heavy bolter [SUSTAINED HITS 1, TWIN-LINKED]
+Typhoon missile launcher – frag [BLAST]
+Typhoon missile launcher – krak 
+
+MELEE WEAPONS
+Armoured hull 
+
+RANGE
+
+48"
+24"
+48"
+
+24"
+
+36"
+48"
+48"
+
+RANGE
+Melee
+
+A
+6
+2
+3
+
+6
+
+3
+2D6
+2
+
+A
+3
+
+BS
+3+
+3+
+3+
+
+3+
+
+3+
+3+
+3+
+
+WS
+4+
+
+S
+7
+10
+8
+
+6
+
+5
+4
+9
+
+S
+6
+
+AP
+-1
+-3
+-1
+
+0
+
+-1
+0
+-2
+
+AP
+0
+
+D
+2
+
+D6+1
+D3
+
+1
+
+2
+1
+D6
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3, Hover
+
+Interceptor: Each time this model makes a ranged attack that 
+targets a unit that can Fly, add 1 to the Hit roll.
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Vehicle, Aircraft, Fly, Smoke, Imperium, Stormhawk Interceptor
+
+FACTION KEYWORDS:  
+Grey Knights
+
+GREY KNIGHTS STORMHAWK INTERCEPTOR
+Squadrons of Stormhawk Interceptors – such as the Andaemus 
+Flight – operate at lightning-fast speeds even through warptortured 
+skies. Designed to achieve aerial supremacy at high altitudes, 
+the psychic pilots of these aircraft duel not with blades but with 
+batteries of missiles and rapid-firing cannons.
+
+WARGEAR OPTIONS
+
+ ■  This model’s las-talon can be replaced with 1 icarus stormcannon.    
+ ■ This model’s skyhammer missile launcher can be replaced with one of the following: 
+
+ ◦ 1 twin heavy bolter
+ ◦ 1 typhoon missile launcher
+
+UNIT COMPOSITION
+
+ ■ 1 Stormhawk Interceptor
+This model is equipped with: las-talon; skyhammer missile 
+launcher; twin assault cannon; armoured hull.
+
+KEYWORDS: Vehicle, Aircraft, Fly, Smoke, Imperium, Stormhawk Interceptor
+
+FACTION KEYWORDS:  
+Grey Knights
+
+GREY KNIGHTS STORMTALON GUNSHIP
+
+M
+
+20+"
+
+T
+
+8
+
+SV
+
+3+
+
+W
+
+10
+
+LD
+
+6+
+
+OC
+
+0
+
+RANGED WEAPONS
+Skyhammer missile launcher [ANTI-FLY 2+]
+Twin assault cannon 
+[DEVASTATING WOUNDS, TWIN-LINKED]
+Twin heavy bolter [SUSTAINED HITS 1, TWIN-LINKED]
+Twin lascannon [TWIN-LINKED]
+Typhoon missile launcher – frag [BLAST]
+Typhoon missile launcher – krak 
+
+MELEE WEAPONS
+Armoured hull 
+
+RANGE
+
+48"
+
+24"
+
+36"
+48"
+48"
+48"
+
+RANGE
+Melee
+
+A
+3
+
+6
+
+3
+1
+2D6
+2
+
+A
+3
+
+BS
+3+
+
+3+
+
+3+
+3+
+3+
+3+
+
+WS
+4+
+
+S
+8
+
+6
+
+5
+12
+4
+9
+
+S
+6
+
+AP
+-1
+
+0
+
+-1
+-3
+0
+-2
+
+AP
+0
+
+D
+D3
+
+1
+
+2
+
+D6+1
+
+1
+D6
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3, Hover
+
+Strafing Run: Each time this model makes a ranged attack 
+that targets a unit that cannot Fly, add 1 to the Hit roll.
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Vehicle, Aircraft, Fly, Imperium, Stormtalon Gunship
+
+FACTION KEYWORDS:  
+Grey Knights
+
+GREY KNIGHTS STORMTALON GUNSHIP
+Stormtalon Gunships are highly manoeuvrable aircraft as versatile 
+in role as in their choice of target. Often running escort duties for 
+larger craft, they hunt down warp-spawned foes. Using vectored 
+afterburners, their pilots unleash ground attacks, saturating 
+teleportation zones with fire and clearing them for their brothers.
+
+WARGEAR OPTIONS
+
+ ■   This model’s skyhammer missile launcher can be replaced with one of the following: 
+
+ ◦ 1 twin heavy bolter
+ ◦ 1 twin lascannon
+ ◦ 1 typhoon missile launcher
+
+UNIT COMPOSITION
+
+ ■ 1 Stormtalon Gunship
+This model is equipped with: skyhammer missile launcher; 
+twin assault cannon; armoured hull.
+
+KEYWORDS: Vehicle, Aircraft, Fly, Imperium, Stormtalon Gunship
+
+FACTION KEYWORDS:  
+Grey Knights
+
+GREY KNIGHTS STORMRAVEN GUNSHIP
+
+M
+
+20+"
+
+T
+
+10
+
+SV
+
+3+
+
+W
+
+14
+
+LD
+
+6+
+
+OC
+
+0
+
+RANGED WEAPONS
+Hurricane bolter [RAPID FIRE 6, TWIN-LINKED]
+Stormstrike missile launcher 
+Twin assault cannon 
+[DEVASTATING WOUNDS, TWIN-LINKED]
+Twin heavy bolter [SUSTAINED HITS 1, TWIN-LINKED]
+Twin heavy plasma cannon – standard 
+[BLAST, TWIN-LINKED]
+Twin heavy plasma cannon – supercharge 
+[BLAST, HAZARDOUS, TWIN-LINKED]
+Twin lascannon [TWIN-LINKED]
+Twin multi-melta [MELTA 2, TWIN-LINKED]
+Typhoon missile launcher – frag [BLAST]
+Typhoon missile launcher – krak 
+
+RANGE
+
+24"
+48"
+
+24"
+
+36"
+
+36"
+
+36"
+
+48"
+18"
+48"
+48"
+
+MELEE WEAPONS
+Armoured hull 
+
+RANGE
+Melee
+
+A
+6
+1
+
+6
+
+3
+
+3
+
+3
+
+1
+2
+2D6
+2
+
+A
+6
+
+BS
+3+
+3+
+
+3+
+
+3+
+
+3+
+
+3+
+
+3+
+3+
+3+
+3+
+
+WS
+4+
+
+S
+4
+10
+
+6
+
+5
+
+7
+
+8
+
+12
+9
+4
+9
+
+S
+8
+
+AP
+0
+-3
+
+0
+
+-1
+
+-2
+
+-3
+
+-3
+-4
+0
+-2
+
+D
+1
+
+D6+2
+
+1
+
+2
+
+2
+
+3
+
+D6+1
+D6
+1
+D6
+
+AP
+0
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D6, Hover
+
+Armoured Resilience: Each time an attack is allocated to 
+this model, subtract 1 from the Damage characteristic of 
+that attack.
+
+DAMAGED: 1-5 WOUNDS REMAINING
+
+While this model has 1-5 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Vehicle, Aircraft, Transport, Fly, Imperium, Stormraven Gunship
+
+FACTION KEYWORDS:  
+Grey Knights
+
+GREY KNIGHTS STORMRAVEN GUNSHIP
+Powerful close-support aircraft, Stormraven Gunships are capable of deploying 
+Grey Knights and even a revered Dreadnought where empyric disturbances prevent 
+teleportation. Resilient and bristling with heavy weapons, Stormravens excel in 
+armoured assaults and the fiery purgations of landing zones.
+
+WARGEAR OPTIONS
+
+ ■  This model can be equipped with 2 hurricane bolters.  
+ ■ This model’s twin assault cannon can be replaced with one of the following: 
+
+ ◦ 1 twin heavy plasma cannon
+ ◦ 1 twin lascannon
+
+ ■  This model’s typhoon missile launcher can be replaced with one of the following: 
+
+ ◦ 1 twin heavy bolter
+ ◦ 1 twin multi-melta
+
+UNIT COMPOSITION
+
+ ■ 1 Stormraven Gunship
+This model is equipped with: 2 stormstrike missile 
+launchers; twin assault cannon; typhoon missile launcher; 
+armoured hull.
+
+TRANSPORT
+
+This model has a transport capacity of 12 Grey Knights 
+Infantry models and 1 Grey Knights Venerable 
+Dreadnought model. Each Terminator model takes up the 
+space of 2 models.
+
+KEYWORDS:  Vehicle, Aircraft, Transport, Fly, Imperium, Stormraven Gunship
+
+FACTION KEYWORDS:  
+Grey Knights
+
+

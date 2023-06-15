@@ -1,0 +1,7997 @@
+CHAOS SPACE MARINES
+ARMY RULES
+
+Beseeching the Chaos Gods with fanatical fervour, 
+the profane champions of the Heretic Astartes pray 
+for diabolic boons, promising the vilest of offerings in 
+return for their power.
+
+DARK PACTS
+If your Army Faction is Heretic Astartes, each time a 
+unit with this ability is selected to shoot or fight, it can 
+make a Dark Pact. If it does, select one of the following 
+abilities for that unit’s weapons to gain until the end 
+of the phase:
+
+ ■ [LETHAL HITS]
+ ■ [SUSTAINED HITS 1]
+
+Each time a unit makes a Dark Pact, after it has 
+resolved its attacks, it must take a Leadership test; if 
+that test is failed, that unit suffers D3 mortal wounds.
+
+THE LOST AND THE DAMNED
+Some traitors have given themselves entirely 
+to the service of the Dark Gods, and they 
+are so lost to damnation that they barely 
+resemble the warriors they once were.
+
+If your Army Faction is Heretic Astartes, 
+you can include any of the following 
+units in your army, and when you do so 
+their Faction keywords are replaced with 
+Heretic Astartes:
+
+ ■ Khorne Berzerkers (see World Eaters)
+ ■ Rubric Marines (see Thousand Sons)
+ ■ Plague Marines (see Death Guard)
+
+The combined points value of such units you 
+can include in your army depends on the 
+battle size, as follows:
+
+ ■ Incursion: Up to 250 pts
+ ■ Strike Force: Up to 500 pts
+ ■ Onslaught: Up to 750 pts
+
+CHAOS SPACE MARINES – SLAVES TO DARKNESS
+DETACHMENT RULE
+
+If your Army Faction is Heretic Astartes, you can use this Slaves to Darkness 
+Detachment rule.
+
+MARKS OF CHAOS
+When mustering your army, each time you select a Heretic Astartes unit 
+to include in your army, if that unit is not an Epic Hero and does not already 
+have one or more of the keywords listed below, you must select one of the 
+keywords listed below for that unit to gain (note which units gain which 
+keywords in this way on your Army Roster). Each time a unit with one of 
+these keywords makes a Dark Pact, it gains the associated ability below until 
+the end of the phase.
+
+KEYWORD  
+Khorne  
+ 
+
+Tzeentch  
+
+ 
+
+Nurgle 
+
+ 
+
+Slaanesh 
+
+ 
+
+ABILITY
+ Blood Fury: In the Fight phase, if this unit’s weapons 
+gained the [LETHAL HITS] ability this phase as the 
+result of a Dark Pact, each time a model in this unit 
+makes an attack, an unmodified Hit roll of 5+ scores 
+a Critical Hit.
+
+ Warpfire: In the Shooting phase, if this unit’s 
+weapons gained the [LETHAL HITS] ability this phase 
+as the result of a Dark Pact, each time a model in this 
+unit makes an attack, an unmodified Hit roll of 5+ 
+scores a Critical Hit.
+
+ Spreading Sickness: In the Shooting phase, if this 
+unit’s weapons gained the [SUSTAINED HITS 1] ability 
+this phase as the result of a Dark Pact, each time a 
+model in this unit makes an attack, an unmodified 
+Hit roll of 5+ scores a Critical Hit.
+
+ Excessive Cruelty: In the Fight phase, if this unit’s 
+weapons gained the [SUSTAINED HITS 1] ability this 
+phase as the result of a Dark Pact, each time a model 
+in this unit makes an attack, an unmodified Hit roll of 
+5+ scores a Critical Hit. 
+
+Chaos Undivided  
+
+ Glory to Chaos: Each time a model in this unit makes 
+an attack, re-roll a Hit roll of 1.
+
+RESTRICTIONS
+ ■ You cannot select the Khorne keyword for a Psyker unit to gain.
+ ■   A Character unit with the Leader ability can only be attached to a 
+
+Bodyguard unit if both of those units share one of the same keywords from 
+the list above.
+
+CHAOS SPACE MARINES – SLAVES TO DARKNESS
+STRATAGEMS
+
+If you are using the Slaves to Darkness Detachment rule, you can use these Slaves to Darkness Stratagems.
+
+1CP
+
+ETERNAL HATE
+SLAVES TO DARKNESS – STRATEGIC PLOY STRATAGEM
+
+Heretic Astartes are fuelled by hate, a searing 
+spite that burns fiercely within them unto the 
+very moment of death. Even as their life force 
+pours from terrible wounds, this loathing can 
+drive them to fight on in a second wind of 
+wrath. Those Heretic Astartes in thrall to the 
+Blood God feel this enmity to an even greater 
+extent than others, exploding with violence 
+just as the enemy think they have finally 
+ended them.
+
+WHEN: Fight phase, just after an enemy unit 
+has selected its targets.
+TARGET: One Heretic Astartes unit from 
+your army that was selected as the target of 
+one or more of the attacking unit’s attacks.
+EFFECT: Until the end of the phase, each 
+time a model in your unit is destroyed, if that 
+model has not fought this phase, roll one 
+D6, adding 1 to the result if it is a Khorne 
+unit: on a 4+, do not remove it from play. That 
+destroyed model can fight after the attacking 
+model’s unit has finished making its attacks, 
+and is then removed from play.
+
+2CP
+
+1CP
+
+INFERNAL RITES
+SLAVES TO DARKNESS – BATTLE TACTIC STRATAGEM
+
+With gruesome offerings and ritualised 
+promises, the Chaos Space Marines seek 
+the protection of their infernal masters.
+
+WHEN:  Your opponent’s Shooting phase or 
+the Fight phase, just after an enemy unit 
+has selected its targets.
+TARGET: One Heretic Astartes unit 
+from your army that was selected as the 
+target of one or more of the attacking 
+unit’s attacks.
+EFFECT: Until the end of the phase, each 
+time an attack targets your unit, worsen 
+the Armour Penetration characteristic of 
+that attack by 1.
+
+PROFANE ZEAL
+SLAVES TO DARKNESS – BATTLE TACTIC STRATAGEM
+
+Fervent mortal followers flock to the 
+champions of Chaos, damning their souls 
+seeking promises of dark power.
+
+WHEN:  Your Shooting phase or the 
+Fight phase.
+TARGET: : One Heretic Astartes unit from 
+your army that has not been selected to 
+shoot or fight this phase.
+EFFECT: Until the end of the phase, each 
+time a model in your unit makes an 
+attack, re-roll a Hit roll of 1 and re-roll a 
+Wound roll of 1. If your unit is a Chaos 
+Undivided unit, you can instead re-roll 
+the Hit roll and you can re-roll the Wound 
+roll for that attack.
+
+CHAOS SPACE MARINES – SLAVES TO DARKNESS
+STRATAGEMS
+
+If you are using the Slaves to Darkness Detachment rule, you can use these Slaves to Darkness Stratagems.
+
+1CP
+
+DARK OBSCURATION
+SLAVES TO DARKNESS – STRATEGIC PLOY 
+STRATAGEM
+
+Choking fogs echoing with the screams 
+of tortured souls; dense clouds of bloated 
+flies; deluges of bloody rain; whirlwinds of 
+coruscating flames blazing in a thousand 
+hues. Such warp-born phenomena can 
+appear on the battlefield in an instant, 
+and disappear just as quickly. All serve 
+to obscure the Heretic Astartes from their 
+terrified foes.
+
+WHEN:  Your opponent’s Shooting phase, 
+just after an enemy unit has selected 
+its targets.
+TARGET: One Heretic Astartes unit 
+from your army that was selected as the 
+target of one or more of the attacking 
+unit’s attacks.
+EFFECT: Until the end of the phase, your 
+unit has the Stealth ability. In addition, if 
+your unit is a Nurgle unit, until the end of 
+the phase, your unit can only be selected 
+as the target of a ranged attack if the 
+attacking model is within 12".
+
+1CP
+
+1CP
+
+SKINSHIFT
+SLAVES TO DARKNESS – EPIC DEED STRATAGEM
+
+With the Dark Gods and the powers of the 
+warp on their side, Chaos Space Marines 
+can cheat death altogether. Their foes 
+look on in horror as killing wounds knit 
+themselves together in a cacophony 
+of hideous cracks and squelches and 
+shattered armour reforms. After such a 
+blessing, the Heretic Astartes are both 
+something far greater, and far less, than 
+what they once were.
+
+WHEN: Your Command phase.
+TARGET: One Heretic Astartes unit from 
+your army.
+EFFECT: One model in your unit regains 
+up to 3 lost wounds. In addition, if your 
+unit is a Tzeentch unit below its Starting 
+Strength, one destroyed model (excluding 
+Character models) is returned to your 
+unit with its full wounds remaining.
+
+UNNATURAL SWIFTNESS
+SLAVES TO DARKNESS – STRATEGIC  
+PLOY STRATAGEM
+
+Some Heretic Astartes appear to move 
+with a speed that should be impossible, 
+weapons and bodies seemingly moving 
+from one place to another in the blink of 
+an eye.
+
+WHEN: Your Movement phase.
+TARGET: One Heretic Astartes unit from 
+your army.
+EFFECT: Until the end of the turn, your unit 
+is eligible to shoot and declare a charge in 
+a turn in which it Fell Back. In addition, if 
+your unit is a Slaanesh unit, until the end 
+of the turn, your unit is eligible to shoot 
+and declare a charge in a turn in which 
+it Advanced.
+
+CHAOS SPACE MARINES – SLAVES TO DARKNESS
+ENHANCEMENTS
+
+If you are using the Slaves to Darkness Detachment rule, you can use these Slaves to Darkness Enhancements.
+TALISMAN OF BURNING BLOOD
+This talisman constantly drips with thick, bubbling 
+gore. The air around it is so heavy with the charnel 
+stench of the slaughterhouse that it imbues the 
+bearer’s limbs with supernatural ferocity and strength 
+– a welcome boon to those eager to claim the 
+worthiest skulls for Khorne.
+
+INTOXICATING ELIXIR
+This dispenser is filled with a self-replenishing liquid 
+that is pumped into the bearer’s bloodstream by 
+the pint. Some say the liquid, which grants those 
+that partake of it unholy physical power, is a nectar 
+distilled from Slaanesh’s own pleasure gardens, for 
+while it heightens the bearer’s abilities, foes caught 
+in its soporific fumes are paralysed with terror 
+and ecstasy.
+
+Heretic Astartes Slaanesh model only. The bearer 
+has the Feel No Pain 5+ ability. Each time the bearer 
+shoots or fights, if the bearer’s unit made a Dark 
+Pact this phase, after the bearer has resolved those 
+attacks, select one enemy unit that was hit by one or 
+more of those attacks; that enemy unit must take a 
+Battle-shock test. 
+LIBER HERETICUS
+This cursed tome contains forbidden lore said to 
+have been absorbed while the artefact consumed the 
+minds of those who risked reading it. One with the 
+strength to tame it can use it to empower their rituals.
+
+Heretic Astartes Chaos Undivided model only. 
+Each time the bearer’s unit makes a Dark Pact, that 
+unit’s weapons gain the [LETHAL HITS] and [SUSTAINED 
+HITS 1] ability until the end of the phase, instead of 
+just gaining one of those abilities.
+
+Heretic Astartes Khorne model only. Add 1 to the 
+Attacks and Strength characteristics of the bearer’s 
+melee weapons. Each time the bearer’s unit makes 
+a Dark Pact, until the end of the phase, add D3 to the 
+Attacks and Strength characteristics of the bearer’s 
+melee weapons instead. 
+EYE OF TZEENTCH
+The Eye of Tzeentch is a relic that has been exposed 
+to wild psychic energies for ten millennia. Champions  
+who stare into the artefact’s unblinking depths can 
+glean the secrets of the warp.
+
+Heretic Astartes Tzeentch model only. Each time 
+the bearer’s unit makes a Dark Pact, take a Leadership 
+test for the bearer: if that test is passed, you gain 1CP. 
+ORBS OF UNLIFE
+Within these glassy spheres lurks a diluted life-eater 
+virus. Although quick to burn out when the sphere is 
+broken, everything nearby not touched by Nurgle’s 
+bountiful blessings – flesh, armour and bone – finds 
+itself consumed by the ravaging viral strain..
+
+Heretic Astartes Nurgle model only. At the end 
+of the Fight phase, roll one D6 for every enemy unit 
+within 6" of the bearer, adding 1 to the result if the 
+bearer’s unit made a Dark Pact that phase: on a 4+, 
+that enemy unit suffers D3 mortal wounds.
+
+ABADDON THE DESPOILER
+
+M
+
+5"
+
+T
+
+5
+
+SV
+
+2+
+
+W
+
+9
+
+LD
+
+5+
+
+OC
+
+4
+
+RANGED WEAPONS
+Talon of Horus [SUSTAINED HITS 1]
+
+MELEE WEAPONS
+Drach’nyen [DEVASTATING WOUNDS]
+Talon of Horus [DEVASTATING WOUNDS]
+
+WARMASTER
+
+RANGE
+
+24"
+
+RANGE
+Melee
+Melee
+
+A
+4
+
+A
+8
+14
+
+BS
+2+
+
+WS
+2+
+2+
+
+S
+5
+
+S
+14
+7
+
+AP
+-1
+
+AP
+-4
+-3
+
+D
+2
+
+D
+3
+1
+
+Paragon of Hatred (Aura): While a friendly Heretic Astartes unit is within 6" of this model, each time a 
+model in that unit makes an attack, you can re-roll the Hit roll.
+
+Mark of Chaos Ascendant (Aura): While a friendly Heretic Astartes Infantry or Heretic Astartes 
+Mounted unit is within 6" of this model, models in that unit have a 4+ invulnerable save.
+
+Lord of the Traitor Legions (Aura): While a friendly Heretic Astartes unit is within 6" of this model, you 
+can re-roll Leadership and Battle-shock tests taken for that unit.
+
+ABILITIES
+
+CORE: Deep Strike, Leader
+
+FACTION: Dark Pacts
+
+The Warmaster: In your Command phase, select one 
+Warmaster ability (see left). Until the start of your next 
+Command phase, this model has that ability.
+Dark Destiny: Each time this model makes a Dark Pact and 
+does not fail the resulting Leadership test, roll one D6: on a 
+2+, you gain 1CP.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Infantry, Character, Epic Hero, Terminator, Chaos Undivided, Chaos, 
+
+Khorne, Slaanesh, Nurgle, Tzeentch, Abaddon the Despoiler
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+ABADDON THE DESPOILER
+The Warmaster of Chaos is the greatest threat to the Imperium. He 
+rules his Black Legion with an iron-taloned fist and stands as the 
+embodiment of the Long War. Clad in Terminator armour and wielding 
+his howling daemon sword, Drach’nyen, Abaddon slays any weakling 
+champions sent to challenge him.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Abaddon the Despoiler – Epic Hero
+This model is equipped with: Talon of Horus; Drach’nyen.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Chaos Terminator Squad
+ ■ Legionaries
+
+SUPREME COMMANDER
+
+If this model is in your army, it must be your Warlord.
+
+KEYWORDS:  Infantry, Character, Epic Hero, Terminator, Chaos Undivided, Chaos, 
+
+Khorne, Slaanesh, Nurgle, Tzeentch, Abaddon the Despoiler
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+HAARKEN WORLDCLAIMER
+
+M
+
+12"
+
+T
+
+4
+
+SV
+
+3+
+
+W
+
+5
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Helspear [ASSAULT, SUSTAINED HITS D3]
+
+MELEE WEAPONS
+Herald’s Talon [PRECISION]
+Helspear [EXTRA ATTACKS, LANCE, SUSTAINED HITS D3]
+
+RANGE
+
+12"
+
+RANGE
+Melee
+Melee
+
+A
+1
+
+A
+6
+1
+
+BS
+2+
+
+WS
+2+
+2+
+
+S
+8
+
+S
+5
+8
+
+AP
+-3
+
+AP
+-2
+-3
+
+D
+3
+
+D
+2
+3
+
+ABILITIES
+
+CORE: Deep Strike, Leader
+
+FACTION: Dark Pacts
+
+Head Taker: While this model is leading a unit, each time this 
+model’s unit ends a Charge move, select one enemy unit 
+within Engagement Range of this model’s unit and roll one D6 
+for each model in this model’s unit: for each 4+, that enemy 
+unit suffers 1 mortal wound.
+Herald of the Apocalypse (Aura): While an enemy unit is 
+within 6" of this model, in the Battle-shock step of your 
+opponent’s Command phase, if that enemy unit is below its 
+Starting Strength, it must take a Battle-shock test. This ability 
+cannot cause a unit to take two Battle-shock tests in the 
+same phase.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Infantry, Character, Epic Hero, Fly, Jump Pack, Chaos, Chaos 
+
+Undivided, Haarken Worldclaimer
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+HAARKEN WORLDCLAIMER
+Haarken is the Herald of the Apocalypse and the mouthpiece of 
+Abaddon. He declares his master’s dominion by driving his daemon 
+touched Helspear into soon-to-be-conquered worlds, following up with 
+vicious destruction as he leads hosts of Raptors in strikes that sow 
+fear and confusion.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Haarken Worldclaimer – Epic Hero
+This model is equipped with: Helspear; Herald’s Talon.
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Raptors
+
+KEYWORDS:  Infantry, Character, Epic Hero, Fly, Jump Pack, Chaos, Chaos 
+
+Undivided, Haarken Worldclaimer
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+HURON BLACKHEART
+
+M
+
+6"
+
+T
+
+4
+
+SV
+
+3+
+
+W
+
+5
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Tyrant’s Claw [IGNORES COVER, TORRENT]
+
+MELEE WEAPONS
+Exalted weapon 
+Tyrant’s Claw 
+
+RANGE
+
+12"
+
+RANGE
+Melee
+Melee
+
+A
+D6
+
+A
+6
+10
+
+BS
+N/A
+
+WS
+2+
+2+
+
+S
+6
+
+S
+5
+4
+
+AP
+-1
+
+AP
+-2
+-2
+
+D
+1
+
+D
+2
+1
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Dark Pacts
+
+The Tyrant of Badab: While this model is leading a unit, add 1 
+to the Objective Control characteristic of models in that unit.
+Red Corsairs: After both players have deployed their armies, 
+you can select up to three Heretic Astartes Infantry units 
+from your army and redeploy them. When doing so, those 
+units can be placed into Strategic Reserves, regardless of how 
+many units are already in Strategic Reserves.
+Hamadrya’s Knowledge (Psychic): Once per battle, when 
+an enemy unit ends a Normal, Advance or Fall Back move 
+within 9" of this model’s unit, if this model’s unit is not within 
+Engagement Range of one or more enemy units, it can make a 
+Normal move of up to D6".
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Infantry, Character, Epic Hero, Chaos, Chaos Undivided, 
+
+Huron Blackheart
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+HURON BLACKHEART
+Reviled as the Tyrant of Badab, Huron directs the pitiless reaving of his 
+Red Corsairs with the ruthlessness of a pirate king, while accompanied 
+by his esoteric Hamadrya. His Tyrant’s Claw is a bionic relic whose 
+crackling talons tear through armour before the in-built incineration 
+unit unleashes gouts of sulphurous fire.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Huron Blackheart – Epic Hero
+This model is equipped with: Tyrant’s Claw; exalted weapon.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Chosen
+ ■ Legionaries
+
+KEYWORDS:  Infantry, Character, Epic Hero, Chaos, Chaos Undivided, 
+
+Huron Blackheart
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+HERETIC ASTARTES DAEMON PRINCE
+
+M
+
+8"
+
+T
+
+10
+
+SV
+
+2+
+
+W
+
+10
+
+LD
+
+6+
+
+OC
+
+3
+
+RANGED WEAPONS
+Infernal cannon
+
+MELEE WEAPONS
+Hellforged weapons – strike
+Hellforged weapons – sweep 
+
+DAEMONIC ALLEGIANCE
+
+RANGE
+
+24"
+
+RANGE
+Melee
+Melee
+
+A
+3
+
+A
+6
+14
+
+BS
+2+
+
+WS
+2+
+2+
+
+S
+5
+
+S
+8
+6
+
+AP
+-1
+
+AP
+-2
+0
+
+D
+2
+
+D
+3
+1
+
+Daemon Prince of Khorne: If this model has the Khorne keyword, add 2 to the Strength characteristic of 
+its hellforged weapons.
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Dark Pacts
+
+Dark Blessing (Aura): While a friendly Heretic Astartes 
+Infantry unit is within 6" of this model, each time a ranged 
+attack is allocated to a model in that unit, that model has the 
+Benefit of Cover against that attack.
+Ascended Daemon: Each time this model shoot or fights, 
+while resolving those attacks, you can re-roll one Hit roll and 
+you can re-roll one Wound roll.
+
+Daemon Prince of Tzeentch: If this model has the Tzeentch keyword, add 3 to the Attacks characteristic 
+of its infernal cannon.
+
+INVULNERABLE SAVE
+
+4+
+
+Daemon Prince of Nurgle: If this model has the Nurgle keyword, add 1 to its Toughness characteristic.
+
+Daemon Prince of Slaanesh: If this model has the Slaanesh keyword, add 2" to its Move characteristic.
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Monster, Character, Chaos, Daemon, Daemon Prince
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+HERETIC ASTARTES DAEMON PRINCE
+Infernal beasts whose Path to Glory has elevated them to daemonhood, 
+Daemon Princes are paragons of evil. Warped and corrupted by Chaos, they 
+lead their warbands in devastating assaults, striding through their mortal 
+enemies’ attacks and unleashing monstrous blows and blasts of sorcery 
+against all before them.
+
+WARGEAR OPTIONS
+
+ ■ None
+
+UNIT COMPOSITION
+
+ ■ 1 Heretic Astartes Daemon Prince
+This model is equipped with: infernal cannon; 
+hellforged weapons.
+
+KEYWORDS: Monster, Character, Chaos, Daemon, Daemon Prince
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+HERETIC ASTARTES DAEMON PRINCE WITH WINGS
+
+M
+
+12"
+
+T
+
+9
+
+SV
+
+2+
+
+W
+
+10
+
+LD
+
+6+
+
+OC
+
+3
+
+RANGED WEAPONS
+Infernal cannon
+
+MELEE WEAPONS
+Hellforged weapons – strike
+Hellforged weapons – sweep 
+
+DAEMONIC ALLEGIANCE
+
+RANGE
+
+24"
+
+RANGE
+Melee
+Melee
+
+A
+3
+
+A
+6
+14
+
+BS
+2+
+
+WS
+2+
+2+
+
+S
+5
+
+S
+8
+6
+
+AP
+-1
+
+AP
+-2
+0
+
+D
+2
+
+D
+3
+1
+
+Daemon Prince of Khorne: If this model has the Khorne keyword, add 2 to the Strength characteristic of 
+its hellforged weapons.
+
+Daemon Prince of Tzeentch: If this model has the Tzeentch keyword, add 3 to the Attacks characteristic 
+of its infernal cannon.
+
+Daemon Prince of Nurgle: If this model has the Nurgle keyword, add 1 to its Toughness characteristic.
+
+Daemon Prince of Slaanesh: If this model has the Slaanesh keyword, add 2" to its Move characteristic.
+
+ABILITIES
+
+CORE: Deadly Demise D3, Deep Strike
+
+FACTION: Dark Pacts
+
+Daemonic Destruction: Each time this model ends a Charge 
+move, select one enemy unit within Engagement Range of it 
+and roll one D6 for each of this model’s remaining wounds: 
+for each 4+, that enemy unit suffers 1 mortal wound (to a 
+maximum of 6 mortal wounds).
+Flying Horror: Each time this model ends a Normal or Advance 
+move, select one enemy unit it moved over during that move. 
+That unit must take a Battle-shock test.
+
+INVULNERABLE SAVE
+
+4+
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Monster, Fly, Character, Chaos, Daemon, 
+
+Daemon Prince with Wings
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+HERETIC ASTARTES DAEMON PRINCE WITH WINGS
+The final form of those who give up their souls to the Dark Gods can be infinite in variety. 
+From some, dark wings burst from their churning flesh, a hideous blessing that enables 
+these monstrous warrior-lords to hunt down those who seek to flee their bestial wrath.
+
+WARGEAR OPTIONS
+
+ ■ None
+
+UNIT COMPOSITION
+
+ ■ 1 Heretic Astartes Daemon Prince with Wings
+This model is equipped with: infernal cannon; 
+hellforged weapons.
+
+KEYWORDS:  Monster, Fly, Character, Chaos, Daemon, 
+
+Daemon Prince with Wings
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+FABIUS BILE
+
+M
+
+6"
+
+6"
+
+T
+
+4
+
+4
+
+SV
+
+3+
+
+6+
+
+W
+
+5
+
+1
+
+LD
+
+6+
+
+7+
+
+OC
+
+1
+
+FABIUS BILE
+
+1 SURGEON ACOLYTE
+
+RANGED WEAPONS
+Xyclos Needler [ANTI-INFANTRY 2+, PISTOL]
+
+MELEE WEAPONS
+Chirurgeon [EXTRA ATTACKS]
+Rod of Torment 
+Surgeon Acolyte’s tools 
+
+RANGE
+
+18"
+
+RANGE
+Melee
+Melee
+Melee
+
+A
+3
+
+A
+2
+6
+1
+
+BS
+2+
+
+WS
+2+
+2+
+5+
+
+S
+2
+
+S
+4
+5
+3
+
+AP
+-1
+
+AP
+0
+-1
+0
+
+D
+2
+
+D
+1
+3
+1
+
+ABILITIES
+
+CORE: Feel No Pain 5+, Leader
+
+FACTION: Dark Pacts
+
+Enhanced Warriors: If this unit is attached to a unit at the start 
+of the battle, until the end of the battle, add 1 to the Strength 
+characteristic of melee weapons equipped by Bodyguard 
+models in that unit and add 1 to the Toughness characteristic 
+of Bodyguard models in that unit.
+Surgeon Acolyte: Once per turn, when an attack is allocated to 
+a model in this unit, if this unit contains Fabius Bile, you can 
+change the Damage characteristic of that attack to 0.
+Chirurgeon: The first time this unit’s Fabius Bile model 
+is destroyed, roll one D6: on a 2+, set it back up on the 
+battlefield, as close as possible to where it was destroyed and 
+not within Engagement Range of any enemy models, with its 
+full wounds remaining. If that model was attached to a unit 
+when it was destroyed, it must be set up attached to that unit. 
+
+KEYWORDS  – ALL MODELS: Infantry, Chaos, Chaos Undivided 
+
+– FABIUS BILE ONLY: Character, Epic Hero, Fabius Bile
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+FABIUS BILE
+A genius of arcane genetics, Fabius Bile enhances even the 
+augmented biologies of his Heretic Astartes followers. With surgical 
+precision, he wields the pain-inducing Rod of Torment in one hand, 
+while with his other he fires toxic darts from the Xyclos Needler, as the 
+arachnid arms of his Chirurgeon seal his own injuries.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Fabius Bile – Epic Hero
+ ■ 1 Surgeon Acolyte
+Fabius Bile is equipped with: Xyclos Needler; Chirurgeon; 
+Rod of Torment.
+The Surgeon Acolyte is equipped with: Surgeon 
+Acolyte’s tools.
+
+LEADER
+
+This unit can be attached to the following units:
+ ■ Chosen
+ ■ Legionaries
+
+KEYWORDS  – ALL MODELS: Infantry, Chaos, Chaos Undivided 
+
+– FABIUS BILE ONLY: Character, Epic Hero, Fabius Bile
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+CYPHER
+
+M
+
+6"
+
+T
+
+4
+
+SV
+
+3+
+
+W
+
+5
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Cypher’s bolt pistol [ASSAULT, PISTOL, SUSTAINED HITS 1]
+Cypher’s plasma pistol 
+[ASSAULT, PISTOL, SUSTAINED HITS 1]
+
+MELEE WEAPONS
+Close combat weapon
+
+RANGE
+
+12"
+
+12"
+
+RANGE
+Melee
+
+A
+6
+
+3
+
+A
+6
+
+BS
+2+
+
+2+
+
+WS
+2+
+
+S
+4
+
+8
+
+S
+4
+
+AP
+-1
+
+-3
+
+AP
+0
+
+D
+1
+
+2
+
+D
+1
+
+ABILITIES
+
+CORE: Lone Operative
+
+FACTION: Dark Pacts
+
+Agent of Discord: Once per battle, after your opponent uses 
+a Stratagem, if this model is on the battlefield, it can use this 
+ability. If it does, until the end of the battle, increase that 
+Stratagem’s cost to your opponent by 1CP.
+Guns Blazing: Each time an enemy unit is selected to shoot, 
+if one or more of those attacks target a friendly Heretic 
+Astartes unit within 3" of this model, after that enemy unit 
+has finished making its attacks, this model can shoot as if it 
+were your Shooting phase, but when doing so it must target 
+only that enemy unit (and only if it is an eligible target).
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS: Infantry, Character, Epic Hero, Chaos, Cypher
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+CYPHER
+Cypher is a mysterious agent of discord and insurrection, always one 
+step ahead of capture, and strife blooms in his wake as violently as 
+the detonations from his masterwork pistols. He is a lord of the hunted 
+Fallen, though his true role as traitor or loyalist is as cryptic as the 
+sword he carries but never wields.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Cypher – Epic Hero
+This model is equipped with: Cypher’s bolt pistol; Cypher’s 
+plasma pistol; close combat weapon.
+
+KEYWORDS: Infantry, Character, Epic Hero, Chaos, Cypher
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+MASTER OF POSSESSION
+
+M
+
+8"
+
+T
+
+4
+
+SV
+
+3+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+Rite of Possession – witchfire 
+[ANTI-PSYKER 2+, PISTOL, PRECISION, PSYCHIC]
+Rite of Possession – focused witchfire 
+[ANTI-PSYKER 2+, HAZARDOUS, PISTOL, PRECISION, PSYCHIC]
+
+MELEE WEAPONS
+Staff of possession [ANTI-PSYKER 2+, PSYCHIC]
+
+RANGE
+
+12"
+
+18"
+
+18"
+
+RANGE
+Melee
+
+A
+1
+
+2
+
+2
+
+A
+4
+
+BS
+3+
+
+3+
+
+3+
+
+WS
+3+
+
+S
+4
+
+4
+
+6
+
+S
+6
+
+AP
+0
+
+-3
+
+-3
+
+AP
+-1
+
+D
+1
+
+2
+
+3
+
+D
+D3
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Dark Pacts
+
+Daemonkin (Psychic): While this model is leading a unit, add 
+1 to Advance and Charge rolls made for that unit, and models 
+in that unit have the Feel No Pain 6+ ability.
+Sacrificial Dagger: Once per phase, when this model is 
+selected to shoot or fight, it can use this ability. If it does, this 
+model’s unit suffers 1 mortal wound and, until the end of the 
+phase, each time this model makes a Psychic Attack, add 1 to 
+the Hit roll and add 1 to the Wound roll.
+
+INVULNERABLE SAVE
+
+5+
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Infantry, Character, Psyker, Chaos, Master of Possession
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+MASTER OF POSSESSION
+Masters of Possession are psykers who specialise in channelling 
+daemons into living hosts; they bolster their possessed kin with 
+empyric energies that strengthen and reinvigorate such tainted 
+unions. In battle, they unleash daemonic forces into the foe, ripping 
+apart their souls to channel them to greater use.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Master of Possession
+This model is equipped with: bolt pistol; Rite of Possession; 
+staff of possession.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Chosen
+ ■ Legionaries
+ ■ Possessed
+
+KEYWORDS: Infantry, Character, Psyker, Chaos, Master of Possession
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+CHAOS LORD
+
+M
+
+6"
+
+T
+
+4
+
+SV
+
+3+
+
+W
+
+5
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+Plasma pistol – standard [PISTOL]
+Plasma pistol – supercharge [PISTOL, HAZARDOUS]
+
+MELEE WEAPONS
+Accursed weapon 
+Astartes chainsword 
+Daemon hammer [DEVASTATING WOUNDS]
+Power fist
+
+RANGE
+
+12"
+12"
+12"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+
+A
+1
+1
+1
+
+A
+6
+7
+5
+5
+
+BS
+2+
+2+
+2+
+
+WS
+2+
+2+
+3+
+2+
+
+S
+4
+7
+8
+
+S
+5
+4
+8
+8
+
+AP
+0
+-2
+-3
+
+AP
+-2
+-1
+-2
+-2
+
+D
+1
+1
+2
+
+D
+1
+1
+2
+2
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Dark Pacts
+
+Lord of Chaos: Once per battle round, one unit from your army 
+with this ability can be targeted with a Stratagem for 0CP, even 
+if another unit from your army has already been targeted with 
+that Stratagem this phase.
+Chance for Glory: Once per battle, at the start of the Fight 
+phase, this model can use this ability. If it does, until the 
+end of the phase, improve the Strength, Attacks, Armour 
+Penetration and Damage characteristics of melee weapons 
+equipped by this model by 1.
+
+INVULNERABLE SAVE
+
+4+
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Infantry, Character, Grenades, Chaos, Chaos Lord
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+CHAOS LORD
+Chaos Lords have spent countless spans of mortal lives leading their 
+traitorous warriors, demanding nothing but utter ruthlessness from 
+those they command. Each heretic aspires to this chilling mastery, 
+knowing there is no prize beyond their Lord’s grasp and no enemy they 
+cannot slay with pre-eminent skill.
+
+WARGEAR OPTIONS
+
+ ■  This model’s daemon hammer can be replaced with one of the following: 
+
+ ◦ 1 accursed weapon
+ ◦ 1 Astartes chainsword
+ ◦ 1 power fist
+
+ ■  This model’s plasma pistol can be replaced with one of the following: 
+
+ ◦ 1 bolt pistol
+ ◦ 1 accursed weapon
+ ◦ 1 Astartes chainsword
+ ◦ 1 daemon hammer
+ ◦ 1 power fist
+
+UNIT COMPOSITION
+
+ ■ 1 Chaos Lord
+This model is equipped with: plasma pistol; daemon hammer.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Chosen
+ ■ Legionaries
+
+KEYWORDS: Infantry, Character, Grenades, Chaos, Chaos Lord
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+CHAOS LORD IN TERMINATOR ARMOUR
+
+M
+
+5"
+
+T
+
+5
+
+SV
+
+2+
+
+W
+
+6
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Combi-bolter [RAPID FIRE 2]
+Combi-weapon 
+[ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]
+
+MELEE WEAPONS
+Chainfist [ANTI-VEHICLE 3+]
+Exalted weapon 
+Paired accursed weapons [TWIN-LINKED]
+Power fist 
+
+RANGE
+
+24"
+
+24"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+
+A
+2
+
+1
+
+A
+5
+6
+7
+5
+
+BS
+2+
+
+3+
+
+WS
+3+
+2+
+2+
+2+
+
+S
+4
+
+4
+
+S
+8
+5
+5
+8
+
+AP
+0
+
+0
+
+AP
+-2
+-2
+-2
+-2
+
+D
+1
+
+1
+
+D
+2
+2
+1
+2
+
+ABILITIES
+
+CORE: Deep Strike, Leader
+
+FACTION: Dark Pacts
+
+Lord of Chaos: Once per battle round, one unit from your army 
+with this ability can be targeted with a Stratagem for 0CP, even 
+if another unit from your army has already been targeted with 
+that Stratagem this phase.
+Formidably Resilient: Each time an attack is allocated to this 
+model, halve the Damage characteristic of that attack.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Infantry, Character, Chaos, Terminator, 
+
+Chaos Lord in Terminator Armour
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+CHAOS LORD IN TERMINATOR ARMOUR
+Chaos Lords’ underlings expect them to fight from the front, and 
+few kinds of armour enable them to do so as effectively as archaic 
+Terminator plate. Formidably resilient, such a suit protects the Lord 
+against all but the most devastating firepower and enables him to 
+deploy by teleportation right into the heart of the foe.
+
+WARGEAR OPTIONS
+
+ ■   This model’s combi-bolter can be replaced with 1 combi-weapon.
+ ■ This model’s exalted weapon can be replaced with 1 chainfist.
+ ■ This model’s combi-bolter and exalted weapon can be replaced with 1 paired accursed weapons.
+
+UNIT COMPOSITION
+
+ ■ 1 Chaos Lord in Terminator Armour
+This model is equipped with: combi-bolter; exalted weapon.
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Chaos Terminator Squad
+
+KEYWORDS:  Infantry, Character, Chaos, Terminator, 
+
+Chaos Lord in Terminator Armour
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+SORCERER
+
+M
+
+6"
+
+T
+
+4
+
+SV
+
+3+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+Infernal Gaze – witchfire [PSYCHIC]
+Infernal Gaze – focused witchfire 
+[DEVASTATING WOUNDS, HAZARDOUS, PSYCHIC]
+
+MELEE WEAPONS
+Force weapon [PSYCHIC]
+
+RANGE
+
+12"
+24"
+
+24"
+
+RANGE
+Melee
+
+A
+1
+D6
+
+D6
+
+A
+4
+
+BS
+3+
+3+
+
+3+
+
+WS
+3+
+
+S
+4
+5
+
+6
+
+S
+6
+
+AP
+0
+-1
+
+-2
+
+AP
+-1
+
+D
+1
+D3
+
+D3
+
+D
+D3
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Dark Pacts
+
+Prescience (Psychic): While this model is leading a unit, each 
+time an attack targets that unit, subtract 1 from the Hit roll.
+Gift of Chaos (Psychic): Each time this model is selected 
+to shoot or fight, after resolving its attacks, select one 
+enemy unit hit by one or more of those attacks that had the 
+[PSYCHIC] ability. That unit must take a Leadership test: if that 
+test is failed, that unit suffers D3 mortal wounds.
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Infantry, Character, Psyker, Grenades, Chaos, Sorcerer
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+SORCERER
+Sorcerers are the Heretic Astartes’ battle-psykers and warp-seers. 
+Wielding terrifying empyric energies, with but a thought they can 
+crush a foe’s skull, curse their enemies with abhorrent hexes or hurl 
+coruscating bolts of soul-blasting psychic power that mutate those 
+they touch.
+
+WARGEAR OPTIONS
+
+ ■ None
+
+UNIT COMPOSITION
+
+ ■ 1 Sorcerer
+This model is equipped with: bolt pistol; Infernal Gaze; 
+force weapon.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Chosen
+ ■ Legionaries
+
+KEYWORDS: Infantry, Character, Psyker, Grenades, Chaos, Sorcerer
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+SORCERER IN TERMINATOR ARMOUR
+
+M
+
+5"
+
+T
+
+5
+
+SV
+
+2+
+
+W
+
+5
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Combi-bolter [RAPID FIRE 2]
+Combi-weapon 
+[ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]
+Infernal Gaze – witchfire [PSYCHIC]
+Infernal Gaze – focused witchfire 
+[DEVASTATING WOUNDS, HAZARDOUS, PSYCHIC]
+
+MELEE WEAPONS
+Force weapon [PSYCHIC]
+
+RANGE
+
+24"
+
+24"
+
+24"
+
+24"
+
+RANGE
+Melee
+
+A
+2
+
+1
+
+D6
+
+D6
+
+A
+4
+
+BS
+3+
+
+4+
+
+3+
+
+3+
+
+WS
+3+
+
+S
+4
+
+4
+
+5
+
+6
+
+S
+6
+
+AP
+0
+
+0
+
+-1
+
+-2
+
+AP
+-1
+
+D
+1
+
+1
+
+D3
+
+D3
+
+D
+D3
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Infantry, Character, Psyker, Chaos, Terminator, 
+
+Sorcerer in Terminator Armour
+
+ABILITIES
+
+CORE: Deep Strike, Leader
+
+FACTION: Dark Pacts
+
+Warptime (Psychic): While this model is leading a unit, you 
+can re-roll Advance and Charge rolls made for that unit.
+Death Hex (Psychic): At the start of your Shooting phase, 
+one Psyker with this ability can use it. If it does, select one 
+enemy unit within 12" of and visible to that Psyker and roll 
+one D6: on a 1, that Psyker’s unit suffers D3 mortal wounds; 
+on a 2+, until the start of your next Movement phase, each 
+time an attack targets that enemy unit, improve the Armour 
+Penetration characteristic of that attack by 1.
+
+WARGEAR ABILITIES
+
+Chaos Familiar: Once per battle, when an attack is allocated to 
+the bearer, you can change the Damage characteristic to 0.
+
+INVULNERABLE SAVE
+
+4+
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+SORCERER IN TERMINATOR ARMOUR
+The powers of a warband’s Sorcerers lend a sickening occult 
+advantage to elite infantry spearheads. Girded in warsuits of 
+sigil-etched Terminator armour, they are able to support gruelling 
+boarding actions, assault through daemon-haunted labyrinths or fight 
+on the front line against swarming, ignorant loyalists.
+
+WARGEAR OPTIONS
+
+ ■     This model’s combi-bolter can be replaced with 1 combi-weapon.
+ ■ This model can be equipped with 1 Chaos familiar.
+
+UNIT COMPOSITION
+
+ ■ 1 Sorcerer in Terminator Armour
+This model is equipped with: combi-bolter; Infernal Gaze; 
+force weapon.
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Chaos Terminator Squad
+
+KEYWORDS:  Infantry, Character, Psyker, Chaos, Terminator, 
+
+Sorcerer in Terminator Armour
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+LUCIUS THE ETERNAL
+
+M
+
+6"
+
+T
+
+4
+
+SV
+
+3+
+
+W
+
+5
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Doom siren [TORRENT]
+
+MELEE WEAPONS
+Duellist’s sword and Lash of Torment [PRECISION]
+
+RANGE
+
+12"
+
+RANGE
+Melee
+
+A
+D6
+
+A
+8
+
+BS
+N/A
+
+WS
+2+
+
+S
+6
+
+S
+5
+
+AP
+-1
+
+AP
+-2
+
+D
+1
+
+D
+2
+
+ABILITIES
+
+CORE: Fights First, Leader
+
+FACTION: Dark Pacts
+
+Duellist’s Pride: While this model is leading a unit, models in 
+that unit have the Fights First ability.
+Armour of Shrieking Souls: Each time this model is destroyed 
+by an attack made by an enemy unit, that unit must take a 
+Leadership test: if that test is passed, that enemy unit suffers 
+D3 mortal wounds; if that test is failed, that enemy unit 
+suffers D6 mortal wounds. If mortal wounds inflicted in this 
+way destroy that enemy unit, set this model back up on the 
+battlefield, as close as possible to where it was destroyed and 
+not within Engagement Range of any enemy models, with D3 
+wounds remaining. If this model was attached to a unit when 
+it was destroyed, it must be set back up attached to that unit.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Infantry, Character, Epic Hero, Chaos, Slaanesh, 
+
+Lucius the Eternal
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+LUCIUS THE ETERNAL
+An arrogant slaughterer and swordsman supreme, Lucius seeks out 
+the most skilled of the foe’s champions, casually striking down lesser 
+enemies that dare bar his path. Against worthy opponents, Lucius 
+strikes with the speed of a snake, his daemonically sentient lash and 
+duellist’s sword making a mockery of the greatest warriors.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Lucius the Eternal – Epic Hero
+This model is equipped with: doom siren; duellist’s sword and 
+Lash of Torment.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Legionaries
+ ■ Noise Marines
+
+EMPEROR’S CHILDREN
+
+If this model is your Warlord, Noise Marine units in your 
+army have the Battleline keyword.
+
+KEYWORDS:  Infantry, Character, Epic Hero, Chaos, Slaanesh, 
+
+Lucius the Eternal
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+LORD DISCORDANT ON HELSTALKER
+
+M
+
+10"
+
+T
+
+9
+
+SV
+
+2+
+
+W
+
+10
+
+LD
+
+6+
+
+OC
+
+4
+
+RANGED WEAPONS
+Baleflamer [IGNORES COVER, TORRENT]
+Bolt pistol [PISTOL]
+Helstalker autocannon 
+Magma cutter [MELTA 2]
+
+MELEE WEAPONS
+Bladed limbs [EXTRA ATTACKS]
+Impaler chainglaive [LANCE]
+Techno-virus injector [ANTI-VEHICLE 2+, EXTRA ATTACKS]
+
+RANGE
+
+12"
+12"
+48"
+6"
+
+RANGE
+Melee
+Melee
+Melee
+
+A
+
+D6+3
+
+1
+3
+2
+
+A
+4
+4
+1
+
+BS
+N/A
+2+
+2+
+3+
+
+WS
+3+
+2+
+3+
+
+S
+6
+4
+9
+9
+
+S
+6
+6
+3
+
+AP
+-1
+0
+-1
+-4
+
+AP
+-1
+-2
+-3
+
+D
+2
+1
+3
+D6
+
+D
+2
+2
+2
+
+ABILITIES
+
+FACTION: Dark Pacts
+
+Corrupt Machine Spirits: Once per turn, at the start of your 
+opponent’s Shooting phase, select one enemy Vehicle unit 
+within 12" of and visible to one or more models from your 
+army with this ability. That unit must take a Leadership test: 
+if that test is passed, until the end of the phase, each time 
+a model in that unit makes an attack, subtract 1 from the 
+Hit roll; if that test is failed, that unit is not eligible to shoot 
+this phase.
+Spirit Thief: At the start of your Shooting phase, select one 
+enemy Vehicle unit within 12" of this model. Until the end 
+of the phase, each time a friendly Heretic Astartes model 
+makes an attack that targets that unit, re-roll a Wound roll of 1.
+
+INVULNERABLE SAVE
+
+5+
+
+KEYWORDS: Mounted, Character, Chaos, Daemon, Lord Discordant
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+LORD DISCORDANT ON HELSTALKER
+Technocrats and spirit-thieves, Lords Discordant hunt the foe’s war 
+engines. Atop daemonic Helstalkers, these heretics cut through enemy 
+infantry before lunging at their quarry with saw-toothed polearms. 
+Each mount tears its mechanical prey open as the Lord Discordant 
+siphons off the victim’s spirit to reinvigorate other Daemon Engines.
+
+WARGEAR OPTIONS
+
+ ■   This model’s Helstalker autocannon can be replaced with 1 baleflamer.
+ ■ This model’s techno-virus injector can be replaced with 1 magma cutter.
+
+UNIT COMPOSITION
+
+ ■ 1 Lord Discordant on Helstalker
+This model is equipped with: bolt pistol; Helstalker 
+autocannon; techno-virus injector; bladed limbs; 
+impaler chainglaive.
+
+KEYWORDS: Mounted, Character, Chaos, Daemon, Lord Discordant
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+WARPSMITH
+
+M
+
+6"
+
+T
+
+4
+
+SV
+
+2+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Flamer tendril [PISTOL, TORRENT, IGNORES COVER]
+Melta tendril [PISTOL, MELTA 2]
+Plasma pistol – standard [PISTOL]
+Plasma pistol – supercharge [PISTOL, HAZARDOUS]
+
+MELEE WEAPONS
+Exalted weapon 
+Warp hammer [DEVASTATING WOUNDS]
+
+RANGE
+
+12"
+6"
+12"
+12"
+
+RANGE
+Melee
+Melee
+
+A
+D6
+1
+1
+1
+
+A
+4
+3
+
+BS
+N/A
+2+
+2+
+2+
+
+WS
+3+
+4+
+
+S
+3
+8
+7
+8
+
+S
+6
+8
+
+AP
+0
+-4
+-2
+-3
+
+AP
+-2
+-2
+
+D
+1
+D3
+1
+2
+
+D
+2
+2
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Dark Pacts
+
+Warpsmith: While this model is within 3" of one or more 
+friendly Heretic Astartes Vehicle units, this model has the 
+Lone Operative ability.
+Master of Mechanisms: In your Command phase, select one 
+friendly Heretic Astartes Vehicle model within 3" of this 
+model. That Vehicle model regains up to D3 lost wounds and, 
+until the start of your next Command phase, each time that 
+Vehicle makes an attack, add 1 to the Hit roll. Each model 
+can only be selected for this ability once per Command phase.
+Enrage Machine Spirits: At the end of your Movement phase, 
+select one enemy Vehicle unit within 12" of this model. That 
+unit must take a Battle-shock test.
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Infantry, Character, Chaos, Warpsmith
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+WARPSMITH
+With outlawed knowledge of the deeper mysteries of the machine, 
+Warpsmiths maintain their warband’s arsenal of armoured vehicles, 
+and violate enemy war engines with utterances of corrupted code. 
+Fused with a writhing nest of semi-sentient mechatendrils, they seek 
+not only to employ technology, but to subjugate it.
+
+WARGEAR OPTIONS
+
+ ■   This model’s exalted weapon can be replaced with 1 warp hammer.
+
+UNIT COMPOSITION
+
+ ■ 1 Warpsmith
+This model is equipped with: flamer tendril; melta tendril; 
+plasma pistol; exalted weapon.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Chosen
+ ■ Havocs
+ ■ Legionaries
+
+KEYWORDS: Infantry, Character, Chaos, Warpsmith
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+EXALTED CHAMPION
+
+M
+
+6"
+
+T
+
+4
+
+SV
+
+3+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+Combi-weapon 
+[ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]
+
+MELEE WEAPONS
+Exalted weapon 
+
+RANGE
+
+12"
+
+24"
+
+RANGE
+Melee
+
+A
+1
+
+1
+
+A
+5
+
+BS
+2+
+
+4+
+
+WS
+2+
+
+S
+4
+
+4
+
+S
+5
+
+AP
+0
+
+0
+
+AP
+-2
+
+D
+1
+
+1
+
+D
+2
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Dark Pacts
+
+Dark Champion: While this model is leading a unit, each time 
+a model in that unit makes an attack, add 1 to the Hit roll.
+Aspire to Glory: Each time this model’s unit makes a Dark 
+Pact, until the end of the phase, add D3 to the Strength 
+characteristic of weapons equipped by this model.
+
+KEYWORDS: Infantry, Character, Grenades, Chaos, Exalted Champion
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+EXALTED CHAMPION
+These murderous champions of the Dark Gods exhort their fellow 
+traitors by example. The fell deeds they commit and the violent 
+bloodbaths they unleash – ostensibly supporting their overlord’s 
+strategies – are often wrought solely to further the Exalted Champion’s 
+own goals as they aspire to even greater glory.
+
+WARGEAR OPTIONS
+
+ ■ None
+
+UNIT COMPOSITION
+
+ ■ 1 Exalted Champion
+This model is equipped with: bolt pistol; combi-weapon; 
+exalted weapon.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Chosen
+ ■ Legionaries
+You can attach this model to one of the above units even if 
+one other Character model has already been attached to it 
+(a unit cannot have two Exalted Champions attached to it). 
+If you do, and that Bodyguard unit is destroyed, the Leader 
+units attached to it become separate units, with their original 
+Starting Strengths.
+
+KEYWORDS: Infantry, Character, Grenades, Chaos, Exalted Champion
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+DARK APOSTLE
+
+M
+
+6"
+
+6"
+
+T
+
+4
+
+4
+
+SV
+
+3+
+
+6+
+
+W
+
+4
+
+1
+
+LD
+
+5+
+
+7+
+
+OC
+
+1
+
+DARK APOSTLE
+
+1 DARK DISCIPLE
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+
+MELEE WEAPONS
+Accursed crozius 
+Close combat weapon
+
+RANGE
+
+12"
+
+RANGE
+Melee
+Melee
+
+A
+1
+
+A
+5
+1
+
+BS
+3+
+
+WS
+2+
+4+
+
+S
+4
+
+S
+6
+3
+
+AP
+0
+
+AP
+-1
+0
+
+D
+1
+
+D
+2
+1
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Dark Pacts
+
+Dark Zealotry: While this unit is leading a unit and contains a 
+Dark Apostle model, each time a model in that unit makes a 
+melee attack, add 1 to the Wound roll.
+Demagogue: Once per battle, at the start of any phase, 
+you can select one friendly Heretic Astartes unit that is 
+Battle-shocked and within 9" of this unit’s Dark Apostle 
+model. That unit is no longer Battle-shocked.
+Malign Sacrifice: At the start of the Fight phase, if this unit 
+contains one or more Dark Disciple models, you can select 
+one of those models and one enemy unit within Engagement 
+Range of this unit, then roll one D6: on a 2-5, that enemy unit 
+suffers 1 mortal wound; on a 6, that enemy unit suffers D3 
+mortal wounds. That Dark Disciple model is then destroyed.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS  – ALL MODELS: Infantry, Grenades, Chaos 
+
+– DARK APOSTLE ONLY: Character, Dark Apostle
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+DARK APOSTLE
+Dark Apostles are the high priests of the Dark Gods. They preach 
+catechisms from blasphemous texts, issuing prayers that call down 
+the Ruinous Powers’ wrath. As they crush skulls with blows from their 
+accursed crozius, they roar profane blessings using their deadliest 
+weapon: their voice.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Dark Apostle
+ ■ 2 Dark Disciples
+The Dark Apostle is equipped with: bolt pistol; 
+accursed crozius.
+Every Dark Disciple is equipped with: close combat weapon.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Accursed Cultists
+ ■ Chosen
+ ■ Cultist Mob
+ ■ Legionaries
+
+KEYWORDS  – ALL MODELS: Infantry, Grenades, Chaos 
+
+– DARK APOSTLE ONLY: Character, Dark Apostle
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+DARK COMMUNE
+
+M
+
+6"
+
+6"
+
+T
+
+3
+
+3
+
+SV
+
+6+
+
+6+
+
+W
+
+4
+
+1
+
+LD
+
+6+
+
+7+
+
+OC
+
+1
+
+CULT DEMAGOGUE
+
+1 OTHER MODELS
+
+RANGED WEAPONS
+Autopistol [PISTOL]
+Warp Curse – witchfire [PSYCHIC]
+Warp Curse – focused witchfire 
+[HAZARDOUS, PSYCHIC, SUSTAINED HITS 2]
+
+MELEE WEAPONS
+Close combat weapon 
+Commune blade
+Commune stave [DEVASTATING WOUNDS]
+
+RANGE
+
+12"
+18"
+
+18"
+
+RANGE
+Melee
+Melee
+Melee
+
+A
+1
+3
+
+3
+
+A
+1
+2
+2
+
+BS
+4+
+3+
+
+3+
+
+WS
+4+
+4+
+4+
+
+S
+3
+4
+
+5
+
+S
+3
+4
+3
+
+AP
+0
+-1
+
+-1
+
+AP
+0
+-2
+0
+
+D
+1
+2
+
+2
+
+D
+1
+1
+D3
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Dark Pacts
+
+Faithful Flock: While this unit is leading a unit and contains 
+a Cult Demagogue model, models in that unit have a 5+ 
+invulnerable save.
+Dark Ritual: Once per battle, in your Command phase, if this 
+unit contains a Cult Demagogue model, it can use this ability. 
+If it does, until the end of the turn, this unit can declare a 
+charge in a turn in which it Advanced and each time a model 
+in this unit makes an attack, add 1 to the Hit roll and add 1 to 
+the Wound roll.
+
+WARGEAR ABILITIES
+
+Chaos Icon: Each time the bearer’s unit takes a Leadership 
+test for the Dark Pacts ability, you can re-roll that test.
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS – ALL MODELS: Infantry, Grenades, Chaos, Dark Commune | 
+MINDWITCH ONLY: Psyker | CULT DEMAGOGUE ONLY: Character, Cult Demagogue
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+DARK COMMUNE
+A pooling of evil at the head of a Chaos Cult, Dark Communes are 
+led by Cult Demagogues who preach mantras of hate laced with 
+promises of power. They command Mindwitches, whose psychic 
+powers are bought at terrible cost, and Iconarchs, who carry foul 
+sigils that spread the Dark Gods’ malefic influence.
+
+WARGEAR OPTIONS
+
+ ■    None
+
+UNIT COMPOSITION
+
+ ■ 1 Cult Demagogue
+ ■ 1 Mindwitch
+ ■ 1 Iconarch
+ ■ 2 Blessed Blades
+The Cult Demagogue is equipped with: autopistol; 
+Commune stave.
+The Mindwitch is equipped with: Warp Curse; close 
+combat weapon.
+The Iconarch is equipped with: autopistol; close combat 
+weapon; Chaos icon.
+Every Blessed Blade is equipped with: Commune blade.
+
+LEADER
+
+This unit can be attached to the following units:
+ ■ Accursed Cultists
+ ■ Cultist Mob
+
+KEYWORDS – ALL MODELS: Infantry, Grenades, Chaos, Dark Commune | 
+MINDWITCH ONLY: Psyker | CULT DEMAGOGUE ONLY: Character, Cult Demagogue
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+LEGIONARIES
+
+M
+
+6"
+
+T
+
+4
+
+SV
+
+3+
+
+W
+
+2
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Balefire tome [PSYCHIC]
+Bolt pistol [PISTOL]
+Boltgun 
+Flamer [IGNORES COVER, TORRENT]
+Havoc autocannon [HEAVY]
+Meltagun [MELTA 2]
+Plasma pistol – standard [PISTOL]
+Plasma pistol – supercharge [HAZARDOUS, PISTOL]
+Reaper chaincannon [HEAVY]
+
+MELEE WEAPONS
+Accursed weapon 
+Astartes chainsword 
+Close combat weapon 
+Heavy melee weapon 
+
+RANGE
+
+18"
+12"
+24"
+12"
+48"
+12"
+12"
+12"
+24"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+
+A
+2
+1
+2
+D6
+2
+1
+1
+1
+8
+
+A
+4
+4
+3
+3
+
+BS
+3+
+3+
+3+
+N/A
+3+
+3+
+3+
+3+
+4+
+
+WS
+3+
+3+
+3+
+3+
+
+S
+5
+4
+4
+4
+9
+9
+7
+8
+5
+
+S
+5
+4
+4
+8
+
+AP
+-1
+0
+0
+0
+-1
+-4
+-2
+-3
+0
+
+AP
+-2
+-1
+0
+-2
+
+D
+1
+1
+1
+1
+3
+D6
+1
+2
+1
+
+D
+1
+1
+1
+2
+
+ABILITIES
+
+FACTION: Dark Pacts
+
+Veterans of the Long War: Each time a model in this unit 
+targets an enemy unit with a melee attack, re-roll a Wound roll 
+of 1. If that enemy unit is within range of an objective marker, 
+you can re-roll the Wound roll instead.
+
+WARGEAR ABILITIES
+
+Chaos Icon: Each time the bearer’s unit takes a Leadership 
+test for the Dark Pacts ability, you can re-roll that test.
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Infantry, Battleline, Chaos, Grenades, Legionaries
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+LEGIONARIES
+Against the onslaught of Chaos Legionaries, few can stand for long. 
+Whether millennia-old veterans of the Long War or traitors from 
+renegade warbands, Legionaries are deadly and adaptable warriors, 
+unleashing streams of explosive bolts or venting their vicious hatred 
+with swings of rending chainswords.
+
+WARGEAR OPTIONS
+
+ ■      The Aspiring Champion’s boltgun can be 
+
+replaced with one of the following: 
+ ◦ 1 plasma pistol*
+ ◦ 1 accursed weapon
+ ◦ 1 Astartes chainsword
+ ◦ 1 heavy melee weapon
+
+ ■  The Aspiring Champion’s bolt pistol can be 
+
+replaced with one of the following: 
+ ◦ 1 plasma pistol*
+ ◦ 1 accursed weapon
+ ◦ 1 Astartes chainsword
+ ◦ 1 heavy melee weapon
+
+ ■   1 model can be equipped with 1 Chaos icon.
+ ■  Any number of Legionaries can each have their 
+
+boltgun replaced with 1 Astartes chainsword.
+
+ ■  One Legionary’s boltgun can be replaced with 1 
+
+heavy melee weapon.
+
+ ■  One Legionary’s boltgun can be replaced with 1 
+
+balefire tome.
+
+ ■  For every 5 models in this unit, 1 Legionary’s 
+
+boltgun can be replaced with one of the 
+following (duplicates are not allowed):
+ ◦ 1 plasma pistol
+ ◦ 1 flamer
+ ◦ 1 havoc autocannon
+ ◦ 1 heavy bolter**
+ ◦ 1 lascannon**
+ ◦ 1 meltagun
+ ◦ 1 missile launcher**
+ ◦ 1 plasma gun**
+ ◦ 1 reaper chaincannon
+* Maximum 1 per model.
+
+**  This weapon’s profile can be found on the Heretic 
+
+Astartes Armoury card.
+
+UNIT COMPOSITION
+
+ ■ 1 Aspiring Champion
+ ■ 4-9 Legionaries
+Every model is equipped with: bolt pistol; boltgun; close 
+combat weapon.
+
+KEYWORDS: Infantry, Battleline, Chaos, Grenades, Legionaries
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+CULTIST MOB
+
+M
+
+6"
+
+T
+
+3
+
+SV
+
+6+
+
+W
+
+1
+
+LD
+
+7+
+
+OC
+
+1
+
+RANGED WEAPONS
+Autopistol [PISTOL]
+Bolt pistol [PISTOL]
+Cultist firearm [RAPID FIRE 1]
+Cultist grenade launcher – frag [BLAST]
+Cultist grenade launcher – krak
+Flamer [IGNORES COVER, TORRENT]
+Heavy stubber [HEAVY, RAPID FIRE 3]
+
+MELEE WEAPONS
+Brutal assault weapon 
+Close combat weapon 
+
+RANGE
+
+12"
+12"
+24"
+24"
+24"
+12"
+36"
+
+RANGE
+Melee
+Melee
+
+A
+1
+1
+1
+D3
+1
+D6
+4
+
+A
+2
+1
+
+BS
+4+
+4+
+4+
+4+
+4+
+N/A
+5+
+
+WS
+4+
+4+
+
+S
+3
+4
+3
+4
+9
+4
+4
+
+S
+3
+3
+
+AP
+0
+0
+0
+0
+-2
+0
+0
+
+AP
+0
+0
+
+D
+1
+1
+1
+1
+D3
+1
+1
+
+D
+1
+1
+
+ABILITIES
+
+FACTION: Dark Pacts
+
+For the Dark Gods: At the end of your Command phase, if this 
+unit is within range of an objective marker you control, that 
+objective marker remains under your control, even if you have 
+no models within range of it, until your opponent controls it at 
+the start or end of any turn.
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Infantry, Battleline, Grenades, Chaos, Cultist Mob
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+CULTIST MOB
+Chaos Cultists are the mortal devotees of the Dark Gods, ordinary men 
+and women fallen to promises of temporal power who take to battle in 
+huge numbers. Bearing a motley collection of improvised, stolen and 
+makeshift weapons, they can overwhelm even determined enemies 
+with sheer weight of numbers.
+
+WARGEAR OPTIONS
+
+ ■  The Cultist Champion’s autopistol can be replaced with 1 bolt pistol.
+ ■  Any number of models can each have their autopistol and brutal assault weapon replaced with 1 
+
+Cultist firearm and 1 close combat weapon.
+
+ ■     For every 10 models in this unit, 1 Chaos Cultist’s autopistol and brutal assault weapon can be 
+
+replaced with 1 flamer and 1 close combat weapon.
+
+ ■  For every 10 models in this unit, 1 Chaos Cultist’s autopistol and brutal assault weapon can be 
+
+replaced with 1 heavy stubber and 1 close combat weapon.
+
+ ■   For every 10 models in this unit, 1 Chaos Cultist’s autopistol and brutal assault weapon can be 
+
+replaced with 1 Cultist grenade launcher and 1 close combat weapon.
+
+UNIT COMPOSITION
+
+ ■ 1 Cultist Champion
+ ■ 9-19 Chaos Cultists
+Every model is equipped with: autopistol; brutal 
+assault weapon.
+
+KEYWORDS: Infantry, Battleline, Grenades, Chaos, Cultist Mob
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+ACCURSED CULTISTS
+
+M
+
+6"
+
+6"
+
+T
+
+4
+
+4
+
+SV
+
+6+
+
+6+
+
+W
+
+1
+
+3
+
+LD
+
+7+
+
+7+
+
+OC
+
+2
+
+MUTANT
+
+2 TORMENT
+
+MELEE WEAPONS
+Blasphemous appendages 
+Hideous mutations 
+
+RANGE
+Melee
+Melee
+
+A
+2
+
+D6+2
+
+WS
+4+
+4+
+
+S
+4
+5
+
+AP
+0
+-1
+
+D
+1
+2
+
+ABILITIES
+
+CORE: Feel No Pain 6+
+
+FACTION: Dark Pacts
+
+Accursed Horde: At the start of each player’s Command 
+phase, you can return either 1 destroyed Torment model or up 
+to 3 destroyed Mutant models to this unit.
+
+KEYWORDS: Infantry, Chaos, Accursed Cultists
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+ACCURSED CULTISTS
+Whether born of dark ritual, empyric experimentation or the predations 
+of malign entities, Accursed Cultists have diverse, terrifying origins. 
+Driven towards the foe, Mutants flail and lash at the enemy with claws 
+or tendrils, while horribly warped Torments pounce with bestial hunger.
+
+WARGEAR OPTIONS
+
+ ■    None
+
+UNIT COMPOSITION
+
+ ■ 3-6 Torments
+ ■ 5-10 Mutants
+Every Torment is equipped with: hideous mutations.
+Every Mutant is equipped with: blasphemous appendages.
+
+KEYWORDS: Infantry, Chaos, Accursed Cultists
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+CHAOS TERMINATOR SQUAD
+
+M
+
+5"
+
+T
+
+5
+
+SV
+
+2+
+
+W
+
+3
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Combi-bolter [RAPID FIRE 2]
+Combi-weapon 
+[ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]
+Heavy flamer [IGNORES COVER, TORRENT]
+Reaper autocannon 
+[DEVASTATING WOUNDS, SUSTAINED HITS 1]
+
+MELEE WEAPONS
+Accursed weapon 
+Chainfist [ANTI-VEHICLE 3+]
+Paired accursed weapons [TWIN-LINKED]
+Power fist 
+
+RANGE
+
+24"
+
+24"
+
+12"
+
+36"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+
+A
+2
+
+1
+
+D6
+
+4
+
+A
+4
+3
+5
+3
+
+BS
+3+
+
+4+
+
+N/A
+
+3+
+
+WS
+3+
+4+
+3+
+3+
+
+S
+4
+
+4
+
+5
+
+7
+
+S
+5
+8
+5
+8
+
+AP
+0
+
+0
+
+-1
+
+-1
+
+AP
+-2
+-2
+-2
+-2
+
+D
+1
+
+1
+
+1
+
+1
+
+D
+1
+2
+1
+2
+
+ABILITIES
+
+CORE: Deep Strike
+
+FACTION: Dark Pacts
+
+Despoilers: Each time this unit makes a Dark Pact, until the 
+end of the phase, each time a model in this unit makes an 
+attack, you can re-roll the Hit roll.
+
+INVULNERABLE SAVE
+
+4+
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Infantry, Chaos, Terminator, Chaos Terminator Squad
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+CHAOS TERMINATOR SQUAD
+Clad in hulking, corrupted Terminator plate, each of these murderous 
+brutes is akin to a walking tank. Spikes and horns give them a 
+monstrous appearance, and their powerful array of heavy firepower 
+and brutal melee weapons can tear through elite squads and war 
+engines alike.
+
+WARGEAR OPTIONS
+
+ ■  For every 5 models in this unit, 1 Terminator’s combi-bolter can be replaced with one of the following:
+
+ ◦ 1 heavy flamer
+ ◦ 1 reaper autocannon
+
+ ■ Any number of models can each have their combi-bolter replaced with 1 combi-weapon.
+ ■  For every 5 models in this unit, 1 model’s combi-bolter and accursed weapon can be replaced with 1 
+
+paired accursed weapons.
+
+ ■  For every 5 models in this unit, up to 3 models can each have their accursed weapon replaced with 1 
+
+power fist.
+
+ ■ For every 5 models in this unit, 1 model’s accursed weapon can be replaced with 1 chainfist.
+
+UNIT COMPOSITION
+
+ ■ 1 Terminator Champion
+ ■ 4-9 Chaos Terminators
+Every model is equipped with: combi-bolter; 
+accursed weapon.
+
+KEYWORDS: Infantry, Chaos, Terminator, Chaos Terminator Squad
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+MASTER OF EXECUTIONS
+
+M
+
+6"
+
+T
+
+4
+
+SV
+
+3+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+
+MELEE WEAPONS
+Axe of dismemberment 
+[DEVASTATING WOUNDS, PRECISION]
+
+RANGE
+
+12"
+
+RANGE
+
+Melee
+
+A
+1
+
+A
+
+5
+
+BS
+3+
+
+WS
+
+2+
+
+S
+4
+
+S
+
+7
+
+AP
+0
+
+AP
+
+-2
+
+D
+1
+
+D
+
+2
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Dark Pacts
+
+Warp-sighted Butcher: While this model is leading a unit, 
+each time a model in that unit makes a melee attack that 
+targets a unit that is below its Starting Strength, you can 
+re-roll the Hit roll. If that unit is Below Half-strength, you can 
+re-roll the Wound roll as well.
+Trophy Taker: Each time this model destroys an enemy 
+Character model, you gain 1CP.
+
+KEYWORDS: Infantry, Character, Grenades, Chaos, Master of Executions
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+MASTER OF EXECUTIONS
+These corrupted axemen are the executioners of Heretic Astartes 
+warbands. Able to perceive the empyric soul-stuff of the foe’s greatest 
+champions, they single-mindedly seek them out in battle, bellowing 
+a fatal decree before crashing forward and hacking through armour, 
+flesh and bone.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Master of Executions
+This model is equipped with: bolt pistol; 
+axe of dismemberment.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Chosen
+ ■ Legionaries
+You can attach this model to one of the above units even if 
+one other Character model has already been attached to it 
+(a unit cannot have two Masters of Executions attached 
+to it). If you do, and that Bodyguard unit is destroyed, the 
+Leader units attached to it become separate units, with their 
+original Starting Strengths.
+
+KEYWORDS: Infantry, Character, Grenades, Chaos, Master of Executions
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+POSSESSED
+
+M
+
+9"
+
+T
+
+6
+
+SV
+
+3+
+
+W
+
+3
+
+LD
+
+6+
+
+OC
+
+1
+
+MELEE WEAPONS
+Hideous mutations 
+
+RANGE
+Melee
+
+A
+4
+
+WS
+3+
+
+S
+5
+
+AP
+-1
+
+D
+2
+
+ABILITIES
+
+FACTION: Dark Pacts
+
+Unholy Bloodshed: Each time this unit makes a Dark Pact, 
+until the end of the phase, weapons equipped by models in 
+this unit have the [DEVASTATING WOUNDS] ability.
+
+WARGEAR ABILITIES
+
+Chaos Icon: Each time the bearer’s unit takes a Leadership 
+test for the Dark Pacts ability, you can re-roll that test.
+
+INVULNERABLE SAVE
+
+5+
+
+KEYWORDS: Infantry, Chaos, Daemon, Possessed
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+POSSESSED
+In blasphemous union with fell daemons of the Chaos Gods, 
+Possessed are bestial slaughter incarnate. Warped and mutated by 
+their empyric parasites, their armoured forms flow like wax. As talons, 
+snapping maws and vestigial wings manifest, they unleash an unholy 
+orgy of bloodshed.
+
+WARGEAR OPTIONS
+
+ ■    1 model can be equipped with 1 Chaos icon.
+
+UNIT COMPOSITION
+
+ ■ 1 Possessed Champion
+ ■ 4-9 Possessed
+Every model is equipped with: hideous mutations.
+
+KEYWORDS: Infantry, Chaos, Daemon, Possessed
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+CHOSEN
+
+M
+
+6"
+
+T
+
+4
+
+SV
+
+3+
+
+W
+
+3
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+Boltgun 
+Combi-weapon 
+[ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]
+Plasma pistol – standard [PISTOL]
+Plasma pistol – supercharge [HAZARDOUS, PISTOL]
+
+MELEE WEAPONS
+Accursed weapon 
+Paired accursed weapons [TWIN-LINKED]
+Power fist 
+
+RANGE
+
+12"
+24"
+
+24"
+
+12"
+12"
+
+RANGE
+Melee
+Melee
+Melee
+
+A
+1
+2
+
+1
+
+1
+1
+
+A
+4
+5
+4
+
+BS
+3+
+3+
+
+4+
+
+3+
+3+
+
+WS
+3+
+3+
+3+
+
+S
+4
+4
+
+4
+
+7
+8
+
+S
+5
+5
+8
+
+AP
+0
+0
+
+0
+
+-2
+-3
+
+AP
+-2
+-2
+-2
+
+D
+1
+1
+
+1
+
+1
+2
+
+D
+1
+1
+2
+
+ABILITIES
+
+FACTION: Dark Pacts
+
+Chosen Marauders: This unit is eligible to shoot and declare a 
+charge in a turn in which it Advanced or Fell Back.
+
+WARGEAR ABILITIES
+
+Chaos Icon: Each time the bearer’s unit takes a Leadership 
+test for the Dark Pacts ability, you can re-roll that test.
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Infantry, Grenades, Chaos, Chosen
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+CHOSEN
+The power-hungry veterans known as Chosen are amongst the most 
+experienced and ruthless fighters of the Heretic Astartes. Granted – 
+or having seized – their warband’s most powerful weapons, these 
+warriors undertake the most glorious and dangerous missions, and 
+are the bane of all that lives.
+
+WARGEAR OPTIONS
+
+ ■  For every 5 models in this unit, up to 2 models can each have their bolt pistol replaced with 1 
+
+plasma pistol.
+
+ ■  For every 5 models in this unit, up to 2 models can each have their bolt pistol replaced with 
+
+1 combi-weapon.
+
+ ■  For every 5 models in this unit, 1 model’s boltgun and accursed weapon can be replaced with 1 paired 
+
+accursed weapons.
+
+ ■  For every 5 models in this unit, 1 model equipped with a boltgun can have its accursed weapon 
+
+replaced with 1 power fist. That model’s boltgun cannot be replaced.
+
+ ■ 1 model can be equipped with 1 Chaos icon.
+
+UNIT COMPOSITION
+
+ ■ 1 Chosen Champion
+ ■ 4-9 Chosen
+Every model is equipped with: boltgun; bolt pistol; 
+accursed weapon.
+
+KEYWORDS: Infantry, Grenades, Chaos, Chosen
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+NOISE MARINES
+
+M
+
+6"
+
+T
+
+4
+
+SV
+
+3+
+
+W
+
+2
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Blastmaster – single frequency [HEAVY]
+Blastmaster – varied frequency 
+Bolt pistol [PISTOL]
+Boltgun 
+Doom siren [TORRENT]
+Plasma pistol – standard [PISTOL]
+Plasma pistol – supercharge [HAZARDOUS, PISTOL]
+Sonic blaster [ASSAULT]
+
+MELEE WEAPONS
+Accursed weapon 
+Astartes chainsword 
+Close combat weapon
+Power fist 
+
+RANGE
+
+48"
+36"
+12"
+24"
+12"
+12"
+12"
+24"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+
+A
+3
+6
+1
+2
+D6
+1
+1
+3
+
+A
+4
+4
+3
+3
+
+BS
+4+
+3+
+3+
+3+
+N/A
+3+
+3+
+3+
+
+WS
+3+
+3+
+3+
+3+
+
+S
+9
+6
+4
+4
+6
+7
+8
+5
+
+S
+5
+4
+4
+8
+
+AP
+-2
+-1
+0
+0
+-1
+-2
+-3
+0
+
+AP
+-2
+-1
+0
+-2
+
+D
+3
+1
+1
+1
+1
+1
+2
+1
+
+D
+1
+1
+1
+2
+
+ABILITIES
+
+FACTION: Dark Pacts
+
+Riotous Cacophony: In your Shooting phase, after this unit 
+has shot, select one enemy unit that was hit by one or more 
+of those attacks. That unit must take a Battle-shock test.
+
+WARGEAR ABILITIES
+
+Chaos Icon: Each time the bearer’s unit takes a Leadership 
+test for the Dark Pacts ability, you can re-roll that test.
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Infantry, Grenades, Chaos, Slaanesh, Noise Marines
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+NOISE MARINES
+Orchestrating riotous destruction on vast scales, Noise Marines 
+saturate the war zone with explosive bolts, clashing aural waves 
+and extreme psychosonic attacks. These hedonistic worshippers of 
+Slaanesh are inured to most stimuli, and seek to unleash the most 
+cacophonous destruction to stir their jaded senses.
+
+WARGEAR OPTIONS
+
+ ■  Any number of Noise Marines can each have their 
+
+boltgun replaced with one of the following: 
+ ◦ 1 Astartes chainsword
+ ◦ 1 sonic blaster
+
+ ■  1 Noise Marine’s boltgun can be replaced with 
+
+1 blastmaster.
+
+ ■  The Noise Champion’s bolt pistol can be replaced with 
+
+one of the following:
+ ◦ 1 plasma pistol*
+ ◦ 1 accursed weapon
+ ◦ 1 Astartes chainsword
+ ◦ 1 power fist
+
+ ■  The Noise Champion’s boltgun can be 
+
+replaced with one of the following:
+ ◦ 1 plasma pistol*
+ ◦ 1 accursed weapon
+ ◦ 1 Astartes chainsword
+ ◦ 1 power fist
+ ◦ 1 sonic blaster
+
+ ■  The Noise Champion can be equipped 
+
+with 1 doom siren.
+
+ ■  1 model can be equipped with 1 
+
+Chaos icon.
+
+* Maximum 1 per model.
+
+UNIT COMPOSITION
+
+ ■ 1 Noise Champion
+ ■ 4-9 Noise Marines
+Every model is equipped with: bolt pistol; boltgun; close 
+combat weapon.
+
+KEYWORDS: Infantry, Grenades, Chaos, Slaanesh, Noise Marines
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+VENOMCRAWLER
+
+M
+
+12"
+
+T
+
+9
+
+SV
+
+3+
+
+W
+
+9
+
+LD
+
+6+
+
+OC
+
+3
+
+RANGED WEAPONS
+Excruciator cannon 
+
+MELEE WEAPONS
+Soulflayer tendrils and claws 
+
+RANGE
+
+36"
+
+RANGE
+Melee
+
+A
+6
+
+A
+6
+
+BS
+3+
+
+WS
+3+
+
+S
+6
+
+S
+6
+
+AP
+-1
+
+AP
+-1
+
+D
+2
+
+D
+2
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Dark Pacts
+
+Soul Eater: At the end of any phase, if one or more attacks 
+made by this model that phase destroyed one or more 
+enemy units, until the end of the battle, add 1 to the Attacks 
+characteristic of this model’s weapons.
+
+INVULNERABLE SAVE
+
+5+
+
+KEYWORDS: Vehicle, Walker, Chaos, Daemon, Venomcrawler
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+VENOMCRAWLER
+These arachnoid amalgams of daemon flesh, cursed iron and 
+malignant sentience pound across war zones in search of bodies 
+to tear and spirits to consume. After butchering the prey with their 
+excruciator cannons, claws and lashing tendrils, they draw the souls 
+of the slain into their abdomens.
+
+WARGEAR OPTIONS
+
+ ■    None
+
+UNIT COMPOSITION
+
+ ■ 1 Venomcrawler
+This model is equipped with: 2 excruciator cannons; 
+soulflayer tendrils and claws.
+
+KEYWORDS: Vehicle, Walker, Chaos, Daemon, Venomcrawler
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+CHAOS BIKERS
+
+M
+
+12"
+
+T
+
+5
+
+SV
+
+3+
+
+W
+
+3
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+Combi-bolter [RAPID FIRE 2]
+Combi-weapon 
+[ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]
+Flamer [IGNORES COVER, TORRENT]
+Meltagun [MELTA 2]
+Plasma gun – standard [RAPID FIRE 1]
+Plasma gun – supercharge [HAZARDOUS, RAPID FIRE 1]
+Plasma pistol – standard [PISTOL]
+Plasma pistol – supercharge [HAZARDOUS, PISTOL]
+
+MELEE WEAPONS
+Close combat weapon 
+Accursed weapon 
+Astartes chainsword 
+Power fist 
+
+RANGE
+
+12"
+24"
+
+24"
+
+12"
+12"
+24"
+24"
+12"
+12"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+
+A
+1
+2
+
+1
+
+D6
+1
+1
+1
+1
+1
+
+A
+3
+4
+4
+3
+
+BS
+3+
+3+
+
+4+
+
+N/A
+3+
+3+
+3+
+3+
+3+
+
+WS
+3+
+3+
+3+
+3+
+
+S
+4
+4
+
+4
+
+4
+9
+7
+8
+7
+8
+
+S
+4
+5
+4
+8
+
+AP
+0
+0
+
+0
+
+0
+-4
+-2
+-3
+-2
+-3
+
+AP
+0
+-2
+-1
+-2
+
+D
+1
+1
+
+1
+
+1
+D6
+1
+2
+1
+2
+
+D
+1
+1
+1
+2
+
+ABILITIES
+
+FACTION: Dark Pacts
+
+Outmanoeuvre: At the end of your opponent’s turn, if this 
+unit is wholly within 6" of one or more battlefield edge and 
+not within Engagement Range of one or more enemy units, 
+you can remove it from the battlefield and place it into 
+Strategic Reserves.
+
+WARGEAR ABILITIES
+
+Chaos Icon: Each time the bearer’s unit takes a Leadership 
+test for the Dark Pacts ability, you can re-roll that test.
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Mounted, Grenades, Chaos, Chaos Bikers
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+CHAOS BIKERS
+Vicious long-range hunters as adept in reconnaissance as they are in 
+bloody chases, Chaos Bikers ride powerful, growling machines whose 
+combi-bolters spew explosive death. In rapid assaults, they smash 
+through enemy defence lines, before circling back like a pack of 
+predators to cut down survivors in bloody melee.
+
+WARGEAR OPTIONS
+
+ ■  The Biker Champion’s bolt pistol can be replaced with one of the following:
+
+ ◦ 1 plasma pistol
+ ◦ 1 accursed weapon
+ ◦ 1 Astartes chainsword
+ ◦ 1 power fist   
+
+ ■ Any number of Chaos Bikers can each have their bolt pistol replaced with 1 Astartes chainsword.
+ ■   Up to 2 Chaos Bikers can each have their combi-bolter replaced with 1 combi-weapon, or can be 
+
+equipped with one of the following:
+ ◦ 1 flamer
+ ◦ 1 meltagun
+ ◦ 1 plasma gun
+
+ ■ 1 model can be equipped with 1 Chaos icon.
+
+UNIT COMPOSITION
+
+ ■ 1 Biker Champion
+ ■ 2-5 Chaos Bikers
+Every model is equipped with: bolt pistol; combi-bolter; close 
+combat weapon.
+
+KEYWORDS: Mounted, Grenades, Chaos, Chaos Bikers
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+RAPTORS
+
+M
+
+12"
+
+T
+
+4
+
+SV
+
+3+
+
+W
+
+2
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+Flamer [IGNORES COVER, TORRENT]
+Meltagun [MELTA 2]
+Plasma gun – standard [RAPID FIRE 1]
+Plasma gun – supercharge [HAZARDOUS, RAPID FIRE 1]
+Plasma pistol – standard [PISTOL]
+Plasma pistol – supercharge [HAZARDOUS, PISTOL]
+
+MELEE WEAPONS
+Accursed weapon 
+Astartes chainsword 
+Close combat weapon 
+Power fist 
+
+RANGE
+
+12"
+12"
+12"
+24"
+24"
+12"
+12"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+
+A
+1
+D6
+1
+1
+1
+1
+1
+
+A
+4
+4
+3
+3
+
+BS
+3+
+N/A
+3+
+3+
+3+
+3+
+3+
+
+WS
+3+
+3+
+3+
+3+
+
+S
+4
+4
+9
+7
+8
+7
+8
+
+S
+5
+4
+4
+8
+
+AP
+0
+0
+-4
+-2
+-3
+-2
+-3
+
+AP
+-2
+-1
+0
+-2
+
+D
+1
+1
+D6
+1
+2
+1
+2
+
+D
+1
+1
+1
+2
+
+ABILITIES
+
+CORE: Deep Strike
+
+FACTION: Dark Pacts
+
+Fearsome (Aura): While an enemy unit is within 6" of this 
+unit, each time that enemy unit takes a Battle-shock or 
+Leadership test, subtract 1 from the result.
+Terrifying Assault: At the start of the Fight phase, each enemy 
+unit within Engagement Range of one or more units with this 
+ability must take a Battle-shock test.
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Infantry, Fly, Jump Pack, Chaos, Raptors
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+RAPTORS
+A subculture of sky warriors that cuts across Legion boundaries, 
+Raptors hunt like avian predators and are unified by the thrill of the 
+chase. With screeching battle cries amplified to terrify their prey, they 
+descend in meteoric charges, a flurry of reaping blades and intense, 
+short-ranged firepower.
+
+WARGEAR OPTIONS
+
+ ■  The Raptor Champion’s bolt pistol can be replaced with 1 plasma pistol.
+ ■  The Raptor Champion’s Astartes chainsword can be replaced with one of the following:
+
+ ◦ 1 accursed weapon
+ ◦ 1 power fist
+
+ ■  For every 5 models in this unit, up to 2 Raptors can each have their bolt pistol replaced with 1 plasma 
+
+pistol, or have theirbolt pistol and Astartes chainsword replaced with one of the following:
+ ◦ 1 flamer and 1 close combat weapon
+ ◦ 1 meltagun and 1 close combat weapon
+ ◦ 1 plasma gun and 1 close combat weapon
+
+UNIT COMPOSITION
+
+ ■ 1 Raptor Champion
+ ■ 4-9 Raptors
+Every model is equipped with: bolt pistol; 
+Astartes chainsword.
+
+KEYWORDS: Infantry, Fly, Jump Pack, Chaos, Raptors
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+WARP TALONS
+
+M
+
+12"
+
+T
+
+4
+
+SV
+
+3+
+
+W
+
+2
+
+LD
+
+6+
+
+OC
+
+1
+
+MELEE WEAPONS
+Warp claws [TWIN-LINKED]
+
+RANGE
+Melee
+
+A
+4
+
+WS
+3+
+
+S
+5
+
+AP
+-2
+
+D
+1
+
+ABILITIES
+
+CORE: Deep Strike
+
+FACTION: Dark Pacts
+
+Warpflames: Each time an enemy unit within Engagement 
+Range of this unit is selected to Fall Back, if that enemy unit 
+is not Battle-shocked, your opponent must take Desperate 
+Escape tests for each model in that unit before any are 
+moved. If that enemy unit is Battle-shocked, until the end of 
+the phase, each time a Desperate Escape test is taken for a 
+model in that unit, subtract 1 from the result.
+
+INVULNERABLE SAVE
+
+5+
+
+KEYWORDS: Infantry, Fly, Jump Pack, Chaos, Daemon, Warp Talons
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+WARP TALONS
+Often appearing from the immaterium, wreathed in unholy fire and 
+with their armour warped into daemonic likenesses, Warp Talons are 
+tainted warriors who have fallen further than most. They are skyborne 
+assassins, their flaming talons equally adept at slicing through 
+armour or tearing through the fabric of realspace.
+
+WARGEAR OPTIONS
+
+ ■    None
+
+UNIT COMPOSITION
+
+ ■ 1 Warp Talon Champion
+ ■ 4-9 Warp Talons
+Every model is equipped with: warp claws.
+
+KEYWORDS: Infantry, Fly, Jump Pack, Chaos, Daemon, Warp Talons
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+HAVOCS
+
+M
+
+5"
+
+T
+
+5
+
+SV
+
+3+
+
+W
+
+2
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Flamer [IGNORES COVER, TORRENT]
+Havoc autocannon 
+Havoc heavy bolter [SUSTAINED HITS 1]
+Havoc lascannon 
+Havoc missile launcher – frag [BLAST]
+Havoc missile launcher – krak 
+Havoc reaper chaincannon 
+
+MELEE WEAPONS
+Accursed weapon 
+Astartes chainsword 
+Close combat weapon
+Power fist 
+
+RANGE
+
+12"
+48"
+36"
+48"
+48"
+48"
+24"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+
+A
+D6
+2
+3
+1
+D6
+1
+8
+
+A
+4
+5
+3
+3
+
+BS
+N/A
+3+
+3+
+3+
+3+
+3+
+3+
+
+WS
+3+
+3+
+3+
+3+
+
+S
+4
+9
+5
+12
+4
+9
+5
+
+S
+5
+4
+4
+8
+
+AP
+0
+-1
+-1
+-3
+0
+-2
+0
+
+AP
+-2
+-1
+0
+-2
+
+D
+1
+3
+2
+
+D6+1
+
+1
+D6
+1
+
+D
+1
+1
+1
+2
+
+ABILITIES
+
+FACTION: Dark Pacts
+
+Stabilisation Talons: Each time a model in this unit makes 
+an attack with a ranged weapon, you can ignore any or all 
+modifiers to the Hit roll and any or all modifiers to the Ballistic 
+Skill characteristic of that weapon.
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Infantry, Chaos, Havocs
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+HAVOCS
+With a preference for inflicting carnage at long range, Havocs 
+imperiously touch every part of the battlefield with death and 
+destruction. Their huge weapons are archaic patterns of those known 
+to the Imperium, but often become fused with their wielder over the 
+span of countless wars.
+
+ ■  Any number of Havocs can each have their 
+
+Havoc autocannon or Havoc lascannon replaced 
+with one of the following:
+ ◦ 1 Havoc autocannon
+ ◦ 1 Havoc heavy bolter
+ ◦ 1 Havoc lascannon
+ ◦ 1 Havoc missile launcher
+ ◦ 1 Havoc reaper chaincannon
+
+UNIT COMPOSITION
+
+ ■ 1 Havoc Champion
+ ■ 4 Havocs
+The Havoc Champion is equipped with: flamer; 
+Astartes chainsword.
+2 Havocs are equipped with: Havoc autocannon; close 
+combat weapon.
+2 Havocs are equipped with: Havoc lascannon; close 
+combat weapon.
+
+WARGEAR OPTIONS
+
+ ■    The Havoc Champion’s Astartes chainsword can 
+
+be replaced with one of the following:
+ ◦ 1 accursed weapon
+ ◦ 1 power fist
+
+ ■  The Havoc Champion’s flamer can be replaced 
+
+with one of the following: 
+ ◦ 1 boltgun*
+ ◦ 1 meltagun*
+ ◦ 1 plasma gun*
+ ◦ 1 plasma pistol*
+ ◦ 1 accursed weapon
+ ◦ 1 power fist
+*  This weapon’s profile can be found on the Heretic 
+Astartes Armoury card.
+
+KEYWORDS: Infantry, Chaos, Havocs
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+OBLITERATORS
+
+M
+
+4"
+
+T
+
+7
+
+SV
+
+2+
+
+W
+
+5
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Fleshmetal guns – focused malice [MELTA 2]
+Fleshmetal guns – ruinous salvo [BLAST]
+Fleshmetal guns – warp hail [SUSTAINED HITS 1]
+
+MELEE WEAPONS
+Crushing fists 
+
+RANGE
+
+24"
+24"
+24"
+
+RANGE
+Melee
+
+A
+D3
+D6
+D6+3
+
+A
+4
+
+BS
+3+
+3+
+3+
+
+WS
+3+
+
+S
+12
+8
+5
+
+S
+9
+
+AP
+-3
+-2
+-1
+
+AP
+-2
+
+D
+4
+2
+1
+
+D
+2
+
+ABILITIES
+
+CORE: Deep Strike
+
+FACTION: Dark Pacts
+
+Warp Rift Firepower: Once per battle, when this unit makes a 
+Dark Pact, it can use this ability. If it does, until the end of the 
+phase, ranged weapons models in this unit are equipped with 
+have the [INDIRECT FIRE] ability.
+
+INVULNERABLE SAVE
+
+5+
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Infantry, Chaos, Daemon, Obliterators
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+OBLITERATORS
+Hulking, baroque meldings of Chaos Space Marine, daemon-infused 
+armour and mutated weaponry, Obliterators are able to reshape 
+their forms from moment to moment. Stepping directly from warp 
+fissures into ideal firing positions, they sweep all before them with 
+warp-tainted firestorms.
+
+WARGEAR OPTIONS
+
+ ■    None
+
+UNIT COMPOSITION
+
+ ■ 2-4 Obliterators
+Every model is equipped with: fleshmetal guns; 
+crushing fists.
+
+KEYWORDS: Infantry, Chaos, Daemon, Obliterators
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+CHAOS LAND RAIDER
+
+M
+
+T
+
+10" 12
+
+SV
+
+2+
+
+W
+
+16
+
+LD
+
+6+
+
+OC
+
+5
+
+RANGED WEAPONS
+Combi-bolter [RAPID FIRE 2]
+Combi-weapon 
+[ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]
+Havoc launcher [BLAST]
+Soulshatter lascannon 
+Twin heavy bolter [SUSTAINED HITS 1, TWIN-LINKED]
+
+MELEE WEAPONS
+Armoured tracks 
+
+RANGE
+
+24"
+
+24"
+
+48"
+48"
+36"
+
+RANGE
+Melee
+
+A
+2
+
+1
+
+D6
+2
+3
+
+A
+6
+
+BS
+3+
+
+4+
+
+3+
+3+
+3+
+
+WS
+4+
+
+S
+4
+
+4
+
+5
+12
+5
+
+S
+8
+
+AP
+0
+
+0
+
+0
+-3
+-1
+
+AP
+0
+
+D
+1
+
+1
+
+1
+
+D6+1
+
+2
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D6
+
+FACTION: Dark Pacts
+
+Assault Ramp: Each time a unit disembarks from this model 
+after it has made a Normal move, that unit is still eligible to 
+declare a charge this turn.
+
+DAMAGED: 1-5 WOUNDS REMAINING
+
+While this model has 1-5 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+KEYWORDS: Vehicle, Transport, Smoke, Chaos, Land Raider
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+CHAOS LAND RAIDER
+Chaos Land Raiders are massive armoured transports bristling with 
+the heavy armaments of main line battle tanks and seething with a 
+malevolent spirit. Strung with trophies taken from those slain by the 
+elite warriors the tanks carry to the front line, Land Raiders are the 
+spiked fists of many Heretic Astartes assaults.
+
+WARGEAR OPTIONS
+
+ ■    This model can be equipped with one of the following:
+
+ ◦ 1 combi-bolter
+ ◦ 1 combi-weapon
+
+ ■  This model can be equipped with 1 havoc launcher.
+
+UNIT COMPOSITION
+
+ ■ 1 Chaos Land Raider
+This model is equipped with: 2 soulshatter lascannons; twin 
+heavy bolter; armoured tracks.
+
+TRANSPORT
+
+This model has a transport capacity of 12 Heretic Astartes 
+Infantry models (excluding Obliterator and Jump Pack 
+models). Each Possessed and Terminator model takes up 
+the space of 2 models.
+
+KEYWORDS: Vehicle, Transport, Smoke, Chaos, Land Raider
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+CHAOS PREDATOR ANNIHILATOR
+
+M
+
+T
+
+10" 10
+
+SV
+
+3+
+
+W
+
+11
+
+LD
+
+6+
+
+OC
+
+4
+
+RANGED WEAPONS
+Combi-bolter [RAPID FIRE 2]
+Combi-weapon 
+[ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]
+Havoc launcher [BLAST]
+Heavy bolter [SUSTAINED HITS 1]
+Lascannon 
+Predator twin lascannon [TWIN-LINKED]
+
+MELEE WEAPONS
+Armoured tracks 
+
+RANGE
+
+24"
+
+24"
+
+48"
+36"
+48"
+48"
+
+RANGE
+Melee
+
+A
+2
+
+1
+
+D6
+3
+1
+1
+
+A
+3
+
+BS
+3+
+
+4+
+
+3+
+3+
+3+
+3+
+
+WS
+4+
+
+S
+4
+
+4
+
+5
+5
+12
+14
+
+S
+6
+
+AP
+0
+
+0
+
+0
+-1
+-3
+-3
+
+AP
+0
+
+D
+1
+
+1
+
+1
+2
+
+D6+1
+D6+1
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Dark Pacts
+
+Annihilator: Each time a ranged attack made by this model is 
+allocated to a Monster or Vehicle model, re-roll a Damage 
+roll of 1.
+
+DAMAGED: 1-4 WOUNDS REMAINING
+
+While this model has 1-4 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+KEYWORDS: Vehicle, Smoke, Chaos, Predator Annihilator
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+CHAOS PREDATOR ANNIHILATOR
+The traitorous crews of each Predator Annihilator liken their tank’s 
+machine spirit to the animus of a stalking hunter. These tank-killing 
+war machines unleash searing beams of energy from their 
+lascannons, or thunder into front-line brawls to crack open bunkers 
+housing the craven foe.
+
+WARGEAR OPTIONS
+
+ ■    This model can be equipped with one of the following:
+
+ ◦ 2 heavy bolters
+ ◦ 2 lascannons
+
+ ■ This model can be equipped with one of the following:
+
+ ◦ 1 combi-bolter
+ ◦ 1 combi-weapon
+
+ ■  This model can be equipped with 1 Havoc launcher.
+
+UNIT COMPOSITION
+
+ ■ 1 Chaos Predator Annihilator
+This model is equipped with: Predator twin lascannon; 
+armoured tracks.
+
+KEYWORDS: Vehicle, Smoke, Chaos, Predator Annihilator
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+CHAOS PREDATOR DESTRUCTOR
+
+M
+
+T
+
+10" 10
+
+SV
+
+3+
+
+W
+
+11
+
+LD
+
+6+
+
+OC
+
+4
+
+RANGED WEAPONS
+Combi-bolter [RAPID FIRE 2]
+Combi-weapon 
+[ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]
+Havoc launcher [BLAST]
+Heavy bolter [SUSTAINED HITS 1]
+Lascannon
+Predator autocannon 
+
+MELEE WEAPONS
+Armoured tracks 
+
+RANGE
+
+24"
+
+24"
+
+48"
+36"
+48"
+48"
+
+RANGE
+Melee
+
+A
+2
+
+1
+
+D6
+3
+1
+4
+
+A
+3
+
+BS
+3+
+
+4+
+
+3+
+3+
+3+
+3+
+
+WS
+6+
+
+S
+4
+
+4
+
+5
+5
+12
+9
+
+S
+6
+
+AP
+0
+
+0
+
+0
+-1
+-3
+-1
+
+AP
+0
+
+D
+1
+
+1
+
+1
+2
+
+D6+1
+
+3
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Dark Pacts
+
+Destructor: Each time a ranged attack made by this model 
+targets an enemy Infantry unit, improve the Armour 
+Penetration characteristic of that attack by 1.
+
+DAMAGED: 1-4 WOUNDS REMAINING
+
+While this model has 1-4 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+KEYWORDS: Vehicle, Smoke, Chaos, Predator Destructor
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+CHAOS PREDATOR DESTRUCTOR
+Many Predator Destructors of the Heretic Astartes are ancient 
+war engines whose rapid-firing heavy weaponry has unleashed 
+destruction on battlefields dating back to the Horus Heresy. The 
+thudding of their explosive shells resounds like a death knell as they 
+scythe apart squads of infantry and light vehicles.
+
+WARGEAR OPTIONS
+
+ ■    This model can be equipped with one of the following:
+
+ ◦ 2 heavy bolters
+ ◦ 2 lascannons
+
+ ■ This model can be equipped with one of the following:
+
+ ◦ 1 combi-bolter
+ ◦ 1 combi-weapon
+
+ ■  This model can be equipped with 1 Havoc launcher.
+
+UNIT COMPOSITION
+
+ ■ 1 Chaos Predator Destructor
+This model is equipped with: Predator autocannon; 
+armoured tracks.
+
+KEYWORDS: Vehicle, Smoke, Chaos, Predator Destructor
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+CHAOS VINDICATOR
+
+M
+
+9"
+
+T
+
+11
+
+SV
+
+2+
+
+W
+
+11
+
+LD
+
+6+
+
+OC
+
+3
+
+RANGED WEAPONS
+Combi-bolter [RAPID FIRE 2]
+Combi-weapon 
+[ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]
+Demolisher cannon [BLAST]
+Havoc launcher [BLAST]
+
+MELEE WEAPONS
+Armoured tracks 
+
+RANGE
+
+24"
+
+24"
+
+24"
+48"
+
+RANGE
+Melee
+
+A
+2
+
+1
+
+D6+3
+D6
+
+A
+3
+
+BS
+3+
+
+4+
+
+3+
+3+
+
+WS
+4+
+
+S
+4
+
+4
+
+14
+5
+
+S
+6
+
+AP
+0
+
+0
+
+-3
+0
+
+AP
+0
+
+D
+1
+
+1
+
+D6
+1
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Dark Pacts
+
+Siege Shield: When making ranged attacks with its 
+demolisher cannon, this model can target enemy units within 
+Engagement Range of it (provided no other friendly units 
+are also within Engagement Range of that enemy unit). In 
+addition, when making ranged attacks, this model does not 
+suffer the penalty to its Hit rolls for being within Engagement 
+Range of one or more enemy units.
+
+DAMAGED: 1-4 WOUNDS REMAINING
+
+While this model has 1-4 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+KEYWORDS: Vehicle, Smoke, Chaos, Vindicator
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+CHAOS VINDICATOR
+Vindicators are brutal siege tanks, capable of single-handedly 
+pulverising trench networks along with their defenders. A Vindicator’s 
+demolisher cannon fires gigantic shells that can tear ragged holes in 
+bastion walls, likened by its accompanying heretics to the crumbling 
+faith of loyalists.
+
+WARGEAR OPTIONS
+
+ ■ This model can be equipped with one of the following:
+
+ ◦ 1 combi-bolter
+ ◦ 1 combi-weapon
+
+ ■  This model can be equipped with 1 Havoc launcher.
+
+UNIT COMPOSITION
+
+ ■ 1 Chaos Vindicator
+This model is equipped with: demolisher cannon; 
+armoured tracks.
+
+KEYWORDS: Vehicle, Smoke, Chaos, Vindicator
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+DEFILER
+
+M
+
+8"
+
+T
+
+10
+
+SV
+
+3+
+
+W
+
+14
+
+LD
+
+6+
+
+OC
+
+5
+
+RANGED WEAPONS
+Combi-bolter [RAPID FIRE 2]
+Combi-weapon 
+[ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]
+Defiler cannon [BLAST]
+Havoc launcher [BLAST]
+Reaper autocannon 
+[DEVASTATING WOUNDS, SUSTAINED HITS 1]
+Twin heavy bolter [SUSTAINED HITS 1, TWIN-LINKED]
+Twin heavy flamer 
+[IGNORES COVER, TORRENT, TWIN-LINKED]
+Twin lascannon [TWIN-LINKED]
+
+MELEE WEAPONS
+Defiler claws 
+Defiler scourge [EXTRA ATTACKS]
+
+RANGE
+
+24"
+
+24"
+
+48"
+48"
+
+36"
+
+36"
+
+12"
+
+48"
+
+RANGE
+Melee
+Melee
+
+A
+2
+
+1
+
+D6+3
+D6
+
+4
+
+3
+
+D6
+
+1
+
+A
+5
+3
+
+BS
+3+
+
+4+
+
+3+
+3+
+
+3+
+
+3+
+
+N/A
+
+3+
+
+WS
+3+
+3+
+
+S
+4
+
+4
+
+10
+5
+
+7
+
+5
+
+5
+
+12
+
+S
+16
+12
+
+AP
+0
+
+0
+
+-1
+0
+
+-1
+
+-1
+
+-1
+
+-3
+
+AP
+-3
+-1
+
+D
+1
+
+1
+
+3
+1
+
+1
+
+2
+
+1
+
+D6+1
+
+D
+D6+1
+
+2
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Dark Pacts
+
+Scuttling Walker: Each time this model makes a Normal or 
+Advance move, it can be moved over friendly Monster and 
+Vehicle models as if they were not there. This model can 
+move over terrain features that are 4" or less in height as if 
+they were not there.
+
+DAMAGED: 1-5 WOUNDS REMAINING
+
+While this model has 1-5 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE
+
+5+
+
+KEYWORDS: Vehicle, Walker, Smoke, Chaos, Daemon, Defiler
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+DEFILER
+Towering creations that stomp across the battlefield on piston-driven 
+legs, their clanking claws easily capable of cutting a Space Marine in 
+half, Defilers are Daemon Engines possessed by abominable entities. 
+Foes are not safe at a distance either, as Defilers’ monstrous cannons 
+and other heavy weapons can inflict a toll of carnage.
+
+WARGEAR OPTIONS
+
+ ■    This model’s twin heavy flamer can be replaced with one of the following:
+
+ ◦ 1 Defiler scourge
+ ◦ 1 havoc launcher
+
+ ■ This model’s reaper autocannon can be replaced with one of the following:
+
+ ◦ 1 twin heavy bolter
+ ◦ 1 twin lascannon
+
+ ■ This model can be equipped with one of the following: 
+
+ ◦ 1 combi-bolter
+ ◦ 1 combi-weapon
+
+UNIT COMPOSITION
+
+ ■ 1 Defiler
+This model is equipped with: Defiler cannon; reaper 
+autocannon; twin heavy flamer; Defiler claws.
+
+KEYWORDS: Vehicle, Walker, Smoke, Chaos, Daemon, Defiler
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+FORGEFIEND
+
+M
+
+8"
+
+T
+
+10
+
+SV
+
+3+
+
+W
+
+12
+
+LD
+
+6+
+
+OC
+
+3
+
+RANGED WEAPONS
+Ectoplasma cannon [BLAST]
+Hades autocannon 
+
+MELEE WEAPONS
+Armoured limbs 
+Forgefiend jaws 
+
+RANGE
+
+36"
+36"
+
+RANGE
+Melee
+Melee
+
+A
+D3
+6
+
+A
+2
+5
+
+BS
+3+
+3+
+
+WS
+3+
+3+
+
+S
+10
+8
+
+S
+6
+7
+
+AP
+-3
+-1
+
+AP
+0
+0
+
+D
+3
+2
+
+D
+2
+2
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Dark Pacts
+
+Daemonic Ordnance: Each time this model is selected to 
+shoot, it can use this ability. If it does, until the end of the 
+phase, its ranged weapons have the [DEVASTATING WOUNDS] 
+and [HAZARDOUS] abilities.
+
+DAMAGED: 1-4 WOUNDS REMAINING
+
+While this model has 1-4 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE
+
+5+
+
+KEYWORDS: Vehicle, Walker, Chaos, Daemon, Forgefiend
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+FORGEFIEND
+Forgefiends are fused with enormous rotary cannons that fire 
+fist-sized phosphor shells, or else with ancient artefact-ordnance 
+perverted to vomit ectoplasma from the beasts’ own innards. With 
+such weaponry they scythe down masses of enemy troops and blast 
+glowing craters into the toughest opposition.
+
+WARGEAR OPTIONS
+
+ ■    This model’s 2 Hades autocannons can be replaced with 2 ectoplasma cannons.
+ ■ This model’s Forgefiend jaws can be replaced with 1 ectoplasma cannon and 1 armoured limbs.
+
+UNIT COMPOSITION
+
+ ■ 1 Forgefiend
+This model is equipped with: 2 Hades autocannons;  
+Forgefiend jaws.
+
+KEYWORDS: Vehicle, Walker, Chaos, Daemon, Forgefiend
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+HELBRUTE
+
+M
+
+6"
+
+T
+
+9
+
+SV
+
+2+
+
+W
+
+8
+
+LD
+
+6+
+
+OC
+
+3
+
+RANGED WEAPONS
+Combi-bolter [RAPID FIRE 2]
+Heavy flamer [IGNORES COVER, TORRENT]
+Helbrute plasma cannon [BLAST, HAZARDOUS]
+Missile launcher – frag [BLAST]
+Missile launcher – krak 
+Multi-melta [MELTA 2]
+Twin autocannon [TWIN-LINKED]
+Twin heavy bolter [SUSTAINED HITS 1, TWIN-LINKED]
+Twin lascannon [TWIN-LINKED]
+
+MELEE WEAPONS
+Close combat weapon 
+Helbrute fist 
+Helbrute hammer 
+Power scourge 
+
+RANGE
+
+24"
+12"
+36"
+48"
+48"
+18"
+48"
+36"
+48"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+
+A
+2
+D6
+D3
+D6
+1
+2
+2
+3
+1
+
+A
+5
+5
+5
+8
+
+BS
+3+
+N/A
+3+
+3+
+3+
+3+
+3+
+3+
+3+
+
+WS
+3+
+3+
+4+
+3+
+
+S
+4
+5
+8
+4
+9
+9
+9
+5
+12
+
+S
+6
+12
+14
+7
+
+AP
+0
+-1
+-3
+0
+-2
+-4
+-1
+-1
+-3
+
+AP
+0
+-2
+-3
+-1
+
+D
+1
+1
+3
+1
+D6
+D6
+3
+2
+
+D6+1
+
+D
+1
+3
+
+D6+1
+
+2
+
+ABILITIES
+
+CORE: Deadly Demise 1
+
+FACTION: Dark Pacts
+
+Dark Ascension (Aura): While a friendly Heretic Astartes 
+unit is within 6" of this model, each time that unit makes a 
+Dark Pact, until the end of the phase, its weapons gain both 
+abilities conferred by that pact (instead of only one).
+Helbrute Fists: If this model is equipped with two Helbrute 
+fists, those weapons have the [TWIN-LINKED] ability.
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Vehicle, Walker, Chaos, Helbrute
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+HELBRUTE
+Helbrutes are walking engines of destruction and psychosis, their 
+occupants kept alive in a state of agony and insanity. These infernal 
+sarcophagi are fitted with a variety of powerful armaments to blast 
+enemy armour open from afar, or cruel appendages with which to hack 
+and crush with enormous strength at close range.
+
+WARGEAR OPTIONS
+
+ ■   This model’s multi-melta can be replaced with one of the following: 
+
+ ◦ 1 Helbrute plasma cannon
+ ◦ 1 twin autocannon
+ ◦ 1 twin heavy bolter
+ ◦ 1 twin lascannon
+ ◦ 1 Helbrute fist
+
+ ■ This model’s missile launcher can be replaced with one of the following:
+
+ ◦ 1 Helbrute fist
+ ◦ 1 Helbrute hammer
+ ◦ 1 power scourge
+
+ ■ For each Helbrute fist this model is equipped with, it can be equipped with one of the following:
+
+ ◦ 1 combi-bolter
+ ◦ 1 heavy flamer
+
+UNIT COMPOSITION
+
+ ■ 1 Helbrute
+This model is equipped with: missile launcher; multi-melta; 
+close combat weapon
+
+KEYWORDS: Vehicle, Walker, Chaos, Helbrute
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+HELDRAKE
+
+M
+
+20+"
+
+T
+
+9
+
+SV
+
+3+
+
+W
+
+12
+
+LD
+
+6+
+
+OC
+
+0
+
+RANGED WEAPONS
+Baleflamer [IGNORES COVER, TORRENT]
+Hades autocannon 
+
+MELEE WEAPONS
+Heldrake claws [ANTI-FLY 2+, DEVASTATING WOUNDS]
+
+RANGE
+
+12"
+36"
+
+RANGE
+Melee
+
+A
+
+D6+3
+
+6
+
+A
+5
+
+BS
+N/A
+3+
+
+WS
+3+
+
+S
+6
+8
+
+S
+7
+
+AP
+-1
+-1
+
+AP
+-1
+
+D
+2
+2
+
+D
+2
+
+ABILITIES
+
+CORE: Deadly Demise D3, Hover
+
+FACTION: Dark Pacts
+
+Airborne Predator: Each time this model makes an attack that 
+targets a unit that can Fly, add 1 to the Hit roll.
+
+DAMAGED: 1-4 WOUNDS REMAINING
+
+While this model has 1-4 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE
+
+5+
+
+KEYWORDS: Vehicle, Fly, Aircraft, Chaos, Daemon, Heldrake
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+HELDRAKE
+Like vast, draconic predators of myth, Heldrakes spear suddenly out 
+of the sky. These airborne Daemon Engines excel at intercepting the 
+enemy’s aerial assets, tearing them from the air and incinerating their 
+crew. Once their dominance of the sky is complete, they turn their 
+claws and weapons against those on the ground.
+
+WARGEAR OPTIONS
+
+ ■   This model’s Hades autocannon can be replaced with 1 baleflamer. 
+
+UNIT COMPOSITION
+
+ ■ 1 Heldrake
+This model is equipped with: Hades autocannon; 
+Heldrake claws.
+
+KEYWORDS: Vehicle, Fly, Aircraft, Chaos, Daemon, Heldrake
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+MAULERFIEND
+
+M
+
+T
+
+10" 10
+
+SV
+
+3+
+
+W
+
+12
+
+LD
+
+6+
+
+OC
+
+3
+
+RANGED WEAPONS
+Magma cutters [MELTA 2]
+
+MELEE WEAPONS
+Lasher tendrils [EXTRA ATTACKS]
+Maulerfiend fists 
+
+RANGE
+
+6"
+
+RANGE
+Melee
+Melee
+
+A
+2
+
+A
+6
+6
+
+BS
+3+
+
+WS
+3+
+3+
+
+S
+9
+
+S
+7
+14
+
+AP
+-4
+
+AP
+-1
+-2
+
+D
+D6
+
+D
+1
+
+D6+1
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Dark Pacts
+
+Siege Crawler: You can re-roll Advance and Charge rolls made 
+for this model, and you can ignore any or all modifiers to its 
+Move characteristic and to Advance and Charge rolls made 
+for it.
+
+DAMAGED: 1-4 WOUNDS REMAINING
+
+While this model has 1-4 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE
+
+5+
+
+KEYWORDS: Vehicle, Walker, Chaos, Daemon, Maulerfiend
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+MAULERFIEND
+Maulerfiends stalk the battlefield like immense hunting beasts. Once 
+the enemy are in sight, these huge Daemon Engines thunder forward, 
+even scaling defensive walls in their eagerness to get at the prey. 
+Once amongst the foe, they slaughter anything in reach with their 
+huge talons, crushing jaws and stabbing tendrils.
+
+WARGEAR OPTIONS
+
+ ■   This model’s lasher tendrils can be replaced with 2 magma cutters.
+
+UNIT COMPOSITION
+
+ ■ 1 Maulerfiend
+This model is equipped with: lasher tendrils; 
+Maulerfiend fists.
+
+KEYWORDS: Vehicle, Walker, Chaos, Daemon, Maulerfiend
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+CHAOS RHINO
+
+M
+
+12"
+
+T
+
+9
+
+SV
+
+3+
+
+W
+
+10
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Combi-bolter [RAPID FIRE 2]
+Combi-weapon 
+[ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]
+Havoc launcher [BLAST]
+
+MELEE WEAPONS
+Armoured tracks 
+
+RANGE
+
+24"
+
+24"
+
+48"
+
+RANGE
+Melee
+
+A
+2
+
+1
+
+D6
+
+A
+3
+
+BS
+3+
+
+4+
+
+3+
+
+WS
+4+
+
+S
+4
+
+4
+
+5
+
+S
+6
+
+AP
+0
+
+0
+
+0
+
+AP
+0
+
+D
+1
+
+1
+
+1
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Dark Pacts
+
+Self Repair: At the start of your Command phase, this model 
+regains 1 lost wound.
+
+KEYWORDS: Vehicle, Transport, Dedicated Transport, Smoke, Chaos, Rhino
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+CHAOS RHINO
+Based upon ancient workhorse vehicles that have served Humanity for 
+millennia, Chaos Rhinos are well adapted for battlefield transportation. 
+Though encrusted with heretical icons and corrupted by the warp, 
+they remain as rugged and reliable as ever, safely carrying their 
+passengers over fire-swept battlefields.
+
+WARGEAR OPTIONS
+
+ ■   This model can be equipped with one of the following:
+
+ ◦ 1 combi-bolter
+ ◦ 1 combi-weapon
+
+ ■ This model can be equipped with 1 havoc launcher.
+
+UNIT COMPOSITION
+
+ ■ 1 Chaos Rhino
+This model is equipped with: combi-bolter; armoured tracks.
+
+TRANSPORT
+
+This model has a transport capacity of 12 Heretic Astartes 
+Infantry models. It cannot transport Terminator, Jump 
+Pack, Obliterator or Possessed models.
+
+KEYWORDS: Vehicle, Transport, Dedicated Transport, Smoke, Chaos, Rhino
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+CHAOS SPAWN
+
+M
+
+8"
+
+T
+
+5
+
+SV
+
+4+
+
+W
+
+4
+
+LD
+
+7+
+
+OC
+
+1
+
+MELEE WEAPONS
+Hideous mutations 
+
+RANGE
+Melee
+
+A
+
+D6+2
+
+WS
+4+
+
+S
+5
+
+AP
+-1
+
+D
+2
+
+ABILITIES
+
+CORE: Feel No Pain 5+
+
+FACTION: Dark Pacts
+
+Regenerating Monstrosities: At the start of each player’s 
+Command phase, one model in this unit regains up to D3 
+lost wounds.
+
+KEYWORDS: Beast, Chaos, Chaos Spawn
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+CHAOS SPAWN
+Becoming a Chaos Spawn is the fate of many upon the Path to Glory. 
+Wracked with the endless gifts of the Dark Gods, they are mutated 
+mounds of muscle, scaly hides, talons, eyes, teeth and far more. 
+Chaos Spawn are herded towards their terrified foes, advancing in 
+loping runs as they seek only to tear, crush and consume.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 2 Chaos Spawn
+Every model is equipped with: hideous mutations.
+
+KEYWORDS: Beast, Chaos, Chaos Spawn
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+KHORNE LORD OF SKULLS
+
+M
+
+8"
+
+T
+
+13
+
+SV
+
+3+
+
+W
+
+24
+
+LD
+
+6+
+
+OC
+
+8
+
+RANGED WEAPONS
+Daemongore cannon [BLAST]
+Gorestorm cannon [BLAST]
+Hades gatling cannon [SUSTAINED HITS 1]
+Ichor cannon [BLAST]
+Skullhurler
+
+MELEE WEAPONS
+Great cleaver of Khorne – strike 
+Great cleaver of Khorne – sweep 
+
+RANGE
+
+18"
+24"
+48"
+48"
+60"
+
+RANGE
+Melee
+Melee
+
+A
+D6
+D6+3
+12
+2D6
+2D6
+
+A
+5
+15
+
+BS
+3+
+3+
+3+
+3+
+3+
+
+WS
+3+
+3+
+
+S
+14
+10
+8
+7
+14
+
+S
+16
+8
+
+AP
+-4
+-2
+-2
+-2
+-3
+
+AP
+-4
+-2
+
+D
+D6+2
+
+3
+2
+2
+3
+
+D
+8
+2
+
+ABILITIES
+
+CORE: Deadly Demise D6+2
+
+FACTION: Dark Pacts
+
+Plough Through the Enemy: In the Fight phase, after 
+this model has finished making its attacks, if this model 
+destroyed one or more enemy units this phase, each enemy 
+unit within 6" of this model must take a Battle-shock test. 
+
+DAMAGED: 1-8 WOUNDS REMAINING
+
+While this model has 1-8 wounds remaining, subtract 4 from 
+this model’s Objective Control characteristic and each time 
+this model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE
+
+5+
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Vehicle, Titanic, Towering, Chaos, Khorne, Daemon, 
+
+Lord of Skulls
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+KHORNE LORD OF SKULLS
+Lords of Skulls are insane, monolithic creations fuelled by boiling 
+blood and dedicated to slaughtering in the name of Khorne. They 
+plough through the enemy’s ranks, crushing infantry beneath their 
+tracks, hacking tanks into kindling with sweeps of their cleaver and 
+hurling brazen projectiles or burning ichor at the survivors.
+
+WARGEAR OPTIONS
+
+ ■   This model’s gorestorm cannon can be replaced with one of the following:
+
+ ◦ 1 daemongore cannon
+ ◦ 1 ichor cannon
+
+ ■ This model’s Hades gatling cannon can be replaced with 1 skullhurler.
+
+UNIT COMPOSITION
+
+ ■ 1 Khorne Lord of Skulls
+This model is equipped with: gorestorm cannon; 
+Hades gatling cannon; great cleaver of Khorne.
+
+KEYWORDS:  Vehicle, Titanic, Towering, Chaos, Khorne, Daemon, 
+
+Lord of Skulls
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+NOCTILITH CROWN
+
+M
+
+-
+
+T
+
+11
+
+SV
+
+3+
+
+W
+
+14
+
+LD
+
+6+
+
+OC
+
+0
+
+RANGED WEAPONS
+Lashing warp energies 
+
+RANGE
+
+6"
+
+A
+8
+
+BS
+4+
+
+S
+8
+
+AP
+-1
+
+D
+2
+
+ABILITIES
+
+CORE: Deadly Demise D6
+
+FACTION: Dark Pacts
+
+Malevolent Locus (Aura): While a friendly Heretic Astartes 
+model is wholly within 9" of this Fortification, that model 
+has a 4+ invulnerable save.
+Malign Cover: Each time a ranged attack is allocated to a 
+model, if that model is not fully visible to every model in the 
+attacking unit because of this Fortification, that model has 
+the Benefit of Cover against that attack.
+Fortification: While an enemy unit is only within Engagement 
+Range of one or more Fortifications from your army:
+ ■  That unit can still be selected as the target of ranged 
+
+attacks, but each time such an attack is made, unless it is 
+made with a Pistol weapon, subtract 1 from the Hit roll.
+
+ ■  Models in that unit do not need to take Desperate Escape 
+tests due to Falling Back while Battle-shocked, except for 
+those that will move over enemy models when doing so.
+
+KEYWORDS: Fortification, Chaos, Noctilith Crown
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+NOCTILITH CROWN
+Wreathed in fluctuating, eldritch energies, Noctilith Crowns are ritual 
+loci of empyric power. They draw in the raw energy of Chaos itself, 
+forming nodal strongholds of the Dark Gods’ influence that empower 
+their fell servants and wrack their enemies with lashes of baleful 
+warp magicks.
+
+WARGEAR OPTIONS
+
+ ■    None
+
+UNIT COMPOSITION
+
+ ■ 1 Noctilith Crown
+This model is equipped with: lashing warp energies.
+
+KEYWORDS: Fortification, Chaos, Noctilith Crown
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+VASHTORR THE ARKIFANE
+
+M
+
+12"
+
+T
+
+9
+
+SV
+
+2+
+
+W
+
+14
+
+LD
+
+6+
+
+OC
+
+3
+
+RANGED WEAPONS
+Vashtorr’s claw [TORRENT]
+
+MELEE WEAPONS
+Vashtorr’s hammer – strike 
+[ANTI-VEHICLE 4+, DEVASTATING WOUNDS]
+Vashtorr’s hammer – sweep 
+[ANTI-VEHICLE 4+]
+
+RANGE
+
+12"
+
+RANGE
+
+Melee
+
+Melee
+
+A
+D6
+
+A
+
+6
+
+14
+
+BS
+N/A
+
+WS
+
+2+
+
+2+
+
+S
+5
+
+S
+
+9
+
+7
+
+AP
+-2
+
+AP
+
+-1
+
+0
+
+D
+1
+
+D
+
+3
+
+1
+
+ABILITIES
+CORE: Deadly Demise D3, Deep Strike
+
+FACTION: Dark Pacts
+
+Unholy Mechanisms (Aura): While a friendly Daemon 
+Vehicle unit is within 6" of this model, add 1 to the Strength 
+characteristic of weapons equipped by models in that unit.
+Agonise Machine Spirits: At the end of your Movement phase, 
+select one enemy Vehicle unit within 18" of and visible to 
+this model. Until the start of your next Movement phase, halve 
+the Move characteristic of models in that unit and subtract 1 
+from the Attacks characteristic of melee weapons equipped 
+by models in that unit.
+
+DAMAGED: 1-4 WOUNDS REMAINING
+While this model has 1-4 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE
+
+4+
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Monster, Character, Epic Hero, Fly, Chaos, Daemon, 
+
+Vashtorr the Arkifane
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+VASHTORR THE ARKIFANE
+Vashtorr is a horror of pallid flesh stretched over infernal mechanisms. 
+He soars to battle amidst a cloud of dark lightning and smog, dealing 
+destruction and unleashing techno-gheist curses upon the foe even 
+as he fashions enhancements for his indentured Daemon Engines 
+from the raw stuff of realspace. 
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Vashtorr the Arkifane – Epic Hero
+This model is equipped with: Vashtorr’s claw; 
+Vashtorr’s hammer.
+
+KEYWORDS:  Monster, Character, Epic Hero, Fly, Chaos, Daemon, 
+
+Vashtorr the Arkifane
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+TRAITOR GUARDSMEN SQUAD
+
+M
+
+6"
+
+T
+
+3
+
+SV
+
+5+
+
+W
+
+1
+
+LD
+
+7+
+
+OC
+
+2
+
+ABILITIES
+
+FACTION: Dark Pacts
+
+Twisted Defence Force: While this unit is within range of 
+an objective marker, each time a ranged attack targets this 
+unit, models in this unit have the Benefit of Cover against 
+that attack.
+
+RANGED WEAPONS
+Boltgun [RAPID FIRE 1]
+Corrupted pistol [PISTOL]
+Cultist grenade launcher – frag [BLAST]
+Cultist grenade launcher – krak
+Cultist sniper rifle [HEAVY, PRECISION]
+Flamer [IGNORES COVER, TORRENT]
+Lasgun [RAPID FIRE 1]
+Meltagun [MELTA 2]
+Plasma gun – standard [RAPID FIRE 1]
+Plasma gun – supercharge [HAZARDOUS, RAPID FIRE 1]
+
+MELEE WEAPONS
+Chainsword
+Close combat weapon
+Power weapon
+
+RANGE
+
+24"
+12"
+24"
+24"
+36"
+12"
+24"
+12"
+24"
+24"
+
+RANGE
+Melee
+Melee
+Melee
+
+A
+1
+1
+D3
+1
+1
+D6
+1
+1
+1
+1
+
+A
+3
+1
+2
+
+BS
+4+
+4+
+4+
+4+
+4+
+N/A
+4+
+4+
+4+
+4+
+
+WS
+4+
+4+
+4+
+
+S
+4
+4
+4
+9
+4
+4
+3
+9
+7
+8
+
+S
+3
+3
+4
+
+AP
+0
+-1
+0
+2
+-2
+0
+0
+-4
+-2
+-3
+
+AP
+0
+0
+-2
+
+D
+1
+1
+1
+D3
+2
+1
+1
+D6
+1
+2
+
+D
+1
+1
+1
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Infantry, Grenades, Chaos, Traitor Guardsmen Squad
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+TRAITOR GUARDSMEN SQUAD
+Amongst the mortal followers of the Heretic Astartes are warbands of 
+Traitor Guardsmen. These heretics turn mass-produced lasguns and 
+more specialised weapons upon the Imperium they once served, while 
+their military training combines with bitterness and hate to render 
+them a potent threat.
+
+WARGEAR OPTIONS
+
+ ■  Up to 3 Traitor Guardsmen can each have their lasgun replaced with one of the following: 
+
+ ◦ 1 Cultist grenade launcher
+ ◦ 1 flamer 
+ ◦ 1 meltagun
+ ◦ 1 plasma gun
+ ◦ 1 Cultist sniper rifle
+
+ ■ The Traitor Sergeant’s close combat weapon can be replaced with one of the following: 
+
+ ◦ 1 chainsword
+ ◦ 1 power weapon
+
+ ■ The Traitor Sergeant’s corrupted pistol can be replaced with 1 boltgun.
+
+UNIT COMPOSITION
+
+ ■ 1 Traitor Sergeant
+ ■ 9 Traitor Guardsmen
+The Traitor Sergeant is equipped with: corrupted pistol; close 
+combat weapon.
+Every Traitor Guardsman is equipped with: lasgun; close 
+combat weapon.
+
+KEYWORDS:  Infantry, Grenades, Chaos, Traitor Guardsmen Squad
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+FELLGOR BEASTMEN
+
+M
+
+6"
+
+T
+
+4
+
+SV
+
+5+
+
+W
+
+1
+
+LD
+
+7+
+
+OC
+
+1
+
+RANGED WEAPONS
+Autopistol [PISTOL]
+Bolt pistol [PISTOL]
+Corrupted stave [DEVASTATING WOUNDS, PSYCHIC]
+Plasma pistol – standard [PISTOL]
+Plasma pistol – supercharge [HAZARDOUS, PISTOL]
+
+MELEE WEAPONS
+Chainsword
+Close combat weapon
+Corrupted stave [DEVASTATING WOUNDS, PSYCHIC]
+Great weapon
+
+RANGE
+
+12"
+12"
+18"
+12"
+12"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+
+A
+1
+1
+D3
+1
+1
+
+A
+3
+2
+2
+2
+
+BS
+4+
+4+
+4+
+4+
+4+
+
+WS
+4+
+4+
+4+
+5+
+
+S
+3
+4
+5
+7
+8
+
+S
+4
+4
+4
+8
+
+AP
+0
+0
+-1
+-2
+-3
+
+AP
+0
+0
+-1
+-1
+
+D
+1
+1
+1
+1
+2
+
+D
+1
+1
+D3
+2
+
+ABILITIES
+
+CORE: Scouts 6"
+
+FACTION: Dark Pacts
+
+Bestial Raiders: Each time this unit declares a charge, if 
+one or more of the targets of that charge are within range 
+of an objective marker, add 2 to the Charge roll made for 
+that charge.
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Infantry, Grenades, Chaos, Fellgor Beastmen
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+FELLGOR BEASTMEN
+Beastmen are savage and embittered mutants who despise the 
+Imperium and the civilisation of Humanity. Gathering for war in brutish 
+herds, each is an unruly mass of flesh, fur and teeth, bristling with 
+bestial horns and proclaiming their devotion to the Dark Gods through 
+braying war cries, swift slaughter and violent sacrifices.
+
+WARGEAR OPTIONS
+
+ ■ The Fellgor Champion’s bolt pistol can be replaced with 1 plasma pistol.
+ ■ 1 Fellgor Beastman’s close combat weapon can be replaced with 1 great weapon.
+ ■ 1 Fellgor Beastman’s close combat weapon can be replaced with 1 corrupted stave.
+
+UNIT COMPOSITION
+
+ ■ 1 Fellgor Champion
+ ■ 9 Fellgor Beastmen
+The Fellgor Champion is equipped with: bolt 
+pistol; chainsword.
+Every Fellgor Beastman is equipped with: autopistol; close 
+combat weapon.
+
+KEYWORDS:  Infantry, Grenades, Chaos, Fellgor Beastmen
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+TRAITOR ENFORCER
+
+M
+
+6"
+
+6"
+
+T
+
+3
+
+6
+
+SV
+
+5+
+
+5+
+
+W
+
+3
+
+4
+
+LD
+
+6+
+
+7+
+
+OC
+
+1
+
+TRAITOR ENFORCER
+
+1 TRAITOR OGRYN
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+
+MELEE WEAPONS
+Ogryn weapons
+Power fist 
+
+RANGE
+
+12"
+
+RANGE
+Melee
+Melee
+
+A
+1
+
+A
+5
+3
+
+BS
+3+
+
+WS
+3+
+3+
+
+S
+4
+
+S
+7
+6
+
+AP
+0
+
+AP
+-1
+-2
+
+D
+1
+
+D
+2
+2
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Dark Pacts
+
+Brutal Example: While this unit is leading a unit and contains 
+a Traitor Enforcer model, that unit can be targeted with the 
+Insane Bravery Stratagem for 0CP, even if another unit from 
+your army has already been targeted with that Stratagem this 
+phase. Each time you use this ability, one Bodyguard model 
+in that unit is destroyed. 
+Mutated Bodyguard: While this unit contains a Traitor 
+Ogryn model, Character models in this unit have the 
+Feel No Pain 4+ ability.
+
+INVULNERABLE SAVE*
+* Traitor Enforcer model only.
+
+5+
+
+KEYWORDS  – ALL MODELS: Infantry, Chaos, Grenades  
+
+– TRAITOR ENFORCER ONLY: Character, Traitor Enforcer
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+TRAITOR ENFORCER
+Whether petty tyrants who killed their way to dominance, or former 
+officers brought low through corruption, Enforcers are now sadistic 
+disciplinarians amongst the Militarum Traitoris. Some cement their 
+position by exploiting savage Traitor Ogryns as living shields, crude 
+line-breakers and added muscle to help impose their violent rule.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Traitor Enforcer
+ ■ 1 Traitor Ogryn
+The Traitor Enforcer is equipped with: bolt pistol; power fist.
+The Traitor Ogryn is equipped with: Ogryn weapons.
+
+LEADER
+
+This unit can be attached to the following unit:
+ ■ Traitor Guardsmen Squad
+
+KEYWORDS  – ALL MODELS: Infantry, Chaos, Grenades  
+
+– TRAITOR ENFORCER ONLY: Character, Traitor Enforcer
+
+FACTION KEYWORDS:  
+Heretic Astartes
+
+HERETIC ASTARTES ARMOURY  
+
+RANGED WEAPONS
+Boltgun
+Heavy bolter [HEAVY, SUSTAINED HITS 1]
+Lascannon [HEAVY]
+Meltagun [MELTA 2]
+Missile launcher – frag [BLAST, HEAVY]
+Missile launcher – krak [HEAVY]
+Plasma gun – standard [RAPID FIRE 1]
+Plasma gun – supercharge [HAZARDOUS, RAPID FIRE 1]
+Plasma pistol – standard [PISTOL]
+Plasma pistol – supercharge [HAZARDOUS, PISTOL]
+
+RANGE
+
+24"
+36"
+48"
+12"
+48"
+48"
+24"
+24"
+12"
+12"
+
+A
+2
+3
+1
+1
+D6
+1
+1
+1
+1
+1
+
+BS
+3+
+4+
+4+
+3+
+4+
+4+
+3+
+3+
+3+
+3+
+
+S
+4
+5
+12
+9
+4
+9
+7
+8
+7
+8
+
+AP
+0
+-1
+-3
+-4
+0
+-2
+-2
+-3
+-2
+-3
+
+D
+1
+2
+
+D6+1
+D6
+1
+D6
+1
+2
+1
+2
+
+WEAPON LISTS
+
+ ■  Several Heretic Astartes models have the option to be 
+
+equipped with one or more weapons whose profiles are not 
+listed on their datasheet. The profiles for these weapons are 
+instead listed on this datacard.
+
+Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+

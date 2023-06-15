@@ -1,0 +1,6346 @@
+SPACE WOLVES – CHAMPIONS OF RUSS
+DETACHMENT RULE
+
+The Space Wolves are a savage Space Marine Chapter 
+of merciless hunters. They hail from the icy death 
+world of Fenris and strive to emulate the strength, 
+cunning and howling ferocity of their Primarch: 
+Leman Russ, the Wolf King. In their pursuits of the 
+enemies of Mankind across the Sea of Stars, the 
+Space Wolves employ the advanced technology and 
+deadly weapons of the Adeptus Astartes under a skin 
+of seemingly feral barbarity. With audacious boasts, 
+the taking of impetuous risks and the joyful roars 
+of warriors born, the Space Wolves are a Chapter of 
+heroes who wage war without fear or doubt, each 
+seeking to forge a saga worthy of immortalisation.
+
+If your Army Faction is Adeptus Astartes, you can 
+use this Champions of Russ Detachment rule.
+
+RESTRICTIONS
+ ■  Your army can include Space Wolves units, but it 
+
+cannot include any Adeptus Astartes units drawn 
+from any other Chapter. 
+
+ ■  Your army cannot include any of the following units: 
+
+Tactical Squad; Assault Squad; Assault Squad 
+with Jump Packs; Devastator Squad; Command 
+Squad; Primaris Apothecary.
+
+DEEDS WORTHY OF SAGA
+Legendary deeds in the midst of battle are an intoxicating mead. Those who witness them are inspired to greater 
+feats of daring and valour, determined to prove themselves worthy of their champions.
+
+At the end of the battle round, you can select one of the Sagas listed below. If that Saga was completed by your 
+army during that battle round, all Adeptus Astartes models from your army gain the associated benefit until the 
+end of the battle. You can only select each Saga once per battle. 
+
+SAGA OF THE WARRIOR BORN
+ ■  This Saga is completed if one or more Adeptus 
+Astartes Character models from your army 
+destroyed one or more enemy Character models 
+during the battle round. 
+
+ ■  Benefit Once Completed: Melee weapons equipped 
+by Adeptus Astartes models from your army have 
+the [SUSTAINED HITS 1] ability.
+
+SAGA OF MAJESTY
+ ■  This Saga is completed if you controlled one or more 
+
+objective markers in your opponent’s deployment 
+zone at the end of either player’s turn during the 
+battle round, and one or more Adeptus Astartes 
+Character models from your army were within 
+range of that objective marker. 
+
+ ■  Benefit Once Completed: Improve the Objective 
+
+Control characteristic of Adeptus Astartes models 
+from your army by 1.
+
+SAGA OF THE BEAR
+ ■  This Saga is completed if one or more Adeptus 
+
+Astartes Character models from your army were 
+reduced to below half of their starting number 
+of wounds during the battle round, but were not 
+destroyed at the end of the battle round. 
+
+ ■  Benefit Once Completed: Adeptus Astartes 
+models from your army have the Feel No Pain 
+6+ ability.
+
+SAGA OF THE BEASTSLAYER
+ ■  This Saga is completed if one or more Adeptus 
+Astartes Character models from your army 
+destroyed one or more enemy Monster or Vehicle 
+models during the battle round. 
+
+ ■  Benefit Once Completed: Melee weapons equipped 
+by Adeptus Astartes models from your army have 
+the [LETHAL HITS] ability.
+
+SPACE WOLVES – CHAMPIONS OF RUSS
+STRATAGEMS
+
+If you are using the Champions of Russ Detachment rule, you can use these Champions of 
+Russ Stratagems.
+
+1CP
+
+RUNIC WARDS
+CHAMPIONS OF RUSS – WARGEAR STRATAGEM
+
+Imbued as they are with the cunning 
+psychic might of the Rune Priests, 
+shamanistic totems, tattoos and fetishes 
+are a potent shield against baleful attacks 
+and the foul sorcery of witches.
+
+WHEN: Your opponent’s Shooting phase or 
+the Fight phase, just after an enemy unit 
+has selected its targets.
+TARGET: One Adeptus Astartes unit 
+from your army that was selected as the 
+target of one or more of the attacking 
+unit’s attacks.
+EFFECT: Until the end of the phase, 
+models in your unit have the Feel No 
+Pain 5+ ability against mortal wounds 
+and Psychic Attacks. If the Saga of the 
+Bear has been completed by your army, 
+until the end of the phase, models in 
+your unit have the Feel No Pain 4+ ability 
+against mortal wounds and Psychic 
+Attacks instead.
+
+1CP
+
+1CP
+
+ARMOUR OF CONTEMPT
+CHAMPIONS OF RUSS – BATTLE TACTIC STRATAGEM
+
+The belligerency and transhuman 
+physiologies of the Adeptus Astartes 
+make them unyielding foes.
+
+WHEN: Your opponent’s Shooting phase or 
+the Fight phase, just after an enemy unit 
+has selected its targets.
+TARGET: One Adeptus Astartes unit 
+from your army that was selected as the 
+target of one or more of the attacking 
+unit’s attacks.
+EFFECT: Until the end of the phase, each 
+time an attack targets a model in your 
+unit, worsen the Armour Penetration 
+characteristic of that attack by 1.
+
+GO FOR THE THROAT
+CHAMPIONS OF RUSS – BATTLE TACTIC STRATAGEM
+
+With the scent of blood in the air and the 
+rushing joy of battle surging through 
+every true warrior’s hearts, even the 
+greatest quarry can be brought down.
+
+WHEN: Fight phase.
+TARGET: One Adeptus Astartes unit from 
+your army that has not been selected to 
+fight this phase.
+EFFECT: Until the end of the phase, 
+improve the Armour Penetration 
+characteristic of melee weapons 
+equipped by models in your unit by 1. 
+If the Saga of the Beastslayer has been 
+completed by your army, until the end 
+of the phase, such weapons have the 
+[LANCE] ability as well.
+
+SPACE WOLVES – CHAMPIONS OF RUSS
+STRATAGEMS
+
+If you are using the Champions of Russ Detachment rule, you can use these Champions of 
+Russ Stratagems.
+
+1CP
+
+DEATH HOWL
+CHAMPIONS OF RUSS – STRATEGIC PLOY STRATAGEM
+
+Having stalked their prey or run them 
+to ground, all that remains is to go for 
+the enemy’s weakest points, to rip them 
+apart in a furious bloodletting. Onlookers 
+are stricken with terror at the bloody 
+spectacle, an instant before the sons of 
+Russ pounce upon them.
+
+WHEN: Fight phase.
+TARGET: One Adeptus Astartes unit from 
+your army that destroyed one or more 
+enemy units this phase.
+EFFECT: Until the end of the phase, 
+each time a model in your unit makes 
+a Consolidation move, it can move up 
+to 6" instead of up to 3", provided your 
+unit ends that Consolidation move in 
+Unit Coherency and within Engagement 
+Range of one or more enemy units. In 
+addition, if the Saga of Majesty has been 
+completed by your army, each enemy 
+unit within 6" of your unit when it ends 
+that Consolidation move must take a 
+Battle-shock test.
+
+1CP
+
+WARRIOR PRIDE
+CHAMPIONS OF RUSS – EPIC DEED STRATAGEM
+
+The greatest champions amongst the 
+sons of Russ must take the fight to the 
+enemy, leading by example to uphold the 
+honour of their Chapter.
+
+WHEN: Your Command phase.
+TARGET: One Adeptus Astartes 
+Character model from your army.
+EFFECT: Select one Saga that has not 
+yet been completed by your army. 
+Until the end of the turn, models in your 
+Character’s unit have the benefit of the 
+selected Saga as if it had been completed 
+by your army.
+
+RELENTLESS ASSAULT
+CHAMPIONS OF RUSS – STRATEGIC PLOY STRATAGEM
+
+1CP
+
+Once their blades and claws run red with 
+the enemy’s blood, nothing will hold the 
+savage sons of Russ back from new prey.
+
+WHEN: Your Movement phase, just after 
+an Adeptus Astartes unit from your army 
+makes a Fall Back or Advance move.
+TARGET: That Adeptus Astartes unit.
+EFFECT: Until the end of the turn, your unit 
+is eligible to shoot even though it Fell Back 
+or Advanced this phase. If the Saga of the 
+Warrior Born has been completed by your 
+army, until the end of the turn, your unit is 
+also eligible to declare a charge. 
+
+SPACE WOLVES – CHAMPIONS OF RUSS
+ENHANCEMENTS
+
+If you are using the Champions of Russ Detachment rule, you can use these Champions of Russ Enhancements.
+THE PELT OF BALEWOLF
+The pelts of wolves are plentiful trophies amongst 
+the heroes of Fenris. However, some of these mantles 
+are rare and steeped in legend, belonging to one 
+of the near-mythical Blackmaned wolves. The Pelt 
+of Balewolf came from a giant of its massive kind. 
+Even now, when the name of its heroic slayer is 
+barely recalled, Balewolf ’s raw spirit still permeates 
+the long-dead creature’s pelt, a bestial aura that 
+reaches into primitive fear centres. Even the mighty 
+instinctively tremble before the wearer, sensing the 
+presence of a terrifying alpha predator.
+
+WOLF TAIL TALISMAN
+Although seen by the sons of Russ as tokens of 
+luck and protection against evil, wolf tail talismans 
+are regarded by most outside the Chapters of Russ’ 
+genetic legacy as trinkets of mere superstition. Yet 
+whether through the power of the bearer’s belief, 
+some attribute inherent in the creatures they are 
+taken from or some stranger reason, these talismans 
+appear to bestow the warrior with a measure of 
+protection against malicious attacks.
+
+Adeptus Astartes model only. At the start of the Fight 
+phase, each enemy unit within Engagement Range of 
+the bearer must take a Battle-shock test.
+BLACK DEATH
+The sagas of Torvald Fangbreaker, of Gerd the Bloody 
+and many others detail the sickening monsters and 
+fell champions slain by Black Death. They tell of how 
+the runic enchantments etched into the ebon weapon 
+glow darkly in battle, transforming the bearer into a 
+relentless killing machine.
+
+Adeptus Astartes model only. The bearer’s 
+melee weapons have the [ANTI-MONSTER 4+] and 
+[ANTI-VEHICLE 4+] abilities.
+
+Adeptus Astartes model only. Each time an attack 
+is allocated to the bearer, subtract 1 from the Damage 
+characteristic of that attack.
+FROST WEAPON
+Amongst the most prized weapons of the sons of 
+Russ – himself the Lord of Winter and War – these 
+blisteringly cold weapons are specially crafted by 
+a master Iron Priest. Some are wrought from the 
+razor-sharp fangs of the Ice Kraken, while others 
+are shards of energised diamond, giving them the 
+appearance of blades forged from purest ice.
+
+Adeptus Astartes model only. The bearer’s melee 
+weapons have the [PRECISION] ability, and the 
+Strength and Armour Penetration characteristics of 
+those weapons are improved by 1.
+
+LOGAN GRIMNAR
+
+M
+
+5"
+
+T
+
+5
+
+SV
+
+2+
+
+W
+
+6
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Storm bolter [RAPID FIRE 2]
+
+MELEE WEAPONS
+The Axe Morkai – one-handed 
+The Axe Morkai – two-handed 
+
+RANGE
+
+24"
+
+RANGE
+Melee
+Melee
+
+A
+2
+
+A
+10
+6
+
+BS
+2+
+
+WS
+2+
+2+
+
+S
+4
+
+S
+6
+8
+
+AP
+0
+
+AP
+-2
+-2
+
+D
+1
+
+D
+1
+3
+
+ABILITIES
+
+CORE: Deep Strike, Leader
+
+FACTION: Oath of Moment
+
+High King of Fenris: Once per battle, in your Charge phase, 
+this model can use this ability. If it does, until the end of the 
+turn, you can re-roll Charge rolls made for Adeptus Astartes 
+units from your army and, until the end of the turn, each time 
+an Adeptus Astartes model from your army makes a melee 
+attack, you can re-roll the Hit roll.
+The Great Wolf: Each time this model destroys an enemy unit, 
+you gain 1CP.
+
+INVULNERABLE SAVE
+
+4+
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Infantry, Character, Epic Hero, Imperium, Terminator, 
+
+Chapter Master, Logan Grimnar
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+LOGAN GRIMNAR
+Logan Grimnar – Great Wolf and High King of Fenris – is one of the 
+longest serving Chapter Masters. Waging war against any who 
+threaten the Space Wolves or the Imperium, Grimnar’s charisma and 
+centuries of heroic victories have immortalised him as one of the most 
+lauded warriors in the galaxy.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ Logan Grimnar – Epic Hero
+This model is equipped with: storm bolter; the Axe Morkai.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Relic Terminator Squad
+ ■ Terminator Assault Squad
+ ■ Terminator Squad
+ ■ Wolf Guard Terminators
+
+LOGAN GRIMNAR
+
+Your army cannot contain both Logan Grimnar and Logan 
+Grimnar on Stormrider.
+
+KEYWORDS:  Infantry, Character, Epic Hero, Imperium, Terminator, 
+
+Chapter Master, Logan Grimnar
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+LOGAN GRIMNAR ON STORMRIDER
+
+M
+
+10"
+
+T
+
+6
+
+SV
+
+2+
+
+W
+
+12
+
+LD
+
+6+
+
+OC
+
+4
+
+RANGED WEAPONS
+Storm bolter [RAPID FIRE 2]
+
+MELEE WEAPONS
+The Axe Morkai – one-handed 
+The Axe Morkai – two-handed 
+Flurry of teeth and claws [EXTRA ATTACKS]
+
+RANGE
+
+24"
+
+RANGE
+Melee
+Melee
+Melee
+
+A
+2
+
+A
+10
+6
+6
+
+BS
+2+
+
+WS
+2+
+2+
+4+
+
+S
+4
+
+S
+6
+8
+5
+
+AP
+0
+
+AP
+-2
+-2
+-1
+
+D
+1
+
+D
+1
+3
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3, Leader
+
+FACTION: Oath of Moment
+
+High King of Fenris: Once per battle, in your Charge phase, 
+this model can use this ability. If it does, until the end of the 
+turn, you can re-roll Charge rolls made for Adeptus Astartes 
+units from your army and, until the end of the turn, each time 
+an Adeptus Astartes model from your army makes a melee 
+attack, you can re-roll the Hit roll.
+The Great Wolf: Each time this model destroys an enemy unit, 
+you gain 1CP.
+
+INVULNERABLE SAVE
+
+4+
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Mounted, Character, Epic Hero, Imperium, Chapter Master, 
+
+Logan Grimnar on Stormrider
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+LOGAN GRIMNAR ON STORMRIDER
+When riding to battle upon his ornate anti-grav chariot, Stormrider, 
+Logan Grimnar is a destructive and swift tempest of war. Drawn by a 
+pair of giant and ferocious Thunderwolves, Stormrider’s saga-inscribed 
+hull bears the grizzled leader into the heart of the enemy, there to reap 
+a fell tally with the Axe Morkai.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Logan Grimnar on Stormrider – Epic Hero
+This model is equipped with: storm bolter; the Axe of Morkai; 
+flurry of teeth and claws.
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Thunderwolf Cavalry
+
+LOGAN GRIMNAR
+
+Your army cannot contain both Logan Grimnar and Logan 
+Grimnar on Stormrider.
+
+KEYWORDS:  Mounted, Character, Epic Hero, Imperium, Chapter Master, 
+
+Logan Grimnar on Stormrider
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+NJAL STORMCALLER
+
+M
+
+5"
+
+T
+
+5
+
+SV
+
+2+
+
+W
+
+5
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+Living Lightning – witchfire [PSYCHIC, SUSTAINED HITS 2]
+Living Lightning – focused witchfire 
+[HAZARDOUS,  PSYCHIC, SUSTAINED HITS 2]
+
+RANGE
+
+12"
+24"
+
+24"
+
+MELEE WEAPONS
+Staff of the Stormcaller [PSYCHIC, SUSTAINED HITS 2]
+
+RANGE
+Melee
+
+A
+1
+D6
+
+2D6
+
+A
+4
+
+BS
+3+
+3+
+
+3+
+
+WS
+3+
+
+S
+4
+7
+
+7
+
+S
+7
+
+AP
+0
+-1
+
+-1
+
+AP
+-1
+
+D
+1
+1
+
+1
+
+D
+D3
+
+ABILITIES
+
+CORE: Deep Strike, Leader
+
+FACTION: Oath of Moment
+
+Stormcaller (Psychic): While this model is leading a unit, 
+models in that unit have the Stealth ability.
+Runic Armour: Each time a Psychic Attack targets this model’s 
+unit, subtract 1 from the Wound roll.
+
+INVULNERABLE SAVE
+
+4+
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Infantry, Character, Epic Hero, Psyker, Imperium, Terminator, 
+
+Njal Stormcaller
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+NJAL STORMCALLER
+Summoning ice-toothed blizzards to scatter his foes, Njal Stormcaller 
+is an elemental focus of psychic fury. He is High Rune Priest of the 
+Space Wolves and wields a crackling staff by which he nullifies 
+enemy sorceries.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Njal Stormcaller – Epic Hero
+This model is equipped with: bolt pistol; Living Lightning; 
+Staff of the Stormcaller.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Relic Terminator Squad
+ ■ Terminator Assault Squad
+ ■ Terminator Squad
+ ■ Wolf Guard Terminators
+
+KEYWORDS:  Infantry, Character, Epic Hero, Psyker, Imperium, Terminator, 
+
+Njal Stormcaller
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+BJORN THE FELL-HANDED
+
+M
+
+8"
+
+T
+
+9
+
+SV
+
+2+
+
+W
+
+8
+
+LD
+
+6+
+
+OC
+
+3
+
+RANGED WEAPONS
+Assault cannon [DEVASTATING WOUNDS]
+Heavy flamer [IGNORES COVER, TORRENT]
+Heavy plasma cannon – standard [BLAST]
+Heavy plasma cannon – supercharge 
+[BLAST, HAZARDOUS]
+Helfrost cannon – dispersed [TORRENT]
+Helfrost cannon – focused 
+Multi-melta [MELTA 2]
+Twin lascannon [TWIN-LINKED]
+
+MELEE WEAPONS
+Trueclaw [LETHAL HITS]
+
+RANGE
+
+24"
+12"
+36"
+
+36"
+
+12"
+36"
+18"
+48"
+
+RANGE
+Melee
+
+A
+6
+D6
+D3
+
+D3
+
+D6
+1
+2
+1
+
+A
+6
+
+BS
+2+
+N/A
+2+
+
+2+
+
+N/A
+2+
+2+
+2+
+
+WS
+2+
+
+S
+6
+5
+7
+
+8
+
+6
+9
+9
+12
+
+S
+12
+
+AP
+0
+-1
+-2
+
+-3
+
+-1
+-3
+-4
+-3
+
+AP
+-2
+
+D
+1
+1
+2
+
+3
+
+2
+5
+D6
+D6+1
+
+D
+3
+
+ABILITIES
+
+CORE: Deadly Demise 1, Feel No Pain 5+
+
+FACTION: Oath of Moment
+
+Legendary Tenacity: Each time an attack is allocated to this 
+model, halve the Damage characteristic of that attack.
+Ancient Tactician: Once per battle, after your opponent uses 
+a Stratagem, this model can use this ability. If it does, until 
+the end of the battle, increase that Stratagem’s cost to your 
+opponent by 1CP.
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Vehicle, Walker, Character, Epic Hero, Smoke, Imperium, 
+
+Dreadnought, Bjorn the Fell-Handed
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+BJORN THE FELL-HANDED
+Most ancient of all Space Marines and last of the Company of Russ, 
+Bjorn the Fell-Handed has fought for millennia within a Dreadnought’s 
+sarcophagus. The Space Wolves revere Bjorn as a living link to their 
+deepest past, waking him only in times of dire need, and he still fights 
+as furiously as he did at Russ’ side.
+
+WARGEAR OPTIONS
+
+ ■   This model’s assault cannon can be replaced with one of the following:
+
+ ◦ heavy plasma cannon
+ ◦ helfrost cannon
+ ◦ multi-melta
+ ◦ twin lascannon
+
+UNIT COMPOSITION
+
+ ■ 1 Bjorn the Fell-Handed– Epic Hero
+This model is equipped with: assault cannon; heavy 
+flamer; Trueclaw.
+
+KEYWORDS:  Vehicle, Walker, Character, Epic Hero, Smoke, Imperium, 
+
+Dreadnought, Bjorn the Fell-Handed
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+ARJAC ROCKFIST
+
+M
+
+5"
+
+T
+
+5
+
+SV
+
+2+
+
+W
+
+6
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Foehammer [ANTI-MONSTER 2+, ASSAULT]
+
+MELEE WEAPONS
+Foehammer [ANTI-MONSTER 2+]
+
+RANGE
+
+6"
+
+RANGE
+Melee
+
+A
+1
+
+A
+5
+
+BS
+2+
+
+WS
+2+
+
+S
+8
+
+S
+8
+
+AP
+-2
+
+AP
+-2
+
+D
+3
+
+D
+3
+
+ABILITIES
+
+CORE: Deep Strike, Leader
+
+FACTION: Oath of Moment
+
+Anvil of Endurance: While this model is leading a unit, each 
+time a model in that unit makes an attack, add 1 to the Hit 
+roll if that unit is below its Starting Strength, and add 1 to the 
+Wound roll as well if that unit is Below Half-strength.
+Champion of the Kingsguard: You can target this model with 
+the Epic Challenge Stratagem for 0CP. In addition, each time 
+this model makes a melee attack that targets a Character 
+unit, you can re-roll the Hit roll and you can re-roll the 
+Wound roll.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Infantry, Character, Epic Hero, Imperium, Terminator, 
+
+Arjac Rockfist
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+ARJAC ROCKFIST
+Arjac Rockfist is a towering mass of muscle and a taciturn anvil 
+of endurance. Wielding the enormous Foehammer – recalling his 
+former role as an Iron Priest of the forge – Arjac crushes his foes with 
+pulverising strength. As personal champion of the Great Wolf, Arjac 
+upholds the honour of the Chapter.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Arjac Rockfist – Epic Hero
+This model is equipped with: Foehammer.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Relic Terminator Squad
+ ■ Terminator Assault Squad
+ ■ Terminator Squad
+ ■ Wolf Guard Terminators
+You can attach this model to one of the above units even if 
+one Captain or Chapter Master model has already been 
+attached to it. If you do, and that Bodyguard unit is destroyed, 
+the Leader units attached to it become separate units, with 
+their original Starting Strengths.
+
+KEYWORDS:  Infantry, Character, Epic Hero, Imperium, Terminator, 
+
+Arjac Rockfist
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+ULRIK THE SLAYER
+
+M
+
+6"
+
+T
+
+4
+
+SV
+
+3+
+
+W
+
+4
+
+LD
+
+5+
+
+OC
+
+1
+
+RANGED WEAPONS
+Plasma pistol – standard [PISTOL]
+Plasma pistol – supercharge [HAZARDOUS, PISTOL]
+
+MELEE WEAPONS
+Artificer crozius 
+
+RANGE
+
+12"
+12"
+
+RANGE
+Melee
+
+A
+1
+1
+
+A
+5
+
+BS
+2+
+2+
+
+WS
+2+
+
+S
+7
+8
+
+S
+6
+
+AP
+-2
+-3
+
+AP
+-2
+
+D
+1
+2
+
+D
+2
+
+ABILITIES
+
+CORE: Feel No Pain 6+, Leader
+
+FACTION: Oath of Moment
+
+Slayer’s Oath: While this model is leading a unit, at the start 
+of the Fight phase, select one enemy unit within Engagement 
+Range of this model’s unit. Until the end of the phase, each 
+time a model in this model’s unit makes a melee attack that 
+targets that enemy unit, re-roll a Hit roll of 1 and re-roll a 
+Wound roll of 1. If that enemy unit is a Character, Vehicle or 
+Monster unit, until the end of the phase, each time a model 
+in this model’s unit makes a melee attack that targets that 
+enemy unit, you can re-roll the Hit roll and you can re-roll the 
+Wound roll.
+Wolf Helm of Russ (Aura): While a friendly Adeptus Astartes 
+unit is within 6" of this model, models in that unit have a 
+Leadership characteristic of 5+.
+
+INVULNERABLE SAVE
+
+4+
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Infantry, Character, Epic Hero, Grenades, Imperium, 
+
+Ulrik the Slayer
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+ULRIK THE SLAYER
+A paragon of wisdom and experience, Ulrik the Slayer has mentored 
+many of the Space Wolves’ greatest champions. He is the Wolf High 
+Priest, inspiring all who fight alongside him with his aggression and 
+martial prowess. Turning his fearsome gaze upon mighty foes, Ulrik 
+swears weighty oaths to cut them down.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Ulrik the Slayer – Epic Hero
+This model is equipped with: plasma pistol; artificer crozius.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Blood Claws
+ ■ Grey Hunters
+ ■ Long Fangs
+ ■ Wolf Guard
+
+KEYWORDS:  Infantry, Character, Epic Hero, Grenades, Imperium, 
+
+Ulrik the Slayer
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+RAGNAR BLACKMANE
+
+M
+
+6"
+
+T
+
+4
+
+SV
+
+3+
+
+W
+
+5
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+
+MELEE WEAPONS
+Frostfang [SUSTAINED HITS 1]
+
+RANGE
+
+12"
+
+RANGE
+Melee
+
+A
+1
+
+A
+8
+
+BS
+2+
+
+WS
+2+
+
+S
+4
+
+S
+6
+
+AP
+0
+
+AP
+-3
+
+D
+1
+
+D
+2
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Oath of Moment
+
+War Howl: While this model is leading  a unit, that unit is 
+eligible to declare a charge in a turn in which it Advanced.
+Battle-lust: Each time this model ends a Charge move, 
+until the end of the turn, add 2 to the Attacks and Strength 
+characteristics of this model’s Frostfang.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Infantry, Character, Epic Hero, Imperium, Grenades, Tacticus, 
+
+Captain, Ragnar Blackmane
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+RAGNAR BLACKMANE
+Supremely confident and eager always to be first into the fray, 
+Wolf Lord Ragnar Blackmane regularly leads his Great Company in 
+devastating planetary invasions. No longer as headstrong as in his 
+youth, Ragnar’s berserk rages are still furious hurricanes of violence, 
+and his terrifying howls freeze the blood of his foes.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Ragnar Blackmane – Epic Hero
+This model is equipped with: bolt pistol; Frostfang.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Wolf Guard
+ ■ Blood Claws
+ ■ Grey Hunters
+ ■ Assault Intercessor Squad
+ ■ Bladeguard Veteran Squad
+ ■ Intercessor Squad
+
+KEYWORDS:  Infantry, Character, Epic Hero, Imperium, Grenades, Tacticus, 
+
+Captain, Ragnar Blackmane
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+KROM DRAGONGAZE
+
+M
+
+6"
+
+T
+
+4
+
+SV
+
+3+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+
+MELEE WEAPONS
+Wyrmclaw [LETHAL HITS] 
+
+RANGE
+
+12"
+
+RANGE
+Melee
+
+A
+1
+
+A
+6
+
+BS
+2+
+
+WS
+2+
+
+S
+4
+
+S
+7
+
+AP
+0
+
+AP
+-2
+
+D
+1
+
+D
+2
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Oath of Moment
+
+Refuse to Accept Defeat: While this model is leading a unit, 
+each time a model in that unit makes an attack, add 1 to the 
+Hit roll if that unit is below its Starting Strength, and add 1 to 
+the Wound roll as well if that unit is Below Half-strength.
+The Fierce Eye: In your Shooting phase, you can select one 
+enemy Infantry unit within 12" of and visible to this model. 
+That enemy unit must take a Battle-shock test.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Infantry, Character, Epic Hero, Grenades, Imperium, Captain, 
+
+Krom Dragongaze
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+KROM DRAGONGAZE
+Belligerent, violent and seldom suffering anyone gainsaying his 
+bloodthirsty tactics, Krom Dragongaze is notoriously short of temper. 
+His fierce gaze is petrifying to lesser men, yet his critical eye seeks 
+deeds of valour and his Great Company boasts many veteran Wolf 
+Guard. Wildly competitive, Krom refuses to accept defeat.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Krom Dragongaze
+This model is equipped with: bolt pistol; Wyrmclaw.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Blood Claws
+ ■ Grey Hunters
+ ■ Wolf Guard
+
+KEYWORDS:  Infantry, Character, Epic Hero, Grenades, Imperium, Captain, 
+
+Krom Dragongaze
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+HARALD DEATHWOLF
+
+M
+
+10"
+
+T
+
+6
+
+SV
+
+3+
+
+W
+
+7
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+
+MELEE WEAPONS
+Crushing teeth and claws [EXTRA ATTACKS]
+Glacius
+
+RANGE
+
+12"
+
+RANGE
+Melee
+Melee
+
+A
+1
+
+A
+3
+6
+
+BS
+2+
+
+WS
+3+
+2+
+
+S
+4
+
+S
+5
+6
+
+AP
+0
+
+AP
+-1
+-2
+
+D
+1
+
+D
+1
+2
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Oath of Moment
+
+Lord of the Wolfkin: While this model is leading a unit, each 
+time that unit makes a Charge move, until the end of the turn, 
+crushing teeth and claws equipped by models in that unit 
+have the [DEVASTATING WOUNDS] ability.
+Mantle of the Troll King: Once per phase, when resolving 
+an attack made against this model, after you make a 
+saving throw for this model, you can change the Damage 
+characteristic of that attack to 0.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Mounted, Character, Epic Hero, Grenades, Imperium, Captain, 
+
+Harald Deathwolf
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+HARALD DEATHWOLF
+Harald Deathwolf is attuned to the lupine beasts of Fenris as few 
+others are. The lair of his Great Company resounds to their howls, and 
+many of these wolves fight with his warriors. A peerless hunter, Harald 
+tracks his prey with speed and stealth, launching his ferocious strikes 
+from atop his giant Thunderwolf, Icetooth.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Harald Deathwolf – Epic Hero
+This model is equipped with: bolt pistol; crushing teeth and 
+claws; Glacius.
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Thunderwolf Cavalry
+
+KEYWORDS:  Mounted, Character, Epic Hero, Grenades, Imperium, Captain, 
+
+Harald Deathwolf
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+CANIS WOLFBORN
+
+M
+
+10"
+
+T
+
+6
+
+SV
+
+3+
+
+W
+
+6
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+
+MELEE WEAPONS
+Crushing teeth and claws [EXTRA ATTACKS]
+Wolf claws [TWIN-LINKED]
+
+RANGE
+
+12"
+
+RANGE
+Melee
+Melee
+
+A
+1
+
+A
+3
+8
+
+BS
+5+
+
+WS
+4+
+2+
+
+S
+4
+
+S
+5
+5
+
+AP
+0
+
+AP
+-1
+-2
+
+D
+1
+
+D
+1
+1
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Oath of Moment
+
+Born of Wolves: While this model is leading a unit, melee 
+weapons equipped by models in that unit have the 
+[SUSTAINED HITS 1] ability.
+Alpha Predator: Each time this model ends a Charge move, 
+select one enemy unit within Engagement Range of it and roll 
+one D6: on a 2-3, that enemy unit suffers D3 mortal wounds; 
+on a 4-5, that enemy unit suffers 3 mortal wounds; on a 6, 
+that enemy units suffers D3+3 mortal wounds.
+
+KEYWORDS: Mounted, Character, Epic Hero, Imperium, Canis Wolfborn
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+CANIS WOLFBORN
+The most feral of Harald Deathwolf’s veterans, Canis Wolfborn moves 
+with animalistic assurance. Believed to have been raised by a 
+she-wolf, Canis speaks to his brothers in snarls and growls, and on the 
+battlefield his frenzied rages, slashing claws and Thunderwolf’s jaws 
+are all the communication he needs.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Canis Wolfborn – Epic Hero
+This model is equipped with: crushing teeth and jaws; 
+Wolf claws.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Fenrisian Wolves
+ ■ Thunderwolf Cavalry
+
+KEYWORDS: Mounted, Character, Epic Hero, Imperium, Canis Wolfborn
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+WOLF GUARD BATTLE LEADER IN TERMINATOR ARMOUR
+
+M
+
+5"
+
+T
+
+5
+
+SV
+
+2+
+
+W
+
+5
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Combi-weapon 
+[ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]
+Storm bolter [RAPID FIRE 2]
+
+MELEE WEAPONS
+Chainfist [ANTI-VEHICLE 3+]
+Close combat weapon 
+Power weapon
+Power fist 
+Thunder hammer [DEVASTATING WOUNDS]
+Twin lightning claws [TWIN-LINKED]
+
+RANGE
+
+24"
+
+24"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+Melee
+Melee
+
+A
+
+1
+
+2
+
+A
+4
+5
+5
+4
+4
+6
+
+BS
+
+3+
+
+2+
+
+WS
+3+
+3+
+2+
+2+
+3+
+3+
+
+S
+
+4
+
+4
+
+S
+8
+4
+5
+8
+8
+5
+
+AP
+
+0
+
+0
+
+AP
+-2
+0
+-2
+-2
+-2
+-2
+
+D
+
+1
+
+1
+
+D
+2
+1
+1
+2
+2
+1
+
+ABILITIES
+
+CORE: Deep Strike, Leader
+
+FACTION: Oath of Moment
+
+Tactical Precision: While this model is leading a unit, 
+weapons equipped by models in that unit with have the 
+[LETHAL HITS] ability.
+Huskarl to the Jarl: While this model is attached to a unit that 
+contains another Character model, all Character models in 
+that unit have the Feel No Pain 4+ ability.
+
+WARGEAR ABILITIES
+
+Relic Shield: The bearer has a Wounds characteristic of 6.
+
+INVULNERABLE SAVE
+
+4+
+
+KEYWORDS:  Infantry, Character, Imperium, Terminator, 
+
+Wolf Guard Battle Leader in Terminator Armour
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+WOLF GUARD BATTLE LEADER IN TERMINATOR ARMOUR
+Wolf Guard Battle Leaders possess vast experience and dominant 
+personalities, using them to guide others in the art of war. Each 
+combines preternatural combat prowess with the greatest relics 
+from their lord’s armouries, the most prized of which are suits of 
+fearsome Terminator armour.
+
+WARGEAR OPTIONS
+
+ ■ This model’s power weapon can be replaced with one of the following:
+
+ ◦ 1 chainfist
+ ◦ 1 power fist
+ ◦ 1 relic shield and 1 close combat weapon
+ ◦ 1 thunder hammer
+
+ ■ This model’s storm bolter can be replaced with one of the following:
+
+ ◦ 1 chainfist
+ ◦ 1 power fist
+ ◦ 1 power weapon
+ ◦ 1 thunder hammer
+ ◦ 1 combi-weapon
+
+ ■ This model’s storm bolter and power weapon can be replaced with 1 twin lightning claws.
+
+UNIT COMPOSITION
+
+ ■  1 Wolf Guard Battle Leader in Terminator Armour
+This model is equipped with: storm bolter; power weapon.
+
+LEADER
+This model can be attached to the following units:
+ ■ Relic Terminator Squad
+ ■ Terminator Assault Squad
+ ■ Terminator Squad
+ ■ Wolf Guard Terminators
+You can attach this model to one of the above units even 
+if one Captain or Chapter Master model has already 
+been attached to it. If you do, and that Bodyguard unit is 
+destroyed, the Leader units attached to it become separate 
+units, with their original Starting Strengths.
+
+KEYWORDS:  Infantry, Character, Imperium, Terminator, 
+
+Wolf Guard Battle Leader in Terminator Armour
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+WOLF LORD ON THUNDERWOLF
+
+M
+
+10"
+
+T
+
+6
+
+SV
+
+3+
+
+W
+
+6
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+Combi-weapon 
+[ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]
+Master-crafted boltgun
+Plasma pistol – standard [PISTOL]
+Plasma pistol – supercharge [HAZARDOUS, PISTOL]
+Storm bolter [RAPID FIRE 2]
+
+MELEE WEAPONS
+Close combat weapon 
+Crushing teeth and claws [EXTRA ATTACKS]
+Power fist 
+Relic weapon 
+Thunder hammer [DEVASTATING WOUNDS]
+Twin lightning claws [TWIN-LINKED]
+
+RANGE
+
+12"
+
+24"
+
+24"
+12"
+12"
+24"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+Melee
+Melee
+
+A
+1
+
+1
+
+2
+1
+1
+2
+
+A
+6
+3
+5
+6
+5
+7
+
+BS
+2+
+
+3+
+
+2+
+2+
+2+
+2+
+
+WS
+3+
+4+
+2+
+2+
+3+
+3+
+
+S
+4
+
+4
+
+4
+7
+8
+4
+
+S
+4
+5
+8
+5
+8
+5
+
+AP
+0
+
+0
+
+0
+-2
+-3
+0
+
+AP
+0
+-1
+-2
+-2
+-2
+-2
+
+D
+1
+
+1
+
+2
+1
+2
+1
+
+D
+1
+1
+2
+2
+2
+1
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Oath of Moment
+
+Rites of Battle: Once per battle round, one unit from your 
+army with this ability can be targeted with a Stratagem for 
+0CP, even if another unit from your army has already been 
+targeted with that Stratagem this phase.
+Speed of the Hunter: Add 1 to Advance and Charge rolls made 
+for this model’s unit.
+
+WARGEAR ABILITIES
+
+Relic Shield: The bearer has a Wounds characteristic of 7.
+
+INVULNERABLE SAVE
+
+4+
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Mounted, Character, Grenades, Imperium, Captain, 
+
+Wolf Lord on Thunderwolf
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+WOLF LORD ON THUNDERWOLF
+Raised from a pup or bested in the wastes, a Thunderwolf makes 
+for a savage and fearsome mount for a Wolf Lord. Often leading wild 
+and wilful Great Companies, these Wolf Lords meld their centuries 
+of experience and strategic acumen with the ferocity and speed of a 
+hunter as deadly as the lord himself.
+
+WARGEAR OPTIONS
+
+ ■ This model’s relic weapon can be replaced with one of the following:
+
+ ◦ 1 plasma pistol
+ ◦ 1 power fist
+ ◦ 1 thunder hammer
+ ◦ 1 relic shield and 1 close combat weapon
+
+ ■ This model’s bolt pistol can be replaced with one of the following:
+
+ ◦ 1 combi-weapon
+ ◦ 1 master-crafted boltgun
+ ◦ 1 plasma pistol
+ ◦ 1 storm bolter
+ ◦ 1 power fist
+ ◦ 1 relic weapon
+ ◦ 1 thunder hammer
+
+ ■ This model’s bolt pistol and relic weapon can be replaced with 1 twin lightning claws.
+
+UNIT COMPOSITION
+
+ ■ 1 Wolf Lord on Thunderwolf
+This model is equipped with: bolt pistol; crushing teeth and 
+claws; relic weapon. 
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Thunderwolf Cavalry
+
+KEYWORDS:  Mounted, Character, Grenades, Imperium, Captain, 
+
+Wolf Lord on Thunderwolf
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+WOLF GUARD BATTLE LEADER ON THUNDERWOLF
+
+M
+
+10"
+
+T
+
+6
+
+SV
+
+3+
+
+W
+
+5
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+Combi-weapon 
+[ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]
+Master-crafted boltgun
+Plasma pistol – standard [PISTOL]
+Plasma pistol – supercharge [HAZARDOUS, PISTOL]
+Storm bolter [RAPID FIRE 2]
+
+MELEE WEAPONS
+Close combat weapon 
+Crushing teeth and claws [EXTRA ATTACKS]
+Power fist 
+Relic weapon 
+Thunder hammer [DEVASTATING WOUNDS]
+Twin lightning claws [TWIN-LINKED]
+
+RANGE
+
+12"
+
+24"
+
+24"
+12"
+12"
+24"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+Melee
+Melee
+
+A
+1
+
+1
+
+2
+1
+1
+2
+
+A
+5
+3
+4
+5
+4
+6
+
+BS
+2+
+
+3+
+
+2+
+2+
+2+
+2+
+
+WS
+3+
+4+
+2+
+2+
+3+
+3+
+
+S
+4
+
+4
+
+4
+7
+8
+4
+
+S
+4
+5
+8
+5
+8
+4
+
+AP
+0
+
+0
+
+0
+-2
+-3
+0
+
+AP
+0
+-1
+-2
+-2
+-2
+-2
+
+D
+1
+
+1
+
+2
+1
+2
+1
+
+D
+1
+1
+2
+2
+2
+1
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Mounted, Character, Grenades, Imperium, 
+Wolf Guard Battle Leader on Thunderwolf
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Oath of Moment
+
+Tactical Precision: While this model is leading a unit, 
+weapons equipped by models in that unit have the 
+[LETHAL HITS] ability.
+Aggressive Hunter: Once per battle, in your opponent’s 
+Shooting phase, after an enemy unit has finished making 
+its attacks, if this model’s unit was targeted by one or more 
+of those attacks, this model’s unit can make a Normal move 
+of up to D6", but must end that move as close as possible 
+to the closest enemy unit. When doing so, models in this 
+model’s unit can be moved within Engagement Range of that 
+enemy unit.
+
+WARGEAR ABILITIES
+
+Storm Shield: The bearer has a 4+ invulnerable save.
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+WOLF GUARD BATTLE LEADER ON THUNDERWOLF
+Battle Leaders are champions possessing great tactical 
+acumen, and are hand-picked by their lord to lead forces of 
+their own. The most aggressive often choose to ride to war on 
+the back of a Thunderwolf.
+
+WARGEAR OPTIONS
+
+ ■ This model’s relic weapon can be replaced with one of the following:
+
+ ◦ 1 plasma pistol
+ ◦ 1 power fist
+ ◦ 1 thunder hammer
+ ◦ 1 storm shield and 1 close combat weapon
+
+ ■ This model’s bolt pistol can be replaced with one of the following:
+
+ ◦ 1 combi-weapon
+ ◦ 1 master-crafted boltgun
+ ◦ 1 plasma pistol
+ ◦ 1 storm bolter
+ ◦ 1 power fist
+ ◦ 1 relic weapon
+ ◦ 1 thunder hammer
+
+ ■ This model’s bolt pistol and relic weapon can be replaced with 1 twin lightning claws.
+
+UNIT COMPOSITION
+
+ ■  1 Wolf Guard Battle Leader on Thunderworlf
+This model is equipped with: bolt pistol; crushing teeth and 
+claws; relic weapon.
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Thunderwolf Cavalry
+You can attach this model to the above unit even if one 
+Captain or Chapter Master model has already been 
+attached to it. If you do, and that Bodyguard unit is destroyed, 
+the Leader units attached to it become separate units, with 
+their original Starting Strengths.
+
+KEYWORDS:  Mounted, Character, Grenades, Imperium, 
+Wolf Guard Battle Leader on Thunderwolf
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+BLOOD CLAWS
+
+M
+
+6"
+
+T
+
+4
+
+SV
+
+3+
+
+W
+
+2
+
+LD
+
+6+
+
+OC
+
+2
+
+ABILITIES
+
+FACTION: Oath of Moment
+
+Berserk Charge: Each time this unit makes a Charge move, 
+until the end of the turn, add 1 to the Attacks and Strength 
+characteristics of melee weapons equipped by models in 
+this unit.
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+Boltgun 
+Flamer [IGNORES COVER, TORRENT]
+Grav-gun [ANTI-VEHICLE 2+]
+Meltagun [MELTA 2]
+Plasma gun – standard [RAPID FIRE 1]
+Plasma gun – supercharge [HAZARDOUS, RAPID FIRE 1]
+Plasma pistol – standard [PISTOL]
+Plasma pistol – supercharge [HAZARDOUS, PISTOL]
+
+MELEE WEAPONS
+Astartes chainsword 
+Close combat weapon 
+Power fist 
+Power weapon 
+
+RANGE
+
+12"
+24"
+12"
+18"
+12"
+24"
+24"
+12"
+12"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+
+A
+1
+2
+D6
+2
+1
+1
+1
+1
+1
+
+A
+3
+2
+2
+3
+
+BS
+3+
+3+
+N/A
+3+
+3+
+3+
+3+
+3+
+3+
+
+WS
+3+
+3+
+3+
+3+
+
+S
+4
+4
+4
+5
+9
+7
+8
+7
+8
+
+S
+4
+4
+8
+5
+
+AP
+0
+0
+0
+-1
+-4
+-2
+-3
+-2
+-3
+
+AP
+-1
+0
+-2
+-2
+
+D
+1
+1
+1
+2
+D6
+1
+2
+1
+2
+
+D
+1
+1
+2
+1
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Infantry, Battleline, Grenades, Imperium, Blood Claws
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+BLOOD CLAWS
+Young and fiery warriors full of belligerent enthusiasm, Blood 
+Claws hunger to prove themselves in savage battle. With relentless 
+exuberance they plunge headlong into the foe, straddling the line 
+between sheer heroism and recklessness. Many great sagas start 
+with the Blood Claws’ glory hunts.
+
+WARGEAR OPTIONS
+
+ ■ The Blood Claw Pack Leader’s bolt pistol can be replaced with 1 plasma pistol. 
+ ■ The Blood Claw Pack Leader’s Astartes chainsword can be replaced with one of the following:
+
+ ◦ 1 power fist
+ ◦ 1 power weapon
+
+UNIT COMPOSITION
+
+ ■ 1 Blood Claw Pack Leader
+ ■ 9-14 Blood Claws
+Every model is equipped with: bolt pistol; 
+Astartes chainsword.
+
+ ■  Up to 2 Blood Claws can each have their Astartes chainsword replaced with one of the following:
+
+ ◦ 1 flamer and 1 close combat weapon
+ ◦ 1 grav-gun and 1 close combat weapon
+ ◦ 1 meltagun and 1 close combat weapon
+ ◦ 1 plasma gun and 1 close combat weapon
+
+ATTACHED UNIT
+
+If a Character unit from your army with the Leader ability 
+can be attached to an Assault Squad, it can instead be 
+attached to this unit.
+
+KEYWORDS: Infantry, Battleline, Grenades, Imperium, Blood Claws
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+GREY HUNTERS
+
+M
+
+6"
+
+T
+
+4
+
+SV
+
+3+
+
+W
+
+2
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+Boltgun 
+Flamer [IGNORES COVER, TORRENT]
+Grav-gun [ANTI-VEHICLE 2+]
+Meltagun [MELTA 2]
+Plasma gun – standard [RAPID FIRE 1]
+Plasma gun – supercharge [HAZARDOUS, RAPID FIRE 1]
+Plasma pistol – standard [PISTOL]
+Plasma pistol – supercharge [HAZARDOUS, PISTOL]
+
+MELEE WEAPONS
+Astartes chainsword 
+Close combat weapon 
+Power fist 
+Power weapon 
+
+RANGE
+
+12"
+24"
+12"
+18"
+12"
+24"
+24"
+12"
+12"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+
+A
+1
+2
+D6
+2
+1
+1
+1
+1
+1
+
+A
+3
+2
+2
+3
+
+BS
+3+
+3+
+N/A
+3+
+3+
+3+
+3+
+3+
+3+
+
+WS
+3+
+3+
+3+
+3+
+
+S
+4
+4
+4
+5
+9
+7
+8
+7
+8
+
+S
+4
+4
+8
+5
+
+AP
+0
+0
+0
+-1
+-4
+-2
+-3
+-2
+-3
+
+AP
+-1
+0
+-2
+-2
+
+D
+1
+1
+1
+1
+D6
+1
+2
+1
+2
+
+D
+1
+1
+2
+1
+
+ABILITIES
+
+FACTION: Oath of Moment
+
+Cunning Hunters: This unit is eligible to shoot in a turn in 
+which it Fell Back or Advanced.
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Infantry, Battleline, Grenades, Imperium, Grey Hunters
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+GREY HUNTERS
+With their instinctive raw aggression tempered – but never quashed 
+– by countless battlefield victories, Grey Hunters are patient, cunning 
+and adaptable. Some packs take and hold ground, unleashing volleys 
+of disciplined firepower, while others stalk the flanks. When the trap is 
+set, Grey Hunters leap in for the kill.
+
+WARGEAR OPTIONS
+
+ ■ Any number of models can each be equipped with 1 Astartes chainsword.
+ ■ The Grey Hunter Pack Leader’s close combat weapon can be replaced with one of the following: 
+
+ ◦ 1 power fist
+ ◦ 1 power weapon
+
+ ■  Up to 2 Grey Hunters can each have their boltgun replaced with one of the following:
+
+ ◦ 1 flamer
+ ◦ 1 grav-gun
+ ◦ 1 meltagun
+ ◦ 1 plasma gun
+
+UNIT COMPOSITION
+
+ ■ 1 Grey Hunter Pack Leader
+ ■ 4-9 Grey Hunters
+Every model is equipped with: bolt pistol; boltgun; close 
+combat weapon.
+
+ATTACHED UNIT
+
+If a Character unit from your army with the Leader ability 
+can be attached to a Tactical Squad, it can instead be 
+attached to this unit.
+
+KEYWORDS: Infantry, Battleline, Grenades, Imperium, Grey Hunters
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+WOLF GUARD
+
+M
+
+6"
+
+T
+
+4
+
+SV
+
+3+
+
+W
+
+2
+
+LD
+
+5+
+
+OC
+
+1
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+Boltgun 
+Combi-weapon 
+[ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]
+Plasma pistol – standard [PISTOL]
+Plasma pistol – supercharge [HAZARDOUS, PISTOL]
+Storm bolter [RAPID FIRE 2]
+
+MELEE WEAPONS
+Heirloom weapon 
+
+RANGE
+
+12"
+24"
+
+24"
+
+12"
+12"
+24"
+
+RANGE
+Melee
+
+A
+1
+2
+
+1
+
+1
+1
+2
+
+A
+4
+
+BS
+3+
+3+
+
+4+
+
+3+
+3+
+3+
+
+WS
+3+
+
+S
+4
+4
+
+4
+
+7
+8
+4
+
+S
+5
+
+AP
+0
+0
+
+0
+
+-2
+-3
+0
+
+AP
+-1
+
+D
+1
+1
+
+1
+
+1
+2
+1
+
+D
+1
+
+ABILITIES
+
+FACTION: Oath of Moment
+
+Chosen Companions: While a Character model is leading 
+this unit, each time a model in this unit makes an attack, add 
+1 to the Hit roll.
+
+WARGEAR ABILITIES
+
+Storm Shield: The bearer has a 4+ invulnerable save.
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Infantry, Grenades, Imperium, Wolf Guard
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+WOLF GUARD
+Earning their place through exceptional feats of arms, every Wolf 
+Guard is a heroic warrior chosen by their lord. They act as his council 
+and household companions, and when not tearing apart foes at his 
+side, they form bodyguards around other senior warriors or pursue 
+dangerous missions in their own right. 
+
+WARGEAR OPTIONS
+
+ ■  Any number of models can have their bolt pistol replaced with one of the following:
+
+ ◦ 1 boltgun
+ ◦ 1 combi-weapon
+ ◦ 1 plasma pistol
+ ◦ 1 storm bolter
+ ◦ 1 storm shield
+
+UNIT COMPOSITION
+
+ ■ 1 Wolf Guard Pack Leader
+ ■ 4-9 Wolf Guard
+Every model is equipped with: bolt pistol; heirloom weapon.
+
+ATTACHED UNIT
+
+If a Character unit from your army with the Leader ability 
+can be attached to a Vanguard Veteran Squad, it can 
+instead be attached to this unit.
+
+KEYWORDS: Infantry, Grenades, Imperium, Wolf Guard
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+LUKAS THE TRICKSTER
+
+M
+
+6"
+
+T
+
+4
+
+SV
+
+3+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Plasma pistol – standard [PISTOL]
+Plasma pistol – supercharge [HAZARDOUS, PISTOL]
+
+MELEE WEAPONS
+Claw of the Jackalwolf
+
+RANGE
+
+12"
+12"
+
+RANGE
+Melee
+
+A
+1
+1
+
+A
+6
+
+BS
+3+
+3+
+
+WS
+2+
+
+S
+7
+8
+
+S
+5
+
+AP
+-2
+-3
+
+AP
+-2
+
+D
+1
+2
+
+D
+1
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Oath of Moment
+
+Pelt of the Doppegangrel: While this model is leading a unit, 
+each time an attack targets that unit, subtract 1 from the 
+Hit roll.
+Last Laugh: If this model is destroyed by a melee attack, after 
+the attacking unit has finished making its attacks, roll one 
+D6: on a 4+, the attacking unit suffers D6 mortal wounds and 
+is Battle-shocked.
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Infantry, Character, Epic Hero, Grenades, Imperium, 
+
+Lukas the Trickster
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+LUKAS THE TRICKSTER
+A legend amongst impulsive warriors, Lukas – called the Trickster by 
+his many detractors – is synonymous with the irreverence and spirit 
+of youth. His inventive sabotages and murderous jests rank him as 
+one of the most cunning in the Chapter. A dirty fighter, rebel and rogue, 
+Lukas’ skills are as deadly as they are mischievous.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Lukas the Trickster – Epic Hero
+This model is equipped with: plasma pistol; Claw of 
+the Jackalwolf.
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Blood Claws
+
+MASTER OF MISCHIEF
+
+This model cannot be your Warlord.
+
+KEYWORDS:  Infantry, Character, Epic Hero, Grenades, Imperium, 
+
+Lukas the Trickster
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+WOLF GUARD TERMINATORS
+
+M
+
+5"
+
+T
+
+5
+
+SV
+
+2+
+
+W
+
+3
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Assault cannon [DEVASTATING WOUNDS]
+Combi-weapon 
+[ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]
+Cyclone missile launcher – frag [BLAST]
+Cyclone missile launcher – krak 
+Heavy flamer [IGNORES COVER, TORRENT]
+Storm bolter [RAPID FIRE 2]
+
+MELEE WEAPONS
+Chainfist [ANTI-VEHICLE 3+]
+Power fist 
+Power weapon 
+Thunder hammer [DEVASTATING WOUNDS]
+Twin lightning claws [TWIN-LINKED]
+
+RANGE
+
+24"
+
+24"
+
+36"
+36"
+12"
+24"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+Melee
+
+A
+6
+
+1
+
+2D6
+2
+D6
+2
+
+A
+3
+3
+4
+3
+5
+
+BS
+3+
+
+4+
+
+3+
+3+
+N/A
+3+
+
+WS
+4+
+3+
+3+
+4+
+3+
+
+S
+6
+
+4
+
+4
+9
+5
+4
+
+S
+8
+8
+5
+8
+5
+
+AP
+0
+
+0
+
+0
+-2
+-1
+0
+
+AP
+-2
+-2
+-2
+-2
+-2
+
+D
+1
+
+1
+
+1
+D6
+1
+1
+
+D
+2
+2
+1
+2
+1
+
+ABILITIES
+
+CORE: Deep Strike
+
+FACTION: Oath of Moment
+
+Wolf Guard: Each time a model in this unit makes an attack, 
+you can ignore any or all modifiers to that attack’s Ballistic 
+Skill or Weapon Skill characteristic and/or to the Hit roll. In 
+addition, each time a model in this unit makes an attack that 
+targets the enemy unit you selected for the Oath of Moment 
+ability this turn, add 1 to the Hit roll.
+
+WARGEAR ABILITIES
+
+Storm Shield: The bearer has a Wounds characteristic of 4.
+
+INVULNERABLE SAVE
+
+4+
+
+ 
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Infantry, Grenades, Imperium, Terminator, 
+
+Wolf Guard Terminators
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+WOLF GUARD TERMINATORS
+Wolf Guard bedeck their Terminator armour with totems, trophies and 
+marks of honour gained over their years of battle. They fight at the 
+spearhead of assaults, eagerly seeking glory as enemy fire deflects 
+harmlessly from their relic armour, the earth shaking beneath their 
+heavy tread as they slay with stunning skill.
+
+WARGEAR OPTIONS
+
+ ■  Any number of models can each have their power fist and storm bolter or power weapon and storm 
+
+bolter replaced with two of the following:
+ ◦ 1 storm bolter*
+ ◦ 1 combi-weapon*
+ ◦ 1 chainfist
+ ◦ 1 power fist
+ ◦ 1 power weapon
+ ◦ 1 thunder hammer
+ ◦ 1 storm shield
+
+ ■  For every 5 models in this unit, one Wolf Guard Terminator can replace its power fist and storm bolter 
+
+with one of the following:
+ ◦ 1 assault cannon
+ ◦ 1 heavy flamer
+ ◦ 1 storm bolter and 1 cyclone missile launcher
+
+ ■  Any number of models can each have their power fist and storm bolter or power weapon and storm 
+
+bolter replaced with 1 twin lightning claws.
+
+* Each model cannot have duplicates of these pieces of wargear and cannot have both a storm bolter and a combi-weapon.
+
+UNIT COMPOSITION
+
+ ■ 1 Wolf Guard Terminator Pack Leader
+ ■ 4-9 Wolf Guard Terminators
+The Wolf Guard Terminator Pack Leader is equipped with: 
+storm bolter; power weapon.
+Every Wolf Guard Terminator is equipped with: storm bolter; 
+power fist.
+
+ATTACHED UNIT
+
+If a Character unit from your army with the Leader ability 
+can be attached to a Terminator Squad, it can instead be 
+attached to this unit.
+
+KEYWORDS:  Infantry, Grenades, Imperium, Terminator, 
+
+Wolf Guard Terminators
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+HOUNDS OF MORKAI
+
+M
+
+6"
+
+T
+
+4
+
+SV
+
+3+
+
+W
+
+2
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Morkai bolt pistol 
+[ANTI-PSYKER 4+, DEVASTATING WOUNDS, PISTOL, PRECISION]
+
+MELEE WEAPONS
+Morkai combat knife 
+[ANTI-PSYKER 4+, DEVASTATING WOUNDS, PRECISION]
+
+RANGE
+
+12"
+
+RANGE
+
+Melee
+
+A
+
+1
+
+A
+
+4
+
+BS
+
+3+
+
+WS
+
+3+
+
+S
+
+4
+
+S
+
+4
+
+AP
+
+-1
+
+AP
+
+0
+
+D
+
+1
+
+D
+
+1
+
+ABILITIES
+
+CORE: Scouts 6"
+
+FACTION: Oath of Moment
+
+Morkai’s Howl: In your Shooting phase, you can select one 
+enemy unit within 12" of this unit (if a Lieutenant in Reiver 
+Armour is leading this unit, you can select one enemy unit 
+within 18" instead). That unit must take a Battle-shock test, 
+subtracting 1 from the result if it is a Psyker unit. If that test 
+is failed, in addition to being Battle-shocked, that unit is 
+Stunned until the start of your next Shooting phase. While 
+a unit is Stunned, each time a model in that unit makes a 
+Psychic Attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE*
+
+6+
+
+*  This invulnerable save is improved to 4+ against 
+Psychic Attacks.
+
+KEYWORDS:  Infantry, Grenades, Smoke, Imperium, Phobos, Hounds of Morkai
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+HOUNDS OF MORKAI
+Daubed beneath their Phobos armour with runes of warding and 
+abjuration, Hounds of Morkai are hunters of psykers. Sniffing them 
+out with psycept detectors, these obsessed warriors emit uniquely 
+pitched howls. Runic circuitry augments their hunting call, disrupting 
+their prey’s powers and sowing fear before the kill.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ 1 Hound of Morkai Pack Leader
+ ■ 4-9 Hound of Morkai
+Every model is equipped with: Morkai bolt pistol; Morkai 
+combat knife.
+
+ATTACHED UNIT
+
+If a Character unit from your army with the Leader ability 
+can be attached to a Reiver Squad, it can instead be 
+attached to this unit.
+
+KEYWORDS:  Infantry, Grenades, Smoke, Imperium, Phobos, Hounds of Morkai
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+WULFEN
+
+M
+
+8"
+
+T
+
+5
+
+SV
+
+4+
+
+W
+
+2
+
+LD
+
+6+
+
+OC
+
+0
+
+RANGED WEAPONS
+Stormfrag auto-launcher [ASSAULT, BLAST]
+
+MELEE WEAPONS
+Wulfen claws and melee weapons
+Wulfen hammer
+
+RANGE
+
+12"
+
+RANGE
+Melee
+Melee
+
+A
+D6
+
+A
+6
+4
+
+BS
+5+
+
+WS
+3+
+3+
+
+S
+4
+
+S
+5
+5
+
+AP
+0
+
+AP
+-1
+-1
+
+D
+1
+
+D
+1
+1
+
+ABILITIES
+
+CORE: Feel No Pain 6+
+
+FACTION: Oath of Moment
+
+Death Frenzy: Each time a model in this unit is destroyed by a 
+melee attack, if that model has not fought this phase, roll one 
+D6. On a 4+, do not remove it from play; that destroyed model 
+can fight after the attacking model’s unit has finished making 
+its attacks, and is then removed from play.
+
+WARGEAR ABILITIES
+
+Storm Shield: The bearer has a 4+ invulnerable save.
+
+KEYWORDS: Infantry, Imperium, Wulfen
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+WULFEN
+Wulfen exist on the brink of constant berserk rages, and their chilling 
+howls unleash the inner beast in sons of Russ nearby. Wulfen are 
+bestial warriors, altered by the Curse lying in the blood of all scions of 
+the Wolf King. They are hunters, bounding forward with fangs bared 
+and claws outstretched, ripping foes apart with inhuman speed.
+
+WARGEAR OPTIONS
+
+ ■ Any number of models can each be equipped with 1 stormfrag auto-launcher.
+ ■  Any number of models can each have their Wulfen claws and melee weapons replaced with 1 Wulfen 
+
+hammer and 1 storm shield.
+
+UNIT COMPOSITION
+
+ ■ 1 Wulfen Pack Leader
+ ■ 4-9 Wulfen
+Every model is equipped with: Wulfen claws and 
+melee weapons.
+
+KEYWORDS: Infantry, Imperium, Wulfen
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+WULFEN DREADNOUGHT
+
+M
+
+8"
+
+T
+
+9
+
+SV
+
+2+
+
+W
+
+8
+
+LD
+
+6+
+
+OC
+
+0
+
+RANGED WEAPONS
+Heavy flamer [IGNORES COVER, TORRENT]
+Storm bolter [RAPID FIRE 2]
+
+MELEE WEAPONS
+Fenrisian great axe – strike 
+Fenrisian great axe – sweep 
+Great wolf claw 
+
+RANGE
+
+12"
+24"
+
+RANGE
+Melee
+Melee
+Melee
+
+A
+D6
+2
+
+A
+5
+10
+5
+
+BS
+N/A
+3+
+
+WS
+3+
+3+
+3+
+
+S
+5
+4
+
+S
+10
+6
+10
+
+AP
+-1
+0
+
+AP
+-2
+-2
+-3
+
+D
+1
+1
+
+D
+D6+1
+
+1
+3
+
+ABILITIES
+
+CORE: Deadly Demise 1, Feel No Pain 6+
+
+FACTION: Oath of Moment
+
+Bestial Rage: Each time this model is selected to fight, you 
+can select one enemy unit within Engagement Range of it 
+and roll one D6, adding 2 to the result if this model made 
+a Charge move this turn: on a 4-5, that enemy unit suffers 
+D3 mortal wounds; on a 6+, that enemy unit suffers D3+3 
+mortal wounds.
+
+WARGEAR ABILITIES
+
+Blizzard Shield: The bearer has a 4+ invulnerable save.
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Vehicle, Walker, Imperium, Dreadnought, Wulfen Dreadnought
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+WULFEN DREADNOUGHT
+Even near death and interred in a Dreadnought sarcophagus, a warrior 
+may yet succumb to the Curse of the Wulfen. Joints and servos twitch 
+and spasm like a crazed animal’s muscles as a Wulfen Dreadnought 
+seeks to maul and eviscerate. From emitters, baleful howls blare its 
+mindless hunger for violence.
+
+WARGEAR OPTIONS
+
+UNIT COMPOSITION
+
+ ■  This model’s Fenrisian great axe or great wolf claw and storm bolter can be replaced with 1 blizzard 
+
+shield and 1 storm bolter.
+
+ ■ Any number of this model’s storm bolters can each be replaced with 1 heavy flamer.
+
+ ■ 1 Wulfen Dreadnought
+This model is equipped with: storm bolter; Fenrisian great 
+axe; great wolf claw.
+
+KEYWORDS: Vehicle, Walker, Imperium, Dreadnought, Wulfen Dreadnought
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+MURDERFANG
+
+M
+
+8"
+
+T
+
+9
+
+SV
+
+2+
+
+W
+
+8
+
+LD
+
+6+
+
+OC
+
+0
+
+RANGED WEAPONS
+Heavy flamer [IGNORES COVER, TORRENT]
+Storm bolter [RAPID FIRE 2]
+
+MELEE WEAPONS
+The Murderclaws [TWIN-LINKED]
+
+RANGE
+
+12"
+24"
+
+RANGE
+Melee
+
+A
+D6
+2
+
+A
+8
+
+BS
+N/A
+3+
+
+WS
+3+
+
+S
+5
+4
+
+S
+14
+
+AP
+-1
+0
+
+AP
+-2
+
+D
+1
+1
+
+D
+3
+
+ABILITIES
+
+CORE: Deadly Demise 1, Feel No Pain 6+
+
+FACTION: Oath of Moment
+
+Murder-maker: Each time an enemy unit targets this 
+model, after that unit has finished making its attacks, this 
+model can either shoot as if it were your Shooting phase 
+or fight as if it were the Fight phase.
+
+KEYWORDS:  Vehicle, Walker, Character, Epic Hero, Imperium, Dreadnought, 
+
+Murderfang
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+MURDERFANG
+A stampeding mechanical beast is unleashed from beneath the Fang 
+in times of need, its massively brutal claws tearing its foes limb from 
+bloody limb. The Chapter names it Murderfang. Its true identity is 
+unknown for its insensate snarling rages are bereft of speech; it is 
+known now only as a force of untamed destruction.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■ Murderfang – Epic Hero
+This model is equipped with: heavy flamer; storm bolter; 
+the Murderclaws.
+
+FORCE OF UNTAMED DESTRUCTION
+
+This model cannot be your Warlord.
+
+KEYWORDS:  Vehicle, Walker, Character, Epic Hero, Imperium, Dreadnought, 
+
+Murderfang
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+THUNDERWOLF CAVALRY
+
+M
+
+10"
+
+T
+
+6
+
+SV
+
+3+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+2
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+Boltgun 
+Plasma pistol – standard [PISTOL]
+Plasma pistol – supercharge [HAZARDOUS, PISTOL]
+
+MELEE WEAPONS
+Crushing teeth and claws [EXTRA ATTACKS]
+Heirloom weapon 
+
+RANGE
+
+12"
+24"
+12"
+12"
+
+RANGE
+Melee
+Melee
+
+A
+1
+2
+1
+1
+
+A
+3
+4
+
+BS
+3+
+3+
+3+
+3+
+
+WS
+4+
+3+
+
+S
+4
+4
+7
+8
+
+S
+5
+5
+
+AP
+0
+0
+-2
+-3
+
+AP
+-1
+-1
+
+D
+1
+1
+1
+2
+
+D
+1
+1
+
+ABILITIES
+
+FACTION: Oath of Moment
+
+Ferocious Charge: Each time this unit makes a Charge move, 
+until the end of the turn, add 1 to the Damage characteristic of 
+melee weapons equipped by models in this unit.
+
+WARGEAR ABILITIES
+
+Storm Shield: The bearer has a 4+ invulnerable save.
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Mounted, Grenades, Imperium, Thunderwolf Cavalry
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+THUNDERWOLF CAVALRY
+Thunderwolves are monstrous and solitary alpha predators, and only 
+the most dauntless elite within the Wolf Guard have the dominance 
+to ride them to war. When they charge, crushing jaws tear through 
+armoured plates, flesh and bone with feral butchery, while the 
+Thunderwolves’ riders hack down the foe with heroic ferocity.
+
+WARGEAR OPTIONS
+
+ ■ Any number of models can each have their bolt pistol replaced with one of the following:
+
+ ◦ 1 boltgun
+ ◦ 1 plasma pistol
+ ◦ 1 storm shield
+
+UNIT COMPOSITION
+
+ ■ 1 Thunderwolf Cavalry Pack Leader
+ ■ 2-5 Thunderwolf Cavalry
+Every model is equipped with: bolt pistol; crushing teeth and 
+claws; heirloom weapon.
+
+KEYWORDS: Mounted, Grenades, Imperium, Thunderwolf Cavalry
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+FENRISIAN WOLVES
+
+M
+
+10"
+
+T
+
+4
+
+SV
+
+6+
+
+W
+
+1
+
+LD
+
+8+
+
+OC
+
+0
+
+MELEE WEAPONS
+Teeth and claws 
+
+RANGE
+Melee
+
+A
+2
+
+WS
+4+
+
+S
+4
+
+AP
+0
+
+D
+1
+
+ABILITIES
+
+FACTION: Oath of Moment
+
+Swift Hunters: This unit is eligible to declare a charge in a turn 
+in which it Advanced.
+
+KEYWORDS: Beasts, Imperium, Fenrisian Wolves
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+FENRISIAN WOLVES
+Amongst the most vicious and intelligent predators in the galaxy, 
+Fenrisian Wolves accompany the sons of Russ to battle, following 
+them as the pack follows the alpha. Even the sleekest are as big 
+as a Human, yet they prowl silently before pouncing in a swift and 
+coordinated flurry of razor-sharp teeth and claws.
+
+WARGEAR OPTIONS
+
+ ■   None
+
+UNIT COMPOSITION
+
+ ■  5-10 Fenrisian Wolves
+Every model is equipped with: teeth and claws.
+
+KEYWORDS: Beasts, Imperium, Fenrisian Wolves
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+SKYCLAWS
+
+M
+
+12"
+
+T
+
+4
+
+SV
+
+3+
+
+W
+
+2
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+Flamer [IGNORES COVER, TORRENT]
+Grav-gun [ANTI-VEHICLE 2+]
+Meltagun [MELTA 2]
+Plasma gun – standard [RAPID FIRE 1]
+Plasma gun – supercharge [HAZARDOUS, RAPID FIRE 1]
+Plasma pistol – standard [PISTOL]
+Plasma pistol – supercharge [HAZARDOUS, PISTOL]
+
+MELEE WEAPONS
+Astartes chainsword 
+Close combat weapon 
+Power fist 
+Power weapon 
+
+RANGE
+
+12"
+12"
+18"
+12"
+24"
+24"
+12"
+12"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+
+A
+1
+D6
+2
+1
+1
+1
+1
+1
+
+A
+3
+2
+2
+3
+
+BS
+3+
+N/A
+3+
+3+
+3+
+3+
+3+
+3+
+
+WS
+3+
+3+
+3+
+3+
+
+S
+4
+4
+5
+9
+7
+8
+7
+8
+
+S
+4
+4
+8
+5
+
+AP
+0
+0
+-1
+-4
+-2
+-3
+-2
+-3
+
+AP
+-1
+0
+-2
+-2
+
+D
+1
+1
+2
+D6
+1
+2
+1
+2
+
+D
+1
+1
+2
+1
+
+ABILITIES
+
+CORE: Deep Strike
+
+FACTION: Oath of Moment
+
+Headstrong: You can re-roll Charge rolls made for this unit. 
+Each time this unit makes a Charge move, until the end of the 
+turn, each time a model in this unit makes a melee attack, add 
+1 to the Hit roll.
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Infantry, Jump Pack, Fly, Grenades, Imperium, Skyclaws
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+SKYCLAWS
+Especially headstrong Blood Claws are reassigned to jump pack 
+wearing Skyclaw packs. Rebellious and free-spirited, Skyclaws seize 
+any opportunity to push their luck. They rocket forward fearlessly in 
+great loping bounds, chainswords roaring as they slay, plunging into 
+the enemy’s heart with reckless fury.
+
+WARGEAR OPTIONS
+
+ ■ The Skyclaw Pack Leader’s bolt pistol can be replaced with 1 plasma pistol. 
+ ■ The Skyclaw Pack Leader’s Astartes chainsword can be replaced with one of the following:
+
+ ◦ 1 power fist
+ ◦ 1 power weapon
+
+UNIT COMPOSITION
+
+ ■ 1 Skyclaw Pack Leader
+ ■ 4-14 Skyclaws
+Every model is equipped with: bolt pistol; 
+Astartes chainsword.
+
+ ■  Up to 2 Skyclaws can each have their bolt pistol and Astartes chainsword replaced with one of 
+
+the following:
+ ◦ 1 plasma pistol and 1 Astartes chainsword
+ ◦ 1 flamer and 1 close combat weapon
+ ◦ 1 grav-gun and 1 close combat weapon
+ ◦ 1 meltagun and 1 close combat weapon
+ ◦ 1 plasma gun and 1 close combat weapon
+
+ATTACHED UNIT
+
+If a Character unit from your army with the Leader ability 
+can be attached to an Assault Squad with Jump Packs, it 
+can instead be attached to this unit.
+
+KEYWORDS: Infantry, Jump Pack, Fly, Grenades, Imperium, Skyclaws
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+LONG FANGS
+
+M
+
+6"
+
+T
+
+4
+
+SV
+
+3+
+
+W
+
+2
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+Boltgun 
+Grav-cannon [ANTI-VEHICLE 2+, HEAVY]
+Heavy bolter [HEAVY, SUSTAINED HITS 1]
+Lascannon [HEAVY]
+Missile launcher – frag [BLAST, HEAVY]
+Missile launcher – krak [HEAVY]
+Multi-melta [HEAVY, MELTA 2]
+Plasma cannon – standard [BLAST, HEAVY]
+Plasma cannon – supercharge 
+[BLAST, HAZARDOUS, HEAVY]
+
+MELEE WEAPONS
+Astartes chainsword 
+Close combat weapon 
+Power fist 
+Power weapon 
+
+RANGE
+
+12"
+24"
+24"
+36"
+48"
+48"
+48"
+18"
+36"
+
+36"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+
+A
+1
+2
+3
+3
+1
+D6
+1
+2
+D3
+
+D3
+
+A
+3
+2
+2
+2
+
+BS
+3+
+3+
+4+
+4+
+4+
+4+
+4+
+4+
+4+
+
+4+
+
+WS
+3+
+3+
+3+
+3+
+
+S
+4
+4
+6
+5
+12
+4
+9
+9
+7
+
+8
+
+S
+4
+4
+8
+5
+
+AP
+0
+0
+-1
+-1
+-3
+0
+-2
+-4
+-2
+
+-3
+
+AP
+-1
+0
+-2
+-2
+
+D
+1
+1
+3
+2
+
+D6+1
+
+1
+D6
+D6
+1
+
+2
+
+D
+1
+1
+2
+1
+
+KEYWORDS: Infantry, Grenades, Imperium, Long Fangs
+
+ABILITIES
+
+FACTION: Oath of Moment
+
+Fire Discipline: Each time this unit Remains Stationary, if it 
+includes a Long Fang Pack Leader, you can select one enemy 
+unit that is visible to that model. Until the end of the turn, each 
+time a model in this unit makes a ranged attack that targets 
+that enemy unit, re-roll a Hit roll of 1.
+Armorium Cherub: Once per battle, after making a Hit roll 
+for a model in this unit, you can change that roll to an 
+unmodified 6. 
+Designer’s Note: Place an Armorium Cherub token next to the 
+unit, removing it once this ability has been used.
+
+ Before selecting targets for this weapon, select one of its profiles to make 
+attacks with.
+
+FACTION KEYWORDS:  
+Space Wolves
+
+LONG FANGS
+Dour and grizzled veterans, Long Fangs are steady of hand and 
+temperament, hoary with wisdom and literally long of fang. To these 
+patient warriors are granted some of the Great Company’s most 
+devastating ranged weapons. Keen of eye, Long Fangs hunt the 
+monstrous beasts and battle tanks of the foe.
+
+ ■  The Long Fang Pack Leader’s boltgun can be 
+
+replace with one of the following:*
+ ◦ 1 flamer 
+ ◦ 1 grav-gun
+ ◦ 1 meltagun
+ ◦ 1 plasma gun
+ ◦ 1 plasma pistol
+
+*  The profiles for these weapons can be found on the Space 
+Wolves Armoury card.
+
+UNIT COMPOSITION
+
+ ■ 1 Long Fang Pack Leader
+ ■ 4-5 Long Fangs
+Every model is equipped with: boltgun; bolt pistol; close 
+combat weapon.
+
+ATTACHED UNIT
+
+If a Character unit from your army with the Leader ability 
+can be attached to a Devastator Squad, it can instead be 
+attached to this unit.
+
+WARGEAR OPTIONS
+
+ ■  Any number of Long Fangs can each have their 
+
+boltgun replaced with one of the following:
+ ◦ 1 grav-cannon
+ ◦ 1 heavy bolter
+ ◦ 1 heavy flamer*
+ ◦ 1 lascannon
+ ◦ 1 missile launcher
+ ◦ 1 multi-melta
+ ◦ 1 plasma cannon
+
+ ■  The Long Fang Pack Leader’s close combat 
+
+weapon can be replaced with one of 
+the following:
+ ◦ 1 Astartes chainsword
+ ◦ 1 power fist
+ ◦ 1 power weapon
+
+KEYWORDS: Infantry, Grenades, Imperium, Long Fangs
+
+FACTION KEYWORDS:  
+Space Wolves
+
+STORMFANG GUNSHIP
+
+M
+
+20+"
+
+T
+
+10
+
+SV
+
+3+
+
+W
+
+14
+
+LD
+
+6+
+
+OC
+
+0
+
+RANGED WEAPONS
+Helfrost destructor – dispersed [SUSTAINED HITS D3]
+Helfrost destructor – focused [TORRENT]
+Skyhammer missile launcher [ANTI-FLY 2+]
+Twin heavy bolter [SUSTAINED HITS 1, TWIN-LINKED]
+Twin lascannon [TWIN-LINKED]
+Twin multi-melta [MELTA 2, TWIN-LINKED]
+Twin stormstrike missile launcher [TWIN-LINKED]
+
+MELEE WEAPONS
+Armoured hull 
+
+RANGE
+
+36"
+12"
+48"
+36"
+48"
+18"
+48"
+
+RANGE
+Melee
+
+A
+D3
+D6+6
+
+3
+3
+1
+2
+1
+
+A
+6
+
+BS
+3+
+3+
+3+
+3+
+3+
+3+
+3+
+
+WS
+4+
+
+S
+11
+8
+8
+5
+12
+9
+10
+
+S
+8
+
+AP
+-3
+-1
+-1
+-1
+-3
+-4
+-2
+
+AP
+0
+
+D
+7
+2
+D3
+2
+
+D6+1
+D6
+3
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D6, Hover
+
+FACTION: Oath of Moment
+
+Frozen Prey: In your Shooting phase, after this model has 
+shot, if an enemy Monster or Vehicle unit was hit by one 
+or more of those attacks made with this model’s helfrost 
+destructor, until the end of your opponent’s next turn, that 
+enemy unit is Frozen. While a unit is Frozen, subtract 2 from 
+that unit’s Move characteristic, and subtract 2 from Advance 
+and Charge rolls made for that unit.
+
+DAMAGED: 1-5 WOUNDS REMAINING
+
+While this model has 1-5 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Vehicle, Aircraft, Fly, Transport, Stormfang Gunship 
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+STORMFANG GUNSHIP
+Dominating the skies like the dread ice wyrms of myth, Stormfang 
+Gunships are heavily armed and armoured vessels, bludgeoning their 
+way through enemy aerial assets. Each is built around a monstrous 
+helfrost destructor that freezes its target; even monstrous flesh is 
+ice-burned, and unyielding tank armour swiftly cracks and shatters.
+
+WARGEAR OPTIONS
+
+ ■   This model’s 2 skyhammer missile launchers can be replaced with one of the following:
+
+ ◦ 2 twin multi-meltas
+ ◦ 2 twin heavy bolters
+
+ ■ This model’s twin stormstrike missile launcher can be replaced with 1 twin lascannon.
+
+UNIT COMPOSITION
+
+ ■ 1 Stormfang Gunship
+This model is equipped with: helfrost destructor; 
+2 skyhammer missile launchers; twin stormstrike missile 
+launcher; armoured hull.
+
+TRANSPORT
+
+This model has a transport capacity of 6 Adeptus Astartes 
+Infantry models. Each Jump Pack, Wulfen, Gravis or 
+Terminator model takes up the space of 2 models and each 
+Centurion model takes up the space of 3 models. 
+
+KEYWORDS: Vehicle, Aircraft, Fly, Transport, Stormfang Gunship 
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+STORMWOLF
+
+M
+
+20+"
+
+T
+
+10
+
+SV
+
+3+
+
+W
+
+14
+
+LD
+
+6+
+
+OC
+
+0
+
+RANGED WEAPONS
+Skyhammer missile launcher [ANTI-FLY 2+]
+Twin heavy bolter [SUSTAINED HITS 1, TWIN-LINKED]
+Twin helfrost cannon – dispersed 
+[TORRENT, TWIN-LINKED]
+Twin helfrost cannon – focused [TWIN-LINKED]
+Twin lascannon [TWIN-LINKED]
+Twin multi-melta [MELTA 2, TWIN-LINKED]
+
+MELEE WEAPONS
+Armoured hull 
+
+RANGE
+
+48"
+36"
+
+12"
+
+36"
+48"
+18"
+
+RANGE
+Melee
+
+A
+3
+3
+
+D6
+
+1
+1
+2
+
+A
+6
+
+BS
+3+
+3+
+
+N/A
+
+3+
+3+
+3+
+
+WS
+4+
+
+S
+8
+5
+
+6
+
+9
+12
+9
+
+S
+8
+
+AP
+-1
+-1
+
+-1
+
+-3
+-3
+-4
+
+AP
+0
+
+D
+D3
+2
+
+2
+
+5
+
+D6+1
+D6
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D6, Hover
+
+FACTION: Oath of Moment
+
+Into the Foe: If a unit disembarks from this Transport before 
+it moves, until the end of the turn, that unit is eligible to 
+charge in a turn in which it Advanced.
+
+DAMAGED: 1-5 WOUNDS REMAINING
+
+While this model has 1-5 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Vehicle, Aircraft, Fly, Transport, Stormwolf
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+STORMWOLF
+Stormwolves enable the sons of Russ to bring the fight to the enemy 
+wherever they hide. Within their wide hold, packs of warriors are borne 
+with incredible speed into the foe’s midst. As the packs leap out to 
+attack, Stormwolves saturate the area with an array of heavy fire, 
+before rising to hunt for yet more targets.
+
+WARGEAR OPTIONS
+
+ ■   This model’s 2 skyhammer missile launchers can replaced with one of the following:
+
+ ◦ 2 twin heavy bolters
+ ◦ 2 twin multi-meltas
+
+UNIT COMPOSITION
+
+ ■ 1 Stormwolf
+This model is equipped with: 2 skyhammer missile 
+launchers; twin helfrost cannon; twin lascannon; 
+armoured hull.
+
+TRANSPORT
+
+This model has a transport capacity of 16 Adeptus Astartes 
+Infantry models. Each Jump Pack, Wulfen, Gravis or 
+Terminator model takes up the space of 2 models and each 
+Centurion model takes up the space of 3 models. 
+
+KEYWORDS: Vehicle, Aircraft, Fly, Transport, Stormwolf
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+WOLF GUARD PACK LEADER
+
+M
+
+6"
+
+T
+
+4
+
+SV
+
+3+
+
+W
+
+2
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+Boltgun 
+Combi-weapon 
+[ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]
+Plasma pistol – standard [PISTOL]
+Plasma pistol – supercharge [HAZARDOUS, PISTOL]
+Storm bolter [RAPID FIRE 2] 
+
+MELEE WEAPONS
+Astartes chainsword 
+Close combat weapon
+Power fist 
+Power weapon 
+Thunder hammer [DEVASTATING WOUNDS]
+Twin lightning claws [TWIN-LINKED]
+
+RANGE
+
+12"
+24"
+
+24"
+
+12"
+12"
+24"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+Melee
+Melee
+
+A
+1
+2
+
+1
+
+1
+1
+2
+
+A
+4
+3
+2
+3
+2
+4
+
+BS
+3+
+3+
+
+3+
+
+3+
+3+
+3+
+
+WS
+3+
+4+
+3+
+3+
+4+
+3+
+
+S
+4
+4
+
+4
+
+7
+8
+4
+
+S
+4
+4
+8
+5
+8
+5
+
+AP
+0
+0
+
+0
+
+-2
+-3
+0
+
+AP
+-1
+0
+-2
+-2
+-2
+-2
+
+D
+1
+1
+
+1
+
+1
+2
+1
+
+D
+1
+1
+2
+1
+2
+1
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Oath of Moment
+
+Inspiring Leader: While this model is leading a unit, once per 
+battle, when a Battle-shock test is taken for that unit, you can 
+re-roll that test.
+Pack Leader: This model cannot be your Warlord and cannot 
+be given Enhancements.
+
+WARGEAR ABILITIES
+
+Storm Shield: The bearer has a 4+ invulnerable save.
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Infantry, Character, Grenades, Imperium, Pack Leader, 
+
+Wolf Guard Pack Leader
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+WOLF GUARD PACK LEADER
+Wolf Guard of proven leadership ability and bellicose charisma may be 
+assigned to lead packs of battle-brothers. These warriors’ extensive 
+battlefield wisdom and saga-worthy combat prowess are inspirational 
+to the Space Wolves under their charge, and fighting alongside them is 
+seen as a great honour.
+
+WARGEAR OPTIONS
+
+ ■  This model’s bolt pistol and boltgun can be replaced with two different weapons from the following 
+
+list:*
+ ◦ 1 bolt pistol
+ ◦ 1 boltgun
+ ◦ 1 combi-weapon
+ ◦ 1 plasma pistol
+ ◦ 1 storm bolter
+ ◦ 1 Astartes chainsword
+ ◦ 1 power fist
+ ◦ 1 power weapon
+ ◦ 1 thunder hammer
+ ◦ 1 storm shield
+
+ ■ This model’s bolt pistol and boltgun can be replaced with 1 twin lightning claws.
+*  This model can only be equipped with two ranged weapons if one of them is a Pistol (and it can only 
+have one Pistol).
+
+UNIT COMPOSITION
+
+ ■ 1 Wolf Guard Pack Leader
+This model is equipped with: bolt pistol; boltgun; close 
+combat weapon.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Blood Claws
+ ■ Grey Hunters
+ ■ Long Fangs
+You must attach this model to one of the above units, and can 
+do so even if one or more Character units have already been 
+attached to that unit, but a unit can never include more than 
+one Pack Leader model. If you do, and that Bodyguard unit 
+is destroyed, the Leader units attached to it become separate 
+units, with their original Starting Strengths. If it is not possible 
+to attach this model to a unit, it does not take part in the 
+battle and counts as having been destroyed.
+
+KEYWORDS:  Infantry, Character, Grenades, Imperium, Pack Leader, 
+
+Wolf Guard Pack Leader
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+WOLF GUARD PACK LEADER WITH JUMP PACK
+
+M
+
+12"
+
+T
+
+4
+
+SV
+
+3+
+
+W
+
+2
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Bolt pistol [PISTOL]
+Combi-weapon 
+[ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]
+Plasma pistol – standard [PISTOL]
+Plasma pistol – supercharge [HAZARDOUS, PISTOL]
+Storm bolter [RAPID FIRE 2] 
+
+MELEE WEAPONS
+Astartes chainsword 
+Power fist 
+Power weapon 
+Thunder hammer [DEVASTATING WOUNDS]
+Twin lightning claws [TWIN-LINKED]
+
+RANGE
+
+12"
+
+24"
+
+12"
+12"
+24"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+Melee
+
+A
+1
+
+1
+
+1
+1
+2
+
+A
+4
+2
+3
+2
+4
+
+BS
+3+
+
+3+
+
+3+
+3+
+3+
+
+WS
+3+
+3+
+3+
+4+
+3+
+
+S
+4
+
+4
+
+7
+8
+4
+
+S
+4
+8
+5
+8
+5
+
+AP
+0
+
+0
+
+-2
+-3
+0
+
+AP
+-1
+-2
+-2
+-2
+-2
+
+D
+1
+
+1
+
+1
+2
+1
+
+D
+1
+2
+1
+2
+1
+
+ABILITIES
+
+CORE: Deep Strike, Leader
+
+FACTION: Oath of Moment
+
+Inspiring Leader: While this model is leading a unit, once per 
+battle, when a Battle-shock test is taken for that unit, you can 
+re-roll that test.
+Pack Leader: This model cannot be your Warlord and cannot 
+be given Enhancements.
+
+WARGEAR ABILITIES
+
+Storm Shield: The bearer has a 4+ invulnerable save.
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Infantry, Character, Jump Pack, Fly, Grenades, Imperium, 
+
+Pack Leader, Wolf Guard Pack Leader with Jump Pack
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+WOLF GUARD PACK LEADER WITH JUMP PACK
+Wolf Guard entrusted with leading packs of free-spirited Skyclaws 
+wear powerful jump packs that allow them to pounce on the foe in 
+arcing leaps. Their stern composure reins in the reckless excesses of 
+their headstrong wards, but in the bloodletting brutality of the charge, 
+the Pack Leader is a blizzard of furious destruction.
+
+WARGEAR OPTIONS
+
+ ■  This model’s bolt pistol and Astartes chainsword can be replaced with two different weapons from the 
+
+following list:*
+ ◦ 1 bolt pistol
+ ◦ 1 combi-weapon
+ ◦ 1 plasma pistol
+ ◦ 1 storm bolter
+ ◦ 1 Astartes chainsword
+ ◦ 1 power fist
+ ◦ 1 power weapon
+ ◦ 1 thunder hammer
+ ◦ 1 storm shield
+
+ ■ This model’s bolt pistol and Astartes chainsword can be replaced with 1 twin lightning claws.
+*  This model can only be equipped with two ranged weapons if one of them is a Pistol (and it can only 
+have one Pistol).
+
+UNIT COMPOSITION
+
+ ■ 1 Wolf Guard Pack Leader with Jump Pack
+This model is equipped with: bolt pistol; Astartes chainsword.
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Skyclaws
+You must attach this model to the above unit, and can do 
+so even if one or more Character units have already been 
+attached to that unit, but a unit can never include more than 
+one Pack Leader model. If you do, and that Bodyguard unit 
+is destroyed, the Leader units attached to it become separate 
+units, with their original Starting Strengths. If it is not possible 
+to attach this model to a unit, it does not take part in the 
+battle and counts as having been destroyed.
+
+KEYWORDS:  Infantry, Character, Jump Pack, Fly, Grenades, Imperium, 
+
+Pack Leader, Wolf Guard Pack Leader with Jump Pack
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+WOLF GUARD PACK LEADER IN TERMINATOR ARMOUR
+
+M
+
+5"
+
+T
+
+5
+
+SV
+
+2+
+
+W
+
+3
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Assault cannon [DEVASTATING WOUNDS] 
+Combi-weapon 
+[ANTI-INFANTRY 4+, DEVASTATING WOUNDS, IGNORES COVER]
+Cyclone missile launcher – frag [BLAST]
+Cyclone missile launcher – krak 
+Heavy flamer [IGNORES COVER, TORRENT]
+Storm bolter [RAPID FIRE 2]
+
+MELEE WEAPONS
+Chainfist [ANTI-VEHICLE 3+]
+Power fist 
+Power weapon 
+Thunder hammer [DEVASTATING WOUNDS]
+Twin lightning claws [TWIN-LINKED]
+
+ 
+
+RANGE
+
+24"
+
+24"
+
+36"
+36"
+12"
+24"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+Melee
+
+A
+6
+
+2
+
+2D6
+2
+D6
+2
+
+A
+2
+2
+3
+2
+4
+
+BS
+3+
+
+3+
+
+3+
+3+
+N/A
+3+
+
+WS
+4+
+3+
+3+
+4+
+3+
+
+S
+6
+
+4
+
+4
+9
+5
+4
+
+S
+8
+8
+5
+8
+4
+
+AP
+0
+
+0
+
+0
+-2
+-1
+0
+
+AP
+-2
+-2
+-2
+-2
+-2
+
+D
+1
+
+1
+
+1
+D6
+1
+1
+
+D
+2
+2
+1
+2
+1
+
+ABILITIES
+
+CORE: Deep Strike, Leader
+
+FACTION: Oath of Moment
+
+Inspiring Leader: While this model is leading a unit, once per 
+battle, when a Battle-shock test is taken for that unit, you can 
+re-roll that test.
+Pack Leader: This model cannot be your Warlord and cannot 
+be given Enhancements.
+
+WARGEAR ABILITIES
+
+Storm Shield: The bearer has a Wounds characteristic of 4.
+
+INVULNERABLE SAVE
+
+4+
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Infantry, Character, Grenades, Imperium, Terminator, 
+
+Pack Leader, Wolf Guard Pack Leader in Terminator Armour
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+WOLF GUARD PACK LEADER IN TERMINATOR ARMOUR
+Those Wolf Guard granted the raw power afforded by Terminator 
+armour bestride the battlefield as nigh-invulnerable champions. 
+Amongst the packs they lead, they serve as indomitable anvils, 
+anchoring their battle-brothers’ lines with their intimidating bulk and 
+unleashing the power of their ornate weapons to destructive effect. 
+
+WARGEAR OPTIONS
+
+ ■  This model’s storm bolter and power weapon can be replaced with two different options from the 
+
+following list:*
+ ◦ 1 assault cannon
+ ◦ 1 heavy flamer
+ ◦ 1 cyclone missile launcher and 1 storm bolter
+ ◦ 1 storm bolter
+ ◦ 1 chainfist
+ ◦ 1 power fist
+ ◦ 1 thunder hammer
+ ◦ 1 storm shield
+
+ ■ This model’s storm bolter and power weapon can be replaced with 1 twin lightning claws.
+ ■ This model’s storm bolter can be replaced with 1 combi-weapon.
+*  This model can only be equipped with two ranged weapons if one of them is a cyclone missile 
+launcher and the other is either a storm bolter or a combi-weapon.
+
+UNIT COMPOSITION
+
+ ■ 1 Wolf Guard Pack Leader in Terminator Armour
+This model is equipped with: storm bolter; power weapon.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Blood Claws
+ ■ Grey Hunters
+ ■ Long Fangs
+You must attach this model to one of the above units, and can 
+do so even if one or more Character units have already been 
+attached to that unit, but a unit can never include more than 
+one Pack Leader model. If you do, and that Bodyguard unit 
+is destroyed, the Leader units attached to it become separate 
+units, with their original Starting Strengths. If it is not possible 
+to attach this model to a unit, it does not take part in the 
+battle and counts as having been destroyed.
+
+KEYWORDS:  Infantry, Character, Grenades, Imperium, Terminator, 
+
+Pack Leader, Wolf Guard Pack Leader in Terminator Armour
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+IRON PRIEST
+
+M
+
+6"
+
+T
+
+4
+
+SV
+
+2+
+
+W
+
+4
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Helfrost pistol – dispersed [PISTOL, TORRENT]
+Helfrost pistol – focused [PISTOL] 
+
+MELEE WEAPONS
+Servo-arm [EXTRA ATTACKS] 
+Tempest hammer 
+
+RANGE
+
+12"
+12"
+
+RANGE
+Melee
+Melee
+
+A
+D3
+1
+
+A
+1
+3
+
+BS
+N/A
+2+
+
+WS
+3+
+4+
+
+S
+3
+6
+
+S
+8
+8
+
+AP
+-1
+-3
+
+AP
+-2
+-2
+
+D
+1
+3
+
+D
+3
+3
+
+ABILITIES
+
+CORE: Leader
+
+FACTION: Oath of Moment
+
+Iron Priest: While this model is within 3" of one or more 
+friendly Adeptus Astartes Vehicle units, this model has the 
+Lone Operative ability
+Blessing of the Omnissiah: In your Command phase, you can 
+select one friendly Adeptus Astartes Vehicle model within 
+3" of this model. That model regains up to D3 lost wounds and, 
+until the start of your next Command phase, each time that 
+Vehicle model makes an attack, add 1 to the Hit roll. Each 
+model can only be selected for this ability once per turn.
+Vengeance of the Omnissiah: If a friendly Adeptus Astartes 
+Vehicle model is destroyed within 12" of this model, until 
+the end of the battle, this model’s tempest hammer has an 
+Attacks characteristic of 6.
+
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Infantry, Character, Grenades, Imperium, Techmarine, 
+
+Iron Priest
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+IRON PRIEST
+Space Wolves Techmarines – the Iron Priests – are holders of arcane 
+technological lore that they use to repair the Chapter’s damaged war 
+engines and soothe their affronted machine spirits. Warriors of Fenris 
+first and foremost, Iron Priests will not hesitate to bring their own 
+esoteric weapons to bear on the foe if needed.
+
+WARGEAR OPTIONS
+
+ ■ None
+
+UNIT COMPOSITION
+
+ ■ 1 Iron Priest
+This model is equipped with: helfrost pistol; servo-arm; 
+tempest hammer.
+
+LEADER
+
+This model can be attached to the following units:
+ ■ Astartes Servitors
+ ■ Blood Claws
+ ■ Grey Hunters
+ ■ Long Fangs
+
+KEYWORDS:  Infantry, Character, Grenades, Imperium, Techmarine, 
+
+Iron Priest
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+CYBERWOLF
+
+M
+
+10"
+
+T
+
+4
+
+SV
+
+6+
+
+W
+
+2
+
+LD
+
+7+
+
+OC
+
+0
+
+MELEE WEAPONS
+Teeth and claws
+
+RANGE
+Melee
+
+A
+4
+
+WS
+4+
+
+S
+4
+
+AP
+0
+
+D
+1
+
+ABILITIES
+
+FACTION: Oath of Moment
+
+Alpha Hunter: While this model is leading a unit, models in 
+that unit have the Scouts 6" ability.
+Close In for the Kill: Each time this model makes an attack 
+that targets an enemy unit that is Below Half-strength, add 1 
+to the Hit roll and add 1 to the Wound roll.
+
+INVULNERABLE SAVE
+
+6+
+
+KEYWORDS: Beast, Character, Imperium, Cyberwolf
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+CYBERWOLF
+If critically injured, the largest and most ferocious Fenrisian Wolves 
+are rebuilt, mechanically augmented by the Chapter’s Iron Priests. 
+These Cyberwolves may return to their old pack, to lead their kin and 
+hunt with bionically enhanced muscles and steel fangs. Exhibiting 
+such strength, flesh-and-blood wolves instinctively follow them.
+
+WARGEAR OPTIONS
+
+ ■ None
+
+UNIT COMPOSITION
+
+ ■ 1 Cyberwolf
+This model is equipped with: teeth and claws.
+
+LEADER
+
+This model can be attached to the following unit:
+ ■ Fenrisian Wolves
+You must attach this model to the above unit, even if Canis 
+Wolfborn has been attached to it. If you do, and that 
+Bodyguard unit is destroyed, the Leader units attached to it 
+become separate units, with their original Starting Strengths. 
+If it is not possible to attach this model to a unit, it does not 
+take part in the battle and counts as having been destroyed.
+
+WOLFKIN
+
+This model cannot be your Warlord and cannot be 
+given Enhancements.
+
+KEYWORDS: Beast, Character, Imperium, Cyberwolf
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+WOLF SCOUTS
+
+M
+
+6"
+
+T
+
+4
+
+SV
+
+4+
+
+W
+
+1
+
+LD
+
+6+
+
+OC
+
+1
+
+RANGED WEAPONS
+Astartes shotgun [ASSAULT] 
+Bolt pistol [PISTOL]
+Boltgun
+Heavy bolter [HEAVY, SUSTAINED HITS 1]
+Missile launcher – frag [BLAST, HEAVY]
+Missile launcher – krak  [HEAVY]
+Plasma pistol – standard [PISTOL]
+Plasma pistol – supercharge [HAZARDOUS, PISTOL]
+
+MELEE WEAPONS
+Astartes chainsword 
+Close combat weapon
+Combat knife 
+Power fist 
+Power weapon 
+Thunder hammer [DEVASTATING WOUNDS]
+Twin lightning claws [TWIN-LINKED] 
+
+RANGE
+
+18"
+12"
+24"
+36"
+48"
+48"
+12"
+12"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+Melee
+Melee
+Melee
+
+A
+2
+1
+2
+3
+D6
+1
+1
+1
+
+A
+4
+2
+3
+2
+3
+2
+4
+
+BS
+3+
+3+
+3+
+4+
+4+
+4+
+3+
+3+
+
+WS
+3+
+3+
+3+
+3+
+3+
+4+
+3+
+
+S
+4
+4
+4
+5
+4
+9
+7
+8
+
+S
+4
+4
+5
+8
+5
+8
+5
+
+AP
+0
+0
+0
+-1
+0
+-2
+-2
+-3
+
+AP
+-1
+0
+0
+-2
+-2
+-2
+-2
+
+D
+1
+1
+1
+2
+1
+D6
+1
+2
+
+D
+1
+1
+1
+2
+1
+2
+1
+
+KEYWORDS: Infantry, Grenades, Smoke, Imperium, Scout Squad, Wolf Scouts
+
+ABILITIES
+
+CORE: Infiltrators, Scouts 6"
+
+FACTION: Oath of Moment
+
+Guerrilla Tactics: At the end of your opponent’s turn, if this 
+unit is more than 6" away from all enemy models, you 
+can remove this unit from the battlefield and place it into 
+Strategic Reserves.
+
+ Before selecting targets for this weapon, select one of its profiles to make 
+attacks with.
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+WOLF SCOUTS
+Wolf Scouts are brooding stalkers and taciturn killers, at ease prowling 
+behind enemy lines or at a battle’s edges. Commonly experienced 
+battle-brothers rather than neophytes, Wolf Scouts employ patience 
+and guile in their roles as reconnaissance experts and forward 
+hunters, sniffing out isolated foes and falling upon them with fury.
+
+WARGEAR OPTIONS
+
+ ■  Any number of models can each have their boltgun 
+
+replaced with one of the following:
+ ◦  1 Astartes shotgun
+ ◦ 1 combat knife
+
+ ■  1 Wolf Scout’s boltgun can be replaced with one of 
+
+the following:
+ ◦ 1 flamer*
+ ◦ 1 grav-gun*
+ ◦ 1 heavy bolter
+ ◦ 1 meltagun*
+ ◦ 1 missile launcher
+ ◦ 1 plasma gun*
+
+ ■  1 Wolf Scout’s boltgun and bolt pistol can be 
+
+replaced with one of the following:
+ ◦ 1 bolt pistol and 1 power weapon
+ ◦ 1 plasma pistol and 1 boltgun
+
+ ■  The Wolf Scout Pack Leader’s bolt pistol and boltgun 
+can be replaced with with 1 twin lightning claws, or 
+two different weapons from the following list:**
+ ◦ 1 bolt pistol
+ ◦ 1 boltgun
+ ◦ 1 combi-weapon*
+ ◦ 1 grav-pistol*
+ ◦ 1 hand flamer*
+ ◦ 1 inferno pistol*
+ ◦ 1 plasma pistol
+ ◦ 1 storm bolter*
+ ◦ 1 Astartes chainsword
+ ◦ 1 power fist
+ ◦ 1 power weapon
+ ◦ 1 thunder hammer
+
+*  The profiles for these weapons can be found on the Space 
+Wolves Armoury card.
+
+**  This model can only be equipped with two ranged weapons 
+
+if one of them is a Pistol (and it can only have one Pistol).
+
+UNIT COMPOSITION
+
+ ■ 1 Wolf Scout Pack Leader
+ ■ 4-9 Wolf Scouts
+Every model is equipped with: bolt pistol; boltgun; close 
+combat weapon.
+
+KEYWORDS: Infantry, Grenades, Smoke, Imperium, Scout Squad, Wolf Scouts
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+SPACE WOLVES VENERABLE DREADNOUGHT
+
+M
+
+6"
+
+T
+
+9
+
+SV
+
+2+
+
+W
+
+8
+
+LD
+
+6+
+
+OC
+
+3
+
+RANGED WEAPONS
+Assault cannon [DEVASTATING WOUNDS]
+Heavy flamer [IGNORES COVER, TORRENT]
+Helfrost cannon – dispersed [TORRENT]
+Helfrost cannon – focused
+Missile launcher – frag [BLAST]
+Missile launcher – krak
+Multi-melta [MELTA 2]
+Plasma cannon – standard [BLAST]
+Plasma cannon – supercharge [BLAST, HAZARDOUS]
+Storm bolter [RAPID FIRE 2]
+Twin lascannon [TWIN-LINKED]
+
+MELEE WEAPONS
+Close combat weapon 
+Dreadnought combat weapon
+Fenrisian great axe – strike 
+Fenrisian great axe – sweep
+
+RANGE
+
+24"
+12"
+12"
+36"
+48"
+48"
+18"
+36"
+36"
+24"
+48"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+
+A
+6
+D6
+D6
+1
+D6
+1
+2
+D3
+D3
+2
+1
+
+A
+5
+5
+5
+10
+
+BS
+3+
+3+
+N/A
+3+
+3+
+3+
+3+
+3+
+3+
+3+
+3+
+
+WS
+3+
+3+
+3+
+3+
+
+S
+6
+5
+6
+9
+4
+9
+9
+7
+8
+4
+12
+
+S
+6
+12
+10
+6
+
+AP
+0
+-1
+-1
+-3
+0
+-2
+-4
+-2
+-3
+0
+-3
+
+AP
+0
+-2
+-2
+-2
+
+D
+1
+1
+2
+5
+D6
+1
+D6
+2
+3
+1
+
+D6+1
+
+D
+1
+3
+
+D6+1
+
+1
+
+ABILITIES
+
+CORE: Deadly Demise 1
+
+FACTION: Oath of Moment
+
+Wisdom of the Ancients (Aura): While a friendly Adeptus 
+Astartes Infantry unit is within 6" of this model, each time 
+a model in that unit makes an attack, re-roll a Hit roll of 1 and 
+re-roll a Wound roll of 1.
+
+WARGEAR ABILITIES
+
+Blizzard Shield: The bearer has a 4+ invulnerable save.
+
+ Before selecting targets for this weapon, select one of its profiles to make 
+attacks with.
+
+KEYWORDS:  Vehicle, Walker Smoke, Imperium, Dreadnought, 
+
+Venerable Dreadnought
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+SPACE WOLVES VENERABLE DREADNOUGHT
+Venerable Dreadnoughts are priceless relics steeped in centuries of 
+battle. The ancient warriors at the heart of each are living legends of 
+the Space Wolves, with wisdom as deep as the ocean and intuition as 
+sharp as krakens’ teeth. Awoken from dormancy, they fight as lords of 
+battle, seemingly stepping from the sagas to kill in the name of Russ.
+
+WARGEAR OPTIONS
+
+ ■  This model’s assault cannon can be replaced with one of the following:
+
+ ◦ 1 helfrost cannon
+ ◦ 1 multi-melta
+ ◦ 1 plasma cannon
+ ◦ 1 twin lascannon
+
+ ■  This model’s Dreadnought combat weapon and storm bolter can be replaced with one of the following:
+
+ ◦  1 missile launcher and 1 close combat weapon
+ ◦  1 Dreadnought combat weapon and 1 heavy flamer
+
+ ■  This model’s assault cannon, storm bolter and Dreadnought combat weapon can be replaced with one 
+
+of the following:
+ ◦  1 Fenrisian great axe, 1 blizzard shield and 1 storm bolter
+ ◦  1 Fenrisian great axe, 1 blizzard shield and 1 heavy flamer
+
+UNIT COMPOSITION
+
+ ■ 1 Space Wolves Venerable Dreadnought
+This model is equipped with: assault cannon; storm bolter; 
+Dreadnought combat weapon.
+
+KEYWORDS:  Vehicle, Walker Smoke, Imperium, Dreadnought, 
+
+Venerable Dreadnought
+
+FACTION KEYWORDS:  
+Adeptus Astartes, Space Wolves
+
+WEAPON LISTS
+
+Some Space Wolves models can be equipped with one 
+or more weapons whose profiles are not listed on their 
+datasheet. The profiles for these weapons are instead listed 
+on this card.
+
+SPACE WOLVES ARMOURY
+
+RANGED WEAPONS
+Combi-weapon 
+[ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]
+Flamer [IGNORES COVER, TORRENT]
+Grav-gun [ANTI-VEHICLE 2+]
+Grav-pistol [ANTI-VEHICLE 2+, PISTOL]
+Hand flamer [IGNORES COVER, PISTOL, TORRENT]
+Heavy flamer [IGNORES COVER, TORRENT]
+Inferno pistol [MELTA 2, PISTOL]
+Meltagun [MELTA 2]
+Plasma gun – standard [RAPID FIRE 1]
+Plasma gun – supercharge [HAZARDOUS, RAPID FIRE 1]
+Plasma pistol – standard [PISTOL]
+Plasma pistol – supercharge [HAZARDOUS, PISTOL]
+Storm bolter [RAPID FIRE 2]
+
+RANGE
+
+24"
+
+12"
+18"
+18"
+12"
+12"
+6"
+12"
+24"
+24"
+12"
+12"
+24"
+
+A
+
+1
+
+D6
+2
+1
+D6
+D6
+1
+1
+1
+1
+1
+1
+2
+
+BS
+
+4+
+
+N/A
+3+
+3+
+N/A
+N/A
+3+
+3+
+3+
+3+
+3+
+3+
+4+
+
+S
+
+4
+
+4
+5
+4
+3
+5
+8
+9
+7
+8
+7
+8
+4
+
+AP
+
+0
+
+0
+-1
+-1
+0
+-1
+-4
+-4
+-2
+-3
+-2
+-3
+0
+
+D
+
+1
+
+1
+2
+2
+1
+1
+D3
+D6
+1
+2
+1
+2
+1
+
+Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+

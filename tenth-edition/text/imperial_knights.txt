@@ -1,0 +1,4206 @@
+IMPERIAL KNIGHTS
+ARMY RULES
+
+Imperial Knights fight by a stringent set of codes to ensure that in addition to defeating the enemy, honour is 
+always upheld.
+
+CODE CHIVALRIC
+If your Army Faction is Imperial Knights, at the 
+end of the Read Mission Objectives step, you must 
+select one of the Oaths below to be active for your 
+army. Models from your army with this ability gain the 
+associated Oath ability, and you gain the associated 
+Deed to complete.
+
+If, at the start of any of your Command phases, 
+your selected Oath’s Deed is completed, your army 
+becomes Honoured for the rest of the battle and 
+you gain 3CP (you can only gain CP in this way once 
+per battle).
+
+LAY LOW THE TYRANT
+ ■  Oath Ability: Each time this model is selected to 
+
+shoot or fight, re-roll a Hit roll of 1 and re-roll a 
+Wound roll of 1. 
+
+ ■  Deed: This deed is completed if the enemy 
+
+Warlord is destroyed. 
+
+RECLAIM THE REALM
+ ■  Oath Ability: Add 1" to this model’s Move 
+
+characteristic and add 1 to Advance and Charge rolls 
+made for this model.
+
+ ■  Deed: This deed is completed if you control one 
+
+or more objective markers in your opponent’s 
+deployment zone.
+
+BONDSMAN ABILITIES 
+Some Questoris models have a Bondsman ability, 
+tagged with the word ‘Bondsman’. In your Command 
+phase, one or more models from your army with a 
+Bondsman ability can use that ability. For each one 
+that does, select one friendly Armiger model within 
+12" of that model (you cannot select an Armiger 
+model that is already being affected by a Bondsman 
+ability). Until the start of your next Command phase, 
+both of those models (i.e. the model that just used its 
+Bondsman ability and the Armiger model you just 
+selected) are affected by that Bondsman ability.
+
+SUPER-HEAVY WALKER 
+Each time a model with this ability makes a Normal, 
+Advance or Fall Back move, it can move over models 
+(excluding Titanic models) and terrain features that 
+are 4" or less in height as if they were not there. 
+
+FREEBLADES 
+Freeblades often wander the galaxy, aiding the 
+armies of the Imperium against the xenos and 
+heretics who threaten the Emperor’s realm.
+
+If every model in your army has the Imperium 
+keyword, you can include either 1 Titanic 
+Imperial Knights model or up to 3 Armiger 
+models in your army, even if they do not have 
+the Faction keyword you selected in the Select 
+Army Faction step. None of these models 
+can be your Warlord, and they cannot be 
+given Enhancements.
+
+IMPERIAL KNIGHTS – NOBLE LANCE
+DETACHMENT RULE
+
+If your Army Faction is Imperial Knights, you can 
+use this Noble Lance Detachment rule.
+
+INDOMITABLE HEROES 
+Gathered into a powerful formation known as a lance, 
+Imperial Knights and the Nobles who pilot them wage 
+their honour-driven assaults with renowned resilience 
+and bloody-minded determination.
+
+All Imperial Knights models from your army have 
+the Feel No Pain 6+ ability. If your army is Honoured, 
+those models have the Feel No Pain 5+ ability.
+
+IMPERIAL KNIGHTS – NOBLE LANCE
+ENHANCEMENTS
+
+If you are using the Noble Lance Detachment rule, you can use these Noble Lance Enhancements.
+REVERED KNIGHT (AURA)
+Never hesitating before tyrannical invaders, this 
+Knight is beheld as the very epitome of honour – a 
+monolithic incarnation of the Imperium. While they 
+stand, courage is inviolate and victory is assured.
+
+MYTHIC HERO
+This warrior is a legendary figure who embodies the 
+Code Chivalric, and tales of their deeds have spread 
+far and wide. To be a Bondsman to such a warrior is a 
+great honour indeed.
+
+Imperial Knights model only. While a friendly 
+Imperial Knights model is within 6" of the bearer, 
+improve that model’s Leadership characteristic by 1. 
+If your army is Honoured, increase the range of this 
+Aura ability to 12".
+MYSTERIOUS GUARDIAN
+Manifesting as though from nowhere, this Noble’s 
+titanic steed is an elemental force of vengeance 
+against the Emperor of Mankind’s foes. At battle’s end, 
+it disappears as mysteriously as it arrived.
+
+Imperial Knights model only. The bearer has the 
+Deep Strike ability. Once per battle, at the end of 
+your opponent’s turn, if the bearer is not within 
+Engagement Range of any enemy units, it can fade 
+away. If it does, remove it from the battlefield then, 
+in the Reinforcements step of your subsequent 
+Movement phase, set it up anywhere on the 
+battlefield that is more than 9" horizontally away from 
+all enemy models. If the battle ends and the bearer is 
+not on the battlefield, it is destroyed.
+
+Questoris model with a Bondsman ability only. Each 
+time the bearer uses its Bondsman ability, you can 
+select one additional friendly Armiger model within 
+12" of the bearer that is not already being affected 
+by a Bondsman ability. Until the start of your next 
+Command phase, that model is also affected by that 
+Bondsman ability.
+BANNER OF MACHARIUS 
+TRIUMPHANT
+A gift from Lord Solar Macharius himself to honour the 
+noble houses that accompanied his crusade, legend 
+has it that this banner has never seen defeat: every 
+time a Knight has carried it to war, a great victory has 
+been won.
+
+Imperial Knights model only. If you control an 
+objective marker at the end of your Command phase 
+and the bearer is within range of that objective 
+marker, that objective marker remains under your 
+control even if you have no models within range of it, 
+until your opponent controls it at the start or end of 
+any turn. 
+UNYIELDING PARAGON
+This Knight is an unyielding army unto themselves, 
+capable of engaging entire enemy forces and holding 
+their ground, emerging through the fiercest firestorms 
+bloodied, but unbowed.
+
+Questoris model only. Each time an attack is 
+allocated to the bearer, worsen the Armour Penetration 
+characteristic of that attack by 1.
+
+IMPERIAL KNIGHTS – NOBLE LANCE
+STRATAGEMS
+
+If you are using the Noble Lance Detachment rule, you can use these Noble Lance Stratagems.
+THUNDERSTOMP
+NOBLE LANCE – BATTLE TACTIC STRATAGEM
+
+SHOULDER THE BURDEN
+NOBLE LANCE – BATTLE TACTIC STRATAGEM
+
+2CP
+
+When faced with their darkest hour, knightly 
+Nobles rise to the challenge, for nothing 
+shall deter them from fulfilling their duty.
+
+1CP
+
+WHEN: Your Command phase.
+TARGET: One Imperial Knights model 
+from your army that has lost one or 
+more wounds.
+EFFECT: Until the start of your next 
+Command phase, improve your model’s 
+Move, Toughness, Save, Leadership and 
+Objective Control characteristics by 1 and 
+each time your model makes an attack, 
+add 1 to the Hit roll.
+RESTRICTIONS: You can only use this 
+Stratagem once per battle. If your army 
+is Honoured, you can use this Stratagem 
+one additional time.
+
+ROTATE ION SHIELDS
+NOBLE LANCE – WARGEAR STRATAGEM
+
+Veteran Knight pilots can swiftly angle their 
+ion shields to better deflect incoming fire.
+
+1CP
+
+1CP
+
+WHEN: Your opponent’s Shooting phase, 
+just after an enemy unit has selected 
+its targets.
+TARGET: One Imperial Knights model 
+from your army that was selected as the 
+target of one or more of the attacking 
+unit’s attacks.
+EFFECT: Until the end of the phase, 
+that Imperial Knights model has a 4+ 
+invulnerable save against ranged attacks.
+
+The Noble brings their Knight suit’s full 
+weight crashing down with the force of 
+an industrial piledriver. Few can survive 
+such a blow.
+
+WHEN: Fight phase.
+TARGET: One Imperial Knights model 
+from your army that has not been 
+selected to fight this phase.
+EFFECT: Until the end of the phase, 
+your model cannot target Monster or 
+Vehicle units, but all melee weapons 
+equipped by your model have the 
+[DEVASTATING WOUNDS] ability.
+
+SQUIRES’ DUTY
+NOBLE LANCE – BATTLE TACTIC STRATAGEM
+
+Under the scrutiny and judgement of their 
+Noble betters, Armiger pilots will redouble 
+their efforts, attacking as one to smash 
+aside their foes.
+
+WHEN: The start of your Shooting phase or 
+the start of the Fight phase.
+TARGET: Two or more Armiger models 
+from your army and one enemy unit 
+that is an eligible target for all of those 
+Armiger models.
+EFFECT: Until the end of the phase, 
+improve the Strength and Armour 
+Penetration characteristics of weapons 
+equipped by those Armiger models by 
+1. If your army is Honoured, until the 
+end of the phase, add 1 to the Damage 
+characteristic of those weapons as well.
+
+IMPERIAL KNIGHTS – NOBLE LANCE
+STRATAGEMS
+
+If you are using the Noble Lance Detachment rule, you can use these Noble Lance Stratagems.
+
+1CP
+
+TROPHY CLAIM
+NOBLE LANCE – EPIC DEED STRATAGEM
+
+Once a mighty foe is laid low, the 
+victorious Knight’s emitters blare its 
+triumph, announcing the glory brought 
+to the Imperium, but shame awaits those 
+who fail in such confrontations.
+
+WHEN: Your Shooting phase or the 
+Fight phase.
+TARGET: One Imperial Knights model 
+from your army that has not been 
+selected to shoot or fight this phase, and 
+one enemy Monster or Vehicle unit.
+EFFECT: Until the end of the phase, each 
+time your model makes an attack that 
+targets that enemy unit, add 1 to the 
+Wound roll. If your model destroys that 
+enemy unit this phase, you gain 1CP, but if 
+your model does not destroy that enemy 
+unit this phase, you cannot use this 
+Stratagem again for the rest of the battle. 
+
+1CP
+
+VALIANT LAST STAND
+NOBLE LANCE – EPIC DEED STRATAGEM
+
+Badly wounded, their Knight’s generator 
+on the verge of overload, still the Noble 
+fights on, drawing upon their reserves of 
+chivalric heroism to sell their life as dearly 
+as they can.
+
+WHEN: Fight phase.
+TARGET: One Imperial Knights model 
+from your army that was just destroyed 
+and that is eligible to fight but has not 
+been selected to fight this phase. You can 
+use this Stratagem on that model even 
+though it was just destroyed.
+EFFECT: Before rolling to see if this model 
+deals any mortal wounds as a result of its 
+Deadly Demise ability, it can fight; when 
+doing so, it is assumed to have 1 wound 
+remaining, or all its wounds remaining 
+if your army is Honoured. After it has 
+finished resolving its attacks, resolve its 
+Deadly Demise ability as normal.
+RESTRICTIONS: You cannot target 
+Sir Hekhtur with this Stratagem.
+
+ARMIGER HELVERIN
+
+M
+
+T
+
+12" 10
+
+SV
+
+3+
+
+W
+
+12
+
+LD
+
+7+
+
+OC
+
+8
+
+RANGED WEAPONS
+Armiger autocannon
+Meltagun [MELTA 2]
+Questoris heavy stubber [RAPID FIRE 3]
+
+MELEE WEAPONS
+Armoured feet 
+
+RANGE
+
+48"
+12"
+36"
+
+RANGE
+Melee
+
+A
+4
+1
+3
+
+A
+4
+
+BS
+3+
+3+
+3+
+
+WS
+3+
+
+S
+9
+9
+4
+
+S
+6
+
+AP
+-1
+-4
+-1
+
+AP
+0
+
+D
+3
+D6
+1
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Code Chivalric
+
+Skyfire Protocols: While this model is either wholly within 
+your deployment zone or within range of an objective 
+marker you control, its Armiger autocannons have the 
+[ANTI-FLY 2+] ability.
+
+DAMAGED: 1-4 WOUNDS REMAINING
+
+While this model has 1-4 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE * 
+  * This model has a 5+ invulnerable save against ranged attacks.
+
+5+
+
+KEYWORDS: Vehicle, Walker, Battleline, Imperium, Armiger, Helverin
+
+FACTION KEYWORDS:  
+Imperial Knights
+
+ARMIGER HELVERIN
+These fast-moving Knights have been designed to lay down hails of 
+heavy fire, and their strategic roles include enfilading fire, scouting 
+and anti-air. With their Armiger autocannons they can fire hundreds of 
+shells per minute, and packs of two or three of these war engines can 
+shatter an enemy assault in seconds.
+
+WARGEAR OPTIONS
+
+ ■  This model’s Questoris heavy stubber can be replaced with 1 meltagun.
+
+UNIT COMPOSITION
+
+ ■ 1 Armiger Helverin
+This model is equipped with: 2 Armiger autocannons; 
+Questoris heavy stubber; armoured feet.
+
+KEYWORDS: Vehicle, Walker, Battleline, Imperium, Armiger, Helverin
+
+FACTION KEYWORDS:  
+Imperial Knights
+
+ARMIGER WARGLAIVE
+
+M
+
+T
+
+12" 10
+
+SV
+
+3+
+
+W
+
+12
+
+LD
+
+7+
+
+OC
+
+8
+
+RANGED WEAPONS
+Meltagun [MELTA 2]
+Questoris heavy stubber [RAPID FIRE 3]
+Thermal spear [MELTA 4]
+
+MELEE WEAPONS
+Reaper chain-cleaver – strike 
+Reaper chain-cleaver – sweep 
+
+RANGE
+
+12"
+36"
+24"
+
+RANGE
+Melee
+Melee
+
+A
+1
+3
+2
+
+A
+4
+8
+
+BS
+3+
+3+
+3+
+
+WS
+3+
+3+
+
+S
+9
+4
+12
+
+S
+10
+8
+
+AP
+-4
+-1
+-4
+
+AP
+-3
+-2
+
+D
+D6
+1
+D6
+
+D
+3
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Code Chivalric
+
+Impetuous Glory: Each time this model makes a Charge 
+move, until the end of the turn, melee weapons equipped by 
+this model have the [SUSTAINED HITS 1] ability.
+
+DAMAGED: 1-4 WOUNDS REMAINING
+
+While this model has 1-4 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE *
+  * This model has a 5+ invulnerable save against ranged attacks.
+
+5+
+
+  Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Vehicle, Walker, Battleline, Imperium, Armiger, Warglaive
+
+FACTION KEYWORDS:  
+Imperial Knights
+
+ARMIGER WARGLAIVE
+Armiger Warglaives are nimble and purposeful Knights that possess 
+exceptional speed that allows them to outpace most vehicles. This, 
+in combination with their thermal spears that can melt bunkers and 
+battle-tank armour alike, makes them fearsome hunters of enemy 
+war engines.
+
+WARGEAR OPTIONS
+
+ ■     This model’s Questoris heavy stubber can be replaced with 1 meltagun.
+
+UNIT COMPOSITION
+
+ ■ 1 Armiger Warglaive
+This model is equipped with: Questoris heavy stubber; 
+thermal spear; reaper chain-cleaver.
+
+KEYWORDS: Vehicle, Walker, Battleline, Imperium, Armiger, Warglaive
+
+FACTION KEYWORDS:  
+Imperial Knights
+
+KNIGHT PALADIN
+
+M
+
+T
+
+10" 12
+
+SV
+
+3+
+
+W
+
+22
+
+LD
+
+6+
+
+OC
+
+10
+
+RANGED WEAPONS
+Icarus autocannons [ANTI-FLY 2+, TWIN-LINKED]
+Ironstorm missile pod [BLAST, INDIRECT FIRE]
+Meltagun [MELTA 2]
+Questoris heavy stubber [RAPID FIRE 3]
+Rapid-fire battle cannon [BLAST, RAPID FIRE D6+3]
+Stormspear rocket pod 
+
+MELEE WEAPONS
+Reaper chainsword – strike 
+Reaper chainsword – sweep 
+Thunderstrike gauntlet – strike 
+Thunderstrike gauntlet – sweep 
+
+RANGE
+
+48"
+48"
+12"
+36"
+72"
+48"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+
+A
+3
+
+D6+1
+
+1
+3
+
+D6+3
+
+3
+
+A
+4
+12
+4
+8
+
+BS
+3+
+3+
+3+
+3+
+3+
+3+
+
+WS
+3+
+3+
+3+
+3+
+
+S
+7
+5
+9
+4
+10
+8
+
+S
+14
+9
+20
+10
+
+AP
+-1
+0
+-4
+-1
+-1
+-2
+
+AP
+-4
+-3
+-3
+-2
+
+D
+2
+1
+D6
+1
+3
+D6
+
+D
+6
+2
+8
+3
+
+ABILITIES
+
+CORE: Deadly Demise D6
+
+FACTION: Code Chivalric, Super-heavy Walker
+
+Paladin’s Duty (Bondsman): While a model is affected by 
+this ability, its weapons have the [LETHAL HITS] and [LANCE]  
+abilities. 
+Seasoned Noble: Once per phase, you can re-roll one Hit roll, 
+one Wound roll or one saving throw made for this model. 
+
+DAMAGED: 1-7 WOUNDS REMAINING
+
+While this model has 1-7 wounds remaining, subtract 5 from 
+this model’s Objective Control characteristic and each time 
+this model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE *
+  * This model has a 5+ invulnerable save against ranged attacks.
+
+5+
+
+  Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Vehicle, Walker, Titanic, Towering, Questoris, Character, 
+
+Imperium, Knight Paladin
+
+FACTION KEYWORDS:  
+Imperial Knights
+
+KNIGHT PALADIN
+These highly versatile Knights provide strategic backbone to many 
+lances. While not specialised, they are favoured by most houses for 
+their combination rapid-fire battle cannon, a direct firing artillery gun, 
+and a powerful close combat weapon. Seasoned Nobles prize these 
+suits, their experience enabling them to get the best use from them.
+
+WARGEAR OPTIONS
+
+ ■        This model’s meltagun can be replaced with 1 Questoris heavy stubber. 
+ ■    This model’s reaper chainsword can be replaced with 1 thunderstrike gauntlet. 
+ ■  This model can be equipped with one of the following: 
+
+ ◦ 1 Icarus autocannons
+ ◦ 1 ironstorm missile pod
+ ◦ 1 stormspear rocket pod
+
+UNIT COMPOSITION
+
+ ■ 1 Knight Paladin
+This model is equipped with: meltagun; Questoris heavy 
+stubber; rapid-fire battlecannon; reaper chainsword.
+
+KEYWORDS:  Vehicle, Walker, Titanic, Towering, Questoris, Character, 
+
+Imperium, Knight Paladin
+
+FACTION KEYWORDS:  
+Imperial Knights
+
+KNIGHT ERRANT
+
+M
+
+T
+
+10" 12
+
+SV
+
+3+
+
+W
+
+22
+
+LD
+
+6+
+
+OC
+
+10
+
+RANGED WEAPONS
+Icarus autocannons [ANTI-FLY 2+, TWIN-LINKED]
+Ironstorm missile pod [BLAST, INDIRECT FIRE]
+Meltagun [MELTA 2]
+Questoris heavy stubber [RAPID FIRE 3]
+Stormspear rocket pod
+Thermal cannon [BLAST, MELTA 6]
+
+MELEE WEAPONS
+Reaper chainsword – strike 
+Reaper chainsword – sweep 
+Thunderstrike gauntlet – strike 
+Thunderstrike gauntlet – sweep 
+
+RANGE
+
+48"
+48"
+12"
+36"
+48"
+24"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+
+A
+3
+
+D6+1
+
+1
+3
+3
+2D3
+
+A
+4
+12
+4
+8
+
+BS
+3+
+3+
+3+
+3+
+3+
+3+
+
+WS
+3+
+3+
+3+
+3+
+
+S
+7
+5
+9
+4
+8
+12
+
+S
+14
+9
+20
+10
+
+AP
+-1
+0
+-4
+-1
+-2
+-4
+
+AP
+-4
+-3
+-3
+-2
+
+D
+2
+1
+D6
+1
+D6
+D6
+
+D
+6
+2
+8
+3
+
+ABILITIES
+
+CORE: Deadly Demise D6
+
+FACTION: Code Chivalric, Super-heavy Walker
+
+Errant’s Duty (Bondsman): While a model is affected by this 
+ability, you can re-roll Advance rolls made for that model and 
+its ranged weapons have the [ASSAULT] ability. 
+Aggressive Assault: Each time this model makes a ranged 
+attack against the closest eligible target, add 1 to the Hit roll.
+
+DAMAGED: 1-7 WOUNDS REMAINING
+
+While this model has 1-7 wounds remaining, subtract 5 from 
+this model’s Objective Control characteristic and each time 
+this model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE *
+  * This model has a 5+ invulnerable save against ranged attacks.
+
+5+
+
+  Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Vehicle, Walker, Titanic, Towering, Questoris, Character, 
+
+Imperium, Knight Errant
+
+FACTION KEYWORDS:  
+Imperial Knights
+
+KNIGHT ERRANT
+These aggressive, mid- to close-range assault Knights excel at 
+hunting enemy tanks and monsters thanks to their powerful thermal 
+cannons, reaper chainswords and thunderstrike gauntlets, and 
+typically plunge into the fiercest fighting.
+
+WARGEAR OPTIONS
+
+ ■    This model’s meltagun can be replaced with 1 Questoris heavy stubber. 
+ ■    This model’s reaper chainsword can be replaced with 1 thunderstrike gauntlet. 
+ ■  This model can be equipped with one of the following: 
+
+ ◦ 1 Icarus autocannons
+ ◦ 1 ironstorm missile pod
+ ◦ 1 stormspear rocket pod
+
+UNIT COMPOSITION
+
+ ■  1 Knight Errant
+This model is equipped with: meltagun;  
+thermal cannon; reaper chainsword.
+
+KEYWORDS:  Vehicle, Walker, Titanic, Towering, Questoris, Character, 
+
+Imperium, Knight Errant
+
+FACTION KEYWORDS:  
+Imperial Knights
+
+KNIGHT GALLANT
+
+M
+
+T
+
+12" 12
+
+SV
+
+3+
+
+W
+
+22
+
+LD
+
+6+
+
+OC
+
+10
+
+RANGED WEAPONS
+Icarus autocannons [ANTI-FLY 2+, TWIN-LINKED]
+Ironstorm missile pod [BLAST, INDIRECT FIRE]
+Meltagun [MELTA 2]
+Questoris heavy stubber [RAPID FIRE 3]
+Stormspear rocket pod 
+
+MELEE WEAPONS
+Reaper chainsword – strike 
+Reaper chainsword – sweep 
+Thunderstrike gauntlet – strike 
+Thunderstrike gauntlet – sweep 
+
+RANGE
+
+48"
+48"
+12"
+36"
+48"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+
+A
+3
+
+D6+1
+
+1
+3
+3
+
+A
+6
+18
+6
+12
+
+BS
+3+
+3+
+3+
+3+
+3+
+
+WS
+2+
+2+
+2+
+2+
+
+S
+7
+5
+9
+4
+8
+
+S
+14
+9
+20
+10
+
+AP
+-1
+0
+-4
+-1
+-2
+
+AP
+-4
+-3
+-3
+-2
+
+D
+2
+1
+D6
+1
+D6
+
+D
+6
+2
+8
+3
+
+ABILITIES
+
+CORE: Deadly Demise D6
+
+FACTION: Code Chivalric, Super-heavy Walker
+
+Gallant’s Duty (Bondsman): While a model is affected by this 
+ability, you can re-roll Charge rolls made for that model and 
+each time that model makes a melee attack, you can re-roll 
+the Hit roll. 
+Martial Pride: Each time a melee attack targets this model, 
+subtract 1 from the Hit roll.
+
+DAMAGED: 1-7 WOUNDS REMAINING
+
+While this model has 1-7 wounds remaining, subtract 5 from 
+this model’s Objective Control characteristic and each time 
+this model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE *
+  * This model has a 5+ invulnerable save against ranged attacks.
+
+5+
+
+  Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Vehicle, Walker, Titanic, Towering, Questoris, Character, 
+
+Imperium, Knight Gallant
+
+FACTION KEYWORDS:  
+Imperial Knights
+
+KNIGHT GALLANT
+Gallants are the most restless and combative of Knights, and 
+have been described as impetuous and beyond bellicose. They 
+are aggressive, bold and difficult to restrain, and their pilots often 
+share these traits. As befitting their nature, they are armed almost 
+exclusively with close combat weapons.
+
+WARGEAR OPTIONS
+
+ ■      This model’s meltagun can be replaced with 1 Questoris heavy stubber. 
+ ■  This model can be equipped with one of the following: 
+
+ ◦ 1 Icarus autocannons
+ ◦ 1 ironstorm missile pod
+ ◦ 1 stormspear rocket pod
+
+ 
+
+UNIT COMPOSITION
+
+ ■ 1 Knight Gallant
+This model is equipped with: meltagun; thunderstrike 
+gauntlet; reaper chainsword.
+
+KEYWORDS:  Vehicle, Walker, Titanic, Towering, Questoris, Character, 
+
+Imperium, Knight Gallant
+
+FACTION KEYWORDS:  
+Imperial Knights
+
+KNIGHT WARDEN
+
+M
+
+T
+
+10" 12
+
+SV
+
+3+
+
+W
+
+22
+
+LD
+
+6+
+
+OC
+
+10
+
+RANGED WEAPONS
+Avenger gatling cannon
+Heavy flamer [IGNORES COVER, TORRENT]
+Icarus autocannons [ANTI-FLY 2+, TWIN-LINKED]
+Ironstorm missile pod [BLAST, INDIRECT FIRE]
+Meltagun [MELTA 2]
+Questoris heavy stubber [RAPID FIRE 3]
+Stormspear rocket pod 
+
+MELEE WEAPONS
+Reaper chainsword – strike 
+Reaper chainsword – sweep 
+Thunderstrike gauntlet – strike 
+Thunderstrike gauntlet – sweep 
+
+RANGE
+
+36"
+12"
+48"
+48"
+12"
+36"
+48"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+
+A
+18
+D6
+3
+
+D6+1
+
+1
+3
+3
+
+A
+4
+12
+4
+8
+
+BS
+3+
+N/A
+3+
+3+
+3+
+3+
+3+
+
+WS
+3+
+3+
+3+
+3+
+
+S
+6
+5
+7
+5
+9
+4
+8
+
+S
+14
+9
+20
+10
+
+AP
+-2
+-1
+-1
+0
+-4
+-1
+-2
+
+AP
+-4
+-3
+-3
+-2
+
+D
+2
+1
+2
+1
+D6
+1
+D6
+
+D
+6
+2
+8
+3
+
+ABILITIES
+
+CORE: Deadly Demise D6
+
+FACTION: Code Chivalric, Super-heavy Walker
+
+Warden’s Duty (Bondsman): While a model is affected by this 
+ability, each time an attack is allocated to that model, subtract 
+1 from the Damage characteristic of that attack. 
+Thin Their Ranks: Each time this model makes a ranged 
+attack that targets an enemy unit (excluding Monsters and 
+Vehicles), that attack has the [DEVASTATING WOUNDS] ability.
+
+DAMAGED: 1-7 WOUNDS REMAINING
+
+While this model has 1-7 wounds remaining, subtract 5 from 
+this model’s Objective Control characteristic and each time 
+this model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE *
+  * This model has a 5+ invulnerable save against ranged attacks.
+
+5+
+
+  Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Vehicle, Walker, Titanic, Towering, Questoris, Character, 
+
+Imperium, Knight Warden
+
+FACTION KEYWORDS:  
+Imperial Knights
+
+KNIGHT WARDEN
+With an avenger gatling cannon that spits hundreds of foot-long 
+armour-piercing shells per minute, these Knights are well suited to 
+annihilating enemy infantry, light vehicles and transports. The suits 
+themselves possess strong-willed machine spirits, and it is a great 
+mark of accomplishment for a Noble to pilot one.
+
+WARGEAR OPTIONS
+
+ ■    This model’s meltagun can be replaced with 1 Questoris heavy stubber. 
+ ■    This model’s reaper chainsword can be replaced with 1 thunderstrike gauntlet. 
+ ■  This model can be equipped with one of the following: 
+
+ ◦ 1 Icarus autocannons
+ ◦ 1 ironstorm missile pod
+ ◦ 1 stormspear rocket pod
+
+ 
+
+UNIT COMPOSITION
+
+ ■ 1 Knight Warden
+This model is equipped with: avenger gatling cannon; 
+heavy flamer; meltagun; reaper chainsword.
+
+KEYWORDS:  Vehicle, Walker, Titanic, Towering, Questoris, Character, 
+
+Imperium, Knight Warden
+
+FACTION KEYWORDS:  
+Imperial Knights
+
+KNIGHT CRUSADER
+
+M
+
+T
+
+10" 12
+
+SV
+
+3+
+
+W
+
+22
+
+LD
+
+6+
+
+OC
+
+10
+
+RANGED WEAPONS
+Avenger gatling cannon
+Heavy flamer [IGNORES COVER, TORRENT]
+Icarus autocannons [ANTI-FLY 2+, TWIN-LINKED]
+Ironstorm missile pod [BLAST, INDIRECT FIRE]
+Meltagun [MELTA 2]
+Questoris heavy stubber [RAPID FIRE 3]
+Rapid-fire battle cannon [BLAST, RAPID FIRE D6+3]
+Stormspear rocket pod 
+Thermal cannon [BLAST, MELTA 6]
+
+MELEE WEAPONS
+Titanic feet 
+
+RANGE
+
+36"
+12"
+48"
+48"
+12"
+36"
+72"
+48"
+24"
+
+RANGE
+Melee
+
+A
+18
+D6
+3
+
+D6+1
+
+1
+3
+
+D6+3
+
+3
+2D3
+
+A
+4
+
+BS
+3+
+N/A
+3+
+3+
+3+
+3+
+3+
+3+
+3+
+
+WS
+3+
+
+S
+6
+5
+7
+5
+9
+4
+10
+8
+12
+
+S
+8
+
+AP
+-2
+-1
+-1
+0
+-4
+-1
+-1
+-2
+-4
+
+AP
+-1
+
+D
+2
+1
+2
+1
+D6
+1
+3
+D6
+D6
+
+D
+2
+
+ABILITIES
+
+CORE: Deadly Demise D6
+
+FACTION: Code Chivalric, Super-heavy Walker
+
+Crusader’s Duty (Bondsman): While a model is affected by 
+this ability, each time that model makes a ranged attack, add 
+1 to the Hit roll.
+Punishing Salvoes: In your Movement phase, if this 
+model Remains Stationary, until the start of your next 
+Movement phase, this model’s ranged weapons have the 
+[SUSTAINED HITS 1] ability.
+
+DAMAGED: 1-7 WOUNDS REMAINING
+
+While this model has 1-7 wounds remaining, subtract 5 from 
+this model’s Objective Control characteristic and each time 
+this model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE *
+  * This model has a 5+ invulnerable save against ranged attacks.
+
+5+
+
+KEYWORDS:  Vehicle, Walker, Titanic, Towering, Questoris, Character, 
+
+Imperium, Knight Crusader
+
+FACTION KEYWORDS:  
+Imperial Knights
+
+KNIGHT CRUSADER
+Armed with a bristling array of heavy and long-ranged weapons, the 
+Knight Crusader finds key firing positions and unleashes salvo after 
+salvo at the enemy. Pilots will gladly steer their suits even into open 
+ground to find the best place to shoot from, and are regarded as 
+especially dutiful and selfless by their peers.
+
+WARGEAR OPTIONS
+
+ ■ This model’s meltagun can be replaced with 1 Questoris heavy stubber. 
+ ■    This model’s thermal cannon can be replaced with:
+
+ ◦   1 rapid-fire battlecannon and 1 Questoris heavy stubber
+
+ ■  This model can be equipped with one of the following: 
+
+ ◦ 1 Icarus autocannons
+ ◦ 1 ironstorm missile pod
+ ◦ 1 stormspear rocket pod
+
+ 
+
+UNIT COMPOSITION
+
+ ■ 1 Knight Crusader
+This model is equipped with: avenger gatling cannon;  
+heavy flamer; meltagun; thermal cannon; titanic feet.
+
+KEYWORDS:  Vehicle, Walker, Titanic, Towering, Questoris, Character, 
+
+Imperium, Knight Crusader
+
+FACTION KEYWORDS:  
+Imperial Knights
+
+KNIGHT PRECEPTOR
+
+M
+
+T
+
+10" 12
+
+SV
+
+3+
+
+W
+
+22
+
+LD
+
+6+
+
+OC
+
+10
+
+RANGED WEAPONS
+Icarus autocannons [ANTI-FLY 2+, TWIN-LINKED]
+Ironstorm missile pod [BLAST, INDIRECT FIRE]
+Las-impulsor – high intensity [BLAST]
+Las-impulsor – low intensity [BLAST]
+Meltagun [MELTA 2]
+Preceptor multi-laser 
+Questoris heavy stubber [RAPID FIRE 3]
+Stormspear rocket pod 
+
+MELEE WEAPONS
+Reaper chainsword – strike 
+Reaper chainsword – sweep 
+Thunderstrike gauntlet – strike 
+Thunderstrike gauntlet – sweep 
+
+RANGE
+
+48"
+48"
+24"
+36"
+12"
+36"
+36"
+48"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+
+A
+3
+
+D6+1
+D6
+2D6
+1
+4
+3
+3
+
+A
+4
+12
+4
+8
+
+BS
+3+
+3+
+3+
+3+
+3+
+3+
+3+
+3+
+
+WS
+3+
+3+
+3+
+3+
+
+S
+7
+5
+14
+7
+9
+6
+4
+8
+
+S
+14
+9
+20
+10
+
+AP
+-1
+0
+-3
+-1
+-4
+0
+-1
+-2
+
+AP
+-4
+-3
+-3
+-2
+
+D
+2
+1
+4
+2
+D6
+1
+1
+D6
+
+D
+6
+2
+8
+3
+
+ABILITIES
+
+CORE: Deadly Demise D6
+
+FACTION: Code Chivalric, Super-heavy Walker
+
+Mentor (Bondsman): While a model is affected by this ability, 
+improve that model’s Leadership characteristic by 1 and 
+improve that model’s Objective Control characteristic by 2.
+Exemplar of the Code: At the start of the battle, select one unit 
+from your opponent’s army. Each time this model makes an 
+attack that targets that unit, you can re-roll the Hit roll.
+
+DAMAGED: 1-7 WOUNDS REMAINING
+
+While this model has 1-7 wounds remaining, subtract 5 from 
+this model’s Objective Control characteristic and each time 
+this model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE *
+  * This model has a 5+ invulnerable save against ranged attacks.
+
+5+
+
+  Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Vehicle, Walker, Titanic, Towering, Questoris, Character, 
+
+Imperium, Knight Preceptor
+
+FACTION KEYWORDS:  
+Imperial Knights
+
+KNIGHT PRECEPTOR
+Knights Preceptor are designed to embody the code chivalric. 
+Their pilots close to an honourable range with the foe, engage with 
+a respectful force and kill them cleanly with their las-impulsors. 
+Typically, grizzled veterans pilot these Knights, setting an example for 
+their younger comrades by hunting down the most fearsome enemies.
+
+WARGEAR OPTIONS
+
+ ■      This model’s Preceptor multi-laser can be replaced with one of the following:
+
+ ◦ 1 meltagun
+ ◦ 1 Questoris heavy stubber
+
+ ■    This model’s reaper chainsword can be replaced with 1 thunderstrike gauntlet. 
+ ■  This model can be equipped with one of the following: 
+
+ ◦ 1 Icarus autocannons
+ ◦ 1 ironstorm missile pod
+ ◦ 1 stormspear rocket pod
+
+UNIT COMPOSITION
+
+ ■ 1 Knight Preceptor
+This model is equipped with: las-impulsor; 
+Preceptor multi-laser; reaper chainsword.
+
+KEYWORDS:  Vehicle, Walker, Titanic, Towering, Questoris, Character, 
+
+Imperium, Knight Preceptor
+
+FACTION KEYWORDS:  
+Imperial Knights
+
+KNIGHT CASTELLAN
+
+M
+
+8"
+
+T
+
+13
+
+SV
+
+2+
+
+W
+
+24
+
+LD
+
+6+
+
+OC
+
+10
+
+RANGED WEAPONS
+Plasma decimator – standard [BLAST]
+Plasma decimator – supercharge 
+[BLAST, HAZARDOUS]
+Shieldbreaker missile launcher 
+[ANTI-TITANIC 4+, DEVASTATING WOUNDS]
+Twin meltagun [MELTA 2, TWIN-LINKED]
+Twin siegebreaker cannon [BLAST, TWIN-LINKED]
+Volcano lance [BLAST]
+
+MELEE WEAPONS
+Titanic feet 
+
+RANGE
+
+48"
+
+48"
+
+72"
+
+12"
+36"
+72"
+
+RANGE
+Melee
+
+A
+
+D6+3
+
+D6+3
+
+1
+
+1
+D6
+D3
+
+A
+4
+
+BS
+3+
+
+3+
+
+3+
+
+3+
+3+
+3+
+
+WS
+4+
+
+S
+8
+
+9
+
+12
+
+9
+6
+18
+
+S
+8
+
+AP
+-2
+
+-3
+
+-6
+
+-4
+0
+-5
+
+AP
+-1
+
+D
+2
+
+3
+
+D6+1
+
+D6
+1
+
+D6+8
+
+D
+2
+
+ABILITIES
+
+CORE: Deadly Demise D6+2
+
+FACTION: Code Chivalric, Super-heavy Walker
+
+Ion Aegis (Aura): While a friendly Armiger model is within 6" 
+of this model, that Armiger models has the Benefits of Cover. 
+Titan Hunter: Each time a ranged attack made by this model 
+is allocated to a Monster or Vehicle model, re-roll a Damage 
+roll of 1. 
+
+DAMAGED: 1-8 WOUNDS REMAINING
+
+While this model has 1-8 wounds remaining, subtract 5 from 
+this model’s Objective Control characteristic and each time 
+this model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE *
+  * This model has a 5+ invulnerable save against ranged attacks.
+
+5+
+
+  Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Vehicle, Walker, Titanic, Towering, Dominus, Character, 
+
+Imperium, Knight Castellan
+
+FACTION KEYWORDS:  
+Imperial Knights
+
+KNIGHT CASTELLAN
+Based around a Dominus-class chassis, the Knight Castellan’s dual 
+plasma core fuels an array of weapon systems that make it among 
+the foremost artillery Knights of the houses. The combined fire of 
+several of these engines can equal that of an Imperial Navy warship 
+battery, and tear the heart out of an enemy army.
+
+WARGEAR OPTIONS
+
+ ■     This model’s 2 shieldbreaker missile launchers and twin siegebreaker cannon can be replaced with:
+
+ ◦  1 shieldbreaker missile launcher and 2 twin siegebreaker cannons
+
+ 
+
+UNIT COMPOSITION
+
+ ■ 1 Knight Castellan
+This model is equipped with: plasma decimator; 
+2 shieldbreaker missile launchers; 2 twin meltaguns; 
+twin siegebreaker cannon, volcano lance; titanic feet.
+
+KEYWORDS:  Vehicle, Walker, Titanic, Towering, Dominus, Character, 
+
+Imperium, Knight Castellan
+
+FACTION KEYWORDS:  
+Imperial Knights
+
+KNIGHT VALIANT
+
+M
+
+8"
+
+T
+
+13
+
+SV
+
+2+
+
+W
+
+24
+
+LD
+
+6+
+
+OC
+
+10
+
+RANGED WEAPONS
+Conflagration cannon [IGNORES COVER, TORRENT]
+Twin meltagun [MELTA 2, TWIN-LINKED]
+Shieldbreaker missile launcher 
+[ANTI-TITANIC 4+, DEVASTATING WOUNDS]
+Thundercoil harpoon 
+[ANTI-MONSTER 4+, ANTI-VEHICLE 4+, DEVASTATING WOUNDS]
+Twin siegebreaker cannon [BLAST, TWIN-LINKED]
+
+MELEE WEAPONS
+Titanic feet 
+
+RANGE
+
+18"
+12"
+
+72"
+
+18"
+
+36"
+
+RANGE
+Melee
+
+A
+3D6
+1
+
+1
+
+1
+
+D6
+
+A
+4
+
+BS
+N/A
+3+
+
+3+
+
+2+
+
+3+
+
+WS
+4+
+
+S
+8
+9
+
+12
+
+24
+
+6
+
+S
+8
+
+AP
+-1
+-4
+
+-6
+
+-6
+
+0
+
+AP
+-1
+
+D
+2
+D6
+
+D6+1
+
+12
+
+1
+
+D
+2
+
+ABILITIES
+
+CORE: Deadly Demise D6+2
+
+FACTION: Code Chivalric, Super-heavy Walker
+
+Ion Aegis (Aura): While a friendly Armiger model is within 6" 
+of this model, that Armiger model has the Benefit of Cover. 
+Overwhelming Firestorm: In your Shooting phase, after this 
+model has shot, select one enemy unit hit by this model this 
+phase. That unit must take a Battle-shock test.
+
+DAMAGED: 1-8 WOUNDS REMAINING
+
+While this model has 1-8 wounds remaining, subtract 5 from 
+this model’s Objective Control characteristic and each time 
+this model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE *
+  * This model has a 5+ invulnerable save against ranged attacks.
+
+5+
+
+KEYWORDS:  Vehicle, Walker, Titanic, Towering, Dominus, Character, 
+
+Imperium, Knight Valiant
+
+FACTION KEYWORDS:  
+Imperial Knights
+
+KNIGHT VALIANT
+This Dominus-class Knight defeats its enemies through overwhelming 
+firepower at close range. Thanks to its conflagration cannon 
+unleashing a searing, inescapable firestorm, it can easily annihilate 
+incoming hordes or smash through opposing battle lines, and with its 
+thundercoil harpoon it can destroy tanks and monsters with impunity.
+
+WARGEAR OPTIONS
+
+ ■   This model’s 2 shieldbreaker missile launchers and twin siegebreaker cannon can be replaced with:
+
+ ◦  1 shieldbreaker missile launcher and 2 twin siegebreaker cannons
+
+ 
+
+UNIT COMPOSITION
+
+ ■ 1 Knight Valiant
+This model is equipped with: conflagration cannon; 
+2 shieldbreaker missile launchers; thundercoil harpoon;  
+2 twin meltaguns; twin siegebreaker cannon, titanic feet.
+
+KEYWORDS:  Vehicle, Walker, Titanic, Towering, Dominus, Character, 
+
+Imperium, Knight Valiant
+
+FACTION KEYWORDS:  
+Imperial Knights
+
+CANIS REX
+
+M
+
+T
+
+SV
+
+W
+
+LD
+
+3+
+
+10" 12
+5+
+If Canis Rex is destroyed, flip this card and follow the 
+instructions for using Sir Hekhtur.
+
+22
+
+OC
+
+10
+
+RANGED WEAPONS
+Chainbreaker las-impulsor – high intensity  
+[BLAST, SUSTAINED HITS 1]
+Chainbreaker las-impulsor – low intensity  
+[BLAST, SUSTAINED HITS 1]
+Chainbreaker multi-laser [SUSTAINED HITS 1]
+
+MELEE WEAPONS
+Freedom’s Hand – strike [SUSTAINED HITS 1]
+Freedom’s Hand – sweep [SUSTAINED HITS 1]
+
+RANGE
+
+24"
+
+36"
+
+36"
+
+RANGE
+Melee
+Melee
+
+A
+
+D6
+
+2D6
+
+4
+
+A
+5
+10
+
+BS
+
+2+
+
+2+
+
+2+
+
+WS
+2+
+2+
+
+S
+
+14
+
+7
+
+6
+
+S
+20
+10
+
+AP
+
+-3
+
+-1
+
+0
+
+AP
+-3
+-2
+
+D
+
+4
+
+2
+
+1
+
+D
+9
+3
+
+ABILITIES
+
+CORE: Deadly Demise D6
+
+FACTION: Code Chivalric, Super-heavy Walker
+
+Legendary Freeblade: Once per turn, you can target this 
+model with a Stratagem for 0CP, and can do so even if you 
+have already targeted a different unit with that Stratagem in 
+the same phase.
+Chainbreaker: Each time this model makes an attack, an 
+unmodifed successful Hit roll of 5+ scores a Critical Hit. 
+
+WARGEAR OPTIONS
+
+UNIT COMPOSITION
+
+DAMAGED: 1-7 WOUNDS REMAINING
+
+ ■   None
+
+ ■ 1 Canis Rex – Epic Hero
+Canis Rex is equipped with: Chainbreaker las-impulsor; 
+Chainbreaker multi-laser; Freedom’s Hand.
+
+While this model has 1-7 wounds remaining, subtract 5 from 
+this model’s Objective Control characteristic and each time 
+this model makes an attack, subtract 1 from the Hit roll.
+
+  Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Vehicle, Walker, Titanic, Towering, Questoris, Character, 
+
+Epic Hero, Imperium, Canis Rex
+
+FACTION KEYWORDS:  
+Imperial Knights
+
+INVULNERABLE SAVE *
+  * This model has a 5+ invulnerable save against ranged attacks.
+
+5+
+
+SIR HEKHTUR
+
+M
+
+T
+
+SV
+
+W
+
+LD
+
+3
+
+4+
+
+6"
+Use this side of the card only after your Canis Rex model 
+is destroyed.
+
+5+
+
+3
+
+OC
+
+1
+
+RANGED WEAPONS
+Hekhtur’s pistol [PISTOL]
+
+MELEE WEAPONS
+Close combat weapon 
+
+RANGE
+
+12"
+
+RANGE
+Melee
+
+A
+1
+
+A
+2
+
+BS
+2+
+
+WS
+2+
+
+S
+5
+
+S
+3
+
+AP
+-1
+
+AP
+0
+
+D
+2
+
+D
+1
+
+WARGEAR OPTIONS
+
+UNIT COMPOSITION
+
+ ■   None
+
+ ■ 1 Sir Hekhtur – Epic Hero
+Sir Hekhtur is equipped with: Hekhtur’s pistol; close 
+combat weapon.
+
+Once a prisoner of the Iron Warriors, Sir Hekhtur resisted 
+agonising torture and escaped only through sheer faith, 
+determination and honour. Now he travels the galaxy, 
+liberating Imperial citizens enslaved by the forces of 
+the Arch-enemy.
+
+ABILITIES
+
+CORE: Lone Operative
+
+USING SIR HEKHTUR
+
+When your Canis Rex model is destroyed, Sir Hekhtur is 
+treated as a model disembarking from a destroyed Transport 
+– set him up within 3" of your Canis Rex model before it is 
+removed. Sir Hekhtur then uses the profile, wargear, abilities 
+and keywords shown on this side of the card, but cannot be 
+selected as the target of any of your Stratagems other than 
+Core Stratagems. Your Canis Rex unit is not considered to be 
+destroyed until Sir Hekhtur is also destroyed.
+
+KEYWORDS: Infantry, Character, Epic Hero, Imperium, Sir Hekhtur
+
+FACTION KEYWORDS:  
+Imperial Knights
+
+DREADBLADES 
+Dreadblades often wander the galaxy, carving 
+a path of destruction and slaughtering foes 
+alongside other forces of Chaos as and when 
+they will.
+
+If every model in your army has the Chaos 
+keyword, you can include either 1 Titanic 
+Chaos Knights model or up to 3 War Dog 
+models in your army, even if they do not have 
+the Faction keyword you selected in the Select 
+Army Faction step. None of these models 
+can be your Warlord, and they cannot be 
+given Enhancements. 
+
+CHAOS KNIGHTS
+ARMY RULES
+
+Where Chaos Knights tread, the skies grow 
+unnaturally dark and the dread of the warp permeates 
+the battlefield. None are immune to its shadowy 
+touch, for those it does not paralyse with fear 
+and despair are wracked with hallucinations and 
+driven mad.
+
+HARBINGERS OF DREAD
+If your Army Faction is Chaos Knights, each model 
+from your army with this ability gains a bonus 
+depending on which Dread abilities are active for 
+your army (see below). Once a Dread ability is active 
+for your army, that ability applies until the end of 
+the battle.
+
+BATTLE ROUND  1  ONWARDS
+
+From the first battle round onwards, the Despair 
+ability is active for your army:
+
+DESPAIR (AURA)
+While an enemy unit is within 12" of this model, 
+each time that enemy unit takes a Battle-shock or 
+Leadership test, subtract 1 from that test.
+
+BATTLE ROUND  3  ONWARDS
+
+From the third battle round onwards, the Doom and 
+Darkness ability is active for your army:
+
+DOOM AND DARKNESS
+ ■  Each time this model makes an attack, if the target 
+
+is Battle-shocked, add 1 to the Wound roll. 
+
+ ■  Each time an attack targets this model, if the 
+
+attacking model’s unit is Battle-shocked, subtract 1 
+from the Hit roll. 
+
+SUPER-HEAVY WALKER
+Each time a model with this ability makes a Normal, 
+Advance or Fall Back move, it can move over models 
+(excluding Titanic models) and terrain features that 
+are 4" or less in height as if they were not there.
+
+CHAOS KNIGHTS – TRAITORIS LANCE
+DETACHMENT RULE
+
+If your Army Faction is Chaos Knights, you can use 
+this Traitoris Lance Detachment rule.
+
+FORGED IN TERROR (AURA)
+Chaos Knights are servants of shadow and terror; 
+wherever they stride, fear and madness spread. 
+
+In the Battle-shock step of your opponent’s Command 
+phase, if an enemy unit that is below its Starting 
+Strength is within 12" of a Chaos Knights model 
+from your army, that enemy unit must take a Battle-
+shock test. For the purposes of this ability, if a unit 
+has a Starting Strength of 1, it is considered to be 
+below its Starting Strength while it has lost one or 
+more wounds.
+
+Designer’s Note: This means that all enemy units 
+within range of this Aura ability that have lost one or 
+more models must take a Battle-shock test in your 
+opponent’s Command phase, not just those that are 
+Below Half-strength.
+
+CHAOS KNIGHTS – TRAITORIS LANCE
+ENHANCEMENTS
+
+If you are using the Traitoris Lance Detachment rule, you can use these Traitoris Lance Enhancements. 
+LORD OF DREAD
+This tyrannical Knight is the epitome of dread power, 
+instilling as much fear in their minions as they do over 
+the enemy, ensuring unwavering obedience.
+
+THE TRAITOR’S MARK
+The dark deeds and bloodstained heraldry of this 
+Chaos Knight are whispered far and wide. Rumours 
+spread that to confront it is to face a painful death. 
+Each blazon borne upon its hull proclaims the unholy 
+atrocities committed by the bearer, and even to look 
+upon these loathsome sigils is to be gripped by 
+unnatural terror and beset by swarming nightmares.
+
+Chaos Knights model only. At the start of the 
+Fight phase, you can select one enemy unit within 
+Engagement Range of the bearer; that enemy unit 
+must take a Battle-shock test.
+AURA OF TERROR
+This towering Knight is wreathed in tendrils of warp 
+energy that caress the minds of any enemy who 
+draws near, driving those touched into a state of 
+abject fear. Wherever this Knight treads, this aura of 
+terror permeates and corrupts the land until it can 
+be cleansed.
+
+Chaos Knights model only. If you control an 
+objective marker at the end of your Command phase, 
+and the bearer is within range of that objective 
+marker, that objective marker is said to be Tainted 
+and remains under your control even if you have no 
+models within range of it, until your opponent controls 
+it at the start or end of any turn. In addition, while an 
+objective marker is Tainted and under your control 
+and the Despair Dread ability is active for your army, 
+that objective marker has the Despair Dread ability as 
+if it was a Chaos Knights model from your army (so 
+subtract 1 from Battle-shock and Leadership tests 
+taken for enemy units within 12" of it).
+
+Chaos Knights model only. The Doom and Darkness 
+ability is active for the bearer from the first battle 
+round onwards, instead of from the third. 
+PANOPLY OF THE CURSED KNIGHTS
+Borne within an unmarked casket by an order of 
+silent Idolators, this collection of tattered pennants, 
+chain-strung charms and armour scraps represent 
+the last remains of the Knight Carnivus Grymm. It 
+is said that festooning one’s Knight suit with these 
+charms instils the legendary fortitude of that doomed 
+war engine. Yet it is whispered that doing so also 
+invites the attentions of the same dread curse that 
+eventually led to Carnivus Grymm’s ghastly end.
+
+Chaos Knights model only. Each time an attack is 
+made against the bearer, subtract 1 from the Armour 
+Penetration characteristic of that attack.
+
+ 
+
+CHAOS KNIGHTS – TRAITORIS LANCE
+STRATAGEMS
+
+If you are using the Traitoris Lance Detachment rule, you can use these Traitoris Lance Stratagems. 
+
+1CP
+
+DREAD HOUNDS
+TRAITORIS LANCE – BATTLE TACTIC STRATAGEM
+
+War Dog pilots encircle their terrified 
+victims then attack in a ferocious mass.
+
+WHEN: The start of your Shooting phase or 
+the start of the Fight phase.
+TARGET: Two or more War Dog units from 
+your army and one enemy unit that is an 
+eligible target for each of those selected 
+War Dog units.
+EFFECT: Until the end of the phase, 
+the selected War Dog units can only 
+target that enemy unit, but all weapons 
+equipped by those War Dog models gain 
+the [SUSTAINED HITS 1] ability. In addition, 
+if that enemy unit is Battle-shocked, until 
+the end of the phase, each time a selected 
+War Dog model makes an attack against 
+that enemy unit, an unmodified Hit roll of 
+5+ scores a Critical Hit.
+
+1CP
+
+PTERRORSHADES
+TRAITORIS LANCE – WARGEAR STRATAGEM
+
+Shrieking with ghoulish hunger, daemonic 
+entities descend in a tatterwinged 
+whirlwind to rend apart the souls of those 
+enemies who show even a moment’s fear. 
+The soul-raptors tear apart their victims’ 
+animus and, as they feed, this life force 
+is channelled to regenerate the battle 
+damage or heal the pilot of the Knight in 
+which these creatures roost.
+
+WHEN: Any phase, just after an enemy 
+unit fails a Battle-shock test.
+TARGET: One Chaos Knights unit from 
+your army that is within 12" of that 
+enemy unit.
+EFFECT: Roll six D6. For each 4+, that 
+enemy unit suffers 1 mortal wound and 
+this model regains up to 1 lost wound. 
+
+DISDAIN FOR THE WEAK
+TRAITORIS LANCE – BATTLE TACTIC STRATAGEM
+
+1CP
+
+Chaos Knight pilots refuse to yield while 
+foes remain to be slain, disdainfully 
+ignoring those who succumb to fear.
+
+WHEN: Fight phase, just after an enemy 
+unit has selected its targets.
+TARGET: One Chaos Knights unit from 
+your army that was selected as the 
+target of one or more of the attacking 
+unit’s attacks.
+EFFECT: Until the end of the phase, your 
+model has the Feel No Pain 6+ ability, and 
+the Feel No Pain 5+ ability against attacks 
+made by Battle-shocked models.
+
+CHAOS KNIGHTS – TRAITORIS LANCE
+STRATAGEMS
+
+If you are using the Traitoris Lance Detachment rule, you can use these Traitoris Lance Stratagems. 
+
+DIABOLIC BULWARK
+TRAITORIS LANCE – WARGEAR STRATAGEM
+
+1CP
+
+Ectoplasmic blood surges hot through 
+glowing conduits as the Chaos Knight 
+feeds power to its shield emitters.
+
+WHEN: Your opponent’s Shooting phase, 
+just after an enemy unit has selected 
+its targets.
+TARGET: One Chaos Knights unit from 
+your army that was selected as the 
+target of one or more of the attacking 
+unit’s attacks.
+EFFECT: Until the end of the phase, 
+that Chaos Knights model has a 4+ 
+invulnerable save against ranged attacks.
+
+1CP
+
+1CP
+
+A LONG LEASH
+TRAITORIS LANCE – STRATEGIC PLOY STRATAGEM
+
+The War Dogs of the Chaos Knights are 
+more terrified of their lords than they 
+are the enemy, and they heed their 
+masters well, for they know the price of 
+disobedience or disloyalty.
+
+WHEN: Your Command phase.
+TARGET: One Abhorrent model from your 
+army and up to three War Dog models 
+from your army.
+EFFECT: Until the start of your next 
+Command phase, those War Dog models 
+count as being within range of any Aura 
+abilities that Abhorrent model has.
+
+KNIGHTS OF SHADE
+TRAITORIS LANCE – EPIC DEED STRATAGEM
+
+Like dark phantoms, some Chaos 
+Knights can move through solid walls 
+without hindrance.
+
+WHEN: Your Movement phase or your 
+Charge phase.
+TARGET: Up to two War Dog models from 
+your army or one Titanic Chaos Knights 
+model from your army.
+EFFECT: Until the end of the phase, the 
+selected models can move horizontally 
+through models and terrain features as if 
+they were not there.
+
+WAR DOG EXECUTIONER
+
+M
+
+T
+
+12" 10
+
+SV
+
+3+
+
+W
+
+12
+
+LD
+
+7+
+
+OC
+
+8
+
+RANGED  WEAPONS
+Daemonbreath meltagun [MELTA 2]
+Diabolus heavy stubber [RAPID FIRE 3]
+War Dog autocannon
+
+MELEE  WEAPONS
+Armoured feet 
+
+RANGE
+
+12"
+36"
+48"
+
+RANGE
+Melee
+
+A
+1
+3
+4
+
+A
+4
+
+BS
+3+
+3+
+3+
+
+WS
+3+
+
+S
+9
+5
+9
+
+S
+6
+
+AP
+-4
+0
+-1
+
+AP
+0
+
+D
+D6
+1
+3
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Harbingers of Dread
+
+Executioner: Each time this model makes an attack that 
+targets a unit Below Half-strength, add 1 to the Hit roll.
+
+DAMAGED: 1-4 WOUNDS REMAINING
+
+While this model has 1-4 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE *
+  * This model has a 5+ invulnerable save against ranged attacks.
+
+5+
+
+KEYWORDS: Vehicle, Walker, Battleline, Chaos, War Dog, Executioner
+
+FACTION KEYWORDS:  
+Chaos Knights
+
+WAR DOG EXECUTIONER
+Methodical and coldly emotionless killers, Fallen Nobles who pilot 
+War Dog Executioners employ long-barrelled, rapid-firing cannons 
+to maximise their kills. They eviscerate throngs of the enemy and 
+hammer the foes’ war engines into submission, seeking to reap ever 
+greater murderous tallies than their peers.
+
+WARGEAR OPTIONS
+
+ ■  This model’s diabolus heavy stubber can be replaced with 1 daemonbreath meltagun.
+
+UNIT COMPOSITION
+
+ ■ 1 War Dog Executioner
+This model is equipped with: diabolus heavy stubber; 
+2 War Dog autocannons; armoured feet. 
+
+KEYWORDS: Vehicle, Walker, Battleline, Chaos, War Dog, Executioner
+
+FACTION KEYWORDS:  
+Chaos Knights
+
+WAR DOG STALKER
+
+M
+
+T
+
+12" 10
+
+SV
+
+3+
+
+W
+
+12
+
+LD
+
+7+
+
+OC
+
+8
+
+RANGED   WEAPONS
+Avenger chaincannon
+Daemonbreath spear [MELTA 4]
+Havoc multi-launcher [BLAST, INDIRECT FIRE]
+Diabolus heavy stubber [RAPID FIRE 3]
+
+MELEE  WEAPONS
+Reaper chaintalon – strike 
+Reaper chaintalon – sweep 
+Slaughterclaw 
+
+RANGE
+
+24"
+24"
+48"
+36"
+
+RANGE
+Melee
+Melee
+Melee
+
+A
+12
+2
+D6
+3
+
+A
+4
+8
+4
+
+BS
+3+
+3+
+3+
+3+
+
+WS
+3+
+3+
+3+
+
+S
+6
+12
+5
+5
+
+S
+10
+8
+12
+
+AP
+-1
+-4
+0
+0
+
+AP
+-3
+-2
+-3
+
+D
+1
+D6
+1
+1
+
+D
+3
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Harbingers of Dread
+
+Stalker: Each time this model makes an attack that targets an 
+enemy unit, if there are no other units from your opponent’s 
+army within 6" of that target, add 1 to the Wound roll.
+
+DAMAGED: 1-4 WOUNDS REMAINING
+
+D6+2
+
+While this model has 1-4 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE
+  * This model has a 5+ invulnerable save against ranged attacks.
+
+5+
+
+Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Vehicle, Walker, Battleline, Character, Chaos, War Dog, Stalker
+
+FACTION KEYWORDS:  
+Chaos Knights
+
+WAR DOG STALKER
+Only the most strong-willed of minor nobility have the mental fortitude 
+to pilot a Stalker. Like pack alphas, they often lead other War Dogs 
+in carefully planned attacks, harrying the foe’s flanks, butchering 
+reinforcements and hunting down lone threats. They unleash salvoes 
+of fire at range or in the heart of combat with deadly claw strikes.
+
+WARGEAR OPTIONS
+
+ ■  This model’s avenger chaincannon can be replaced with 1 daemonbreath spear. 
+ ■ This model’s diabolus heavy stubber can be replaced with 1 havoc multi-launcher.
+ ■  This model’s slaughterclaw can be replaced with 1 reaper chaintalon.
+
+UNIT COMPOSITION
+
+ ■ 1 War Dog Stalker
+This model is equipped with: avenger chaincannon; 
+diabolus heavy stubber; slaughterclaw.
+
+KEYWORDS: Vehicle, Walker, Battleline, Character, Chaos, War Dog, Stalker
+
+FACTION KEYWORDS:  
+Chaos Knights
+
+WAR DOG KARNIVORE
+
+M
+
+T
+
+14" 10
+
+SV
+
+3+
+
+W
+
+12
+
+LD
+
+7+
+
+OC
+
+8
+
+RANGED  WEAPONS
+Diabolus heavy stubber [RAPID FIRE 3]
+Havoc multi-launcher [BLAST, INDIRECT FIRE]
+
+MELEE  WEAPONS
+Reaper chaintalon – strike 
+Reaper chaintalon – sweep 
+Slaughterclaw 
+
+RANGE
+
+36"
+48"
+
+RANGE
+Melee
+Melee
+Melee
+
+A
+3
+D6
+
+A
+6
+12
+6
+
+BS
+3+
+3+
+
+WS
+2+
+2+
+2+
+
+S
+5
+5
+
+S
+10
+8
+12
+
+AP
+0
+0
+
+AP
+-3
+-2
+-3
+
+D
+1
+1
+
+D
+3
+1
+
+D6+2
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Harbingers of Dread
+
+Karnivore: You can re-roll Charge rolls made for this model.
+
+DAMAGED: 1-4 WOUNDS REMAINING
+
+While this model has 1-4 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE *
+  * This model has a 5+ invulnerable save against ranged attacks.
+
+5+
+
+Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Vehicle, Walker, Battleline, Chaos, War Dog, Karnivore
+
+FACTION KEYWORDS:  
+Chaos Knights
+
+WAR DOG KARNIVORE
+Aggressive and bloodthirsty, Karnivores eschew the more potent 
+ranged weapons of the War Dog chassis. They revel in causing 
+bloody confusion and despair, seeking the visceral thrill that only 
+close-quarters slaughter provides. As a result, many of their pilots fall 
+to the open worship of one of the Chaos Gods.
+
+WARGEAR OPTIONS
+
+ ■  This model’s diabolus heavy stubber can be replaced with 1 havoc multi-launcher.
+
+UNIT COMPOSITION
+
+ ■ 1 War Dog Karnivore
+This model is equipped with: diabolus heavy stubber; 
+reaper chaintalon; slaughterclaw.
+
+KEYWORDS: Vehicle, Walker, Battleline, Chaos, War Dog, Karnivore
+
+FACTION KEYWORDS:  
+Chaos Knights
+
+WAR DOG BRIGAND
+
+M
+
+T
+
+12" 10
+
+SV
+
+3+
+
+W
+
+12
+
+LD
+
+7+
+
+OC
+
+8
+
+RANGED  WEAPONS
+Avenger chaincannon
+Daemonbreath spear [MELTA 4]
+Diabolus heavy stubber [RAPID FIRE 3]
+Havoc multi-launcher [BLAST, INDIRECT FIRE]
+
+MELEE  WEAPONS
+Armoured feet 
+
+RANGE
+
+24"
+24"
+36"
+48"
+
+RANGE
+Melee
+
+A
+12
+2
+3
+D6
+
+A
+4
+
+BS
+2+
+2+
+2+
+2+
+
+WS
+3+
+
+S
+6
+12
+5
+5
+
+S
+6
+
+AP
+-1
+-4
+0
+0
+
+AP
+0
+
+D
+1
+D6
+1
+1
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Harbingers of Dread
+
+Brigand: Each time this model makes a ranged attack that 
+targets the closest eligible enemy unit, improve the Armour 
+Penetration characteristic of that attack by 1.
+
+DAMAGED: 1-4 WOUNDS REMAINING
+
+While this model has 1-4 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE *
+  * This model has a 5+ invulnerable save against ranged attacks.
+
+5+
+
+KEYWORDS: Vehicle, Walker, Battleline, Chaos, War Dog, Brigand
+
+FACTION KEYWORDS:  
+Chaos Knights
+
+WAR DOG BRIGAND
+Between them, Brigands and their Fallen Noble pilots have become 
+so enamoured of the skilful, ranged kill that they mostly disdain the 
+chaos of close assaults. Some even swear dark pacts compelling them 
+to slay potent foes with elegance, or else to purge war zones of all life 
+with sweeping contempt.
+
+WARGEAR OPTIONS
+
+ ■    This model’s diabolus heavy stubber can be replaced with 1 havoc multi-launcher.
+
+UNIT COMPOSITION
+
+ ■ 1 War Dog Brigand
+This model is equipped with: avenger chaincannon; 
+daemonbreath spear; diabolus heavy stubber; armoured feet.
+
+KEYWORDS: Vehicle, Walker, Battleline, Chaos, War Dog, Brigand
+
+FACTION KEYWORDS:  
+Chaos Knights
+
+WAR DOG HUNTSMAN
+
+M
+
+T
+
+12" 10
+
+SV
+
+3+
+
+W
+
+12
+
+LD
+
+7+
+
+OC
+
+8
+
+RANGED  WEAPONS
+Daemonbreath meltagun [MELTA 2]
+Daemonbreath spear [MELTA 4]
+Diabolus heavy stubber [RAPID FIRE 3]
+
+MELEE  WEAPONS
+Reaper chaintalon – strike 
+Reaper chaintalon – sweep 
+
+RANGE
+
+12"
+24"
+36"
+
+RANGE
+Melee
+Melee
+
+A
+1
+2
+3
+
+A
+4
+8
+
+BS
+3+
+3+
+3+
+
+WS
+3+
+3+
+
+S
+9
+12
+5
+
+S
+10
+8
+
+AP
+-4
+-4
+0
+
+AP
+-3
+-2
+
+D
+D6
+D6
+1
+
+D
+3
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Harbingers of Dread
+
+Huntsman: Each time this model makes an attack against a 
+Monster or Vehicle unit, re-roll a Wound roll of 1 and re-roll a 
+Damage roll of 1.
+
+DAMAGED: 1-4 WOUNDS REMAINING
+
+While this model has 1-4 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE *
+  * This model has a 5+ invulnerable save against ranged attacks.
+
+5+
+
+Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Vehicle, Walker, Battleline, Chaos, War Dog, Huntsman
+
+FACTION KEYWORDS:  
+Chaos Knights
+
+WAR DOG HUNTSMAN
+Like hounds on the scent, Huntsmen often pursue hulking enemies, 
+hunting them down as prey. Their daemonbreath spears melt through 
+the thickest armour while chaintalons are employed to drive deeply 
+into gushing innards, tearing through organs and crew alike.
+
+WARGEAR OPTIONS
+
+ ■   This model’s diabolus heavy stubber can be replaced with 1 daemonbreath meltagun.
+
+UNIT COMPOSITION
+
+ ■ 1 War Dog Huntsman
+This model is equipped with: daemonbreath spear; diabolus 
+heavy stubber; reaper chaintalon.
+
+KEYWORDS: Vehicle, Walker, Battleline, Chaos, War Dog, Huntsman
+
+FACTION KEYWORDS:  
+Chaos Knights
+
+KNIGHT DESPOILER
+
+M
+
+T
+
+10" 12
+
+SV
+
+3+
+
+W
+
+22
+
+LD
+
+6+
+
+OC
+
+10
+
+RANGED  WEAPONS
+Daemonbreath meltagun [MELTA 2]
+Daemonbreath thermal cannon [BLAST, MELTA 6]
+Despoiler battle cannon [BLAST, RAPID FIRE D6+3]
+Despoiler gatling cannon
+Havoc missile pod [BLAST, INDIRECT FIRE]
+Heavy darkflamer [IGNORES COVER, TORRENT]
+Diabolus heavy stubber [RAPID FIRE 3]
+Ruinspear rocket pod 
+Hellstorm autocannons [ANTI-FLY 2+, TWIN-LINKED]
+
+MELEE  WEAPONS
+Reaper chainsword – strike 
+Reaper chainsword – sweep 
+Titanic feet 
+Warpstrike claw – strike 
+Warpstrike claw – sweep 
+
+RANGE
+
+12"
+24"
+72"
+36"
+48"
+12"
+36"
+48"
+48"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+Melee
+
+A
+1
+2D3
+D6+3
+18
+D6+1
+D6
+3
+3
+3
+
+A
+4
+12
+4
+4
+8
+
+BS
+3+
+3+
+3+
+3+
+3+
+N/A
+3+
+3+
+3+
+
+WS
+3+
+3+
+3+
+3+
+3+
+
+S
+9
+12
+10
+6
+5
+5
+5
+8
+7
+
+S
+14
+9
+8
+20
+10
+
+AP
+-4
+-4
+-1
+-2
+0
+-1
+0
+-2
+-1
+
+AP
+-4
+-3
+-1
+-3
+-2
+
+D
+D6
+D6
+3
+2
+1
+1
+1
+D6
+2
+
+D
+6
+2
+2
+8
+3
+
+Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+ABILITIES
+
+CORE: Deadly Demise D6
+
+FACTION: Harbingers of Dread, Super-heavy Walker
+
+Dread Dominion (Aura): While a friendly War Dog is within 9" 
+of this model, each time that War Dog takes a Battle-shock 
+test, add 1 to that test. 
+Seething Hatred: Each time this model is selected to shoot or 
+fight, you can re-roll one Hit roll or you can re-roll one Wound 
+roll when resolving those attacks.
+
+DAMAGED: 1-7 WOUNDS REMAINING
+
+While this model has 1-7 wounds remaining, subtract 5 from 
+this model’s Objective Control characteristic and each time 
+this model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE *
+  * This model has a 5+ invulnerable save against ranged attacks.
+
+5+
+
+KEYWORDS:  Vehicle, Walker, Titanic, Towering, Abhorrent, Character, Chaos, 
+
+Knight Despoiler
+
+FACTION KEYWORDS:  
+Chaos Knights
+
+KNIGHT DESPOILER
+Knights Despoiler epitomise all it means to be a Chaos Knight. 
+Their Fallen Nobles repudiate honour and seethe with hatred. 
+Capable of bearing a variety of powerful weapons suited to its pilot’s 
+temperament, they unleash their hatred at range or in thunderous 
+melee at whim.
+
+WARGEAR OPTIONS
+
+ ■   This model’s daemonbreath meltagun can be replaced with 1 diabolus heavy stubber.
+ ■  This model’s reaper chainsword can be replaced with 1 of the following:
+
+ ◦ 1 daemonbreath thermal cannon
+ ◦  1 despoiler gatling cannon and 1 heavy darkflamer
+ ◦  1 despoiler battle cannon and 1 diabolus heavy stubber
+
+ ■  This model’s warpstrike claw can be replaced with 1 of the following:
+
+ ◦ 1 daemonbreath thermal cannon
+ ◦  1 despoiler gatling cannon and 1 heavy darkflamer
+ ◦  1 despoiler battle cannon and 1 diabolus heavy stubber
+
+ ■ This model can be equipped with one of the following: 
+
+ ◦ 1 havoc missile pod
+ ◦ 1 ruinspear rocket pod
+ ◦ 1 hellstorm autocannons
+
+ 
+
+UNIT COMPOSITION
+
+ ■ 1 Knight Despoiler
+This model is equipped with: daemonbreath meltagun; 
+reaper chainsword; titanic feet; warpstrike claw.
+
+KEYWORDS:  Vehicle, Walker, Titanic, Towering, Abhorrent, Character, Chaos, 
+
+Knight Despoiler
+
+FACTION KEYWORDS:  
+Chaos Knights
+
+KNIGHT DESECRATOR
+
+M
+
+T
+
+10" 12
+
+SV
+
+3+
+
+W
+
+22
+
+LD
+
+6+
+
+OC
+
+10
+
+RANGED  WEAPONS
+Desecrator laser destructor 
+Diabolus heavy stubber [RAPID FIRE 3]
+
+MELEE  WEAPONS
+Reaper chainsword – strike 
+Reaper chainsword – sweep 
+Warpstrike claw – strike 
+Warpstrike claw – sweep 
+
+RANGE
+
+72"
+36"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+
+A
+3
+3
+
+A
+4
+12
+4
+8
+
+BS
+2+
+2+
+
+WS
+3+
+3+
+3+
+3+
+
+S
+18
+5
+
+S
+14
+9
+20
+10
+
+AP
+-4
+0
+
+AP
+-4
+-3
+-3
+-2
+
+D
+D6+3
+
+ABILITIES
+
+CORE: Deadly Demise D6
+
+1
+
+D
+6
+2
+8
+3
+
+FACTION: Harbingers of Dread, Super-heavy Walker
+
+Obsessive Ruthlessness: Each time this model makes a 
+ranged attack against a Monster or Vehicle unit, that attack 
+has the [DEVASTATING WOUNDS] ability. 
+Taskmaster (Aura): While a friendly War Dog model is within 
+9" of this model, each time that War Dog model makes a 
+ranged attack, re-roll a Hit roll of 1. 
+
+DAMAGED: 1-7 WOUNDS REMAINING
+
+While this model has 1-7 wounds remaining, subtract 5 from 
+this model’s Objective Control characteristic and each time 
+this model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE *
+  * This model has a 5+ invulnerable save against ranged attacks.
+
+5+
+
+Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Vehicle, Walker, Titanic, Towering, Abhorrent, Character, Chaos,  
+
+Knight Desecrator
+
+FACTION KEYWORDS:  
+Chaos Knights
+
+KNIGHT DESECRATOR
+Knights Desecrator spare no living thing from their attacks. They 
+possess potent mid- to close-range armaments capable of duelling 
+enemy war engines and monstrous beasts, or annihilating hordes of 
+lesser foes. They are also cruel taskmasters, snarling commands to 
+War Dog followers that lope forwards at their sides.
+
+WARGEAR OPTIONS
+
+ ■   This model’s reaper chainsword can be replaced with 1 warpstrike claw.
+
+ 
+
+UNIT COMPOSITION
+
+ ■  1 Knight Desecrator
+This model is equipped with: desecrator laser destructor; 
+diabolus heavy stubber; reaper chainsword.
+
+KEYWORDS:  Vehicle, Walker, Titanic, Towering, Abhorrent, Character, Chaos,  
+
+Knight Desecrator
+
+FACTION KEYWORDS:  
+Chaos Knights
+
+KNIGHT RAMPAGER
+
+M
+
+T
+
+12" 12
+
+SV
+
+3+
+
+W
+
+22
+
+LD
+
+6+
+
+OC
+
+10
+
+RANGED  WEAPONS
+Diabolus heavy stubber [RAPID FIRE 3]
+
+MELEE  WEAPONS
+Reaper chainsword – strike 
+Reaper chainsword – sweep 
+Warpstrike claw – strike 
+Warpstrike claw – sweep 
+
+RANGE
+
+36"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+
+A
+3
+
+A
+6
+18
+6
+12
+
+BS
+3+
+
+WS
+2+
+2+
+2+
+2+
+
+S
+5
+
+S
+14
+9
+20
+10
+
+AP
+0
+
+AP
+-4
+-3
+-3
+-2
+
+D
+1
+
+D
+6
+2
+8
+3
+
+Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+ABILITIES
+
+CORE: Deadly Demise D6
+
+FACTION: Harbingers of Dread, Super-heavy Walker
+
+Bloodlust: Each time this model makes a Charge move, until 
+the end of the turn, its melee weapons have the [SUSTAINED 
+HITS 1] ability. In addition, once per battle, this model is 
+eligible to declare a charge in a turn in which it Advanced. 
+Frenzied Rampage (Aura): While a friendly War Dog model is 
+within 9" of this model, each time that War Dog model makes 
+a melee attack, re-roll a Hit roll of 1.  
+
+DAMAGED: 1-7 WOUNDS REMAINING
+
+While this model has 1-7 wounds remaining, subtract 5 from 
+this model’s Objective Control characteristic and each time 
+this model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE *
+  * This model has a 5+ invulnerable save against ranged attacks.
+
+5+
+
+KEYWORDS:  Vehicle, Walker, Titanic, Towering, Abhorrent, Character, Chaos, 
+
+Knight Rampager
+
+FACTION KEYWORDS:  
+Chaos Knights
+
+KNIGHT RAMPAGER
+Knights Rampager storm into battle with maddened, metallic howls. 
+They are bereft of discipline or restraint, and plough into the thickest 
+fighting of a war zone with insane ferocity. With swipes of their 
+monstrous reaper chainswords and warpstrike claws, they fight more 
+like frenzied daemons than machines.
+
+WARGEAR OPTIONS
+
+ ■     None
+
+UNIT COMPOSITION
+
+ ■  1 Knight Rampager
+This model is equipped with: diabolus heavy stubber; 
+reaper chainsword; warpstrike claw.
+
+KEYWORDS:  Vehicle, Walker, Titanic, Towering, Abhorrent, Character, Chaos, 
+
+Knight Rampager
+
+FACTION KEYWORDS:  
+Chaos Knights
+
+KNIGHT ABOMINANT
+
+M
+
+T
+
+10" 12
+
+SV
+
+3+
+
+W
+
+22
+
+LD
+
+6+
+
+OC
+
+10
+
+RANGED  WEAPONS
+Diabolus heavy stubber [RAPID FIRE 3]
+Volkite combustor [DEVASTATING WOUNDS]
+
+MELEE  WEAPONS
+Balemace [EXTRA ATTACKS]
+Electroscourge [SUSTAINED HITS 1]
+
+RANGE
+
+36"
+30"
+
+RANGE
+Melee
+Melee
+
+A
+3
+9
+
+A
+3
+9
+
+BS
+3+
+3+
+
+WS
+3+
+3+
+
+S
+5
+12
+
+S
+8
+10
+
+AP
+0
+0
+
+AP
+-1
+-2
+
+D
+1
+3
+
+D
+2
+3
+
+ABILITIES
+
+CORE: Deadly Demise D6
+
+FACTION: Harbingers of Dread, Super-heavy Walker
+
+Vortex Terrors (Psychic): At the start of your Shooting phase, 
+select one enemy unit within 12" of this model. That enemy 
+unit must take a Battle-shock test.
+Warp Storms (Psychic): At the end of your Movement phase, 
+roll one D6 for each enemy unit within 9" of this model: on a 
+3+, that enemy unit suffers D3 mortal wounds.
+
+DAMAGED: 1-7 WOUNDS REMAINING
+
+While this model has 1-7 wounds remaining, subtract 5 from 
+this model’s Objective Control characteristic and each time 
+this model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE *
+  * This model has a 5+ invulnerable save against ranged attacks.
+
+5+
+
+KEYWORDS:  Vehicle, Walker, titanic, Towering, Abhorrent, Psyker, 
+
+Character, Chaos, Knight Abominant
+
+FACTION KEYWORDS:  
+Chaos Knights
+
+KNIGHT ABOMINANT
+Seen as especially blessed by the Dark Gods, Knights Abominant 
+are suffused with warp energy. They unleash this power in terrifying 
+waves, corrupting and mutating those nearby, and incinerating distant 
+foes with blasts of volkite energy. In combat, they thrash coiling, warp-
+wrought appendages, crushing anything that remains untainted.
+
+WARGEAR OPTIONS
+
+ ■     None
+
+UNIT COMPOSITION
+
+ ■  1 Knight Abominant
+This model is equipped with: diabolus heavy stubber; volkite 
+combustor; balemace; electroscourge.
+
+KEYWORDS:  Vehicle, Walker, titanic, Towering, Abhorrent, Psyker, 
+
+Character, Chaos, Knight Abominant
+
+FACTION KEYWORDS:  
+Chaos Knights
+
+KNIGHT TYRANT
+
+M
+
+8"
+
+T
+
+13
+
+SV
+
+2+
+
+W
+
+24
+
+LD
+
+6+
+
+OC
+
+10
+
+RANGED  WEAPONS
+Brimstone volcano lance [BLAST]
+Darkflame cannon [IGNORES COVER. TORRENT]
+Ectoplasma decimator – standard [BLAST]
+Ectoplasma decimator – supercharge 
+[BLAST, HAZARDOUS]
+Gheiststrike missile launcher 
+[ANTI-TITANIC 4+, DEVASTATING WOUNDS]
+Twin daemonbreath meltagun [MELTA 2, TWIN-LINKED]
+Twin desecrator cannon [BLAST, TWIN-LINKED]
+Warpshock harpoon 
+[ANTI-MONSTER 4+, ANTI-VEHICLE 4+, DEVASTATING WOUNDS]
+
+MELEE  WEAPONS
+Titanic feet 
+
+RANGE
+
+60"
+18"
+36"
+
+36"
+
+72"
+
+12"
+36"
+
+18"
+
+RANGE
+Melee
+
+A
+D3
+3D6
+D6+3
+
+D6+3
+
+1
+
+1
+D6
+
+1
+
+A
+4
+
+BS
+3+
+N/A
+3+
+
+3+
+
+3+
+
+3+
+3+
+
+2+
+
+WS
+4+
+
+S
+20
+8
+8
+
+9
+
+12
+
+9
+6
+
+24
+
+S
+8
+
+AP
+-5
+-1
+-2
+
+-3
+
+-6
+
+-4
+0
+
+-6
+
+AP
+-1
+
+D
+D6+8
+
+2
+2
+
+3
+
+D6+1
+
+D6
+1
+
+12
+
+D
+2
+
+ABILITIES
+
+CORE: Deadly Demise D6+2
+
+FACTION: Harbingers of Dread, Super-heavy Walker
+
+Infernal Aegis (Aura): While a friendly War Dog model is 
+within 6" of this model, that War Dog model has the Benefit 
+of Cover. 
+Bastion of Corruption: Enemy units that are set up on the 
+battlefield as Reinforcements cannot be set up within 12" of 
+this model. 
+
+DAMAGED: 1-8 WOUNDS REMAINING
+
+While this model has 1-8 wounds remaining, subtract 5 from 
+this model’s Objective Control characteristic and each time 
+this model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE *
+  * This model has a 5+ invulnerable save against ranged attacks.
+
+5+
+
+Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Vehicle, Walker, Titanic, Towering, Character, Chaos,  
+
+Knight Tyrant
+
+FACTION KEYWORDS:  
+Chaos Knights
+
+KNIGHT TYRANT
+So massive that they loom over other Chaos Knights, Knights Tyrant 
+are walking bastions of corruption. They carry some of the heaviest 
+armaments available to the Fallen houses. Their pilots delight in 
+unleashing the deadly potential of these weapons, shrugging off the 
+enemy’s attacks with contemptuous ease.
+
+WARGEAR OPTIONS
+
+ ■   This model’s brimstone volcano lance and ectoplasma decimator can be replaced with 1 darkflame 
+
+cannon and 1 warpshock harpoon.
+
+ ■  This model’s 2 gheiststrike missile launchers and twin desecrator cannon can be replaced with 1 
+
+gheiststrike missile launcher and 2 twin desecrator cannons.
+
+UNIT COMPOSITION
+
+ ■  1 Knight Tyrant
+This model is equipped with: brimstone volcano lance; 
+ectoplasma decimator; 2 gheiststrike missile launchers; 
+2 twin daemonbreath meltaguns; twin desecrator cannon; 
+titanic feet.
+
+KEYWORDS:  Vehicle, Walker, Titanic, Towering, Character, Chaos,  
+
+Knight Tyrant
+
+FACTION KEYWORDS:  
+Chaos Knights
+
+

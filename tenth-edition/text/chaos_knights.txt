@@ -1,0 +1,1855 @@
+DREADBLADES 
+Dreadblades often wander the galaxy, carving 
+a path of destruction and slaughtering foes 
+alongside other forces of Chaos as and when 
+they will.
+
+If every model in your army has the Chaos 
+keyword, you can include either 1 Titanic 
+Chaos Knights model or up to 3 War Dog 
+models in your army, even if they do not have 
+the Faction keyword you selected in the Select 
+Army Faction step. None of these models 
+can be your Warlord, and they cannot be 
+given Enhancements. 
+
+CHAOS KNIGHTS
+ARMY RULES
+
+Where Chaos Knights tread, the skies grow 
+unnaturally dark and the dread of the warp permeates 
+the battlefield. None are immune to its shadowy 
+touch, for those it does not paralyse with fear 
+and despair are wracked with hallucinations and 
+driven mad.
+
+HARBINGERS OF DREAD
+If your Army Faction is Chaos Knights, each model 
+from your army with this ability gains a bonus 
+depending on which Dread abilities are active for 
+your army (see below). Once a Dread ability is active 
+for your army, that ability applies until the end of 
+the battle.
+
+BATTLE ROUND  1  ONWARDS
+
+From the first battle round onwards, the Despair 
+ability is active for your army:
+
+DESPAIR (AURA)
+While an enemy unit is within 12" of this model, 
+each time that enemy unit takes a Battle-shock or 
+Leadership test, subtract 1 from that test.
+
+BATTLE ROUND  3  ONWARDS
+
+From the third battle round onwards, the Doom and 
+Darkness ability is active for your army:
+
+DOOM AND DARKNESS
+ ■  Each time this model makes an attack, if the target 
+
+is Battle-shocked, add 1 to the Wound roll. 
+
+ ■  Each time an attack targets this model, if the 
+
+attacking model’s unit is Battle-shocked, subtract 1 
+from the Hit roll. 
+
+SUPER-HEAVY WALKER
+Each time a model with this ability makes a Normal, 
+Advance or Fall Back move, it can move over models 
+(excluding Titanic models) and terrain features that 
+are 4" or less in height as if they were not there.
+
+CHAOS KNIGHTS – TRAITORIS LANCE
+DETACHMENT RULE
+
+If your Army Faction is Chaos Knights, you can use 
+this Traitoris Lance Detachment rule.
+
+FORGED IN TERROR (AURA)
+Chaos Knights are servants of shadow and terror; 
+wherever they stride, fear and madness spread. 
+
+In the Battle-shock step of your opponent’s Command 
+phase, if an enemy unit that is below its Starting 
+Strength is within 12" of a Chaos Knights model 
+from your army, that enemy unit must take a Battle-
+shock test. For the purposes of this ability, if a unit 
+has a Starting Strength of 1, it is considered to be 
+below its Starting Strength while it has lost one or 
+more wounds.
+
+Designer’s Note: This means that all enemy units 
+within range of this Aura ability that have lost one or 
+more models must take a Battle-shock test in your 
+opponent’s Command phase, not just those that are 
+Below Half-strength.
+
+CHAOS KNIGHTS – TRAITORIS LANCE
+ENHANCEMENTS
+
+If you are using the Traitoris Lance Detachment rule, you can use these Traitoris Lance Enhancements. 
+LORD OF DREAD
+This tyrannical Knight is the epitome of dread power, 
+instilling as much fear in their minions as they do over 
+the enemy, ensuring unwavering obedience.
+
+THE TRAITOR’S MARK
+The dark deeds and bloodstained heraldry of this 
+Chaos Knight are whispered far and wide. Rumours 
+spread that to confront it is to face a painful death. 
+Each blazon borne upon its hull proclaims the unholy 
+atrocities committed by the bearer, and even to look 
+upon these loathsome sigils is to be gripped by 
+unnatural terror and beset by swarming nightmares.
+
+Chaos Knights model only. At the start of the 
+Fight phase, you can select one enemy unit within 
+Engagement Range of the bearer; that enemy unit 
+must take a Battle-shock test.
+AURA OF TERROR
+This towering Knight is wreathed in tendrils of warp 
+energy that caress the minds of any enemy who 
+draws near, driving those touched into a state of 
+abject fear. Wherever this Knight treads, this aura of 
+terror permeates and corrupts the land until it can 
+be cleansed.
+
+Chaos Knights model only. If you control an 
+objective marker at the end of your Command phase, 
+and the bearer is within range of that objective 
+marker, that objective marker is said to be Tainted 
+and remains under your control even if you have no 
+models within range of it, until your opponent controls 
+it at the start or end of any turn. In addition, while an 
+objective marker is Tainted and under your control 
+and the Despair Dread ability is active for your army, 
+that objective marker has the Despair Dread ability as 
+if it was a Chaos Knights model from your army (so 
+subtract 1 from Battle-shock and Leadership tests 
+taken for enemy units within 12" of it).
+
+Chaos Knights model only. The Doom and Darkness 
+ability is active for the bearer from the first battle 
+round onwards, instead of from the third. 
+PANOPLY OF THE CURSED KNIGHTS
+Borne within an unmarked casket by an order of 
+silent Idolators, this collection of tattered pennants, 
+chain-strung charms and armour scraps represent 
+the last remains of the Knight Carnivus Grymm. It 
+is said that festooning one’s Knight suit with these 
+charms instils the legendary fortitude of that doomed 
+war engine. Yet it is whispered that doing so also 
+invites the attentions of the same dread curse that 
+eventually led to Carnivus Grymm’s ghastly end.
+
+Chaos Knights model only. Each time an attack is 
+made against the bearer, subtract 1 from the Armour 
+Penetration characteristic of that attack.
+
+ 
+
+CHAOS KNIGHTS – TRAITORIS LANCE
+STRATAGEMS
+
+If you are using the Traitoris Lance Detachment rule, you can use these Traitoris Lance Stratagems. 
+
+1CP
+
+DREAD HOUNDS
+TRAITORIS LANCE – BATTLE TACTIC STRATAGEM
+
+War Dog pilots encircle their terrified 
+victims then attack in a ferocious mass.
+
+WHEN: The start of your Shooting phase or 
+the start of the Fight phase.
+TARGET: Two or more War Dog units from 
+your army and one enemy unit that is an 
+eligible target for each of those selected 
+War Dog units.
+EFFECT: Until the end of the phase, 
+the selected War Dog units can only 
+target that enemy unit, but all weapons 
+equipped by those War Dog models gain 
+the [SUSTAINED HITS 1] ability. In addition, 
+if that enemy unit is Battle-shocked, until 
+the end of the phase, each time a selected 
+War Dog model makes an attack against 
+that enemy unit, an unmodified Hit roll of 
+5+ scores a Critical Hit.
+
+1CP
+
+PTERRORSHADES
+TRAITORIS LANCE – WARGEAR STRATAGEM
+
+Shrieking with ghoulish hunger, daemonic 
+entities descend in a tatterwinged 
+whirlwind to rend apart the souls of those 
+enemies who show even a moment’s fear. 
+The soul-raptors tear apart their victims’ 
+animus and, as they feed, this life force 
+is channelled to regenerate the battle 
+damage or heal the pilot of the Knight in 
+which these creatures roost.
+
+WHEN: Any phase, just after an enemy 
+unit fails a Battle-shock test.
+TARGET: One Chaos Knights unit from 
+your army that is within 12" of that 
+enemy unit.
+EFFECT: Roll six D6. For each 4+, that 
+enemy unit suffers 1 mortal wound and 
+this model regains up to 1 lost wound. 
+
+DISDAIN FOR THE WEAK
+TRAITORIS LANCE – BATTLE TACTIC STRATAGEM
+
+1CP
+
+Chaos Knight pilots refuse to yield while 
+foes remain to be slain, disdainfully 
+ignoring those who succumb to fear.
+
+WHEN: Fight phase, just after an enemy 
+unit has selected its targets.
+TARGET: One Chaos Knights unit from 
+your army that was selected as the 
+target of one or more of the attacking 
+unit’s attacks.
+EFFECT: Until the end of the phase, your 
+model has the Feel No Pain 6+ ability, and 
+the Feel No Pain 5+ ability against attacks 
+made by Battle-shocked models.
+
+CHAOS KNIGHTS – TRAITORIS LANCE
+STRATAGEMS
+
+If you are using the Traitoris Lance Detachment rule, you can use these Traitoris Lance Stratagems. 
+
+DIABOLIC BULWARK
+TRAITORIS LANCE – WARGEAR STRATAGEM
+
+1CP
+
+Ectoplasmic blood surges hot through 
+glowing conduits as the Chaos Knight 
+feeds power to its shield emitters.
+
+WHEN: Your opponent’s Shooting phase, 
+just after an enemy unit has selected 
+its targets.
+TARGET: One Chaos Knights unit from 
+your army that was selected as the 
+target of one or more of the attacking 
+unit’s attacks.
+EFFECT: Until the end of the phase, 
+that Chaos Knights model has a 4+ 
+invulnerable save against ranged attacks.
+
+1CP
+
+1CP
+
+A LONG LEASH
+TRAITORIS LANCE – STRATEGIC PLOY STRATAGEM
+
+The War Dogs of the Chaos Knights are 
+more terrified of their lords than they 
+are the enemy, and they heed their 
+masters well, for they know the price of 
+disobedience or disloyalty.
+
+WHEN: Your Command phase.
+TARGET: One Abhorrent model from your 
+army and up to three War Dog models 
+from your army.
+EFFECT: Until the start of your next 
+Command phase, those War Dog models 
+count as being within range of any Aura 
+abilities that Abhorrent model has.
+
+KNIGHTS OF SHADE
+TRAITORIS LANCE – EPIC DEED STRATAGEM
+
+Like dark phantoms, some Chaos 
+Knights can move through solid walls 
+without hindrance.
+
+WHEN: Your Movement phase or your 
+Charge phase.
+TARGET: Up to two War Dog models from 
+your army or one Titanic Chaos Knights 
+model from your army.
+EFFECT: Until the end of the phase, the 
+selected models can move horizontally 
+through models and terrain features as if 
+they were not there.
+
+WAR DOG EXECUTIONER
+
+M
+
+T
+
+12" 10
+
+SV
+
+3+
+
+W
+
+12
+
+LD
+
+7+
+
+OC
+
+8
+
+RANGED  WEAPONS
+Daemonbreath meltagun [MELTA 2]
+Diabolus heavy stubber [RAPID FIRE 3]
+War Dog autocannon
+
+MELEE  WEAPONS
+Armoured feet 
+
+RANGE
+
+12"
+36"
+48"
+
+RANGE
+Melee
+
+A
+1
+3
+4
+
+A
+4
+
+BS
+3+
+3+
+3+
+
+WS
+3+
+
+S
+9
+5
+9
+
+S
+6
+
+AP
+-4
+0
+-1
+
+AP
+0
+
+D
+D6
+1
+3
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Harbingers of Dread
+
+Executioner: Each time this model makes an attack that 
+targets a unit Below Half-strength, add 1 to the Hit roll.
+
+DAMAGED: 1-4 WOUNDS REMAINING
+
+While this model has 1-4 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE *
+  * This model has a 5+ invulnerable save against ranged attacks.
+
+5+
+
+KEYWORDS: Vehicle, Walker, Battleline, Chaos, War Dog, Executioner
+
+FACTION KEYWORDS:  
+Chaos Knights
+
+WAR DOG EXECUTIONER
+Methodical and coldly emotionless killers, Fallen Nobles who pilot 
+War Dog Executioners employ long-barrelled, rapid-firing cannons 
+to maximise their kills. They eviscerate throngs of the enemy and 
+hammer the foes’ war engines into submission, seeking to reap ever 
+greater murderous tallies than their peers.
+
+WARGEAR OPTIONS
+
+ ■  This model’s diabolus heavy stubber can be replaced with 1 daemonbreath meltagun.
+
+UNIT COMPOSITION
+
+ ■ 1 War Dog Executioner
+This model is equipped with: diabolus heavy stubber; 
+2 War Dog autocannons; armoured feet. 
+
+KEYWORDS: Vehicle, Walker, Battleline, Chaos, War Dog, Executioner
+
+FACTION KEYWORDS:  
+Chaos Knights
+
+WAR DOG STALKER
+
+M
+
+T
+
+12" 10
+
+SV
+
+3+
+
+W
+
+12
+
+LD
+
+7+
+
+OC
+
+8
+
+RANGED   WEAPONS
+Avenger chaincannon
+Daemonbreath spear [MELTA 4]
+Havoc multi-launcher [BLAST, INDIRECT FIRE]
+Diabolus heavy stubber [RAPID FIRE 3]
+
+MELEE  WEAPONS
+Reaper chaintalon – strike 
+Reaper chaintalon – sweep 
+Slaughterclaw 
+
+RANGE
+
+24"
+24"
+48"
+36"
+
+RANGE
+Melee
+Melee
+Melee
+
+A
+12
+2
+D6
+3
+
+A
+4
+8
+4
+
+BS
+3+
+3+
+3+
+3+
+
+WS
+3+
+3+
+3+
+
+S
+6
+12
+5
+5
+
+S
+10
+8
+12
+
+AP
+-1
+-4
+0
+0
+
+AP
+-3
+-2
+-3
+
+D
+1
+D6
+1
+1
+
+D
+3
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Harbingers of Dread
+
+Stalker: Each time this model makes an attack that targets an 
+enemy unit, if there are no other units from your opponent’s 
+army within 6" of that target, add 1 to the Wound roll.
+
+DAMAGED: 1-4 WOUNDS REMAINING
+
+D6+2
+
+While this model has 1-4 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE
+  * This model has a 5+ invulnerable save against ranged attacks.
+
+5+
+
+Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Vehicle, Walker, Battleline, Character, Chaos, War Dog, Stalker
+
+FACTION KEYWORDS:  
+Chaos Knights
+
+WAR DOG STALKER
+Only the most strong-willed of minor nobility have the mental fortitude 
+to pilot a Stalker. Like pack alphas, they often lead other War Dogs 
+in carefully planned attacks, harrying the foe’s flanks, butchering 
+reinforcements and hunting down lone threats. They unleash salvoes 
+of fire at range or in the heart of combat with deadly claw strikes.
+
+WARGEAR OPTIONS
+
+ ■  This model’s avenger chaincannon can be replaced with 1 daemonbreath spear. 
+ ■ This model’s diabolus heavy stubber can be replaced with 1 havoc multi-launcher.
+ ■  This model’s slaughterclaw can be replaced with 1 reaper chaintalon.
+
+UNIT COMPOSITION
+
+ ■ 1 War Dog Stalker
+This model is equipped with: avenger chaincannon; 
+diabolus heavy stubber; slaughterclaw.
+
+KEYWORDS: Vehicle, Walker, Battleline, Character, Chaos, War Dog, Stalker
+
+FACTION KEYWORDS:  
+Chaos Knights
+
+WAR DOG KARNIVORE
+
+M
+
+T
+
+14" 10
+
+SV
+
+3+
+
+W
+
+12
+
+LD
+
+7+
+
+OC
+
+8
+
+RANGED  WEAPONS
+Diabolus heavy stubber [RAPID FIRE 3]
+Havoc multi-launcher [BLAST, INDIRECT FIRE]
+
+MELEE  WEAPONS
+Reaper chaintalon – strike 
+Reaper chaintalon – sweep 
+Slaughterclaw 
+
+RANGE
+
+36"
+48"
+
+RANGE
+Melee
+Melee
+Melee
+
+A
+3
+D6
+
+A
+6
+12
+6
+
+BS
+3+
+3+
+
+WS
+2+
+2+
+2+
+
+S
+5
+5
+
+S
+10
+8
+12
+
+AP
+0
+0
+
+AP
+-3
+-2
+-3
+
+D
+1
+1
+
+D
+3
+1
+
+D6+2
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Harbingers of Dread
+
+Karnivore: You can re-roll Charge rolls made for this model.
+
+DAMAGED: 1-4 WOUNDS REMAINING
+
+While this model has 1-4 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE *
+  * This model has a 5+ invulnerable save against ranged attacks.
+
+5+
+
+Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Vehicle, Walker, Battleline, Chaos, War Dog, Karnivore
+
+FACTION KEYWORDS:  
+Chaos Knights
+
+WAR DOG KARNIVORE
+Aggressive and bloodthirsty, Karnivores eschew the more potent 
+ranged weapons of the War Dog chassis. They revel in causing 
+bloody confusion and despair, seeking the visceral thrill that only 
+close-quarters slaughter provides. As a result, many of their pilots fall 
+to the open worship of one of the Chaos Gods.
+
+WARGEAR OPTIONS
+
+ ■  This model’s diabolus heavy stubber can be replaced with 1 havoc multi-launcher.
+
+UNIT COMPOSITION
+
+ ■ 1 War Dog Karnivore
+This model is equipped with: diabolus heavy stubber; 
+reaper chaintalon; slaughterclaw.
+
+KEYWORDS: Vehicle, Walker, Battleline, Chaos, War Dog, Karnivore
+
+FACTION KEYWORDS:  
+Chaos Knights
+
+WAR DOG BRIGAND
+
+M
+
+T
+
+12" 10
+
+SV
+
+3+
+
+W
+
+12
+
+LD
+
+7+
+
+OC
+
+8
+
+RANGED  WEAPONS
+Avenger chaincannon
+Daemonbreath spear [MELTA 4]
+Diabolus heavy stubber [RAPID FIRE 3]
+Havoc multi-launcher [BLAST, INDIRECT FIRE]
+
+MELEE  WEAPONS
+Armoured feet 
+
+RANGE
+
+24"
+24"
+36"
+48"
+
+RANGE
+Melee
+
+A
+12
+2
+3
+D6
+
+A
+4
+
+BS
+2+
+2+
+2+
+2+
+
+WS
+3+
+
+S
+6
+12
+5
+5
+
+S
+6
+
+AP
+-1
+-4
+0
+0
+
+AP
+0
+
+D
+1
+D6
+1
+1
+
+D
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Harbingers of Dread
+
+Brigand: Each time this model makes a ranged attack that 
+targets the closest eligible enemy unit, improve the Armour 
+Penetration characteristic of that attack by 1.
+
+DAMAGED: 1-4 WOUNDS REMAINING
+
+While this model has 1-4 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE *
+  * This model has a 5+ invulnerable save against ranged attacks.
+
+5+
+
+KEYWORDS: Vehicle, Walker, Battleline, Chaos, War Dog, Brigand
+
+FACTION KEYWORDS:  
+Chaos Knights
+
+WAR DOG BRIGAND
+Between them, Brigands and their Fallen Noble pilots have become 
+so enamoured of the skilful, ranged kill that they mostly disdain the 
+chaos of close assaults. Some even swear dark pacts compelling them 
+to slay potent foes with elegance, or else to purge war zones of all life 
+with sweeping contempt.
+
+WARGEAR OPTIONS
+
+ ■    This model’s diabolus heavy stubber can be replaced with 1 havoc multi-launcher.
+
+UNIT COMPOSITION
+
+ ■ 1 War Dog Brigand
+This model is equipped with: avenger chaincannon; 
+daemonbreath spear; diabolus heavy stubber; armoured feet.
+
+KEYWORDS: Vehicle, Walker, Battleline, Chaos, War Dog, Brigand
+
+FACTION KEYWORDS:  
+Chaos Knights
+
+WAR DOG HUNTSMAN
+
+M
+
+T
+
+12" 10
+
+SV
+
+3+
+
+W
+
+12
+
+LD
+
+7+
+
+OC
+
+8
+
+RANGED  WEAPONS
+Daemonbreath meltagun [MELTA 2]
+Daemonbreath spear [MELTA 4]
+Diabolus heavy stubber [RAPID FIRE 3]
+
+MELEE  WEAPONS
+Reaper chaintalon – strike 
+Reaper chaintalon – sweep 
+
+RANGE
+
+12"
+24"
+36"
+
+RANGE
+Melee
+Melee
+
+A
+1
+2
+3
+
+A
+4
+8
+
+BS
+3+
+3+
+3+
+
+WS
+3+
+3+
+
+S
+9
+12
+5
+
+S
+10
+8
+
+AP
+-4
+-4
+0
+
+AP
+-3
+-2
+
+D
+D6
+D6
+1
+
+D
+3
+1
+
+ABILITIES
+
+CORE: Deadly Demise D3
+
+FACTION: Harbingers of Dread
+
+Huntsman: Each time this model makes an attack against a 
+Monster or Vehicle unit, re-roll a Wound roll of 1 and re-roll a 
+Damage roll of 1.
+
+DAMAGED: 1-4 WOUNDS REMAINING
+
+While this model has 1-4 wounds remaining, each time this 
+model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE *
+  * This model has a 5+ invulnerable save against ranged attacks.
+
+5+
+
+Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS: Vehicle, Walker, Battleline, Chaos, War Dog, Huntsman
+
+FACTION KEYWORDS:  
+Chaos Knights
+
+WAR DOG HUNTSMAN
+Like hounds on the scent, Huntsmen often pursue hulking enemies, 
+hunting them down as prey. Their daemonbreath spears melt through 
+the thickest armour while chaintalons are employed to drive deeply 
+into gushing innards, tearing through organs and crew alike.
+
+WARGEAR OPTIONS
+
+ ■   This model’s diabolus heavy stubber can be replaced with 1 daemonbreath meltagun.
+
+UNIT COMPOSITION
+
+ ■ 1 War Dog Huntsman
+This model is equipped with: daemonbreath spear; diabolus 
+heavy stubber; reaper chaintalon.
+
+KEYWORDS: Vehicle, Walker, Battleline, Chaos, War Dog, Huntsman
+
+FACTION KEYWORDS:  
+Chaos Knights
+
+KNIGHT DESPOILER
+
+M
+
+T
+
+10" 12
+
+SV
+
+3+
+
+W
+
+22
+
+LD
+
+6+
+
+OC
+
+10
+
+RANGED  WEAPONS
+Daemonbreath meltagun [MELTA 2]
+Daemonbreath thermal cannon [BLAST, MELTA 6]
+Despoiler battle cannon [BLAST, RAPID FIRE D6+3]
+Despoiler gatling cannon
+Havoc missile pod [BLAST, INDIRECT FIRE]
+Heavy darkflamer [IGNORES COVER, TORRENT]
+Diabolus heavy stubber [RAPID FIRE 3]
+Ruinspear rocket pod 
+Hellstorm autocannons [ANTI-FLY 2+, TWIN-LINKED]
+
+MELEE  WEAPONS
+Reaper chainsword – strike 
+Reaper chainsword – sweep 
+Titanic feet 
+Warpstrike claw – strike 
+Warpstrike claw – sweep 
+
+RANGE
+
+12"
+24"
+72"
+36"
+48"
+12"
+36"
+48"
+48"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+Melee
+
+A
+1
+2D3
+D6+3
+18
+D6+1
+D6
+3
+3
+3
+
+A
+4
+12
+4
+4
+8
+
+BS
+3+
+3+
+3+
+3+
+3+
+N/A
+3+
+3+
+3+
+
+WS
+3+
+3+
+3+
+3+
+3+
+
+S
+9
+12
+10
+6
+5
+5
+5
+8
+7
+
+S
+14
+9
+8
+20
+10
+
+AP
+-4
+-4
+-1
+-2
+0
+-1
+0
+-2
+-1
+
+AP
+-4
+-3
+-1
+-3
+-2
+
+D
+D6
+D6
+3
+2
+1
+1
+1
+D6
+2
+
+D
+6
+2
+2
+8
+3
+
+Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+ABILITIES
+
+CORE: Deadly Demise D6
+
+FACTION: Harbingers of Dread, Super-heavy Walker
+
+Dread Dominion (Aura): While a friendly War Dog is within 9" 
+of this model, each time that War Dog takes a Battle-shock 
+test, add 1 to that test. 
+Seething Hatred: Each time this model is selected to shoot or 
+fight, you can re-roll one Hit roll or you can re-roll one Wound 
+roll when resolving those attacks.
+
+DAMAGED: 1-7 WOUNDS REMAINING
+
+While this model has 1-7 wounds remaining, subtract 5 from 
+this model’s Objective Control characteristic and each time 
+this model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE *
+  * This model has a 5+ invulnerable save against ranged attacks.
+
+5+
+
+KEYWORDS:  Vehicle, Walker, Titanic, Towering, Abhorrent, Character, Chaos, 
+
+Knight Despoiler
+
+FACTION KEYWORDS:  
+Chaos Knights
+
+KNIGHT DESPOILER
+Knights Despoiler epitomise all it means to be a Chaos Knight. 
+Their Fallen Nobles repudiate honour and seethe with hatred. 
+Capable of bearing a variety of powerful weapons suited to its pilot’s 
+temperament, they unleash their hatred at range or in thunderous 
+melee at whim.
+
+WARGEAR OPTIONS
+
+ ■   This model’s daemonbreath meltagun can be replaced with 1 diabolus heavy stubber.
+ ■  This model’s reaper chainsword can be replaced with 1 of the following:
+
+ ◦ 1 daemonbreath thermal cannon
+ ◦  1 despoiler gatling cannon and 1 heavy darkflamer
+ ◦  1 despoiler battle cannon and 1 diabolus heavy stubber
+
+ ■  This model’s warpstrike claw can be replaced with 1 of the following:
+
+ ◦ 1 daemonbreath thermal cannon
+ ◦  1 despoiler gatling cannon and 1 heavy darkflamer
+ ◦  1 despoiler battle cannon and 1 diabolus heavy stubber
+
+ ■ This model can be equipped with one of the following: 
+
+ ◦ 1 havoc missile pod
+ ◦ 1 ruinspear rocket pod
+ ◦ 1 hellstorm autocannons
+
+ 
+
+UNIT COMPOSITION
+
+ ■ 1 Knight Despoiler
+This model is equipped with: daemonbreath meltagun; 
+reaper chainsword; titanic feet; warpstrike claw.
+
+KEYWORDS:  Vehicle, Walker, Titanic, Towering, Abhorrent, Character, Chaos, 
+
+Knight Despoiler
+
+FACTION KEYWORDS:  
+Chaos Knights
+
+KNIGHT DESECRATOR
+
+M
+
+T
+
+10" 12
+
+SV
+
+3+
+
+W
+
+22
+
+LD
+
+6+
+
+OC
+
+10
+
+RANGED  WEAPONS
+Desecrator laser destructor 
+Diabolus heavy stubber [RAPID FIRE 3]
+
+MELEE  WEAPONS
+Reaper chainsword – strike 
+Reaper chainsword – sweep 
+Warpstrike claw – strike 
+Warpstrike claw – sweep 
+
+RANGE
+
+72"
+36"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+
+A
+3
+3
+
+A
+4
+12
+4
+8
+
+BS
+2+
+2+
+
+WS
+3+
+3+
+3+
+3+
+
+S
+18
+5
+
+S
+14
+9
+20
+10
+
+AP
+-4
+0
+
+AP
+-4
+-3
+-3
+-2
+
+D
+D6+3
+
+ABILITIES
+
+CORE: Deadly Demise D6
+
+1
+
+D
+6
+2
+8
+3
+
+FACTION: Harbingers of Dread, Super-heavy Walker
+
+Obsessive Ruthlessness: Each time this model makes a 
+ranged attack against a Monster or Vehicle unit, that attack 
+has the [DEVASTATING WOUNDS] ability. 
+Taskmaster (Aura): While a friendly War Dog model is within 
+9" of this model, each time that War Dog model makes a 
+ranged attack, re-roll a Hit roll of 1. 
+
+DAMAGED: 1-7 WOUNDS REMAINING
+
+While this model has 1-7 wounds remaining, subtract 5 from 
+this model’s Objective Control characteristic and each time 
+this model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE *
+  * This model has a 5+ invulnerable save against ranged attacks.
+
+5+
+
+Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Vehicle, Walker, Titanic, Towering, Abhorrent, Character, Chaos,  
+
+Knight Desecrator
+
+FACTION KEYWORDS:  
+Chaos Knights
+
+KNIGHT DESECRATOR
+Knights Desecrator spare no living thing from their attacks. They 
+possess potent mid- to close-range armaments capable of duelling 
+enemy war engines and monstrous beasts, or annihilating hordes of 
+lesser foes. They are also cruel taskmasters, snarling commands to 
+War Dog followers that lope forwards at their sides.
+
+WARGEAR OPTIONS
+
+ ■   This model’s reaper chainsword can be replaced with 1 warpstrike claw.
+
+ 
+
+UNIT COMPOSITION
+
+ ■  1 Knight Desecrator
+This model is equipped with: desecrator laser destructor; 
+diabolus heavy stubber; reaper chainsword.
+
+KEYWORDS:  Vehicle, Walker, Titanic, Towering, Abhorrent, Character, Chaos,  
+
+Knight Desecrator
+
+FACTION KEYWORDS:  
+Chaos Knights
+
+KNIGHT RAMPAGER
+
+M
+
+T
+
+12" 12
+
+SV
+
+3+
+
+W
+
+22
+
+LD
+
+6+
+
+OC
+
+10
+
+RANGED  WEAPONS
+Diabolus heavy stubber [RAPID FIRE 3]
+
+MELEE  WEAPONS
+Reaper chainsword – strike 
+Reaper chainsword – sweep 
+Warpstrike claw – strike 
+Warpstrike claw – sweep 
+
+RANGE
+
+36"
+
+RANGE
+Melee
+Melee
+Melee
+Melee
+
+A
+3
+
+A
+6
+18
+6
+12
+
+BS
+3+
+
+WS
+2+
+2+
+2+
+2+
+
+S
+5
+
+S
+14
+9
+20
+10
+
+AP
+0
+
+AP
+-4
+-3
+-3
+-2
+
+D
+1
+
+D
+6
+2
+8
+3
+
+Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+ABILITIES
+
+CORE: Deadly Demise D6
+
+FACTION: Harbingers of Dread, Super-heavy Walker
+
+Bloodlust: Each time this model makes a Charge move, until 
+the end of the turn, its melee weapons have the [SUSTAINED 
+HITS 1] ability. In addition, once per battle, this model is 
+eligible to declare a charge in a turn in which it Advanced. 
+Frenzied Rampage (Aura): While a friendly War Dog model is 
+within 9" of this model, each time that War Dog model makes 
+a melee attack, re-roll a Hit roll of 1.  
+
+DAMAGED: 1-7 WOUNDS REMAINING
+
+While this model has 1-7 wounds remaining, subtract 5 from 
+this model’s Objective Control characteristic and each time 
+this model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE *
+  * This model has a 5+ invulnerable save against ranged attacks.
+
+5+
+
+KEYWORDS:  Vehicle, Walker, Titanic, Towering, Abhorrent, Character, Chaos, 
+
+Knight Rampager
+
+FACTION KEYWORDS:  
+Chaos Knights
+
+KNIGHT RAMPAGER
+Knights Rampager storm into battle with maddened, metallic howls. 
+They are bereft of discipline or restraint, and plough into the thickest 
+fighting of a war zone with insane ferocity. With swipes of their 
+monstrous reaper chainswords and warpstrike claws, they fight more 
+like frenzied daemons than machines.
+
+WARGEAR OPTIONS
+
+ ■     None
+
+UNIT COMPOSITION
+
+ ■  1 Knight Rampager
+This model is equipped with: diabolus heavy stubber; 
+reaper chainsword; warpstrike claw.
+
+KEYWORDS:  Vehicle, Walker, Titanic, Towering, Abhorrent, Character, Chaos, 
+
+Knight Rampager
+
+FACTION KEYWORDS:  
+Chaos Knights
+
+KNIGHT ABOMINANT
+
+M
+
+T
+
+10" 12
+
+SV
+
+3+
+
+W
+
+22
+
+LD
+
+6+
+
+OC
+
+10
+
+RANGED  WEAPONS
+Diabolus heavy stubber [RAPID FIRE 3]
+Volkite combustor [DEVASTATING WOUNDS]
+
+MELEE  WEAPONS
+Balemace [EXTRA ATTACKS]
+Electroscourge [SUSTAINED HITS 1]
+
+RANGE
+
+36"
+30"
+
+RANGE
+Melee
+Melee
+
+A
+3
+9
+
+A
+3
+9
+
+BS
+3+
+3+
+
+WS
+3+
+3+
+
+S
+5
+12
+
+S
+8
+10
+
+AP
+0
+0
+
+AP
+-1
+-2
+
+D
+1
+3
+
+D
+2
+3
+
+ABILITIES
+
+CORE: Deadly Demise D6
+
+FACTION: Harbingers of Dread, Super-heavy Walker
+
+Vortex Terrors (Psychic): At the start of your Shooting phase, 
+select one enemy unit within 12" of this model. That enemy 
+unit must take a Battle-shock test.
+Warp Storms (Psychic): At the end of your Movement phase, 
+roll one D6 for each enemy unit within 9" of this model: on a 
+3+, that enemy unit suffers D3 mortal wounds.
+
+DAMAGED: 1-7 WOUNDS REMAINING
+
+While this model has 1-7 wounds remaining, subtract 5 from 
+this model’s Objective Control characteristic and each time 
+this model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE *
+  * This model has a 5+ invulnerable save against ranged attacks.
+
+5+
+
+KEYWORDS:  Vehicle, Walker, titanic, Towering, Abhorrent, Psyker, 
+
+Character, Chaos, Knight Abominant
+
+FACTION KEYWORDS:  
+Chaos Knights
+
+KNIGHT ABOMINANT
+Seen as especially blessed by the Dark Gods, Knights Abominant 
+are suffused with warp energy. They unleash this power in terrifying 
+waves, corrupting and mutating those nearby, and incinerating distant 
+foes with blasts of volkite energy. In combat, they thrash coiling, warp-
+wrought appendages, crushing anything that remains untainted.
+
+WARGEAR OPTIONS
+
+ ■     None
+
+UNIT COMPOSITION
+
+ ■  1 Knight Abominant
+This model is equipped with: diabolus heavy stubber; volkite 
+combustor; balemace; electroscourge.
+
+KEYWORDS:  Vehicle, Walker, titanic, Towering, Abhorrent, Psyker, 
+
+Character, Chaos, Knight Abominant
+
+FACTION KEYWORDS:  
+Chaos Knights
+
+KNIGHT TYRANT
+
+M
+
+8"
+
+T
+
+13
+
+SV
+
+2+
+
+W
+
+24
+
+LD
+
+6+
+
+OC
+
+10
+
+RANGED  WEAPONS
+Brimstone volcano lance [BLAST]
+Darkflame cannon [IGNORES COVER. TORRENT]
+Ectoplasma decimator – standard [BLAST]
+Ectoplasma decimator – supercharge 
+[BLAST, HAZARDOUS]
+Gheiststrike missile launcher 
+[ANTI-TITANIC 4+, DEVASTATING WOUNDS]
+Twin daemonbreath meltagun [MELTA 2, TWIN-LINKED]
+Twin desecrator cannon [BLAST, TWIN-LINKED]
+Warpshock harpoon 
+[ANTI-MONSTER 4+, ANTI-VEHICLE 4+, DEVASTATING WOUNDS]
+
+MELEE  WEAPONS
+Titanic feet 
+
+RANGE
+
+60"
+18"
+36"
+
+36"
+
+72"
+
+12"
+36"
+
+18"
+
+RANGE
+Melee
+
+A
+D3
+3D6
+D6+3
+
+D6+3
+
+1
+
+1
+D6
+
+1
+
+A
+4
+
+BS
+3+
+N/A
+3+
+
+3+
+
+3+
+
+3+
+3+
+
+2+
+
+WS
+4+
+
+S
+20
+8
+8
+
+9
+
+12
+
+9
+6
+
+24
+
+S
+8
+
+AP
+-5
+-1
+-2
+
+-3
+
+-6
+
+-4
+0
+
+-6
+
+AP
+-1
+
+D
+D6+8
+
+2
+2
+
+3
+
+D6+1
+
+D6
+1
+
+12
+
+D
+2
+
+ABILITIES
+
+CORE: Deadly Demise D6+2
+
+FACTION: Harbingers of Dread, Super-heavy Walker
+
+Infernal Aegis (Aura): While a friendly War Dog model is 
+within 6" of this model, that War Dog model has the Benefit 
+of Cover. 
+Bastion of Corruption: Enemy units that are set up on the 
+battlefield as Reinforcements cannot be set up within 12" of 
+this model. 
+
+DAMAGED: 1-8 WOUNDS REMAINING
+
+While this model has 1-8 wounds remaining, subtract 5 from 
+this model’s Objective Control characteristic and each time 
+this model makes an attack, subtract 1 from the Hit roll.
+
+INVULNERABLE SAVE *
+  * This model has a 5+ invulnerable save against ranged attacks.
+
+5+
+
+Before selecting targets for this weapon, select one of its profiles to make attacks with.
+
+KEYWORDS:  Vehicle, Walker, Titanic, Towering, Character, Chaos,  
+
+Knight Tyrant
+
+FACTION KEYWORDS:  
+Chaos Knights
+
+KNIGHT TYRANT
+So massive that they loom over other Chaos Knights, Knights Tyrant 
+are walking bastions of corruption. They carry some of the heaviest 
+armaments available to the Fallen houses. Their pilots delight in 
+unleashing the deadly potential of these weapons, shrugging off the 
+enemy’s attacks with contemptuous ease.
+
+WARGEAR OPTIONS
+
+ ■   This model’s brimstone volcano lance and ectoplasma decimator can be replaced with 1 darkflame 
+
+cannon and 1 warpshock harpoon.
+
+ ■  This model’s 2 gheiststrike missile launchers and twin desecrator cannon can be replaced with 1 
+
+gheiststrike missile launcher and 2 twin desecrator cannons.
+
+UNIT COMPOSITION
+
+ ■  1 Knight Tyrant
+This model is equipped with: brimstone volcano lance; 
+ectoplasma decimator; 2 gheiststrike missile launchers; 
+2 twin daemonbreath meltaguns; twin desecrator cannon; 
+titanic feet.
+
+KEYWORDS:  Vehicle, Walker, Titanic, Towering, Character, Chaos,  
+
+Knight Tyrant
+
+FACTION KEYWORDS:  
+Chaos Knights
+
+
