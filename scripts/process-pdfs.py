@@ -30,6 +30,82 @@ factions["Genestealer Cults"]    = "BrBEfwS94zTuHrZq"
 factions["Orks"]                 = "EE2Pdickp8sNe1NX"
 factions["Leagues of Votann"]    = "YWdVWS6bgzMSMsNo"
 
+# Raw version of the Munitorum Field Manual
+points_doc = "yjHP7Y5opT8kkexf"
+
+points_page_range = {}
+points_page_range["Space Marines"]        = "27-28"
+points_page_range["Black Templars"]       = "11"
+points_page_range["Space Wolves"]         = "29"
+points_page_range["Dark Angels"]          = "16"
+points_page_range["Blood Angels"]         = "12"
+points_page_range["Deathwatch"]           = "18"
+points_page_range["Grey Knights"]         = "21"
+points_page_range["Imperial Guard"]       = "9-10"
+points_page_range["Adepta Sororitas"]     = "2"
+points_page_range["Adeptus Custodes"]     = "3"
+points_page_range["Adeptus Mechanicus"]   = "4"
+points_page_range["Imperial Knights"]     = "22"
+points_page_range["Imperial Agents"]      = "8"
+points_page_range["Chaos Daemons"]        = "13"
+points_page_range["Chaos Knights"]        = "14"
+points_page_range["Chaos Space Marines"]  = "15"
+points_page_range["Thousand Sons"]        = "31"
+points_page_range["World Eaters"]         = "33"
+points_page_range["Death Guard"]          = "17"
+points_page_range["Tyranids"]             = "32"
+points_page_range["T'au Empire"]          = "30"
+points_page_range["Aeldari"]              = "6-7"
+points_page_range["Drukhari"]             = "19"
+points_page_range["Necrons"]              = "24"
+points_page_range["Genestealer Cults"]    = "20"
+points_page_range["Orks"]                 = "25-26"
+points_page_range["Leagues of Votann"]    = "23"
+
+
+# Create an *.info text file with document title and page outlines
+# Note 'statrtpage' here is the first page with datasheets (after army rules)
+def create_info_doc(faction, file_name, startpage):
+  new_unit_list = []
+  with open("temp/" + file_name + ".list") as fid:
+    unit_list_raw = fid.readlines()
+    for unit in unit_list_raw:
+      new_unit = unit.replace('\x0c', '').replace('\n', '')
+      new_unit_list.append(new_unit)
+
+  with open("temp/info.txt", "w") as fid:
+    fid.write("InfoBegin\n")
+    fid.write("InfoKey: Title\n")
+    fid.write(f"InfoValue: Warhammer 40K : {faction} Index (10th Edition)\n")
+    fid.write("\n")
+
+    page = startpage;
+
+    fid.write("BookmarkBegin\n")
+    fid.write(f"BookmarkTitle: ARMY RULES\n")
+    fid.write("BookmarkLevel: 1\n")
+    fid.write(f"BookmarkPageNumber: 1\n")
+    fid.write("\n")
+    fid.write("BookmarkBegin\n")
+    fid.write(f"BookmarkTitle: DATASHEETS\n")
+    fid.write("BookmarkLevel: 1\n")
+    fid.write(f"BookmarkPageNumber: {page}\n")
+    fid.write("\n")
+
+    for unit in new_unit_list:
+      fid.write("BookmarkBegin\n")
+      fid.write(f"BookmarkTitle: {unit}\n")
+      fid.write("BookmarkLevel: 2\n")
+      fid.write(f"BookmarkPageNumber: {page}\n")
+      fid.write("\n")
+      page = page + 1;
+
+    fid.write("BookmarkBegin\n")
+    fid.write(f"BookmarkTitle: POINTS\n")
+    fid.write("BookmarkLevel: 1\n")
+    fid.write(f"BookmarkPageNumber: {page}\n")
+    fid.write("\n")
+
 
 # Create new PDFs
 for faction in factions:
@@ -48,27 +124,47 @@ for faction in factions:
   else:
     n = 6
 
-  # Create Info.txt
-  with open("temp/info.txt", "w") as fid:
-    fid.write("InfoBegin\n")
-    fid.write("InfoKey: Title\n")
-    fid.write(f"InfoValue: Warhammer 40K : {faction} Index (10th Edition)\n")
 
 
-  # Create new pdf
-  os.system(f"pdf2txt tenth-edition/raw-pdfs/{factions[faction]}.pdf > tenth-edition/text/{file_name}.txt")
+  # Create text versions or each pdf
+  if faction == "Imperial Knights":
+    # Remove Chaos Knights from Imperial Knights datasheets.
+    os.system(f"pdf2txt tenth-edition/raw-pdfs/{factions[faction]}.pdf --maxpages 28 > tenth-edition/text/{file_name}.txt")
+  else:
+    os.system(f"pdf2txt tenth-edition/raw-pdfs/{factions[faction]}.pdf > tenth-edition/text/{file_name}.txt")
+
+  # Extract list of units
+  if faction == "Imperial Knights":
+    # Remove last line from Imperial Knights list.
+    os.system(f'grep -A3 "FACTION KEYWORDS:" tenth-edition/text/{file_name}.txt | grep -B1 "\-\-" | grep -v "\-\-" | sed /^$/d | sed "s/ $//" | head --lines=-1 | uniq > temp/{file_name}.list')
+  else:
+    os.system(f'grep -A3 "FACTION KEYWORDS:" tenth-edition/text/{file_name}.txt | grep -B1 "\-\-" | grep -v "\-\-" | sed /^$/d | sed "s/ $//" | uniq > temp/{file_name}.list')
+
+  # Build info file for outlines
+  create_info_doc(faction, file_name, n+1)
+
+  # Extract army rules, resize.
   os.system(f"pdftk tenth-edition/raw-pdfs/{factions[faction]}.pdf cat 1-{n} output temp/army_rules.pdf")
   os.system("pdfjam --outfile temp/army_rules_resized.pdf --paper legal temp/army_rules.pdf --pagecolor 220,220,220 --quiet")
+
+  # Extract datasheets, convert to 2up format.
   if faction == "Imperial Knights":
     # Remove Chaos Knights from Imperial Knights datasheets.
     os.system(f"pdfjam tenth-edition/raw-pdfs/{factions[faction]}.pdf '{n+1}-28' -o temp/data_sheets.pdf --nup 1x2 --scale .98 --frame true --delta '0 10' --pagecolor 220,220,220  --quiet")
   else:
     os.system(f"pdfjam tenth-edition/raw-pdfs/{factions[faction]}.pdf '{n+1}-' -o temp/data_sheets.pdf --nup 1x2 --scale .98 --frame true --delta '0 10' --pagecolor 220,220,220  --quiet")
-  os.system(f"pdftk temp/army_rules_resized.pdf temp/data_sheets.pdf output temp/combined.pdf")
+
+  # Extract points
+  os.system(f"pdftk tenth-edition/raw-pdfs/{points_doc}.pdf cat {points_page_range[faction]} output temp/points.pdf")
+
+  # Concatenate the component PDFS into one
+  os.system(f"pdftk temp/army_rules_resized.pdf temp/data_sheets.pdf temp/points.pdf output temp/combined.pdf")
+
+  # Add outlines
   os.system(f"pdftk temp/combined.pdf update_info temp/info.txt output tenth-edition/formatted-pdfs/{file_name}.pdf")
 
   # Clean up temp directory
-  os.remove("temp/army_rules.pdf")
-  os.remove("temp/data_sheets.pdf")
-  os.remove("temp/combined.pdf")
-  os.remove("temp/info.txt")
+  # os.remove("temp/army_rules.pdf")
+  # os.remove("temp/data_sheets.pdf")
+  # os.remove("temp/combined.pdf")
+  # os.remove("temp/info.txt")
