@@ -5,6 +5,8 @@
 |----|----|----
 | [Core Rules (10th Edition)](tenth-edition/raw-pdfs/dLZIlatQJ3qOkGP7.pdf) | 60 | 02/06/2023
 | [Quick Start Guide](tenth-edition/raw-pdfs/76CPCqo7msJIHqzx.pdf)| 4 |  02/06/2023
+| [Rules Commentary](tenth-edition/raw-pdfs/KBvH5h3oY5QREpmG.pdf) | 18 | 16/06/2023
+
 
 ## Space Marines
 | <div style="width:300px">Link</div> | Page Count | Publication Date
@@ -55,4 +57,21 @@
 ## Munitorum Field Manual
 | <div style="width:300px">Link</div> |Page Count | Publication Date
 |----|----|----
-|
+| [Munitorum Field Manual (1.1)](tenth-edition/raw-pdfs/oF1iWIkNsvlUHByM.pdf) | 33 | 16/06/2023
+
+
+## Forge World Datasheets
+* [Imperial Armour: Orks](tenth-edition/raw-pdfs/JpgzDSW8YhlRCMHo.pdf)
+* [Imperial Armour: Aeldari](tenth-edition/raw-pdfs/AL0QL82QPWrWnWJU.pdf)
+* [Imperial Armour: Astra Militarum Part 1](tenth-edition/raw-pdfs/l8t0aWCwawo1ACck.pdf)
+* [Imperial Armour: Astra Militarum Part 2](tenth-edition/raw-pdfs/Q98wnngqmxUac4rm.pdf)
+* [Imperial Armour: Titans](tenth-edition/raw-pdfs/8BgBEXw7BlTSquqV.pdf)
+* [Imperial Armour: Necrons](tenth-edition/raw-pdfs/Mcu6QBdzRs8yWqCW.pdf)
+* [Imperial Armour: Imperial Knights](tenth-edition/raw-pdfs/YeS47MWmFkWqKoLP.pdf)
+* [Imperial Armour: Astartes](tenth-edition/raw-pdfs/I5z3erYio9qzJkUa.pdf)
+* [Imperial Armour: Grey Knights](tenth-edition/raw-pdfs/3UEEFOlzG1OWDodc.pdf)
+* [Imperial Armour: Adeptus Custodes](tenth-edition/raw-pdfs/HOgEzRypbsBBGrnB.pdf)
+* [Imperial Armour: Chaos Knights](tenth-edition/raw-pdfs/080HAymlEE0Hn0q1.pdf)
+* [Imperial Armour: Drukhari](tenth-edition/raw-pdfs/jtAaEARk7wCoSVhV.pdf)
+* [Imperial Armour: Tyranids](tenth-edition/raw-pdfs/HgMmll6jheLNHIOm.pdf)
+* [Imperial Armour: T'au Empire](tenth-edition/raw-pdfs/NUbyWNu2bOI74T6p.pdf)

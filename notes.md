@@ -45,5 +45,11 @@ pdftk input.pdf data_dump
 
 * To splice specific pages together:
 ```
-pdftk A=input.pdf cat A1 A4 A8 A13 A14 A25 output sm_owned_units.pdf
+pdftk A=input.pdf cat A1 A4 A8 A13 A14 A25 output output.pdf
+pdftk tenth-edition/formatted-pdfs/necrons.pdf cat 1-6 14 15 19 23 24 26 31 32 38 39 43 47 48 56 output ~/necrons_owned.pdf
+```
+
+* To extract unit names:
+```
+grep -A3 "FACTION KEYWORDS:" tenth-edition/text/necrons.txt | grep -B1 "\-\-" | grep -v "\-\-" | sed /^$/d | uniq
 ```

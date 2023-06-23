@@ -62,6 +62,22 @@ points_page_range["Genestealer Cults"]    = "20"
 points_page_range["Orks"]                 = "25-26"
 points_page_range["Leagues of Votann"]    = "23"
 
+forgeworld_datasheets = {}
+forgeworld_datasheets["Orks"]                   = (tenth-edition/raw-pdfs/JpgzDSW8YhlRCMHo.pdf)
+forgeworld_datasheets["Aeldari"]                = (tenth-edition/raw-pdfs/AL0QL82QPWrWnWJU.pdf)
+forgeworld_datasheets["Astra Militarum Part 1"] = (tenth-edition/raw-pdfs/l8t0aWCwawo1ACck.pdf)
+forgeworld_datasheets["Astra Militarum Part 2"] = (tenth-edition/raw-pdfs/Q98wnngqmxUac4rm.pdf)
+forgeworld_datasheets["Titans"]                 = (tenth-edition/raw-pdfs/8BgBEXw7BlTSquqV.pdf)
+forgeworld_datasheets["Necrons"]                = (tenth-edition/raw-pdfs/Mcu6QBdzRs8yWqCW.pdf)
+forgeworld_datasheets["Imperial Knights]"       = (tenth-edition/raw-pdfs/YeS47MWmFkWqKoLP.pdf)
+forgeworld_datasheets["Astartes"]               = (tenth-edition/raw-pdfs/I5z3erYio9qzJkUa.pdf)
+forgeworld_datasheets["Grey Knights"]           = (tenth-edition/raw-pdfs/3UEEFOlzG1OWDodc.pdf)
+forgeworld_datasheets["Adeptus Custodes]"       = (tenth-edition/raw-pdfs/HOgEzRypbsBBGrnB.pdf)
+forgeworld_datasheets["Chaos Knights]"          = (tenth-edition/raw-pdfs/080HAymlEE0Hn0q1.pdf)
+forgeworld_datasheets["Drukhari"]               = (tenth-edition/raw-pdfs/jtAaEARk7wCoSVhV.pdf)
+forgeworld_datasheets["Tyranids"]               = (tenth-edition/raw-pdfs/HgMmll6jheLNHIOm.pdf)
+forgeworld_datasheets["T'au Empire"]            = (tenth-edition/raw-pdfs/NUbyWNu2bOI74T6p.pdf)
+
 
 # Create an *.info text file with document title and page outlines
 # Note 'statrtpage' here is the first page with datasheets (after army rules)
