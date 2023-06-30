@@ -59,6 +59,12 @@
 |----|----|----
 | [Munitorum Field Manual (1.1)](tenth-edition/raw-pdfs/oF1iWIkNsvlUHByM.pdf) | 33 | 16/06/2023
 
+## Errata
+* Print only errata? The pdfs seem to match.
+| <div style="width:300px">Link</div> |Page Count | Publication Date
+|----|----|----
+| [Index Card Errata v1.0](tenth-edition/raw-pdfs/8NI7qfP9dx5tLCkQ.pdf) | 2 | 30/06/23
+
 
 ## Forge World Datasheets
 * [Imperial Armour: Orks](tenth-edition/raw-pdfs/JpgzDSW8YhlRCMHo.pdf)
