@@ -61,6 +61,7 @@
 
 ## Errata
 * Print only errata? The pdfs seem to match.
+
 | <div style="width:300px">Link</div> |Page Count | Publication Date
 |----|----|----
 | [Index Card Errata v1.0](tenth-edition/raw-pdfs/8NI7qfP9dx5tLCkQ.pdf) | 2 | 30/06/23
