@@ -7,11 +7,10 @@
 | [Quick Start Guide](tenth-edition/raw-pdfs/76CPCqo7msJIHqzx.pdf)| 4 |  02/06/2023
 | [Rules Commentary](tenth-edition/raw-pdfs/KBvH5h3oY5QREpmG.pdf) | 18 | 16/06/2023
 
-
 ## Space Marines
 | <div style="width:300px">Link</div> | Page Count | Publication Date
 |----|----|----
-| [Space Marines](tenth-edition/raw-pdfs/uVN1M55L0U3dQeWZ.pdf) |  252| 09/06/2023
+| [Space Marines](tenth-edition/raw-pdfs/dflD0FuH0G975Ap3.pdf) | 253 | 26/07/2023
 | [Black Templars](tenth-edition/raw-pdfs/BcWghehxrgeCmkN8.pdf)| 36 | 12/06/2023
 | [Space Wolves](tenth-edition/raw-pdfs/u61I5H9K5r9oNsXZ.pdf) | 78 | 12/06/2023
 | [Dark Angels](tenth-edition/raw-pdfs/C6o7G0zjRSxCUvhK.pdf) | 42 | 12/06/2023
@@ -65,7 +64,9 @@
 | <div style="width:300px">Link</div> |Page Count | Publication Date
 |----|----|----
 | [Index Card Errata v1.0](tenth-edition/raw-pdfs/8NI7qfP9dx5tLCkQ.pdf) | 2 | 30/06/23
+| [Index Card Errata v1.2](tenth-edition/raw-pdfs/YRK9ZpspblzJHLb7.pdf) | 8 | 26/07/23
 
+YRK9ZpspblzJHLb7.pdf
 
 ## Forge World Datasheets
 * [Imperial Armour: Orks](tenth-edition/raw-pdfs/JpgzDSW8YhlRCMHo.pdf)
